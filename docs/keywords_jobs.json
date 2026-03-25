@@ -1,5 +1,14 @@
 [
   {
+    "title": "Software Engineer",
+    "company": "Supermicro",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390395822",
+    "date_posted": null,
+    "keyword_score": 19
+  },
+  {
     "title": "Technical Intern, AI Software Engineer",
     "company": "Ampere",
     "location": "Portland, OR",
@@ -7,24 +16,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4390601644",
     "date_posted": null,
     "keyword_score": 12
-  },
-  {
-    "title": "Intern Program - Software Engineer Intern",
-    "company": "Epsilon",
-    "location": "Irving, TX",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390246415",
-    "date_posted": null,
-    "keyword_score": 9
-  },
-  {
-    "title": "Software Engineer Intern",
-    "company": "Arcesium",
-    "location": "New York, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390238983",
-    "date_posted": null,
-    "keyword_score": 8
   },
   {
     "title": "Software Engineer",
@@ -41,6 +32,15 @@
     "location": "San Francisco, CA",
     "level": "Entry",
     "job_url": "https://www.linkedin.com/jobs/view/4390249965",
+    "date_posted": null,
+    "keyword_score": 6
+  },
+  {
+    "title": "Software Developer",
+    "company": "Robert Half",
+    "location": "Frisco, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390601790",
     "date_posted": null,
     "keyword_score": 6
   },
@@ -90,29 +90,11 @@
     "keyword_score": 3
   },
   {
-    "title": "Software Developer",
+    "title": "Sr. Software Engineer",
     "company": "Robert Half",
-    "location": "Edgefield, SC",
+    "location": "San Diego, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390614352",
-    "date_posted": null,
-    "keyword_score": 3
-  },
-  {
-    "title": "Sr. Software Engineer, Core Platforms",
-    "company": "Waymo",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4367025064",
-    "date_posted": null,
-    "keyword_score": 3
-  },
-  {
-    "title": "Software Engineer Intern (Summer 2026)",
-    "company": "Causeway Capital Management",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390238805",
+    "job_url": "https://www.linkedin.com/jobs/view/4390614360",
     "date_posted": null,
     "keyword_score": 3
   }
