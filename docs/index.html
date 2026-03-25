@@ -284,6 +284,113 @@
       flex-shrink: 0;
     }
 
+    /* ── Run History ── */
+    .runs-section {
+      margin-bottom: 14px;
+    }
+
+    .runs-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .runs-title {
+      font-size: 12px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--muted);
+    }
+
+    .runs-legend {
+      display: flex;
+      gap: 12px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .legend-dot {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      border-radius: 2px;
+      margin-right: 4px;
+      vertical-align: middle;
+    }
+
+    .runs-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+      gap: 8px;
+    }
+
+    .run-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 10px 12px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .run-card::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 3px;
+      background: var(--accent);
+      transition: width 0.4s ease;
+    }
+
+    .run-time {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .run-pipeline {
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .run-total {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+
+    .run-levels {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+
+    .run-lvl {
+      font-size: 10px;
+      font-weight: 600;
+      padding: 1px 5px;
+      border-radius: 3px;
+    }
+
+    .run-lvl.ng  { background: rgba(59,130,246,0.15);  color: var(--blue); }
+    .run-lvl.en  { background: rgba(20,184,166,0.15);  color: var(--teal); }
+    .run-lvl.md  { background: rgba(249,115,22,0.15);  color: var(--orange); }
+
+    .run-score {
+      font-size: 10px;
+      color: var(--muted);
+      margin-top: 4px;
+    }
+
     /* ── Table ── */
     .table-wrap {
       background: var(--surface);
@@ -520,6 +627,19 @@
     </div>
   </div>
 
+  <!-- Run History -->
+  <div class="runs-section" id="runs-section" style="display:none">
+    <div class="runs-header">
+      <span class="runs-title">Hourly Run History</span>
+      <div class="runs-legend">
+        <span><span class="legend-dot" style="background:var(--blue)"></span>New Grad</span>
+        <span><span class="legend-dot" style="background:var(--teal)"></span>Entry</span>
+        <span><span class="legend-dot" style="background:var(--orange)"></span>Mid</span>
+      </div>
+    </div>
+    <div class="runs-grid" id="runs-grid"></div>
+  </div>
+
   <!-- Controls -->
   <div class="controls-wrap">
 
@@ -607,13 +727,51 @@
     "Mid":      "lvl-mid",
   }[lvl] || "lvl-entry");
 
+  // ── Run history rendering ──────────────────────────────────────────────────
+  function renderRunHistory(history) {
+    if (!history || !history.length) return;
+
+    // Show only the last 12 entries, newest first
+    const recent = [...history].reverse().slice(0, 12);
+    const maxTotal = Math.max(...recent.map(r => r.total_jobs || 0), 1);
+
+    document.getElementById("runs-section").style.display = "";
+    document.getElementById("runs-grid").innerHTML = recent.map(run => {
+      const d = new Date(run.run_at);
+      const timeStr = d.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+      const dateStr = d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+      const total   = run.total_jobs || 0;
+      const barPct  = Math.round((total / maxTotal) * 100);
+      const lvls    = run.levels || {};
+      const ng      = lvls["New Grad"] || 0;
+      const en      = lvls["Entry"]    || 0;
+      const md      = lvls["Mid"]      || 0;
+      const avgScore = run.scores && run.scores.avg != null ? run.scores.avg : null;
+      const pipeLabel = run.pipeline === "important" ? "Priority" : "Standard";
+
+      return `<div class="run-card" style="--bar:${barPct}%">
+        <div style="position:absolute;left:0;bottom:0;height:3px;background:var(--accent);width:${barPct}%"></div>
+        <div class="run-time">${timeStr}</div>
+        <div class="run-pipeline">${dateStr} · ${pipeLabel}</div>
+        <div class="run-total">${total}</div>
+        <div class="run-levels">
+          ${ng ? `<span class="run-lvl ng">${ng} NG</span>` : ""}
+          ${en ? `<span class="run-lvl en">${en} En</span>` : ""}
+          ${md ? `<span class="run-lvl md">${md} Mid</span>` : ""}
+        </div>
+        ${avgScore !== null ? `<div class="run-score">avg score ${avgScore}</div>` : ""}
+      </div>`;
+    }).join("");
+  }
+
   // ── Load ───────────────────────────────────────────────────────────────────
   async function loadAll() {
     try {
-      const [meta, std, imp] = await Promise.all([
+      const [meta, std, imp, runHistory] = await Promise.all([
         fetch("metadata.json").then(r => r.json()),
         fetch("jobs.json").then(r => r.json()),
         fetch("important_jobs.json").then(r => r.json()),
+        fetch("run_history.json").then(r => r.json()).catch(() => []),
       ]);
 
       standardJobs  = std || [];
@@ -637,6 +795,7 @@
       document.getElementById("stat-today").textContent    = todayCount;
       document.getElementById("stat-new-grad").textContent = ngCount;
 
+      renderRunHistory(runHistory);
       render();
     } catch (err) {
       document.getElementById("tbody").innerHTML =
