@@ -1,47 +1,353 @@
 [
   {
-    "title": "Software Engineer, Backend",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "job_url": "https://stripe.com/jobs/1",
-    "date_posted": "2026-03-25",
+    "title": "Software Engineer II",
+    "company": "Blackhawk Network",
+    "location": "Pleasanton, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4380721626",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1
+  },
+  {
+    "title": "Chief Software Engineer",
+    "company": "Visa",
+    "location": "Bellevue, WA",
+    "job_url": "https://www.linkedin.com/jobs/view/4385933141",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1
+  },
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Analogic",
+    "location": "Salem, NH",
+    "job_url": "https://www.linkedin.com/jobs/view/4390159686",
+    "date_posted": null,
     "score": 7,
-    "competition_score": 3
+    "competition_score": 1
   },
   {
-    "title": "SDE I - New Grad",
-    "company": "Amazon",
-    "location": "Seattle, WA",
-    "job_url": "https://amazon.jobs/1",
-    "date_posted": "2026-03-25",
-    "score": 5,
-    "competition_score": 5
-  },
-  {
-    "title": "Backend Engineer (AWS, Docker)",
-    "company": "Databricks",
-    "location": "Remote",
-    "job_url": "https://databricks.com/jobs/1",
-    "date_posted": "2026-03-25",
+    "title": "Software Developer - Junior (Team 01)",
+    "company": "Amentum",
+    "location": "Washington, DC",
+    "job_url": "https://www.linkedin.com/jobs/view/4390393632",
+    "date_posted": null,
     "score": 6,
-    "competition_score": 2
+    "competition_score": 1
   },
   {
-    "title": "Software Engineer - Entry Level",
-    "company": "Snowflake",
+    "title": "Junior Software Engineer",
+    "company": "Brooksource",
+    "location": "Columbus, OH",
+    "job_url": "https://www.linkedin.com/jobs/view/4365876402",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1
+  },
+  {
+    "title": "JAVA Software Engineer",
+    "company": "Charles Schwab",
+    "location": "Southlake, TX",
+    "job_url": "https://www.linkedin.com/jobs/view/4390036487",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 1
+  },
+  {
+    "title": "2026 Entry Level Software Engineer",
+    "company": "BAE Systems, Inc.",
+    "location": "Hudson, NH",
+    "job_url": "https://www.linkedin.com/jobs/view/4320585476",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer (Remote)",
+    "company": "CertiPath",
+    "location": "Reston, VA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390227163",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Developer",
+    "company": "hackajob",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4378265801",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer (Java)",
+    "company": "Wiraa",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4390349000",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1
+  },
+  {
+    "title": "Backend Engineer (Node.JS, AWS)",
+    "company": "Wiraa",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4390341478",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Backend Software Engineer",
+    "company": "Perplexity",
+    "location": "San Francisco, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4379604947",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer, Infrastructure Platform",
+    "company": "Docker, Inc",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4390392597",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 0
+  },
+  {
+    "title": "Sr. Automation SDET",
+    "company": "Jobs via Dice",
+    "location": "Austin, TX",
+    "job_url": "https://www.linkedin.com/jobs/view/4390018856",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Developer - Summer Internship 2026",
+    "company": "Al Warren Oil",
+    "location": "Bensenville, IL",
+    "job_url": "https://www.linkedin.com/jobs/view/4390384652",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "2026 New Grad | Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "San Francisco, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390394415",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer Sys 3",
+    "company": "Lam Research",
+    "location": "Fremont, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390196665",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Experienced Application Software Engineer",
+    "company": "Lutron Electronics",
+    "location": "Austin, TX",
+    "job_url": "https://www.linkedin.com/jobs/view/4378556477",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Developer",
+    "company": "BAE Systems, Inc.",
+    "location": "Springfield, VA",
+    "job_url": "https://www.linkedin.com/jobs/view/4378955351",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer in Test - StorageGRID",
+    "company": "NetApp",
+    "location": "Morrisville, NC",
+    "job_url": "https://www.linkedin.com/jobs/view/4390043185",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer (Cloud Performance)",
+    "company": "NetApp",
+    "location": "San Jose, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390031572",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer ESX CPU & Server Platform",
+    "company": "Broadcom",
+    "location": "California, United States",
+    "job_url": "https://www.linkedin.com/jobs/view/4372846697",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 0
+  },
+  {
+    "title": "Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "San Francisco, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390391655",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Headlight",
+    "location": "Salt Lake City, UT",
+    "job_url": "https://www.linkedin.com/jobs/view/4390167366",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "StreetID",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/3818059489",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Bayforce",
+    "location": "Beachwood, OH",
+    "job_url": "https://www.linkedin.com/jobs/view/4390026471",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer - Backend/Distributed Systems",
+    "company": "Emerald AI",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4345039901",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0
+  },
+  {
+    "title": "Software Developer - Remote",
+    "company": "YO HR Consultancy",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4376206109",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "EnviroLogix",
+    "location": "Portland, ME",
+    "job_url": "https://www.linkedin.com/jobs/view/4390394316",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Wiraa",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4390346276",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer, AI/ML",
+    "company": "Stealth Startup",
     "location": "New York, NY",
-    "job_url": "https://snowflake.com/jobs/1",
-    "date_posted": "2026-03-25",
-    "score": 4,
-    "competition_score": 3
+    "job_url": "https://www.linkedin.com/jobs/view/4390015743",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 0
   },
   {
-    "title": "Software Developer (Java, Spring)",
-    "company": "Salesforce",
-    "location": "Chicago, IL",
-    "job_url": "https://salesforce.com/jobs/1",
-    "date_posted": "2026-03-25",
-    "score": 4,
-    "competition_score": 4
+    "title": "Remote Software Engineer",
+    "company": "Turing",
+    "location": "Los Angeles, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4390600105",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Squadware Inc",
+    "location": "Indianapolis, IN",
+    "job_url": "https://www.linkedin.com/jobs/view/4390156943",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer",
+    "company": "MACRO",
+    "location": "New York, NY",
+    "job_url": "https://www.linkedin.com/jobs/view/4390174592",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Compiler Engineer, Backend GPU - New College Grad 2026",
+    "company": "NVIDIA",
+    "location": "Washington, United States",
+    "job_url": "https://www.linkedin.com/jobs/view/4380735475",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 0
+  },
+  {
+    "title": "Software Developer",
+    "company": "PT Sinar Sosro Gunung Slamat",
+    "location": "",
+    "job_url": "https://www.linkedin.com/jobs/view/4390393576",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Internships in Computer Science or Software Engineering",
+    "company": "MITRE",
+    "location": "Bedford, MA",
+    "job_url": "https://www.linkedin.com/jobs/view/4379510413",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer - capabilities",
+    "company": "hackajob",
+    "location": "Washington, DC",
+    "job_url": "https://www.linkedin.com/jobs/view/4371554623",
+    "date_posted": null,
+    "score": 0,
+    "competition_score": 1
   }
 ]
