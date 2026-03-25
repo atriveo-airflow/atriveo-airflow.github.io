@@ -3,23 +3,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Job Pipeline Dashboard</title>
+  <title>Atriveo · Job Dashboard</title>
   <style>
-    /* ── Reset & base ────────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg:        #0f1117;
-      --surface:   #1a1d27;
-      --border:    #2a2d3a;
+      --bg:        #0c0e16;
+      --surface:   #13151f;
+      --surface-2: #1a1d2b;
+      --border:    #252836;
       --text:      #e2e8f0;
-      --muted:     #8892a4;
+      --muted:     #7a849a;
       --accent:    #6366f1;
       --accent-2:  #a855f7;
       --green:     #22c55e;
-      --yellow:    #eab308;
+      --teal:      #14b8a6;
+      --yellow:    #f59e0b;
+      --orange:    #f97316;
       --red:       #ef4444;
+      --blue:      #3b82f6;
       --radius:    10px;
+      --radius-sm: 6px;
     }
 
     body {
@@ -34,45 +38,92 @@
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
 
-    /* ── Layout ──────────────────────────────────────────────────── */
-    .wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
+    /* ── Layout ── */
+    .wrapper { max-width: 1340px; margin: 0 auto; padding: 0 24px; }
 
-    /* ── Header ──────────────────────────────────────────────────── */
+    /* ── Header ── */
     header {
       background: var(--surface);
       border-bottom: 1px solid var(--border);
-      padding: 20px 0;
+      padding: 16px 0;
       position: sticky;
       top: 0;
-      z-index: 10;
+      z-index: 20;
+      backdrop-filter: blur(8px);
     }
 
     .header-inner {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
       gap: 10px;
     }
 
-    header h1 {
-      font-size: 20px;
-      font-weight: 700;
+    .logo-icon {
+      width: 34px;
+      height: 34px;
       background: linear-gradient(135deg, var(--accent), var(--accent-2));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      font-weight: 800;
+      color: #fff;
+      flex-shrink: 0;
+    }
+
+    .logo-text {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text);
+    }
+
+    .logo-sub {
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: -2px;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
     }
 
     .last-updated {
       font-size: 12px;
       color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
-    /* ── Stats row ───────────────────────────────────────────────── */
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      background: var(--green);
+      border-radius: 50%;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.3; }
+    }
+
+    /* ── Stats ── */
     .stats {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-      gap: 14px;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 12px;
       padding: 24px 0 20px;
     }
 
@@ -80,48 +131,75 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 18px 20px;
-      text-align: center;
-    }
-
-    .stat-card .value {
-      font-size: 32px;
-      font-weight: 700;
-      line-height: 1;
-      margin-bottom: 6px;
-    }
-
-    .stat-card .label {
-      font-size: 12px;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-
-    .stat-card.accent  .value { color: var(--accent); }
-    .stat-card.accent2 .value { color: var(--accent-2); }
-    .stat-card.green   .value { color: var(--green); }
-    .stat-card.yellow  .value { color: var(--yellow); }
-
-    /* ── Controls ────────────────────────────────────────────────── */
-    .controls {
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-bottom: 16px;
-    }
-
-    .tabs {
-      display: flex;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
+      padding: 16px 18px;
+      position: relative;
       overflow: hidden;
     }
 
+    .stat-card::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto 0;
+      height: 3px;
+    }
+
+    .stat-card.c-accent  ::before, .stat-card.c-accent  { }
+    .stat-card.c-accent::before  { background: var(--accent); }
+    .stat-card.c-purple::before  { background: var(--accent-2); }
+    .stat-card.c-green::before   { background: var(--green); }
+    .stat-card.c-orange::before  { background: var(--orange); }
+
+    .stat-value {
+      font-size: 30px;
+      font-weight: 700;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+
+    .stat-card.c-accent  .stat-value { color: var(--accent); }
+    .stat-card.c-purple  .stat-value { color: var(--accent-2); }
+    .stat-card.c-green   .stat-value { color: var(--green); }
+    .stat-card.c-orange  .stat-value { color: var(--orange); }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 500;
+    }
+
+    /* ── Controls ── */
+    .controls-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      margin-bottom: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .controls-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    /* Tabs */
+    .tabs {
+      display: flex;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+      flex-shrink: 0;
+    }
+
     .tab {
-      padding: 8px 18px;
+      padding: 7px 16px;
       font-size: 13px;
       font-weight: 500;
       cursor: pointer;
@@ -129,23 +207,21 @@
       background: transparent;
       color: var(--muted);
       transition: background 0.15s, color 0.15s;
+      white-space: nowrap;
     }
 
-    .tab.active {
-      background: var(--accent);
-      color: #fff;
-    }
-
+    .tab.active { background: var(--accent); color: #fff; }
     .tab:not(.active):hover { background: var(--border); color: var(--text); }
 
+    /* Search */
     .search-box {
       flex: 1;
-      min-width: 200px;
-      max-width: 360px;
-      padding: 8px 14px;
-      background: var(--surface);
+      min-width: 180px;
+      max-width: 340px;
+      padding: 7px 14px;
+      background: var(--bg);
       border: 1px solid var(--border);
-      border-radius: var(--radius);
+      border-radius: var(--radius-sm);
       color: var(--text);
       font-size: 13px;
       outline: none;
@@ -162,7 +238,53 @@
       white-space: nowrap;
     }
 
-    /* ── Table ───────────────────────────────────────────────────── */
+    /* Level chips */
+    .chip-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .chip-label {
+      font-size: 11px;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 500;
+      margin-right: 2px;
+    }
+
+    .chip {
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--muted);
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .chip:hover { border-color: var(--accent); color: var(--text); }
+    .chip.active { color: #fff; border-color: transparent; }
+
+    .chip[data-level="all"].active    { background: var(--accent); }
+    .chip[data-level="New Grad"].active { background: var(--blue); border-color: var(--blue); }
+    .chip[data-level="Entry"].active    { background: var(--teal); border-color: var(--teal); }
+    .chip[data-level="Mid"].active      { background: var(--orange); border-color: var(--orange); }
+
+    /* Divider between chip rows */
+    .controls-divider {
+      width: 1px;
+      height: 20px;
+      background: var(--border);
+      flex-shrink: 0;
+    }
+
+    /* ── Table ── */
     .table-wrap {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -171,18 +293,15 @@
       overflow-x: auto;
     }
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
+    table { width: 100%; border-collapse: collapse; }
 
     thead th {
-      padding: 12px 16px;
+      padding: 11px 14px;
       text-align: left;
       font-size: 11px;
       font-weight: 600;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.07em;
       color: var(--muted);
       background: var(--bg);
       border-bottom: 1px solid var(--border);
@@ -192,10 +311,9 @@
     }
 
     thead th:hover { color: var(--text); }
-
-    thead th .sort-icon { margin-left: 4px; opacity: 0.4; }
-    thead th.asc  .sort-icon::after { content: " ▲"; opacity: 1; }
-    thead th.desc .sort-icon::after { content: " ▼"; opacity: 1; }
+    thead th .sort-icon { margin-left: 3px; opacity: 0.4; }
+    thead th.asc  .sort-icon::after { content: "▲"; opacity: 1; font-size: 9px; }
+    thead th.desc .sort-icon::after { content: "▼"; opacity: 1; font-size: 9px; }
 
     tbody tr {
       border-bottom: 1px solid var(--border);
@@ -203,79 +321,160 @@
     }
 
     tbody tr:last-child { border-bottom: none; }
-    tbody tr:hover { background: rgba(99, 102, 241, 0.06); }
+    tbody tr:hover { background: rgba(99, 102, 241, 0.05); }
 
-    td {
-      padding: 12px 16px;
-      vertical-align: middle;
+    td { padding: 11px 14px; vertical-align: middle; }
+
+    /* Title cell */
+    .td-title { max-width: 280px; }
+
+    .title-line {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      font-weight: 500;
+      line-height: 1.4;
     }
 
-    .td-title { font-weight: 500; max-width: 260px; }
-    .td-company { color: var(--muted); white-space: nowrap; }
+    /* "NEW" badge */
+    .badge-new {
+      display: inline-block;
+      padding: 1px 6px;
+      background: rgba(34, 197, 94, 0.15);
+      color: var(--green);
+      border: 1px solid rgba(34, 197, 94, 0.3);
+      border-radius: 4px;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      flex-shrink: 0;
+    }
+
+    /* Level badge */
+    .lvl {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+
+    .lvl-newgrad { background: rgba(59, 130, 246, 0.15); color: var(--blue); }
+    .lvl-entry   { background: rgba(20, 184, 166, 0.15); color: var(--teal); }
+    .lvl-mid     { background: rgba(249, 115, 22, 0.15); color: var(--orange); }
+
+    /* Company cell */
+    .company-cell {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      white-space: nowrap;
+    }
+
+    .co-avatar {
+      width: 26px;
+      height: 26px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 700;
+      flex-shrink: 0;
+      color: #fff;
+    }
+
+    .co-name { color: var(--muted); font-size: 13px; }
+
     .td-location { color: var(--muted); font-size: 12px; white-space: nowrap; }
-    .td-date { color: var(--muted); font-size: 12px; white-space: nowrap; }
+    .td-date     { color: var(--muted); font-size: 12px; white-space: nowrap; }
 
     /* Score badge */
     .score {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 36px;
-      height: 24px;
-      border-radius: 6px;
+      min-width: 34px;
+      height: 22px;
+      border-radius: var(--radius-sm);
       font-size: 12px;
       font-weight: 700;
+      padding: 0 6px;
     }
 
-    .score.high   { background: rgba(34, 197, 94,  0.15); color: var(--green);  }
-    .score.medium { background: rgba(234, 179, 8,  0.15); color: var(--yellow); }
-    .score.low    { background: rgba(139, 148, 164, 0.1); color: var(--muted);  }
+    .score.high   { background: rgba(34, 197, 94, 0.12); color: var(--green); }
+    .score.medium { background: rgba(245, 158, 11, 0.12); color: var(--yellow); }
+    .score.low    { background: rgba(122, 132, 154, 0.1); color: var(--muted); }
 
     /* Competition badge */
     .comp {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 36px;
-      height: 24px;
-      border-radius: 6px;
+      min-width: 34px;
+      height: 22px;
+      border-radius: var(--radius-sm);
       font-size: 12px;
       font-weight: 600;
+      padding: 0 6px;
     }
 
-    .comp.low    { background: rgba(34, 197, 94,  0.1); color: var(--green);  }
-    .comp.medium { background: rgba(234, 179, 8,  0.1); color: var(--yellow); }
-    .comp.high   { background: rgba(239, 68, 68,  0.1); color: var(--red);    }
+    .comp.low    { background: rgba(34, 197, 94, 0.1); color: var(--green); }
+    .comp.medium { background: rgba(245, 158, 11, 0.1); color: var(--yellow); }
+    .comp.high   { background: rgba(239, 68, 68, 0.1);  color: var(--red); }
 
+    /* Apply button */
     .apply-btn {
-      display: inline-block;
-      padding: 4px 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 5px 12px;
       background: var(--accent);
       color: #fff;
-      border-radius: 6px;
+      border-radius: var(--radius-sm);
       font-size: 12px;
       font-weight: 500;
       white-space: nowrap;
-      transition: opacity 0.15s;
+      transition: opacity 0.15s, transform 0.1s;
     }
 
-    .apply-btn:hover { opacity: 0.85; text-decoration: none; }
+    .apply-btn:hover { opacity: 0.88; text-decoration: none; transform: translateY(-1px); }
 
-    /* ── Empty / loading state ───────────────────────────────────── */
+    /* ── Empty/loading ── */
     .empty {
-      padding: 60px 20px;
+      padding: 64px 20px;
       text-align: center;
       color: var(--muted);
     }
 
-    .empty .icon { font-size: 40px; margin-bottom: 12px; }
+    .empty .icon { font-size: 36px; margin-bottom: 10px; }
+    .empty .msg  { font-size: 14px; }
 
-    /* ── Footer ──────────────────────────────────────────────────── */
+    /* ── Footer ── */
     footer {
-      padding: 28px 0;
+      padding: 28px 0 32px;
       text-align: center;
       font-size: 12px;
       color: var(--muted);
+    }
+
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Row animation ── */
+    @keyframes fadein {
+      from { opacity: 0; transform: translateY(4px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    tbody tr { animation: fadein 0.18s ease both; }
+
+    /* ── Mobile ── */
+    @media (max-width: 640px) {
+      .logo-sub, .last-updated { display: none; }
+      .controls-divider { display: none; }
     }
   </style>
 </head>
@@ -283,8 +482,19 @@
 
 <header>
   <div class="wrapper header-inner">
-    <h1>Job Pipeline Dashboard</h1>
-    <span class="last-updated" id="last-updated">Loading…</span>
+    <div class="logo">
+      <div class="logo-icon">A</div>
+      <div>
+        <div class="logo-text">Atriveo</div>
+        <div class="logo-sub">Job Pipeline Dashboard</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="last-updated" id="last-updated">
+        <span class="live-dot"></span>
+        <span id="last-updated-text">Loading…</span>
+      </div>
+    </div>
   </div>
 </header>
 
@@ -292,37 +502,52 @@
 
   <!-- Stats -->
   <div class="stats">
-    <div class="stat-card accent">
-      <div class="value" id="stat-standard">—</div>
-      <div class="label">Standard Jobs</div>
+    <div class="stat-card c-accent">
+      <div class="stat-value" id="stat-standard">—</div>
+      <div class="stat-label">Standard Jobs</div>
     </div>
-    <div class="stat-card accent2">
-      <div class="value" id="stat-important">—</div>
-      <div class="label">Priority Jobs</div>
+    <div class="stat-card c-purple">
+      <div class="stat-value" id="stat-important">—</div>
+      <div class="stat-label">Priority Jobs</div>
     </div>
-    <div class="stat-card green">
-      <div class="value" id="stat-top-score">—</div>
-      <div class="label">Top Score</div>
+    <div class="stat-card c-green">
+      <div class="stat-value" id="stat-today">—</div>
+      <div class="stat-label">Posted Today</div>
     </div>
-    <div class="stat-card yellow">
-      <div class="value" id="stat-new-grad">—</div>
-      <div class="label">New Grad Roles</div>
+    <div class="stat-card c-orange">
+      <div class="stat-value" id="stat-new-grad">—</div>
+      <div class="stat-label">New Grad Roles</div>
     </div>
   </div>
 
   <!-- Controls -->
-  <div class="controls">
-    <div class="tabs">
-      <button class="tab active" data-tab="standard">Standard Pipeline</button>
-      <button class="tab"        data-tab="important">High Priority</button>
+  <div class="controls-wrap">
+
+    <!-- Row 1: tabs + search + count -->
+    <div class="controls-row">
+      <div class="tabs">
+        <button class="tab active" data-tab="standard">Standard</button>
+        <button class="tab"        data-tab="important">High Priority</button>
+      </div>
+      <input
+        class="search-box"
+        id="search"
+        type="search"
+        placeholder="Search title, company, location…"
+        autocomplete="off"
+      />
+      <span class="result-count" id="result-count"></span>
     </div>
-    <input
-      class="search-box"
-      id="search"
-      type="search"
-      placeholder="Search title, company, location…"
-    />
-    <span class="result-count" id="result-count"></span>
+
+    <!-- Row 2: level chips -->
+    <div class="chip-row">
+      <span class="chip-label">Level</span>
+      <button class="chip active" data-level="all">All</button>
+      <button class="chip" data-level="New Grad">New Grad</button>
+      <button class="chip" data-level="Entry">Entry</button>
+      <button class="chip" data-level="Mid">Mid</button>
+    </div>
+
   </div>
 
   <!-- Table -->
@@ -337,7 +562,9 @@
 
 <footer>
   <div class="wrapper">
-    Powered by <strong>JobSpy</strong> · Data refreshed hourly via GitHub Actions · Read-only view
+    Powered by <a href="https://github.com/Bunsly/JobSpy" target="_blank">JobSpy</a>
+    &nbsp;·&nbsp; Refreshed hourly
+    &nbsp;·&nbsp; <a href="https://github.com/atriveo-airflow" target="_blank">GitHub</a>
   </div>
 </footer>
 
@@ -349,8 +576,38 @@
   let sortCol       = null;
   let sortDir       = "desc";
   let query         = "";
+  let levelFilter   = "all";
 
-  // ── Fetch all data ─────────────────────────────────────────────────────────
+  // ── Helpers ────────────────────────────────────────────────────────────────
+  const isToday = dateStr => {
+    if (!dateStr) return false;
+    const d = new Date(dateStr);
+    const n = new Date();
+    return d.getFullYear() === n.getFullYear() &&
+           d.getMonth()    === n.getMonth()    &&
+           d.getDate()     === n.getDate();
+  };
+
+  const isRecent = dateStr => {
+    if (!dateStr) return false;
+    return (Date.now() - new Date(dateStr).getTime()) < 86_400_000;
+  };
+
+  // Deterministic color from string (for company avatars)
+  const AVATAR_COLORS = [
+    "#6366f1","#a855f7","#14b8a6","#f97316","#3b82f6","#ec4899","#22c55e","#f59e0b"
+  ];
+  const avatarColor = str => AVATAR_COLORS[
+    [...(str||"")].reduce((a, c) => a + c.charCodeAt(0), 0) % AVATAR_COLORS.length
+  ];
+
+  const levelClass = lvl => ({
+    "New Grad": "lvl-newgrad",
+    "Entry":    "lvl-entry",
+    "Mid":      "lvl-mid",
+  }[lvl] || "lvl-entry");
+
+  // ── Load ───────────────────────────────────────────────────────────────────
   async function loadAll() {
     try {
       const [meta, std, imp] = await Promise.all([
@@ -359,30 +616,36 @@
         fetch("important_jobs.json").then(r => r.json()),
       ]);
 
-      standardJobs  = std  || [];
-      importantJobs = imp  || [];
+      standardJobs  = std || [];
+      importantJobs = imp || [];
+
+      // Header timestamp
+      const ts = new Date(meta.last_updated);
+      document.getElementById("last-updated-text").textContent =
+        "Updated " + ts.toLocaleString(undefined, { month: "short", day: "numeric",
+          hour: "2-digit", minute: "2-digit" });
 
       // Stats
-      const ts = new Date(meta.last_updated);
-      document.getElementById("last-updated").textContent =
-        "Last updated: " + ts.toLocaleString();
-
       document.getElementById("stat-standard").textContent  = meta.standard_count  ?? standardJobs.length;
       document.getElementById("stat-important").textContent = meta.important_count ?? importantJobs.length;
 
-      const allJobs   = [...standardJobs, ...importantJobs];
-      const topScore  = allJobs.reduce((m, j) => Math.max(m, j.score ?? j.priority_score ?? 0), 0);
-      const newGrads  = allJobs.filter(j =>
-        (j.title + " " + (j.description || "")).toLowerCase().includes("new grad")
-      ).length;
+      const all       = [...standardJobs, ...importantJobs];
+      const todayCount = all.filter(j => isToday(j.date_posted)).length;
+      const ngCount    = all.filter(j => (j.level || "").toLowerCase() === "new grad" ||
+        (j.title + " " + (j.description || "")).toLowerCase().includes("new grad")).length;
 
-      document.getElementById("stat-top-score").textContent = topScore;
-      document.getElementById("stat-new-grad").textContent  = newGrads;
+      document.getElementById("stat-today").textContent    = todayCount;
+      document.getElementById("stat-new-grad").textContent = ngCount;
 
       render();
     } catch (err) {
       document.getElementById("tbody").innerHTML =
-        `<tr><td colspan="7"><div class="empty"><div class="icon">⚠️</div>Could not load job data.<br/>${err.message}</div></td></tr>`;
+        `<tr><td colspan="8">
+           <div class="empty">
+             <div class="icon">⚠️</div>
+             <div class="msg">Could not load job data.<br/><small>${err.message}</small></div>
+           </div>
+         </td></tr>`;
     }
   }
 
@@ -390,6 +653,11 @@
   function render() {
     const isImportant = activeTab === "important";
     let jobs = isImportant ? importantJobs : standardJobs;
+
+    // Level filter
+    if (levelFilter !== "all") {
+      jobs = jobs.filter(j => (j.level || "Entry") === levelFilter);
+    }
 
     // Search
     if (query) {
@@ -415,73 +683,83 @@
       });
     }
 
+    // Result count
     document.getElementById("result-count").textContent =
       jobs.length + " job" + (jobs.length !== 1 ? "s" : "");
 
-    // Build header
+    // Header columns
     const scoreCol = isImportant ? "priority_score" : "score";
     const cols = isImportant
       ? [
-          { key: "title",          label: "Title" },
-          { key: "company",        label: "Company" },
-          { key: "location",       label: "Location" },
-          { key: scoreCol,         label: "Priority" },
-          { key: "date_posted",    label: "Posted" },
-          { key: "_apply",         label: "Apply", nosort: true },
+          { key: "title",       label: "Title" },
+          { key: "company",     label: "Company" },
+          { key: "location",    label: "Location" },
+          { key: scoreCol,      label: "Priority" },
+          { key: "date_posted", label: "Posted" },
+          { key: "_apply",      label: "",        nosort: true },
         ]
       : [
-          { key: "title",          label: "Title" },
-          { key: "company",        label: "Company" },
-          { key: "location",       label: "Location" },
-          { key: scoreCol,         label: "Score" },
-          { key: "competition_score", label: "Competition" },
-          { key: "date_posted",    label: "Posted" },
-          { key: "_apply",         label: "Apply", nosort: true },
+          { key: "title",             label: "Title" },
+          { key: "company",           label: "Company" },
+          { key: "location",          label: "Location" },
+          { key: scoreCol,            label: "Score" },
+          { key: "competition_score", label: "Comp." },
+          { key: "date_posted",       label: "Posted" },
+          { key: "_apply",            label: "",       nosort: true },
         ];
 
     document.getElementById("thead").innerHTML = `<tr>${
       cols.map(c => {
         const cls = c.nosort ? "" :
-          (sortCol === c.key ? (sortDir === "asc" ? " asc" : " desc") : "");
-        const sortAttr = c.nosort ? "" : `data-col="${c.key}"`;
-        return `<th class="${cls}" ${sortAttr}>${c.label}<span class="sort-icon"></span></th>`;
+          sortCol === c.key ? (sortDir === "asc" ? " asc" : " desc") : "";
+        const attr = c.nosort ? "" : `data-col="${c.key}"`;
+        return `<th class="${cls.trim()}" ${attr}>${c.label}<span class="sort-icon"></span></th>`;
       }).join("")
     }</tr>`;
 
-    // Attach sort listeners
+    // Sort listeners
     document.querySelectorAll("thead th[data-col]").forEach(th => {
       th.addEventListener("click", () => {
         const col = th.dataset.col;
-        if (sortCol === col) {
-          sortDir = sortDir === "desc" ? "asc" : "desc";
-        } else {
-          sortCol = col;
-          sortDir = "desc";
-        }
+        sortDir = sortCol === col && sortDir === "desc" ? "asc" : "desc";
+        sortCol = col;
         render();
       });
     });
 
-    // Build rows
+    // Empty state
     if (!jobs.length) {
       document.getElementById("tbody").innerHTML =
-        `<tr><td colspan="${cols.length}"><div class="empty">
-           <div class="icon">🔍</div>No jobs match your search.
-         </div></td></tr>`;
+        `<tr><td colspan="${cols.length}">
+           <div class="empty">
+             <div class="icon">🔍</div>
+             <div class="msg">No jobs match your filters.</div>
+           </div>
+         </td></tr>`;
       return;
     }
 
+    // Rows
     document.getElementById("tbody").innerHTML = jobs.map(j => {
-      const score  = j[scoreCol] ?? 0;
+      const score      = j[scoreCol] ?? 0;
       const scoreClass = score >= 5 ? "high" : score >= 2 ? "medium" : "low";
       const scoreBadge = `<span class="score ${scoreClass}">${score}</span>`;
 
-      let compBadge = "";
+      let compCell = "";
       if (!isImportant) {
         const comp = j.competition_score ?? 0;
-        const compClass = comp <= 2 ? "low" : comp <= 4 ? "medium" : "high";
-        compBadge = `<td><span class="comp ${compClass}">${comp}</span></td>`;
+        const cc   = comp <= 2 ? "low" : comp <= 4 ? "medium" : "high";
+        compCell   = `<td><span class="comp ${cc}">${comp}</span></td>`;
       }
+
+      const level    = j.level || "Entry";
+      const lvlBadge = `<span class="lvl ${levelClass(level)}">${level}</span>`;
+      const newBadge = isRecent(j.date_posted) ? `<span class="badge-new">NEW</span>` : "";
+
+      const company = j.company || "—";
+      const initial = company.charAt(0).toUpperCase();
+      const color   = avatarColor(company);
+      const avatar  = `<span class="co-avatar" style="background:${color}">${initial}</span>`;
 
       const posted = j.date_posted
         ? new Date(j.date_posted).toLocaleDateString("en-US", { month: "short", day: "numeric" })
@@ -492,11 +770,22 @@
         : "—";
 
       return `<tr>
-        <td class="td-title">${j.title || "—"}</td>
-        <td class="td-company">${j.company || "—"}</td>
+        <td class="td-title">
+          <div class="title-line">
+            ${newBadge}
+            <span>${j.title || "—"}</span>
+          </div>
+          <div style="margin-top:4px">${lvlBadge}</div>
+        </td>
+        <td>
+          <div class="company-cell">
+            ${avatar}
+            <span class="co-name">${company}</span>
+          </div>
+        </td>
         <td class="td-location">${j.location || "Remote"}</td>
         <td>${scoreBadge}</td>
-        ${compBadge}
+        ${compCell}
         <td class="td-date">${posted}</td>
         <td>${applyBtn}</td>
       </tr>`;
@@ -504,17 +793,28 @@
   }
 
   // ── Events ─────────────────────────────────────────────────────────────────
+  // Tabs
   document.querySelectorAll(".tab").forEach(btn => {
     btn.addEventListener("click", () => {
       document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
       btn.classList.add("active");
       activeTab = btn.dataset.tab;
       sortCol   = null;
-      query     = document.getElementById("search").value;
       render();
     });
   });
 
+  // Level chips
+  document.querySelectorAll(".chip[data-level]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".chip[data-level]").forEach(c => c.classList.remove("active"));
+      btn.classList.add("active");
+      levelFilter = btn.dataset.level;
+      render();
+    });
+  });
+
+  // Search
   document.getElementById("search").addEventListener("input", e => {
     query = e.target.value;
     render();
