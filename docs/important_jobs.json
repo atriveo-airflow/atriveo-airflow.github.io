@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "SDE I - New Grad",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "job_url": "https://amazon.jobs/1",
+    "date_posted": "2026-03-25",
+    "priority_score": 5
+  },
+  {
+    "title": "Backend Engineer (AWS, Docker)",
+    "company": "Databricks",
+    "location": "Remote",
+    "job_url": "https://databricks.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "priority_score": 4
+  },
+  {
+    "title": "Software Engineer, Backend",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "job_url": "https://stripe.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "priority_score": 2
+  }
+]
