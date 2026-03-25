@@ -57,5 +57,22 @@
       "THRAYAM TECHNOLOGIES INC",
       "HireOn Tech"
     ]
+  },
+  {
+    "session_id": "2026-03-25T20:13:47Z",
+    "run_at": "2026-03-25T20:13:47.635317+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 3.0,
+      "max": 3,
+      "high": 0
+    },
+    "top_companies": [
+      "Waymo"
+    ]
   }
 ]
