@@ -1,93 +1,18 @@
-name: Update GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
-  schedule:
-    # Every hour at :30 — 30 min after the scraper stores data in MongoDB
-    - cron: "30 * * * *"
-  workflow_dispatch: # Manual trigger from GitHub Actions UI
+  # Triggered manually from the CLI or GitHub UI
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  export-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
-
-      - name: Install MongoDB driver
-        run: pip install "pymongo[srv]>=4.6.0" certifi
-
-      - name: Export job data from MongoDB → docs/
-        env:
-          MONGO_URI: ${{ secrets.MONGO_URI }}
-        run: |
-          python3 - <<'EOF'
-          import json, os, pathlib, certifi
-          from datetime import datetime, timezone
-          from pymongo import MongoClient
-
-          client = MongoClient(
-              os.environ["MONGO_URI"],
-              tlsCAFile=certifi.where(),
-              tlsAllowInvalidCertificates=True,
-              serverSelectionTimeoutMS=30000,
-          )
-          db = client["job_pipeline"]
-
-          def export_pipeline(pipeline):
-              session = db["sessions"].find_one(
-                  {"pipeline": pipeline, "archived": False},
-                  sort=[("run_at", -1)],
-              )
-              if not session:
-                  print(f"No active session for pipeline='{pipeline}'")
-                  return []
-
-              jobs = list(db["jobs"].find(
-                  {"session_id": session["session_id"]},
-                  {"_id": 0, "run_at": 0},
-              ))
-
-              # Make datetimes JSON-serialisable
-              for job in jobs:
-                  for k, v in job.items():
-                      if hasattr(v, "isoformat"):
-                          job[k] = v.isoformat()
-
-              print(f"Exported {len(jobs)} jobs (pipeline='{pipeline}')")
-              return jobs
-
-          std = export_pipeline("standard")
-          imp = export_pipeline("important")
-
-          meta = {
-              "last_updated":    datetime.now(tz=timezone.utc).isoformat(),
-              "standard_count":  len(std),
-              "important_count": len(imp),
-          }
-
-          docs = pathlib.Path("docs")
-          docs.mkdir(exist_ok=True)
-          (docs / "jobs.json").write_text(json.dumps(std, indent=2))
-          (docs / "important_jobs.json").write_text(json.dumps(imp, indent=2))
-          (docs / "metadata.json").write_text(json.dumps(meta, indent=2))
-
-          print(f"Done — {len(std)} standard, {len(imp)} important jobs written to docs/")
-          EOF
-
-      - name: Commit and push updated docs/
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
-          git diff --staged --quiet \
-            && echo "No changes — skipping commit." \
-            || (git commit -m "chore: update job data $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]" && git push)
+      - name: Confirm Pages is up to date
+        run: echo "Dashboard is live at https://atriveo-airflow.github.io/"
