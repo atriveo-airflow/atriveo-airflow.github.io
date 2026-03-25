@@ -391,6 +391,14 @@
       margin-top: 4px;
     }
 
+    /* ── Location chips (same pattern as level chips) ── */
+    .chip[data-loc="CA"].active  { background: #0ea5e9; border-color: #0ea5e9; }
+    .chip[data-loc="TX"].active  { background: #d97706; border-color: #d97706; }
+    .chip[data-loc="NY"].active  { background: #8b5cf6; border-color: #8b5cf6; }
+    .chip[data-loc="NC"].active  { background: #10b981; border-color: #10b981; }
+    .chip[data-loc="WA"].active  { background: #06b6d4; border-color: #06b6d4; }
+    .chip[data-loc="remote"].active { background: var(--accent); }
+
     /* ── Table ── */
     .table-wrap {
       background: var(--surface);
@@ -618,10 +626,18 @@
       <div class="stat-label">Priority Jobs</div>
     </div>
     <div class="stat-card c-green">
+      <div class="stat-value" id="stat-top500">—</div>
+      <div class="stat-label">Top 500</div>
+    </div>
+    <div class="stat-card c-orange">
+      <div class="stat-value" id="stat-h1b2026">—</div>
+      <div class="stat-label">H1B 2026</div>
+    </div>
+    <div class="stat-card c-accent">
       <div class="stat-value" id="stat-today">—</div>
       <div class="stat-label">Posted Today</div>
     </div>
-    <div class="stat-card c-orange">
+    <div class="stat-card c-purple">
       <div class="stat-value" id="stat-new-grad">—</div>
       <div class="stat-label">New Grad Roles</div>
     </div>
@@ -647,7 +663,9 @@
     <div class="controls-row">
       <div class="tabs">
         <button class="tab active" data-tab="standard">Standard</button>
-        <button class="tab"        data-tab="important">High Priority</button>
+        <button class="tab"        data-tab="important">Priority</button>
+        <button class="tab"        data-tab="top500">Top 500</button>
+        <button class="tab"        data-tab="h1b2026">H1B 2026</button>
       </div>
       <input
         class="search-box"
@@ -666,6 +684,18 @@
       <button class="chip" data-level="New Grad">New Grad</button>
       <button class="chip" data-level="Entry">Entry</button>
       <button class="chip" data-level="Mid">Mid</button>
+    </div>
+
+    <!-- Row 3: location chips -->
+    <div class="chip-row">
+      <span class="chip-label">Location</span>
+      <button class="chip active" data-loc="all">All</button>
+      <button class="chip" data-loc="CA">California</button>
+      <button class="chip" data-loc="TX">Texas</button>
+      <button class="chip" data-loc="NY">New York</button>
+      <button class="chip" data-loc="NC">N. Carolina</button>
+      <button class="chip" data-loc="WA">Seattle / WA</button>
+      <button class="chip" data-loc="remote">Remote</button>
     </div>
 
   </div>
@@ -692,11 +722,24 @@
   // ── State ──────────────────────────────────────────────────────────────────
   let standardJobs  = [];
   let importantJobs = [];
+  let top500Jobs    = [];
+  let h1b2026Jobs   = [];
   let activeTab     = "standard";
   let sortCol       = null;
   let sortDir       = "desc";
   let query         = "";
   let levelFilter   = "all";
+  let locFilter     = "all";
+
+  // Location keywords per chip
+  const LOC_KEYWORDS = {
+    CA:     ["california", "ca,", " ca ", "san francisco", "san jose", "los angeles", "san diego", "palo alto", "mountain view", "sunnyvale", "santa clara", "redwood city", "menlo park"],
+    TX:     ["texas", "tx,", " tx ", "austin", "dallas", "houston", "san antonio", "fort worth"],
+    NY:     ["new york", "ny,", " ny ", "brooklyn", "manhattan", "bronx", "queens"],
+    NC:     ["north carolina", "nc,", " nc ", "charlotte", "raleigh", "durham", "chapel hill"],
+    WA:     ["washington", "wa,", " wa ", "seattle", "redmond", "bellevue", "kirkland"],
+    remote: ["remote", "work from home", "wfh"],
+  };
 
   // ── Helpers ────────────────────────────────────────────────────────────────
   const isToday = dateStr => {
@@ -767,15 +810,19 @@
   // ── Load ───────────────────────────────────────────────────────────────────
   async function loadAll() {
     try {
-      const [meta, std, imp, runHistory] = await Promise.all([
+      const [meta, std, imp, t500, h1b, runHistory] = await Promise.all([
         fetch("metadata.json").then(r => r.json()),
         fetch("jobs.json").then(r => r.json()),
         fetch("important_jobs.json").then(r => r.json()),
+        fetch("top500_jobs.json").then(r => r.json()).catch(() => []),
+        fetch("h1b2026_jobs.json").then(r => r.json()).catch(() => []),
         fetch("run_history.json").then(r => r.json()).catch(() => []),
       ]);
 
-      standardJobs  = std || [];
-      importantJobs = imp || [];
+      standardJobs  = std   || [];
+      importantJobs = imp   || [];
+      top500Jobs    = t500  || [];
+      h1b2026Jobs   = h1b   || [];
 
       // Header timestamp
       const ts = new Date(meta.last_updated);
@@ -786,6 +833,8 @@
       // Stats
       document.getElementById("stat-standard").textContent  = meta.standard_count  ?? standardJobs.length;
       document.getElementById("stat-important").textContent = meta.important_count ?? importantJobs.length;
+      document.getElementById("stat-top500").textContent    = meta.top500_count    ?? top500Jobs.length;
+      document.getElementById("stat-h1b2026").textContent   = meta.h1b2026_count   ?? h1b2026Jobs.length;
 
       const all       = [...standardJobs, ...importantJobs];
       const todayCount = all.filter(j => isToday(j.date_posted)).length;
@@ -810,12 +859,27 @@
 
   // ── Render ─────────────────────────────────────────────────────────────────
   function render() {
-    const isImportant = activeTab === "important";
-    let jobs = isImportant ? importantJobs : standardJobs;
+    const isImportant = activeTab === "important" || activeTab === "top500" || activeTab === "h1b2026";
+    let jobs = {
+      standard:  standardJobs,
+      important: importantJobs,
+      top500:    top500Jobs,
+      h1b2026:   h1b2026Jobs,
+    }[activeTab] || [];
 
     // Level filter
     if (levelFilter !== "all") {
       jobs = jobs.filter(j => (j.level || "Entry") === levelFilter);
+    }
+
+    // Location filter
+    if (locFilter !== "all" && LOC_KEYWORDS[locFilter]) {
+      const kws = LOC_KEYWORDS[locFilter];
+      jobs = jobs.filter(j => {
+        const loc = (j.location || "").toLowerCase();
+        if (!loc) return locFilter === "remote"; // blank = remote only if remote chip
+        return kws.some(kw => loc.includes(kw));
+      });
     }
 
     // Search
@@ -847,7 +911,7 @@
       jobs.length + " job" + (jobs.length !== 1 ? "s" : "");
 
     // Header columns
-    const scoreCol = isImportant ? "priority_score" : "score";
+    const scoreCol = activeTab === "standard" ? "score" : "priority_score";
     const cols = isImportant
       ? [
           { key: "title",       label: "Title" },
@@ -969,6 +1033,16 @@
       document.querySelectorAll(".chip[data-level]").forEach(c => c.classList.remove("active"));
       btn.classList.add("active");
       levelFilter = btn.dataset.level;
+      render();
+    });
+  });
+
+  // Location chips
+  document.querySelectorAll(".chip[data-loc]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".chip[data-loc]").forEach(c => c.classList.remove("active"));
+      btn.classList.add("active");
+      locFilter = btn.dataset.loc;
       render();
     });
   });
