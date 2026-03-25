@@ -23,18 +23,18 @@ jobs:
           python-version: "3.11"
 
       - name: Install MongoDB driver
-        run: pip install "pymongo[srv]>=4.6.0"
+        run: pip install "pymongo[srv]>=4.6.0" certifi
 
       - name: Export job data from MongoDB → docs/
         env:
           MONGO_URI: ${{ secrets.MONGO_URI }}
         run: |
           python3 - <<'EOF'
-          import json, os, pathlib
+          import json, os, pathlib, certifi
           from datetime import datetime, timezone
           from pymongo import MongoClient
 
-          client = MongoClient(os.environ["MONGO_URI"])
+          client = MongoClient(os.environ["MONGO_URI"], tlsCAFile=certifi.where())
           db = client["job_pipeline"]
 
           def export_pipeline(pipeline):
