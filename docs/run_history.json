@@ -91,5 +91,23 @@
       "HireOn Tech",
       "Avance Consulting"
     ]
+  },
+  {
+    "session_id": "2026-03-25T20:50:46Z",
+    "run_at": "2026-03-25T20:50:46.467107+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 13,
+      "high": 2
+    },
+    "top_companies": [
+      "EPITEC",
+      "Applied Intuition"
+    ]
   }
 ]
