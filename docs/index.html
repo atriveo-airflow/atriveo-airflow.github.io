@@ -633,6 +633,10 @@
       <div class="stat-value" id="stat-h1b2026">—</div>
       <div class="stat-label">H1B 2026</div>
     </div>
+    <div class="stat-card c-green">
+      <div class="stat-value" id="stat-keywords">—</div>
+      <div class="stat-label">My Keywords</div>
+    </div>
     <div class="stat-card c-accent">
       <div class="stat-value" id="stat-today">—</div>
       <div class="stat-label">Posted Today</div>
@@ -663,6 +667,7 @@
     <div class="controls-row">
       <div class="tabs">
         <button class="tab active" data-tab="standard">Standard</button>
+        <button class="tab"        data-tab="keywords">My Keywords</button>
         <button class="tab"        data-tab="important">Priority</button>
         <button class="tab"        data-tab="top500">Top 500</button>
         <button class="tab"        data-tab="h1b2026">H1B 2026</button>
@@ -724,6 +729,7 @@
   let importantJobs = [];
   let top500Jobs    = [];
   let h1b2026Jobs   = [];
+  let keywordsJobs  = [];
   let activeTab     = "standard";
   let sortCol       = null;
   let sortDir       = "desc";
@@ -810,12 +816,13 @@
   // ── Load ───────────────────────────────────────────────────────────────────
   async function loadAll() {
     try {
-      const [meta, std, imp, t500, h1b, runHistory] = await Promise.all([
+      const [meta, std, imp, t500, h1b, kw, runHistory] = await Promise.all([
         fetch("metadata.json").then(r => r.json()),
         fetch("jobs.json").then(r => r.json()),
         fetch("important_jobs.json").then(r => r.json()),
         fetch("top500_jobs.json").then(r => r.json()).catch(() => []),
         fetch("h1b2026_jobs.json").then(r => r.json()).catch(() => []),
+        fetch("keywords_jobs.json").then(r => r.json()).catch(() => []),
         fetch("run_history.json").then(r => r.json()).catch(() => []),
       ]);
 
@@ -823,6 +830,7 @@
       importantJobs = imp   || [];
       top500Jobs    = t500  || [];
       h1b2026Jobs   = h1b   || [];
+      keywordsJobs  = kw    || [];
 
       // Header timestamp
       const ts = new Date(meta.last_updated);
@@ -835,6 +843,7 @@
       document.getElementById("stat-important").textContent = meta.important_count ?? importantJobs.length;
       document.getElementById("stat-top500").textContent    = meta.top500_count    ?? top500Jobs.length;
       document.getElementById("stat-h1b2026").textContent   = meta.h1b2026_count   ?? h1b2026Jobs.length;
+      document.getElementById("stat-keywords").textContent  = meta.keywords_count  ?? keywordsJobs.length;
 
       const all       = [...standardJobs, ...importantJobs];
       const todayCount = all.filter(j => isToday(j.date_posted)).length;
@@ -859,12 +868,13 @@
 
   // ── Render ─────────────────────────────────────────────────────────────────
   function render() {
-    const isImportant = activeTab === "important" || activeTab === "top500" || activeTab === "h1b2026";
+    const isImportant = activeTab !== "standard";
     let jobs = {
       standard:  standardJobs,
       important: importantJobs,
       top500:    top500Jobs,
       h1b2026:   h1b2026Jobs,
+      keywords:  keywordsJobs,
     }[activeTab] || [];
 
     // Level filter
@@ -911,7 +921,9 @@
       jobs.length + " job" + (jobs.length !== 1 ? "s" : "");
 
     // Header columns
-    const scoreCol = activeTab === "standard" ? "score" : "priority_score";
+    const scoreCol = activeTab === "standard" ? "score"
+                   : activeTab === "keywords" ? "keyword_score"
+                   : "priority_score";
     const cols = isImportant
       ? [
           { key: "title",       label: "Title" },
