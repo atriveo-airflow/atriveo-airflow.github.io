@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "title": "Software Engineer, Backend",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "job_url": "https://stripe.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "score": 7,
+    "competition_score": 3
+  },
+  {
+    "title": "SDE I - New Grad",
+    "company": "Amazon",
+    "location": "Seattle, WA",
+    "job_url": "https://amazon.jobs/1",
+    "date_posted": "2026-03-25",
+    "score": 5,
+    "competition_score": 5
+  },
+  {
+    "title": "Backend Engineer (AWS, Docker)",
+    "company": "Databricks",
+    "location": "Remote",
+    "job_url": "https://databricks.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "score": 6,
+    "competition_score": 2
+  },
+  {
+    "title": "Software Engineer - Entry Level",
+    "company": "Snowflake",
+    "location": "New York, NY",
+    "job_url": "https://snowflake.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "score": 4,
+    "competition_score": 3
+  },
+  {
+    "title": "Software Developer (Java, Spring)",
+    "company": "Salesforce",
+    "location": "Chicago, IL",
+    "job_url": "https://salesforce.com/jobs/1",
+    "date_posted": "2026-03-25",
+    "score": 4,
+    "competition_score": 4
+  }
+]
