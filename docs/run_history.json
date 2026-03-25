@@ -74,5 +74,22 @@
     "top_companies": [
       "Waymo"
     ]
+  },
+  {
+    "session_id": "2026-03-25T20:15:49Z",
+    "run_at": "2026-03-25T20:15:49.359396+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 11
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Supermicro",
+      "Ampere",
+      "HireOn Tech",
+      "Avance Consulting"
+    ]
   }
 ]
