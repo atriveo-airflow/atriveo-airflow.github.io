@@ -1,0 +1,61 @@
+[
+  {
+    "session_id": "2026-03-25T20:01:49Z",
+    "run_at": "2026-03-25T20:01:49.737415+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": 4.6,
+      "max": 12,
+      "high": 4
+    },
+    "top_companies": [
+      "Robert Half",
+      "HireOn Tech",
+      "Avance Consulting",
+      "Applied Intuition",
+      "Turing"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:07:58Z",
+    "run_at": "2026-03-25T20:07:58.014477+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 13
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Ampere",
+      "Epsilon",
+      "Arcesium",
+      "HireOn Tech"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:09:58Z",
+    "run_at": "2026-03-25T20:09:58.507216+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": 7.5,
+      "max": 18,
+      "high": 5
+    },
+    "top_companies": [
+      "Robert Half",
+      "EXL",
+      "Supermicro",
+      "THRAYAM TECHNOLOGIES INC",
+      "HireOn Tech"
+    ]
+  }
+]
