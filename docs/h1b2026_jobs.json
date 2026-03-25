@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "IT Software Engineer 4",
+    "company": "EPITEC",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390625088",
+    "date_posted": null,
+    "priority_score": 13
+  },
+  {
+    "title": "Software Engineer - AI Engineering",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390268187",
+    "date_posted": null,
+    "priority_score": 5
+  }
+]
