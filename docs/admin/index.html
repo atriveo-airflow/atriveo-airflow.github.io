@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atriveo · Admin Analytics</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #080a10;
+      --surface:   #0e1018;
+      --surface-2: #161924;
+      --border:    #1e2230;
+      --text:      #f0f4ff;
+      --muted:     #6b7794;
+      --accent:    #0066FF;
+      --accent-2:  #3385FF;
+      --accent-glow: rgba(0,102,255,0.15);
+      --green:     #22c55e;
+      --teal:      #14b8a6;
+      --yellow:    #f59e0b;
+      --orange:    #f97316;
+      --red:       #ef4444;
+      --radius:    10px;
+      --radius-sm: 6px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .wrapper { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0;
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      gap: 16px;
+    }
+
+    .logo { display: flex; align-items: center; gap: 10px; }
+
+    .logo-icon {
+      width: 32px; height: 32px;
+      background: var(--accent);
+      border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 15px; font-weight: 800; color: #fff;
+    }
+
+    .logo-text { font-size: 17px; font-weight: 700; color: var(--text); }
+    .logo-badge {
+      font-size: 10px; font-weight: 600; letter-spacing: 0.08em;
+      text-transform: uppercase; color: var(--accent);
+      background: var(--accent-glow);
+      border: 1px solid rgba(0,102,255,0.3);
+      padding: 2px 7px; border-radius: 4px;
+    }
+
+    .back-btn {
+      font-size: 13px; color: var(--muted);
+      display: flex; align-items: center; gap: 5px;
+      padding: 6px 12px; border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .back-btn:hover { color: var(--text); border-color: var(--accent); text-decoration: none; }
+
+    /* ── Page body ── */
+    .page { padding: 28px 0 48px; }
+
+    .section { margin-bottom: 28px; }
+
+    .section-title {
+      font-size: 12px; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--muted);
+      margin-bottom: 12px;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .section-title::after {
+      content: ""; flex: 1; height: 1px; background: var(--border);
+    }
+
+    /* ── Overview stat cards ── */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 10px;
+    }
+
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      position: relative;
+      overflow: hidden;
+    }
+    .stat-card::before {
+      content: "";
+      position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: var(--accent);
+    }
+    .stat-card.c-green::before  { background: var(--green); }
+    .stat-card.c-yellow::before { background: var(--yellow); }
+    .stat-card.c-teal::before   { background: var(--teal); }
+    .stat-card.c-orange::before { background: var(--orange); }
+
+    .stat-value {
+      font-size: 28px; font-weight: 700; color: var(--text); line-height: 1.1;
+      margin-bottom: 4px;
+    }
+    .stat-label { font-size: 11px; color: var(--muted); font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
+    .stat-sub { font-size: 11px; color: var(--accent); margin-top: 4px; }
+
+    /* ── Two-col layout for charts ── */
+    .chart-row {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 14px;
+    }
+
+    @media (max-width: 900px) { .chart-row { grid-template-columns: 1fr; } }
+
+    /* ── Chart cards ── */
+    .chart-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 20px;
+    }
+
+    .chart-card-title {
+      font-size: 13px; font-weight: 600; color: var(--text);
+      margin-bottom: 16px; display: flex; align-items: center; justify-content: space-between;
+    }
+    .chart-card-title .badge {
+      font-size: 10px; font-weight: 600; color: var(--muted);
+      background: var(--surface-2); border: 1px solid var(--border);
+      padding: 2px 7px; border-radius: 4px;
+    }
+
+    /* ── Hourly heatmap ── */
+    .hourly-chart {
+      display: flex;
+      align-items: flex-end;
+      gap: 3px;
+      height: 100px;
+    }
+
+    .hour-col {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      height: 100%;
+      justify-content: flex-end;
+    }
+
+    .hour-bar {
+      width: 100%;
+      background: var(--accent);
+      border-radius: 3px 3px 0 0;
+      min-height: 2px;
+      transition: background 0.2s;
+      position: relative;
+    }
+    .hour-bar.peak { background: var(--accent-2); box-shadow: 0 0 8px rgba(0,102,255,0.5); }
+    .hour-bar.sleep { background: var(--border); }
+
+    .hour-bar:hover::after {
+      content: attr(data-tip);
+      position: absolute; bottom: calc(100% + 4px); left: 50%;
+      transform: translateX(-50%);
+      background: var(--surface-2); border: 1px solid var(--border);
+      color: var(--text); font-size: 11px; white-space: nowrap;
+      padding: 3px 8px; border-radius: 4px; pointer-events: none;
+      z-index: 10;
+    }
+
+    .hour-label {
+      font-size: 9px; color: var(--muted);
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      line-height: 1;
+      margin-top: 4px;
+    }
+
+    /* ── Daily trend chart ── */
+    .daily-chart {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .day-row {
+      display: grid;
+      grid-template-columns: 52px 1fr 40px;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .day-label { font-size: 11px; color: var(--muted); text-align: right; }
+    .day-count { font-size: 11px; color: var(--muted); text-align: right; }
+
+    .day-bar-wrap {
+      height: 18px;
+      background: var(--surface-2);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .day-bar {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 3px;
+      transition: width 0.4s ease;
+    }
+
+    /* ── Pipeline breakdown ── */
+    .pipe-list { display: flex; flex-direction: column; gap: 10px; }
+
+    .pipe-row { display: flex; flex-direction: column; gap: 4px; }
+    .pipe-header { display: flex; justify-content: space-between; font-size: 12px; }
+    .pipe-name { color: var(--text); font-weight: 500; }
+    .pipe-val  { color: var(--muted); }
+
+    .pipe-bar-wrap {
+      height: 6px; background: var(--surface-2); border-radius: 3px; overflow: hidden;
+    }
+    .pipe-bar {
+      height: 100%; border-radius: 3px;
+      transition: width 0.4s ease;
+    }
+
+    /* ── Recent runs table ── */
+    .table-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      overflow-x: auto;
+    }
+
+    table { width: 100%; border-collapse: collapse; }
+
+    thead th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.07em;
+      color: var(--muted); background: var(--bg);
+      border-bottom: 1px solid var(--border);
+    }
+
+    tbody td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px; vertical-align: middle;
+    }
+    tbody tr:last-child td { border-bottom: none; }
+    tbody tr:hover { background: var(--surface-2); }
+
+    .pill {
+      display: inline-block; padding: 2px 8px; border-radius: 99px;
+      font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em;
+    }
+    .pill-blue   { background: rgba(0,102,255,0.15);   color: var(--accent-2); }
+    .pill-green  { background: rgba(34,197,94,0.15);   color: var(--green); }
+    .pill-teal   { background: rgba(20,184,166,0.15);  color: var(--teal); }
+    .pill-yellow { background: rgba(245,158,11,0.15);  color: var(--yellow); }
+    .pill-orange { background: rgba(249,115,22,0.15);  color: var(--orange); }
+
+    .lvl-chip {
+      display: inline-block; padding: 1px 6px; border-radius: 3px;
+      font-size: 10px; font-weight: 600; margin-right: 3px;
+    }
+    .ng  { background: rgba(59,130,246,0.15);  color: #60a5fa; }
+    .en  { background: rgba(20,184,166,0.15);  color: var(--teal); }
+    .mid { background: rgba(249,115,22,0.15);  color: var(--orange); }
+
+    .loading { padding: 48px; text-align: center; color: var(--muted); }
+
+    /* ── Week selector ── */
+    .period-tabs {
+      display: flex; gap: 4px;
+    }
+    .period-tab {
+      padding: 4px 10px; border-radius: var(--radius-sm);
+      font-size: 11px; font-weight: 600; cursor: pointer;
+      border: 1px solid var(--border); background: none; color: var(--muted);
+      transition: all 0.15s;
+    }
+    .period-tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* ── Footer ── */
+    footer { padding: 24px 0; text-align: center; font-size: 12px; color: var(--muted); }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="wrapper">
+    <div class="header-inner">
+      <div class="logo">
+        <div class="logo-icon">A</div>
+        <span class="logo-text">Atriveo</span>
+        <span class="logo-badge">Admin</span>
+      </div>
+      <a class="back-btn" href="/">← Dashboard</a>
+    </div>
+  </div>
+</header>
+
+<div class="wrapper">
+<div class="page">
+
+  <!-- Stats overview -->
+  <div class="section">
+    <div class="section-title">At a Glance</div>
+    <div class="stats-grid">
+      <div class="stat-card c-green">
+        <div class="stat-value" id="stat-today-runs">—</div>
+        <div class="stat-label">Runs Today</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-week-runs">—</div>
+        <div class="stat-label">Runs This Week</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-total-runs">—</div>
+        <div class="stat-label">Total Runs Stored</div>
+      </div>
+      <div class="stat-card c-yellow">
+        <div class="stat-value" id="stat-avg-jobs">—</div>
+        <div class="stat-label">Avg Jobs / Run</div>
+        <div class="stat-sub">(standard pipeline)</div>
+      </div>
+      <div class="stat-card c-teal">
+        <div class="stat-value" id="stat-peak-hour">—</div>
+        <div class="stat-label">Peak Hour</div>
+        <div class="stat-sub" id="stat-peak-sub"></div>
+      </div>
+      <div class="stat-card c-orange">
+        <div class="stat-value" id="stat-today-jobs">—</div>
+        <div class="stat-label">Jobs Found Today</div>
+        <div class="stat-sub">(standard)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hourly + Pipeline side by side -->
+  <div class="section chart-row">
+    <div class="chart-card">
+      <div class="chart-card-title">
+        Hourly Activity — Average Jobs by Hour of Day
+        <span class="badge" id="hourly-badge">all data</span>
+      </div>
+      <div class="hourly-chart" id="hourly-chart">
+        <div class="loading">Loading…</div>
+      </div>
+      <div style="display:flex;gap:12px;margin-top:10px;font-size:11px;color:var(--muted)">
+        <span><span style="display:inline-block;width:10px;height:10px;background:var(--accent);border-radius:2px;margin-right:4px"></span>Active hours</span>
+        <span><span style="display:inline-block;width:10px;height:10px;background:var(--border);border-radius:2px;margin-right:4px"></span>Sleep window (1–8 AM)</span>
+        <span><span style="display:inline-block;width:10px;height:10px;background:var(--accent-2);border-radius:2px;margin-right:4px;box-shadow:0 0 6px rgba(0,102,255,0.5)"></span>Peak</span>
+      </div>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-card-title">Pipeline Breakdown</div>
+      <div class="pipe-list" id="pipe-breakdown">
+        <div class="loading">Loading…</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Daily trend -->
+  <div class="section">
+    <div class="chart-card">
+      <div class="chart-card-title">
+        Daily Trend — Standard Pipeline Jobs
+        <div class="period-tabs">
+          <button class="period-tab active" data-days="7"  onclick="setPeriod(7)">7d</button>
+          <button class="period-tab"        data-days="14" onclick="setPeriod(14)">14d</button>
+          <button class="period-tab"        data-days="30" onclick="setPeriod(30)">30d</button>
+        </div>
+      </div>
+      <div id="daily-chart">
+        <div class="loading">Loading…</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recent runs table -->
+  <div class="section">
+    <div class="section-title">Recent Runs</div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Pipeline</th>
+            <th>Jobs</th>
+            <th>Avg Score</th>
+            <th>Levels</th>
+            <th>Top Companies</th>
+          </tr>
+        </thead>
+        <tbody id="runs-tbody">
+          <tr><td colspan="6"><div class="loading">Loading…</div></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<footer>
+  Atriveo Job Pipeline &nbsp;·&nbsp; Admin Analytics
+  &nbsp;·&nbsp; <a href="/">Back to Dashboard</a>
+</footer>
+
+<script>
+  let allRuns = [];
+  let dailyPeriod = 7;
+
+  // ── Helpers ──────────────────────────────────────────────────────────────
+  const fmtHour = h => {
+    if (h === 0)  return "12a";
+    if (h === 12) return "12p";
+    return h < 12 ? `${h}a` : `${h-12}p`;
+  };
+
+  const fmtDate = iso => {
+    const d = new Date(iso);
+    return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+  };
+
+  const fmtTime = iso => {
+    const d = new Date(iso);
+    return d.toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit" });
+  };
+
+  const isToday = iso => {
+    const d = new Date(iso), n = new Date();
+    return d.getFullYear() === n.getFullYear() &&
+           d.getMonth() === n.getMonth() && d.getDate() === n.getDate();
+  };
+
+  const dayKey = iso => new Date(iso).toLocaleDateString("en-CA"); // YYYY-MM-DD
+
+  const SLEEP_HOURS = new Set([2,3,4,5,6,7]); // 1AM run is last active; 2-7 are sleep
+
+  const PIPE_COLORS = {
+    standard:  "var(--accent)",
+    important: "var(--teal)",
+    top500:    "var(--yellow)",
+    h1b2026:   "var(--orange)",
+    keywords:  "var(--green)",
+  };
+
+  const PIPE_LABELS = {
+    standard:  "Standard",
+    important: "Priority",
+    top500:    "Top 500",
+    h1b2026:   "H1B 2026",
+    keywords:  "My Keywords",
+  };
+
+  // ── Compute & render ─────────────────────────────────────────────────────
+  function compute(runs) {
+    const now = new Date();
+    const todayRuns  = runs.filter(r => isToday(r.run_at));
+    const weekCutoff = new Date(now - 7 * 86400000);
+    const weekRuns   = runs.filter(r => new Date(r.run_at) >= weekCutoff);
+    const stdRuns    = runs.filter(r => r.pipeline === "standard");
+
+    // Stats
+    document.getElementById("stat-today-runs").textContent  = todayRuns.length;
+    document.getElementById("stat-week-runs").textContent   = weekRuns.length;
+    document.getElementById("stat-total-runs").textContent  = runs.length;
+
+    if (stdRuns.length) {
+      const avg = Math.round(stdRuns.reduce((s,r) => s + (r.total_jobs||0), 0) / stdRuns.length);
+      document.getElementById("stat-avg-jobs").textContent = avg;
+    }
+
+    const todayStdJobs = todayRuns.filter(r=>r.pipeline==="standard")
+                                  .reduce((s,r) => s + (r.total_jobs||0), 0);
+    document.getElementById("stat-today-jobs").textContent = todayStdJobs;
+
+    // Hourly heatmap
+    const hourTotals = Array(24).fill(0);
+    const hourCounts = Array(24).fill(0);
+    stdRuns.forEach(r => {
+      const h = new Date(r.run_at).getHours();
+      hourTotals[h] += (r.total_jobs || 0);
+      hourCounts[h]++;
+    });
+    const hourAvgs = hourTotals.map((t,i) => hourCounts[i] ? Math.round(t/hourCounts[i]) : 0);
+    const maxAvg   = Math.max(...hourAvgs, 1);
+    const peakHour = hourAvgs.indexOf(Math.max(...hourAvgs));
+
+    document.getElementById("stat-peak-hour").textContent = fmtHour(peakHour);
+    document.getElementById("stat-peak-sub").textContent  = `avg ${hourAvgs[peakHour]} jobs`;
+    document.getElementById("hourly-badge").textContent   = `${stdRuns.length} standard runs`;
+
+    document.getElementById("hourly-chart").innerHTML = hourAvgs.map((avg, h) => {
+      const pct = Math.round((avg / maxAvg) * 100);
+      const sleep = SLEEP_HOURS.has(h);
+      const peak  = h === peakHour && avg > 0;
+      const cls   = peak ? "peak" : sleep ? "sleep" : "";
+      const tip   = `${fmtHour(h)}: avg ${avg} jobs`;
+      return `<div class="hour-col">
+        <div class="hour-bar ${cls}" style="height:${Math.max(pct,2)}%" data-tip="${tip}"></div>
+        <div class="hour-label">${fmtHour(h)}</div>
+      </div>`;
+    }).join("");
+
+    // Pipeline breakdown
+    const pipeMap = {};
+    runs.forEach(r => {
+      const p = r.pipeline || "standard";
+      if (!pipeMap[p]) pipeMap[p] = { runs: 0, total: 0 };
+      pipeMap[p].runs++;
+      pipeMap[p].total += (r.total_jobs || 0);
+    });
+    const pipeMax = Math.max(...Object.values(pipeMap).map(v=>v.total), 1);
+    const pipeOrder = ["standard","important","top500","h1b2026","keywords"];
+    document.getElementById("pipe-breakdown").innerHTML = pipeOrder
+      .filter(p => pipeMap[p])
+      .map(p => {
+        const d = pipeMap[p];
+        const pct = Math.round((d.total / pipeMax) * 100);
+        const color = PIPE_COLORS[p] || "var(--accent)";
+        const label = PIPE_LABELS[p] || p;
+        return `<div class="pipe-row">
+          <div class="pipe-header">
+            <span class="pipe-name">${label}</span>
+            <span class="pipe-val">${d.total} jobs · ${d.runs} runs</span>
+          </div>
+          <div class="pipe-bar-wrap">
+            <div class="pipe-bar" style="width:${pct}%;background:${color}"></div>
+          </div>
+        </div>`;
+      }).join("");
+  }
+
+  function renderDailyChart(days) {
+    const stdRuns = allRuns.filter(r => r.pipeline === "standard");
+    const cutoff  = new Date(Date.now() - days * 86400000);
+    const recent  = stdRuns.filter(r => new Date(r.run_at) >= cutoff);
+
+    // Group by day
+    const dayMap = {};
+    recent.forEach(r => {
+      const k = dayKey(r.run_at);
+      dayMap[k] = (dayMap[k] || 0) + (r.total_jobs || 0);
+    });
+
+    // Fill all days (even empty ones)
+    const rows = [];
+    for (let i = days - 1; i >= 0; i--) {
+      const d   = new Date(Date.now() - i * 86400000);
+      const k   = d.toLocaleDateString("en-CA");
+      const lbl = d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+      rows.push({ k, lbl, val: dayMap[k] || 0 });
+    }
+
+    const maxVal = Math.max(...rows.map(r=>r.val), 1);
+
+    document.getElementById("daily-chart").innerHTML =
+      `<div class="daily-chart">${rows.map(r => {
+        const pct = Math.round((r.val / maxVal) * 100);
+        return `<div class="day-row">
+          <div class="day-label">${r.lbl}</div>
+          <div class="day-bar-wrap">
+            <div class="day-bar" style="width:${pct}%"></div>
+          </div>
+          <div class="day-count">${r.val}</div>
+        </div>`;
+      }).join("")}</div>`;
+  }
+
+  function renderRunsTable(runs) {
+    const recent = [...runs].reverse().slice(0, 50);
+    document.getElementById("runs-tbody").innerHTML = recent.map(r => {
+      const label  = PIPE_LABELS[r.pipeline] || r.pipeline;
+      const color  = PIPE_COLORS[r.pipeline] || "var(--accent)";
+      const lvls   = r.levels || {};
+      const ng = lvls["New Grad"] || 0;
+      const en = lvls["Entry"]    || 0;
+      const md = lvls["Mid"]      || 0;
+      const avg    = r.scores && r.scores.avg != null ? r.scores.avg : "—";
+      const tops   = (r.top_companies || []).slice(0, 3).join(", ") || "—";
+      const d      = new Date(r.run_at);
+      const ts     = isToday(r.run_at)
+        ? "Today " + fmtTime(r.run_at)
+        : fmtDate(r.run_at) + " " + fmtTime(r.run_at);
+
+      return `<tr>
+        <td style="white-space:nowrap">${ts}</td>
+        <td><span class="pill" style="background:${color}22;color:${color}">${label}</span></td>
+        <td style="font-weight:600">${r.total_jobs || 0}</td>
+        <td>${avg}</td>
+        <td>
+          ${ng ? `<span class="lvl-chip ng">${ng} NG</span>` : ""}
+          ${en ? `<span class="lvl-chip en">${en} En</span>` : ""}
+          ${md ? `<span class="lvl-chip mid">${md} Mid</span>` : ""}
+        </td>
+        <td style="font-size:12px;color:var(--muted)">${tops}</td>
+      </tr>`;
+    }).join("");
+  }
+
+  // ── Period toggle ─────────────────────────────────────────────────────────
+  function setPeriod(days) {
+    dailyPeriod = days;
+    document.querySelectorAll(".period-tab").forEach(b => {
+      b.classList.toggle("active", +b.dataset.days === days);
+    });
+    renderDailyChart(days);
+  }
+
+  // ── Load ──────────────────────────────────────────────────────────────────
+  fetch("../run_history.json")
+    .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then(data => {
+      allRuns = data || [];
+      compute(allRuns);
+      renderDailyChart(dailyPeriod);
+      renderRunsTable(allRuns);
+    })
+    .catch(err => {
+      document.getElementById("runs-tbody").innerHTML =
+        `<tr><td colspan="6" style="padding:32px;text-align:center;color:var(--muted)">
+          Could not load run_history.json — run the pipeline at least once with --deploy.<br>
+          <small>${err.message}</small>
+        </td></tr>`;
+    });
+</script>
+</body>
+</html>
