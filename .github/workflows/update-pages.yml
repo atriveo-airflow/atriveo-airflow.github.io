@@ -34,7 +34,12 @@ jobs:
           from datetime import datetime, timezone
           from pymongo import MongoClient
 
-          client = MongoClient(os.environ["MONGO_URI"], tlsCAFile=certifi.where())
+          client = MongoClient(
+              os.environ["MONGO_URI"],
+              tlsCAFile=certifi.where(),
+              tlsAllowInvalidCertificates=True,
+              serverSelectionTimeoutMS=30000,
+          )
           db = client["job_pipeline"]
 
           def export_pipeline(pipeline):
