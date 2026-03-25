@@ -567,6 +567,111 @@
     .empty .icon { font-size: 36px; margin-bottom: 10px; }
     .empty .msg  { font-size: 14px; }
 
+    /* ── Run History Modal ── */
+    .run-modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.65);
+      backdrop-filter: blur(4px);
+      z-index: 100;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 40px 16px;
+      overflow-y: auto;
+    }
+    .run-modal-overlay.open { display: flex; }
+
+    .run-modal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      width: 100%;
+      max-width: 1100px;
+      display: flex;
+      flex-direction: column;
+      max-height: calc(100vh - 80px);
+    }
+
+    .run-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    .run-modal-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .run-modal-close {
+      background: none;
+      border: none;
+      color: var(--muted);
+      font-size: 20px;
+      cursor: pointer;
+      line-height: 1;
+      padding: 4px 8px;
+      border-radius: 4px;
+      transition: background 0.15s;
+    }
+    .run-modal-close:hover { background: var(--surface-2); color: var(--text); }
+
+    .run-modal-body {
+      overflow-y: auto;
+      flex: 1;
+    }
+
+    .run-modal-body table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .run-modal-body thead th {
+      padding: 10px 14px;
+      text-align: left;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--muted);
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+    }
+
+    .run-modal-body tbody td {
+      padding: 10px 14px;
+      border-bottom: 1px solid var(--border);
+      font-size: 13px;
+      vertical-align: middle;
+    }
+
+    .run-modal-body tbody tr:last-child td { border-bottom: none; }
+    .run-modal-body tbody tr:hover { background: var(--surface-2); }
+
+    .run-modal-empty {
+      padding: 48px 20px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    /* clickable run cards */
+    .run-card {
+      cursor: pointer;
+      transition: border-color 0.15s, transform 0.1s;
+    }
+    .run-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
     /* ── Footer ── */
     footer {
       padding: 28px 0 32px;
@@ -644,6 +749,19 @@
     <div class="stat-card c-purple">
       <div class="stat-value" id="stat-new-grad">—</div>
       <div class="stat-label">New Grad Roles</div>
+    </div>
+  </div>
+
+  <!-- Run Snapshot Modal -->
+  <div class="run-modal-overlay" id="run-modal-overlay" onclick="closeRunModal(event)">
+    <div class="run-modal">
+      <div class="run-modal-header">
+        <div class="run-modal-title" id="run-modal-title">Run Details</div>
+        <button class="run-modal-close" onclick="closeRunModal()">&#x2715;</button>
+      </div>
+      <div class="run-modal-body" id="run-modal-body">
+        <div class="run-modal-empty">Loading…</div>
+      </div>
     </div>
   </div>
 
@@ -798,7 +916,10 @@
       const avgScore = run.scores && run.scores.avg != null ? run.scores.avg : null;
       const pipeLabel = run.pipeline === "important" ? "Priority" : "Standard";
 
-      return `<div class="run-card" style="--bar:${barPct}%">
+      const snapAttr = run.snapshot_file
+        ? `data-snapshot="${run.snapshot_file}" data-label="${timeStr} · ${dateStr} · ${pipeLabel}"`
+        : "";
+      return `<div class="run-card" style="--bar:${barPct}%" ${snapAttr} onclick="handleRunCardClick(this)">
         <div style="position:absolute;left:0;bottom:0;height:3px;background:var(--accent);width:${barPct}%"></div>
         <div class="run-time">${timeStr}</div>
         <div class="run-pipeline">${dateStr} · ${pipeLabel}</div>
@@ -809,6 +930,7 @@
           ${md ? `<span class="run-lvl md">${md} Mid</span>` : ""}
         </div>
         ${avgScore !== null ? `<div class="run-score">avg score ${avgScore}</div>` : ""}
+        ${run.snapshot_file ? `<div class="run-score" style="color:var(--accent);margin-top:4px">click to view ›</div>` : ""}
       </div>`;
     }).join("");
   }
@@ -1064,6 +1186,94 @@
     query = e.target.value;
     render();
   });
+
+  // ── Run Snapshot Modal ─────────────────────────────────────────────────────
+  function handleRunCardClick(card) {
+    const snapshotFile = card.dataset.snapshot;
+    const label        = card.dataset.label || "Run Details";
+    if (!snapshotFile) return;
+    openRunModal(snapshotFile, label);
+  }
+
+  function openRunModal(snapshotFile, label) {
+    document.getElementById("run-modal-title").textContent = label;
+    document.getElementById("run-modal-body").innerHTML =
+      `<div class="run-modal-empty">Loading jobs…</div>`;
+    document.getElementById("run-modal-overlay").classList.add("open");
+    document.body.style.overflow = "hidden";
+
+    fetch(`runs/${snapshotFile}`)
+      .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+      .then(jobs => renderModalJobs(jobs))
+      .catch(err => {
+        document.getElementById("run-modal-body").innerHTML =
+          `<div class="run-modal-empty">Could not load snapshot.<br><small>${err.message}</small></div>`;
+      });
+  }
+
+  function closeRunModal(evt) {
+    // Close only when clicking the overlay background or the × button (not modal contents)
+    if (evt && evt.target !== document.getElementById("run-modal-overlay")) return;
+    document.getElementById("run-modal-overlay").classList.remove("open");
+    document.body.style.overflow = "";
+  }
+
+  // Close on Escape key
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") {
+      document.getElementById("run-modal-overlay").classList.remove("open");
+      document.body.style.overflow = "";
+    }
+  });
+
+  function renderModalJobs(jobs) {
+    if (!jobs || !jobs.length) {
+      document.getElementById("run-modal-body").innerHTML =
+        `<div class="run-modal-empty">No jobs in this snapshot.</div>`;
+      return;
+    }
+
+    const scoreKey = jobs[0].hasOwnProperty("priority_score") ? "priority_score" : "score";
+
+    const rows = jobs.map(j => {
+      const company = j.company || "—";
+      const score   = j[scoreKey] != null ? j[scoreKey] : "—";
+      const posted  = j.date_posted
+        ? new Date(j.date_posted).toLocaleDateString("en-US", { month: "short", day: "numeric" })
+        : "—";
+      const lvl = j.level || "Entry";
+      const lvlClass = lvl === "New Grad" ? "ng" : lvl === "Mid" ? "mid" : "entry";
+      const applyBtn = j.job_url
+        ? `<a href="${j.job_url}" target="_blank" rel="noopener" class="apply-btn">Apply ↗</a>`
+        : "—";
+
+      return `<tr>
+        <td style="max-width:320px;white-space:normal">${j.title || "—"}</td>
+        <td>${company}</td>
+        <td style="max-width:160px;white-space:normal;font-size:12px">${j.location || "Remote"}</td>
+        <td><span class="lvl-badge ${lvlClass}">${lvl}</span></td>
+        <td style="font-weight:600;color:var(--accent)">${score}</td>
+        <td>${posted}</td>
+        <td>${applyBtn}</td>
+      </tr>`;
+    }).join("");
+
+    document.getElementById("run-modal-body").innerHTML = `
+      <table>
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Company</th>
+            <th>Location</th>
+            <th>Level</th>
+            <th>Score</th>
+            <th>Posted</th>
+            <th>Apply</th>
+          </tr>
+        </thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  }
 
   // ── Boot ───────────────────────────────────────────────────────────────────
   loadAll();
