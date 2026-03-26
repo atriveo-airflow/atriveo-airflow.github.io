@@ -9,12 +9,21 @@
     "priority_score": 13
   },
   {
-    "title": "Software Engineer - AI Engineering",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
+    "title": "Junior Software Engineer",
+    "company": "Akkodis",
+    "location": "Westlake, OH",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390268187",
+    "job_url": "https://www.linkedin.com/jobs/view/4390042735",
     "date_posted": null,
-    "priority_score": 5
+    "priority_score": 6
+  },
+  {
+    "title": "Software Engineer in Test",
+    "company": "Pacer Group",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390279463",
+    "date_posted": null,
+    "priority_score": 6
   }
 ]
