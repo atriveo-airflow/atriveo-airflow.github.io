@@ -474,5 +474,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T14-10-46Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T14:13:32Z",
+    "run_at": "2026-03-26T14:13:32.629045+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 19,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Winaxis LLC",
+      "BioSpace",
+      "Tential Solutions",
+      "UBS"
+    ],
+    "snapshot_file": "2026-03-26T14-13-32Z_keywords.json"
   }
 ]
