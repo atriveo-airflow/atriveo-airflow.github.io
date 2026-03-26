@@ -118,5 +118,26 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T09-02-47Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T09:04:03Z",
+    "run_at": "2026-03-26T09:04:03.183979+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 4.7,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Oracle",
+      "Spring Health",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T09-04-03Z_top500.json"
   }
 ]
