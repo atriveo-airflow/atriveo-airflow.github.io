@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Software Engineer III, Full Stack, Chrome",
+    "company": "Google",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4380026987",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product",
+    "company": "Meta",
+    "location": "Bellevue, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4255809879",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, AI Native",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4378159495",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Google Cloud Storage",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4380041260",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Member Growth, Retention",
+    "company": "Spring Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391036722",
+    "date_posted": null,
+    "priority_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Android",
+    "company": "Meta",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4254371632",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer Intern",
+    "company": "Nokia",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4348990503",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, iOS",
+    "company": "Meta",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4254370677",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Meta",
+    "location": "Redmond, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4301812138",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer, Firmware",
+    "company": "Meta",
+    "location": "Redmond, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4301811226",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
+  }
+]
