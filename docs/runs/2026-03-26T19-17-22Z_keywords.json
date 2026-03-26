@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Software Engineer, Code Generation",
+    "company": "MongoDB",
+    "location": "California, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4328695360",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Analyst - Software Developer",
+    "company": "Nasdaq",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391149193",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Tanium",
+    "location": "Durham, NC",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379693804",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Software Engineer - Palantir",
+    "company": "Akkodis",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391484944",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Merge",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4267854541",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Arizona, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309803103",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer(C/C++)",
+    "company": "BayOne Solutions",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391481559",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Futran Solutions",
+    "location": "Mossville, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391134716",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, GenAI",
+    "company": "Abridge",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4381149263",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
