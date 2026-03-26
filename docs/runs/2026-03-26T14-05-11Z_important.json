@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Software Engineer, Platform Infrastructure",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4365028408",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product",
+    "company": "Meta",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4255811849",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  }
+]
