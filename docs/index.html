@@ -531,6 +531,12 @@
 
   const scoreColor = s => s >= 12 ? "score-hi" : s >= 6 ? "score-md" : "";
 
+  const fmtBatch = iso => {
+    if (!iso) return null;
+    const d = new Date(iso);
+    return d.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", hour12: true });
+  };
+
   const levelClass = l => ({ "New Grad": "badge-ng", "Mid": "badge-mid" }[l] || "badge-entry");
 
   // Build a lookup set from a jobs array keyed by job_url
@@ -569,9 +575,10 @@
     if (sortBy === "score") {
       jobs.sort((a, b) => (b.score ?? b.priority_score ?? 0) - (a.score ?? a.priority_score ?? 0));
     } else {
+      // Prefer batch_time (when pipeline found it) over date_posted (LinkedIn date)
       jobs.sort((a, b) => {
-        const ta = a.date_posted ? new Date(a.date_posted).getTime() : 0;
-        const tb = b.date_posted ? new Date(b.date_posted).getTime() : 0;
+        const ta = (a.batch_time || a.date_posted) ? new Date(a.batch_time || a.date_posted).getTime() : 0;
+        const tb = (b.batch_time || b.date_posted) ? new Date(b.batch_time || b.date_posted).getTime() : 0;
         return tb - ta;
       });
     }
@@ -600,6 +607,7 @@
       const score   = j.score ?? j.priority_score ?? 0;
       const lvl     = j.level || "Entry";
       const posted  = fmtDate(j.date_posted);
+      const batch   = fmtBatch(j.batch_time);
       const isNew   = posted === "Today";
       const isH1b   = h1bSet.has(j.job_url);
       const isPri   = prioritySet.has(j.job_url);
@@ -621,6 +629,7 @@
             <span>${j.location || "Remote"}</span>
             <span class="sep">·</span>
             <span class="badge ${levelClass(lvl)}">${lvl}</span>
+            ${batch ? `<span class="sep">·</span><span style="color:var(--accent);font-weight:600">⏱ ${batch}</span>` : ""}
           </div>
         </div>
         <div class="job-right">
