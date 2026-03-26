@@ -1,42 +1,52 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Voltus",
-    "location": "",
+    "title": "Software Engineer - Hybrid/Bellevue, WA",
+    "company": "Brook Health",
+    "location": "Bellevue, WA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390672806",
+    "job_url": "https://www.linkedin.com/jobs/view/4390671959",
     "date_posted": null,
-    "score": 15,
+    "score": 24,
     "competition_score": 1
   },
   {
-    "title": "Software Engineer - Founder's Office",
-    "company": "CommerceIQ",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer",
+    "company": "project44",
+    "location": "Chicago, IL",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390284472",
+    "job_url": "https://www.linkedin.com/jobs/view/4376832205",
     "date_posted": null,
     "score": 13,
     "competition_score": 1
   },
   {
-    "title": "Software Engineer, Embedded Linux (IP Networking)",
-    "company": "TrellisWare Technologies",
-    "location": "San Diego, CA",
+    "title": "Software Engineer",
+    "company": "Intellect Group",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4338448076",
+    "job_url": "https://www.linkedin.com/jobs/view/4390539100",
     "date_posted": null,
-    "score": 3,
-    "competition_score": 0
+    "score": 11,
+    "competition_score": 1
   },
   {
     "title": "Software Engineer",
-    "company": "Calidar",
-    "location": "",
+    "company": "HORIBA",
+    "location": "Ann Arbor, MI",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390394907",
+    "job_url": "https://www.linkedin.com/jobs/view/4390693068",
     "date_posted": null,
-    "score": 0,
+    "score": 3,
+    "competition_score": 1
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Tamagrow",
+    "location": "Tempe, AZ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390436015",
+    "date_posted": null,
+    "score": 2,
     "competition_score": 1
   }
 ]
