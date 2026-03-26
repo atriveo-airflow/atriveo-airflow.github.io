@@ -1,42 +1,62 @@
 [
   {
-    "title": "Software Developer 3",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391914006",
-    "date_posted": null,
-    "priority_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer 2",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
-    "date_posted": null,
-    "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer III.",
-    "company": "Pyramid Consulting, Inc",
-    "location": "Burlingame, CA",
+    "title": "Software Engineer III, Full Stack, Google Chrome",
+    "company": "Google",
+    "location": "Seattle, WA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391153784",
-    "date_posted": null,
-    "priority_score": 6,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=cbbc2794b17fae85",
+    "date_posted": 1774483200000,
+    "priority_score": 8,
+    "site": "indeed"
   },
   {
-    "title": "Software Engineer",
-    "company": "Tyler Technologies",
-    "location": "Falmouth, ME",
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=f32eda3aba6f11b8",
+    "date_posted": 1774483200000,
+    "priority_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Search",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=61e0b2c000f6d3b4",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390760787",
+    "job_url": "https://www.indeed.com/viewjob?jk=50f08d196eb49a9b",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Android TV",
+    "company": "Google",
+    "location": "San Jose, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=d964b39b9933d260",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Agentic AI Platform - Moveworks",
+    "company": "ServiceNow",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391906537",
     "date_posted": null,
-    "priority_score": 6,
+    "priority_score": 2,
     "site": "linkedin"
   }
 ]
