@@ -221,5 +221,27 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T12-05-47Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T12:08:52Z",
+    "run_at": "2026-03-26T12:08:52.773290+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 3.5,
+      "max": 8,
+      "high": 4
+    },
+    "top_companies": [
+      "Meta",
+      "Google",
+      "Spring Health",
+      "Nokia"
+    ],
+    "snapshot_file": "2026-03-26T12-08-52Z_top500.json"
   }
 ]
