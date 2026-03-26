@@ -1,10 +1,20 @@
 [
   {
-    "title": "Software Engineer, Google Cloud Storage",
-    "company": "Google",
-    "location": "Durham, NC",
+    "title": "Software Engineer, Platform Infrastructure",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
+    "job_url": "https://www.linkedin.com/jobs/view/4365028408",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
     "date_posted": null,
     "priority_score": 8,
     "site": "linkedin"
@@ -17,56 +27,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4255811849",
     "date_posted": null,
     "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, AI Native",
-    "company": "Meta",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378158733",
-    "date_posted": null,
-    "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Android",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254368768",
-    "date_posted": null,
-    "priority_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Mobile (iOS), Extended Reality",
-    "company": "Google",
-    "location": "San Jose, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380436651",
-    "date_posted": null,
-    "priority_score": 2,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, iOS",
-    "company": "Meta",
-    "location": "Menlo Park, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254370675",
-    "date_posted": null,
-    "priority_score": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Meta",
-    "location": "Burlingame, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301803390",
-    "date_posted": null,
-    "priority_score": 0,
     "site": "linkedin"
   }
 ]
