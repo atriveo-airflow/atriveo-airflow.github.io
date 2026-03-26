@@ -457,5 +457,22 @@
       "project44"
     ],
     "snapshot_file": "2026-03-26T03-02-35Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T03:04:07Z",
+    "run_at": "2026-03-26T03:04:07.074471+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Brook Health",
+      "project44",
+      "Intellect Group",
+      "HORIBA"
+    ],
+    "snapshot_file": "2026-03-26T03-04-07Z_keywords.json"
   }
 ]
