@@ -11,17 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer \u2013 Distributed Systems (Real-Time Trading Platforms)",
-    "company": "Intellibus",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390719672",
-    "date_posted": null,
-    "score": 20,
-    "competition_score": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer \u2013 High-Scale Financial Systems (Kafka / Node / Azure)",
     "company": "Intellibus",
     "location": "Jersey City, NJ",
@@ -30,6 +19,17 @@
     "date_posted": null,
     "score": 20,
     "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer \u2013 Distributed Systems (Real-Time Trading Platforms)",
+    "company": "Intellibus",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390719672",
+    "date_posted": null,
+    "score": 20,
+    "competition_score": 0,
     "site": "linkedin"
   },
   {
@@ -110,6 +110,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "iSoftStone",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4378981044",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Data Platform",
     "company": "Lyft",
     "location": "San Francisco County, CA",
@@ -176,17 +187,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer, Motor Inverter",
-    "company": "Joby Aviation",
-    "location": "Santa Cruz, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4340986141",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, GenAI",
     "company": "Wiraa",
     "location": "",
@@ -198,14 +198,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Virtusa",
-    "location": "New York, NY",
+    "title": "Embedded Software Engineer, Motor Inverter",
+    "company": "Joby Aviation",
+    "location": "Santa Cruz, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390549178",
+    "job_url": "https://www.linkedin.com/jobs/view/4340986141",
     "date_posted": null,
     "score": 1,
-    "competition_score": 1,
+    "competition_score": 0,
     "site": "linkedin"
   },
   {
