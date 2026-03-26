@@ -306,5 +306,25 @@
       "CareerXperts Consulting"
     ],
     "snapshot_file": "2026-03-26T13-02-34Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T13:05:12Z",
+    "run_at": "2026-03-26T13:05:12.781764+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 3.6,
+      "max": 8,
+      "high": 3
+    },
+    "top_companies": [
+      "Meta",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T13-05-12Z_important.json"
   }
 ]
