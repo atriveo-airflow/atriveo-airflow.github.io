@@ -139,5 +139,25 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T09-04-03Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T09:05:38Z",
+    "run_at": "2026-03-26T09:05:38.644867+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 5.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Oracle",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T09-05-38Z_h1b2026.json"
   }
 ]
