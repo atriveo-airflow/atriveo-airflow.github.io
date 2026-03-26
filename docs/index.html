@@ -895,42 +895,57 @@
   }[lvl] || "lvl-entry");
 
   // ── Run history rendering ──────────────────────────────────────────────────
+  const PIPE_LABEL = {
+    standard: "Standard", important: "Priority",
+    top500: "Top 500", h1b2026: "H1B 2026", keywords: "Keywords",
+  };
+
   function renderRunHistory(history) {
     if (!history || !history.length) return;
 
-    // Show only the last 12 entries, newest first
-    const recent = [...history].reverse().slice(0, 12);
+    // Group by local-time hour bucket → one card per cron run.
+    // Within a bucket, prefer "standard" pipeline (most jobs + has snapshot).
+    const hourMap = new Map();
+    [...history].reverse().forEach(run => {
+      const d = new Date(run.run_at);
+      const key = `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}-${d.getHours()}`;
+      const cur = hourMap.get(key);
+      if (!cur || (run.pipeline === "standard" && cur.pipeline !== "standard")) {
+        hourMap.set(key, run);
+      }
+    });
+
+    const recent = [...hourMap.values()].slice(0, 12);
     const maxTotal = Math.max(...recent.map(r => r.total_jobs || 0), 1);
 
     document.getElementById("runs-section").style.display = "";
     document.getElementById("runs-grid").innerHTML = recent.map(run => {
       const d = new Date(run.run_at);
-      const timeStr = d.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
-      const dateStr = d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
-      const total   = run.total_jobs || 0;
-      const barPct  = Math.round((total / maxTotal) * 100);
-      const lvls    = run.levels || {};
-      const ng      = lvls["New Grad"] || 0;
-      const en      = lvls["Entry"]    || 0;
-      const md      = lvls["Mid"]      || 0;
+      const timeStr  = d.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+      const dateStr  = d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+      const total    = run.total_jobs || 0;
+      const barPct   = Math.round((total / maxTotal) * 100);
+      const lvls     = run.levels || {};
+      const ng       = lvls["New Grad"] || 0;
+      const en       = lvls["Entry"]    || 0;
+      const md       = lvls["Mid"]      || 0;
       const avgScore = run.scores && run.scores.avg != null ? run.scores.avg : null;
-      const pipeLabel = run.pipeline === "important" ? "Priority" : "Standard";
 
       const snapAttr = run.snapshot_file
-        ? `data-snapshot="${run.snapshot_file}" data-label="${timeStr} · ${dateStr} · ${pipeLabel}"`
+        ? `data-snapshot="${run.snapshot_file}" data-label="${timeStr} · ${dateStr}"`
         : "";
       return `<div class="run-card" style="--bar:${barPct}%" ${snapAttr} onclick="handleRunCardClick(this)">
         <div style="position:absolute;left:0;bottom:0;height:3px;background:var(--accent);width:${barPct}%"></div>
         <div class="run-time">${timeStr}</div>
-        <div class="run-pipeline">${dateStr} · ${pipeLabel}</div>
+        <div class="run-pipeline">${dateStr}</div>
         <div class="run-total">${total}</div>
         <div class="run-levels">
           ${ng ? `<span class="run-lvl ng">${ng} NG</span>` : ""}
           ${en ? `<span class="run-lvl en">${en} En</span>` : ""}
           ${md ? `<span class="run-lvl md">${md} Mid</span>` : ""}
         </div>
-        ${avgScore !== null ? `<div class="run-score">avg score ${avgScore}</div>` : ""}
-        ${run.snapshot_file ? `<div class="run-score" style="color:var(--accent);margin-top:4px">click to view ›</div>` : ""}
+        ${avgScore !== null ? `<div class="run-score">avg ${avgScore}</div>` : ""}
+        ${run.snapshot_file ? `<div class="run-score" style="color:var(--accent);margin-top:3px">tap to view ›</div>` : ""}
       </div>`;
     }).join("");
   }
