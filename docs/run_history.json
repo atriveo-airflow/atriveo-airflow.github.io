@@ -1132,5 +1132,27 @@
       "Rippling"
     ],
     "snapshot_file": "2026-03-26T21-05-25Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T21:08:49Z",
+    "run_at": "2026-03-26T21:08:49.624625+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 4,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": 5.4,
+      "max": 16,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "Leidos",
+      "Garmin",
+      "ServiceNow"
+    ],
+    "snapshot_file": "2026-03-26T21-08-49Z_top500.json"
   }
 ]
