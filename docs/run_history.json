@@ -1337,5 +1337,26 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T23-08-33Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T23:11:40Z",
+    "run_at": "2026-03-26T23:11:40.219627+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 7.0,
+      "max": 8,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "NetApp",
+      "Capgemini"
+    ],
+    "snapshot_file": "2026-03-26T23-11-40Z_h1b2026.json"
   }
 ]
