@@ -1,42 +1,22 @@
 [
   {
-    "title": "Software Engineer, Stablecoins",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
+    "title": "Java Software Engineer",
+    "company": "HCL Global Systems Inc",
+    "location": "North Carolina, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4364997808",
+    "job_url": "https://www.linkedin.com/jobs/view/4391076437",
     "date_posted": null,
-    "priority_score": 11,
+    "priority_score": 15,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Google Cloud Storage",
-    "company": "Google",
-    "location": "Durham, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - Python - Developer Tools - Search",
-    "company": "Elastic",
-    "location": "",
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "New York, NY",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4371063019",
+    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
     "date_posted": null,
     "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Accounting",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4364919811",
-    "date_posted": null,
-    "priority_score": 7,
     "site": "linkedin"
   },
   {
@@ -47,56 +27,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4255811849",
     "date_posted": null,
     "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Android",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254368768",
-    "date_posted": null,
-    "priority_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
-    "company": "Google",
-    "location": "Cambridge, MA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4379657347",
-    "date_posted": null,
-    "priority_score": 2,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, iOS",
-    "company": "Meta",
-    "location": "Menlo Park, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254370675",
-    "date_posted": null,
-    "priority_score": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Meta",
-    "location": "Burlingame, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301803390",
-    "date_posted": null,
-    "priority_score": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer, Firmware",
-    "company": "Meta",
-    "location": "San Diego, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301811227",
-    "date_posted": null,
-    "priority_score": 0,
     "site": "linkedin"
   }
 ]
