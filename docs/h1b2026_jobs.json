@@ -1,12 +1,52 @@
 [
   {
     "title": "Software Engineer",
-    "company": "Akamai Technologies",
-    "location": "Cambridge, MA",
+    "company": "Optum",
+    "location": "Eden Prairie, MN, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
+    "job_url": "https://www.indeed.com/viewjob?jk=3b6ee3b702a37e1c",
+    "date_posted": 1774483200000,
+    "priority_score": 15,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Platform Infrastructure",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4365028408",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390863734",
+    "date_posted": null,
+    "priority_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
     "date_posted": null,
     "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, YouTube Ads, User Experiences",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4380001223",
+    "date_posted": null,
+    "priority_score": 5,
     "site": "linkedin"
   }
 ]
