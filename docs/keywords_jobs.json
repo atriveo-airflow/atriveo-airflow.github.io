@@ -20,16 +20,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Accounts",
-    "company": "Vercel",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4343013509",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer (SWE I / SWE II)",
     "company": "BigHat Biosciences",
     "location": "San Mateo, CA",
@@ -60,21 +50,11 @@
     "site": "linkedin"
   },
   {
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "Future Kids",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390898495",
-    "date_posted": null,
-    "keyword_score": 11,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II",
     "company": "Microsoft",
-    "location": "",
+    "location": "Redmond, WA",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390894419",
+    "job_url": "https://www.linkedin.com/jobs/view/4390887648",
     "date_posted": null,
     "keyword_score": 11,
     "site": "linkedin"
@@ -85,6 +65,16 @@
     "location": "Ankeny, IA",
     "level": "Entry",
     "job_url": "https://www.linkedin.com/jobs/view/4391090491",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Mobile Software Engineer",
+    "company": "DataAnnotation",
+    "location": "North Carolina, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4334529932",
     "date_posted": null,
     "keyword_score": 9,
     "site": "linkedin"
@@ -110,6 +100,16 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer I WSI",
+    "company": "V2X Inc",
+    "location": "Indianapolis, IN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4385571393",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer in Test",
     "company": "Qorali",
     "location": "Chicago, IL",
@@ -127,6 +127,26 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391094422",
     "date_posted": null,
     "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Lowell, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4376213179",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer- Design Systems",
+    "company": "DataAnnotation",
+    "location": "Minnesota, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309689995",
+    "date_posted": null,
+    "keyword_score": 6,
     "site": "linkedin"
   },
   {
