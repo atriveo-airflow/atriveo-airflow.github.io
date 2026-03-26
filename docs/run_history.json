@@ -264,5 +264,24 @@
       "Applied Intuition"
     ],
     "snapshot_file": "2026-03-26T12-11-50Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T12:14:53Z",
+    "run_at": "2026-03-26T12:14:53.308765+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Meta",
+      "Turing",
+      "Wiraa",
+      "Moody's Corporation",
+      "Qualcomm"
+    ],
+    "snapshot_file": "2026-03-26T12-14-53Z_keywords.json"
   }
 ]
