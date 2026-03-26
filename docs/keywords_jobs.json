@@ -1,42 +1,132 @@
 [
   {
-    "title": "Software Engineer | Remote",
-    "company": "CareerXperts Consulting",
-    "location": "",
+    "title": "Software Engineer",
+    "company": "Winaxis LLC",
+    "location": "Boston, MA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391056606",
+    "job_url": "https://www.linkedin.com/jobs/view/4390865743",
     "date_posted": null,
-    "keyword_score": 23,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
-    "title": "Kotlin Software Engineer",
-    "company": "ejobs Finland",
-    "location": "New York, NY",
+    "title": "Software Engineer - Fixed Duration",
+    "company": "BioSpace",
+    "location": "Indianapolis, IN",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390716039",
+    "job_url": "https://www.linkedin.com/jobs/view/4390874277",
     "date_posted": null,
-    "keyword_score": 20,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Stablecoins",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Tential Solutions",
+    "location": "Baltimore, MD",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4364997808",
+    "job_url": "https://www.linkedin.com/jobs/view/4390866806",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Periodic KYC Reviews",
+    "company": "UBS",
+    "location": "Weehawken, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4379698788",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390863734",
     "date_posted": null,
     "keyword_score": 13,
     "site": "linkedin"
   },
   {
-    "title": "Infrastructure Software Engineer-Network",
-    "company": "Motion Recruitment",
-    "location": "Columbus, OH",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Texas, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380990206",
+    "job_url": "https://www.linkedin.com/jobs/view/4391074824",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java/Javascript Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "North Carolina, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4383046239",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "AI Software Engineering Intern",
+    "company": "Builder Supply Link",
+    "location": "Remote, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=08ee4febac6b169b",
+    "date_posted": 1774483200000,
+    "keyword_score": 11,
+    "site": "indeed"
+  },
+  {
+    "title": "Junior Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "New Jersey, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4361869616",
     "date_posted": null,
     "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Platform Infrastructure",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4365028408",
+    "date_posted": null,
+    "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Full Stack",
+    "company": "Skydio",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371460364",
+    "date_posted": null,
+    "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390722267",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Developer",
+    "company": "BeaconFire Inc.",
+    "location": "New Jersey, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4386687508",
+    "date_posted": null,
+    "keyword_score": 9,
     "site": "linkedin"
   },
   {
@@ -50,16 +140,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Applied AI",
-    "company": "Norm Ai",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4240184391",
-    "date_posted": null,
-    "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
     "title": "Security Software Engineer",
     "company": "CBTS",
     "location": "",
@@ -67,46 +147,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4390723001",
     "date_posted": null,
     "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer",
-    "company": "VeriPark",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390864406",
-    "date_posted": null,
-    "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Google Cloud Storage",
-    "company": "Google",
-    "location": "Durham, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
-    "date_posted": null,
-    "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - Python - Developer Tools - Search",
-    "company": "Elastic",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4371063019",
-    "date_posted": null,
-    "keyword_score": 7,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer, Connectivity/Wireless",
-    "company": "Meta",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4339909985",
-    "date_posted": null,
-    "keyword_score": 6,
     "site": "linkedin"
   },
   {
@@ -120,54 +160,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Sr Software Engineer",
-    "company": "Alkami Technology",
-    "location": "",
+    "title": "Swift Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Texas, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4266070348",
+    "job_url": "https://www.linkedin.com/jobs/view/4364891344",
     "date_posted": null,
-    "keyword_score": 5,
+    "keyword_score": 6,
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Developer",
-    "company": "Russell Tobin",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381115262",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, Google Cloud Storage",
-    "company": "Google",
-    "location": "Seattle, WA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380030866",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, ML Platform",
-    "company": "Afresh",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4369274548",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer / Full Stack / Stealth Startup",
-    "company": "Motion Recruitment",
+    "title": "Software Engineer II",
+    "company": "Uber",
     "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371495205",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
     "date_posted": null,
-    "keyword_score": 4,
+    "keyword_score": 6,
     "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "CESA 5",
+    "location": "Portage, WI, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=2589dcc127cb4dc9",
+    "date_posted": 1774483200000,
+    "keyword_score": 4,
+    "site": "indeed"
   },
   {
     "title": "Software Engineer III, AI/ML, YouTube Ads, User Experiences",
@@ -180,41 +200,11 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Robotic Applications",
-    "company": "Atomic Machines",
-    "location": "Emeryville, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379326847",
-    "date_posted": null,
-    "keyword_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Wells Fargo",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390858807",
-    "date_posted": null,
-    "keyword_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Android",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254368768",
-    "date_posted": null,
-    "keyword_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Manufacturing, Sentry Tower",
+    "title": "Software Engineer, Anvil",
     "company": "Anduril Industries",
-    "location": "Irvine, CA",
+    "location": "Costa Mesa, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381172688",
+    "job_url": "https://www.linkedin.com/jobs/view/4311335410",
     "date_posted": null,
     "keyword_score": 3,
     "site": "linkedin"
