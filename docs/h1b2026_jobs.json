@@ -1,42 +1,32 @@
 [
   {
-    "title": "Software Engineer, Backend (Product)",
-    "company": "Otter.ai",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer IV",
+    "company": "Randstad Digital Americas",
+    "location": "Charlotte, NC",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371038572",
+    "job_url": "https://www.linkedin.com/jobs/view/4390898615",
     "date_posted": null,
-    "priority_score": 16,
+    "priority_score": 12,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Data Platform",
-    "company": "Lyft",
-    "location": "San Francisco County, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380959813",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390898292",
     "date_posted": null,
-    "priority_score": 8,
+    "priority_score": 11,
     "site": "linkedin"
   },
   {
-    "title": "AWS Full Stack Software Engineer, Enterprise Supervision",
-    "company": "Tyler Technologies",
-    "location": "Plano, TX",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371707947",
+    "title": "Software Engineer II, iOS - Autonomous Mobility & Delivery [SF Bay Area]",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4342788919",
     "date_posted": null,
     "priority_score": 6,
     "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Generative AI, Search Prompt Engineering",
-    "company": "Google",
-    "location": "Mountain View, CA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=eae7551d0fb87023",
-    "date_posted": 1774483200000,
-    "priority_score": 2,
-    "site": "indeed"
   }
 ]
