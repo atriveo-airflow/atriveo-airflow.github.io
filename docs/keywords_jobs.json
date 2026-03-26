@@ -30,6 +30,16 @@
     "site": "linkedin"
   },
   {
+    "title": "AWS Full Stack Software Engineer, Enterprise Supervision",
+    "company": "Tyler Technologies",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371707947",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Founding Full-Stack Software Engineer",
     "company": "Clipbook",
     "location": "New York, NY",
@@ -37,6 +47,16 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391120634",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Mid Level",
+    "company": "USAA",
+    "location": "Plano, TX",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391476459",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   },
   {
@@ -98,16 +118,6 @@
     "date_posted": 1774483200000,
     "keyword_score": 7,
     "site": "indeed"
-  },
-  {
-    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
-    "company": "IBM",
-    "location": "Lowell, MA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391471645",
-    "date_posted": null,
-    "keyword_score": 7,
-    "site": "linkedin"
   },
   {
     "title": "Software Engineer",
