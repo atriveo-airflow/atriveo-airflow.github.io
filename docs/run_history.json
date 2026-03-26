@@ -516,5 +516,27 @@
       "Otter.ai"
     ],
     "snapshot_file": "2026-03-26T15-02-11Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T15:04:48Z",
+    "run_at": "2026-03-26T15:04:48.787501+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 5.0,
+      "max": 10,
+      "high": 2
+    },
+    "top_companies": [
+      "Dropbox",
+      "Lyft",
+      "Google",
+      "Amazon"
+    ],
+    "snapshot_file": "2026-03-26T15-04-48Z_important.json"
   }
 ]
