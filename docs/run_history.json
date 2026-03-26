@@ -367,5 +367,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T13-10-54Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T13:13:51Z",
+    "run_at": "2026-03-26T13:13:51.869421+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 19,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Google",
+      "Meta",
+      "Motion Recruitment",
+      "CareerXperts Consulting",
+      "ejobs Finland"
+    ],
+    "snapshot_file": "2026-03-26T13-13-51Z_keywords.json"
   }
 ]
