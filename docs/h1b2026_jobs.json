@@ -1,29 +1,29 @@
 [
   {
-    "title": "IT Software Engineer 4",
-    "company": "EPITEC",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390625088",
+    "title": "Software Engineer II - Uber Eats",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390693006",
     "date_posted": null,
-    "priority_score": 13
+    "priority_score": 12
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "Akkodis",
-    "location": "Westlake, OH",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390042735",
+    "title": "Software Engineer II - Fares Platform",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390688346",
     "date_posted": null,
-    "priority_score": 6
+    "priority_score": 12
   },
   {
-    "title": "Software Engineer in Test",
-    "company": "Pacer Group",
-    "location": "Philadelphia, PA",
+    "title": "Sr Software Engineer - Incentives Platform",
+    "company": "Uber",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390279463",
+    "job_url": "https://www.linkedin.com/jobs/view/4390673791",
     "date_posted": null,
-    "priority_score": 6
+    "priority_score": 9
   }
 ]
