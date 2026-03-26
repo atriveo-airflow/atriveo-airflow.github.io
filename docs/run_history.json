@@ -20,5 +20,23 @@
       "Intersect"
     ],
     "snapshot_file": "2026-03-26T05-00-50Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T05:02:11Z",
+    "run_at": "2026-03-26T05:02:11.002610+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 14.0,
+      "max": 14,
+      "high": 1
+    },
+    "top_companies": [
+      "TikTok"
+    ],
+    "snapshot_file": "2026-03-26T05-02-11Z_top500.json"
   }
 ]
