@@ -535,5 +535,23 @@
       "Palo Alto Networks"
     ],
     "snapshot_file": "2026-03-26T03-58-50Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T04:00:09Z",
+    "run_at": "2026-03-26T04:00:09.482695+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 8.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Akamai Technologies"
+    ],
+    "snapshot_file": "2026-03-26T04-00-09Z_h1b2026.json"
   }
 ]
