@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Software Engineer, Design Software (Starship)",
+    "company": "Jobs via Dice",
+    "location": "Texas, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4387543209",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Software Engineer, Design Software (Starship)",
+    "company": "Jobs via Dice",
+    "location": "Hawthorne, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4387529825",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Backend Developer (Part-Time, Startup)",
+    "company": "Authly",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390434165",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)",
+    "company": "TikTok",
+    "location": "San Jose, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=213b8900ef078d98",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "keyword_score": 12,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Jobs via Dice",
+    "location": "New York, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4388268561",
+    "date_posted": null,
+    "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Payments",
+    "company": "Mercor",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390690834",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Tubi",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390684862",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Product",
+    "company": "NuPeople",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390438065",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "MEMS Production Software Engineer",
+    "company": "SiTime",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4377067342",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "ETL Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "McLean, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4387532526",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
