@@ -1315,5 +1315,27 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T23-05-34Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T23:08:33Z",
+    "run_at": "2026-03-26T23:08:33.261005+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 7.2,
+      "max": 14,
+      "high": 3
+    },
+    "top_companies": [
+      "Alteryx",
+      "NetApp",
+      "Capgemini",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T23-08-33Z_top500.json"
   }
 ]
