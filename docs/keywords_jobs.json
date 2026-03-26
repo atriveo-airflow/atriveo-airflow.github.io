@@ -1,56 +1,38 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Voltus",
-    "location": "",
+    "title": "Software Engineer - Hybrid/Bellevue, WA",
+    "company": "Brook Health",
+    "location": "Bellevue, WA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390672806",
+    "job_url": "https://www.linkedin.com/jobs/view/4390671959",
     "date_posted": null,
-    "keyword_score": 15
+    "keyword_score": 24
   },
   {
-    "title": "Software Engineer - Founder's Office",
-    "company": "CommerceIQ",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer",
+    "company": "project44",
+    "location": "Chicago, IL",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390284472",
+    "job_url": "https://www.linkedin.com/jobs/view/4376832205",
     "date_posted": null,
     "keyword_score": 13
   },
   {
-    "title": "Software Engineer II - Uber Eats",
-    "company": "Uber",
-    "location": "New York, NY",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390688347",
-    "date_posted": null,
-    "keyword_score": 10
-  },
-  {
-    "title": "Software Engineer II - Fares Platform",
-    "company": "Uber",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390688346",
-    "date_posted": null,
-    "keyword_score": 10
-  },
-  {
-    "title": "Sr Software Engineer - Incentives Platform",
-    "company": "Uber",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Intellect Group",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390673791",
+    "job_url": "https://www.linkedin.com/jobs/view/4390539100",
     "date_posted": null,
-    "keyword_score": 7
+    "keyword_score": 11
   },
   {
-    "title": "Robotics Software Engineer III - Infrastructure",
-    "company": "ArcBest",
-    "location": "Fort Smith, AR",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4379548292",
+    "title": "Software Engineer",
+    "company": "HORIBA",
+    "location": "Ann Arbor, MI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390693068",
     "date_posted": null,
-    "keyword_score": 4
+    "keyword_score": 3
   }
 ]
