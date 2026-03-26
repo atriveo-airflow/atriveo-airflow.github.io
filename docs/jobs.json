@@ -22,17 +22,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Apex Systems",
-    "location": "Minneapolis, MN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391151394",
-    "date_posted": null,
-    "score": 17,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
     "title": "Analyst - Software Developer",
     "company": "Nasdaq",
     "location": "Atlanta, GA",
@@ -51,50 +40,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4362019261",
     "date_posted": null,
     "score": 11,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Typescript)",
-    "company": "Jobs via Dice",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390757101",
-    "date_posted": null,
-    "score": 11,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390754115",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390744246",
-    "date_posted": null,
-    "score": 8,
-    "competition_score": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developers/Programmer Analysts",
-    "company": "Greycell Labs Inc",
-    "location": "Edison, NJ",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391906028",
-    "date_posted": null,
-    "score": 8,
     "competition_score": 1,
     "site": "linkedin"
   },
@@ -121,39 +66,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - ENG04 - Uncleared On-Site",
-    "company": "Jobs via Dice",
-    "location": "McKinney, TX",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390738285",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer  Enterprise Tax System",
-    "company": "Jobs via Dice",
-    "location": "Columbus, OH",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390740291",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Sunrise Systems, Inc.",
-    "location": "Cary, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390740918",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, GenAI",
     "company": "Abridge",
     "location": "San Francisco, CA",
@@ -165,25 +77,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (TypeScript) | $55/hr Remote",
-    "company": "Jobs via Dice",
+    "title": "Software Engineer III",
+    "company": "GitHub",
     "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390745270",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4363108705",
     "date_posted": null,
-    "score": 3,
+    "score": 4,
     "competition_score": 1,
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer (Contractor)",
-    "company": "Peak Energy",
-    "location": "Burlingame, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391154289",
+    "title": "BAS/HVAC Systems Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Covina, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390742278",
     "date_posted": null,
-    "score": 3,
-    "competition_score": 0,
+    "score": 4,
+    "competition_score": 1,
     "site": "linkedin"
   },
   {
@@ -209,33 +121,22 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Allagi Technologies Inc",
-    "location": "Hillsborough, NJ",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391497159",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "SOFTWARE DEVELOPER",
-    "company": "SEOYON E-HWA MANUFACTURING AUBURN, INC.",
-    "location": "Dadeville, AL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391155279",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer - Dragonfly Portfolio",
     "company": "Dragonfly",
     "location": "",
     "level": "Entry",
     "job_url": "https://www.linkedin.com/jobs/view/4391136896",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Software Developer",
+    "company": "Allagi Technologies Inc",
+    "location": "Hillsborough, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391492569",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
