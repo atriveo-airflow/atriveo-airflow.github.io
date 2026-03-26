@@ -1,12 +1,32 @@
 [
   {
-    "title": "Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)",
-    "company": "TikTok",
-    "location": "San Jose, CA, US",
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "Seattle, WA",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=213b8900ef078d98",
-    "date_posted": 1774396800000,
-    "priority_score": 14,
+    "job_url": "https://www.linkedin.com/jobs/view/4390562207",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Member Growth, Retention",
+    "company": "Spring Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390819948",
+    "date_posted": null,
+    "priority_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Android, Google TV",
+    "company": "Google",
+    "location": "San Jose, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=9b8f440062449124",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
     "site": "indeed"
   }
 ]
