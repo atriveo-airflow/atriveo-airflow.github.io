@@ -848,5 +848,25 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T18-06-07Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T18:09:22Z",
+    "run_at": "2026-03-26T18:09:22.933953+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 2.3,
+      "max": 3,
+      "high": 0
+    },
+    "top_companies": [
+      "LinkedIn",
+      "ServiceNow",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T18-09-22Z_top500.json"
   }
 ]
