@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Backend Software Engineer",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390849512",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Moody's Corporation",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390705554",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "DevOps and CI Infrastructure Software Engineer (Multiple Levels)",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4326397150",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Software Engineer III-Android",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379318919",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Chrome",
+    "company": "Google",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4380026987",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Applied AI",
+    "company": "Norm Ai",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4240184391",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390858377",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (DevTools)",
+    "company": "Hunter Bond",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391000861",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Engineer (US)",
+    "company": "Turing",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390851361",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product",
+    "company": "Meta",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4255810891",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, AI Native",
+    "company": "Meta",
+    "location": "Menlo Park, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4378159495",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer, Connectivity/Wireless",
+    "company": "Meta",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4340230363",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Developer",
+    "company": "Activstyle",
+    "location": "Saint Paul, MN, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=3cecd2e662486c3a",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "keyword_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Development Engineer (Backend Heavy): 25-06782",
+    "company": "Akraya, Inc.",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4369692051",
+    "date_posted": null,
+    "keyword_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (E)",
+    "company": "KLA",
+    "location": "Ann Arbor, MI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/3679531832",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Machine Learning Software Engineer, Materra, X",
+    "company": "X, The Moonshot Factory",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371113520",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Android",
+    "company": "Meta",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4254371632",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
