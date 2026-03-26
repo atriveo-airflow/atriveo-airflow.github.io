@@ -1,0 +1,42 @@
+[
+  {
+    "title": "AWS Full Stack Software Engineer, Enterprise Supervision",
+    "company": "Tyler Technologies",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371707947",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. iOS Software Engineer",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391122597",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Agentic AI Platform - Moveworks",
+    "company": "ServiceNow",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=71440961b85b1472",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390743510",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
+  }
+]
