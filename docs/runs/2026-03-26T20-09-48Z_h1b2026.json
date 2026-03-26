@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391914006",
+    "date_posted": null,
+    "priority_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 2",
+    "company": "Oracle",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer III.",
+    "company": "Pyramid Consulting, Inc",
+    "location": "Burlingame, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391153784",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Tyler Technologies",
+    "location": "Falmouth, ME",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390760787",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  }
+]
