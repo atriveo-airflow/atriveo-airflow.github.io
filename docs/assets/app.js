@@ -47,6 +47,18 @@
 
   const levelClass = l => ({ "New Grad": "badge-ng", "Mid": "badge-mid" }[l] || "badge-entry");
 
+  const SOURCE_LABEL = {
+    linkedin:    ["LinkedIn",    "badge-src-linkedin"],
+    google:      ["Google",      "badge-src-google"],
+    indeed:      ["Indeed",      "badge-src-indeed"],
+    glassdoor:   ["Glassdoor",   "badge-src-glassdoor"],
+    zip_recruiter:["ZipRecruiter","badge-src-zip"],
+  };
+  const srcBadge = site => {
+    const [label, cls] = SOURCE_LABEL[site] || [];
+    return label ? `<span class="badge badge-src ${cls}">${label}</span>` : "";
+  };
+
   // Build a lookup set from a jobs array keyed by job_url
   const urlSet = jobs => new Set(jobs.map(j => j.job_url).filter(Boolean));
 
@@ -130,6 +142,7 @@
       const isH1b   = h1bSet.has(j.job_url);
       const isPri   = prioritySet.has(j.job_url);
       const top     = i < 3 && score >= 8;
+      const src     = (j.site || "").toLowerCase();
 
       const dateClass = isNew ? "job-date fresh" : "job-date";
       return `<div class="job-card${top ? " top" : ""}">
@@ -140,6 +153,7 @@
             ${isNew ? `<span class="badge badge-new">NEW</span>` : ""}
             ${isH1b ? `<span class="badge badge-h1b">H1B ✓</span>` : ""}
             ${isPri ? `<span class="badge badge-pri">Priority</span>` : ""}
+            ${srcBadge(src)}
           </div>
           <div class="job-meta">
             <span style="font-weight:500;color:var(--text-2)">${co}</span>
