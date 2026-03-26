@@ -56,5 +56,24 @@
       "TikTok"
     ],
     "snapshot_file": "2026-03-26T05-03-06Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T05:05:15Z",
+    "run_at": "2026-03-26T05:05:15.392409+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 9,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Authly",
+      "TikTok",
+      "Mercor",
+      "Tubi"
+    ],
+    "snapshot_file": "2026-03-26T05-05-15Z_keywords.json"
   }
 ]
