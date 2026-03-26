@@ -1,42 +1,12 @@
 [
   {
-    "title": "Software Developer 3",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
+    "title": "Software Development Engineer (Backend)",
+    "company": "Insight Global",
+    "location": "Austin, Texas Metropolitan Area",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391914006",
+    "job_url": "https://www.linkedin.com/jobs/view/4391305059",
     "date_posted": null,
-    "priority_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
-    "company": "Flexton Inc.",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
-    "date_posted": null,
-    "priority_score": 12,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer 2",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
-    "date_posted": null,
-    "priority_score": 6,
+    "priority_score": 2,
     "site": "linkedin"
   }
 ]
