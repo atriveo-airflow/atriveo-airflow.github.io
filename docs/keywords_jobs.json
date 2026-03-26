@@ -1,100 +1,181 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Supermicro",
-    "location": "San Jose, CA",
+    "title": "Software Engineer, Backend",
+    "company": "HIFI",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390395822",
+    "job_url": "https://www.linkedin.com/jobs/view/4390659747",
+    "date_posted": null,
+    "keyword_score": 21
+  },
+  {
+    "title": "Software Engineer (Python/JavaScript) (Hybrid)",
+    "company": "edkey",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390293660",
     "date_posted": null,
     "keyword_score": 19
   },
   {
-    "title": "Technical Intern, AI Software Engineer",
-    "company": "Ampere",
-    "location": "Portland, OR",
+    "title": "Software Engineer [Multiple Positions Available]",
+    "company": "JPMorganChase",
+    "location": "Plano, TX",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390601644",
+    "job_url": "https://www.linkedin.com/jobs/view/4390649888",
     "date_posted": null,
-    "keyword_score": 12
+    "keyword_score": 15
+  },
+  {
+    "title": "Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390391655",
+    "date_posted": null,
+    "keyword_score": 15
+  },
+  {
+    "title": "Sr Software Developer Engineer in Test - Accessibility Testing",
+    "company": "BECU",
+    "location": "California, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390660902",
+    "date_posted": null,
+    "keyword_score": 15
   },
   {
     "title": "Software Engineer",
-    "company": "HireOn Tech",
-    "location": "Nevada, United States",
+    "company": "edkey",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "job_url": "https://www.linkedin.com/jobs/view/4390401286",
+    "date_posted": null,
+    "keyword_score": 14
+  },
+  {
+    "title": "Software Engineer, ML Platform",
+    "company": "Sola",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390255698",
+    "job_url": "https://www.linkedin.com/jobs/view/4390672091",
+    "date_posted": null,
+    "keyword_score": 11
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Oklo Inc",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4384857924",
+    "date_posted": null,
+    "keyword_score": 11
+  },
+  {
+    "title": "Software Engineer",
+    "company": "SmartAsset",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390654814",
+    "date_posted": null,
+    "keyword_score": 11
+  },
+  {
+    "title": "Software Developer",
+    "company": "TherapyNotes, LLC",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390275504",
+    "date_posted": null,
+    "keyword_score": 10
+  },
+  {
+    "title": "Enterprise - Software Engineer - Linux, Kubernetes, AWS",
+    "company": "Erias Ventures",
+    "location": "Annapolis Junction, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390646925",
+    "date_posted": null,
+    "keyword_score": 10
+  },
+  {
+    "title": "Founding Backend Engineer",
+    "company": "Airbase",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390405158",
+    "date_posted": null,
+    "keyword_score": 9
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Scion Staffing",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390400353",
+    "date_posted": null,
+    "keyword_score": 9
+  },
+  {
+    "title": "Software Engineer, Backend (Collection)",
+    "company": "Vannevar",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390653551",
+    "date_posted": null,
+    "keyword_score": 8
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Extend Information Systems Inc.",
+    "location": "Mossville, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390666253",
     "date_posted": null,
     "keyword_score": 7
   },
   {
-    "title": "Software Engineer \u2013 (PHP & React)",
-    "company": "Avance Consulting",
+    "title": "2026 New Grad | Software Engineer, Full-Stack",
+    "company": "Loop",
     "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390249965",
+    "level": "New Grad",
+    "job_url": "https://www.linkedin.com/jobs/view/4390394415",
     "date_posted": null,
     "keyword_score": 6
   },
   {
-    "title": "Software Developer",
-    "company": "Robert Half",
-    "location": "Frisco, TX",
+    "title": "Software Developer - Grand Island, Nebraska",
+    "company": "Credit Management Services, Inc.",
+    "location": "Grand Island, NE",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390601790",
+    "job_url": "https://www.linkedin.com/jobs/view/4390655556",
+    "date_posted": null,
+    "keyword_score": 6
+  },
+  {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
     "date_posted": null,
     "keyword_score": 6
   },
   {
     "title": "Software Engineer",
-    "company": "Robert Half",
-    "location": "Rancho Cucamonga, CA",
+    "company": "Goliath Partners",
+    "location": "New York, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390610468",
-    "date_posted": null,
-    "keyword_score": 4
-  },
-  {
-    "title": "Software Engineer",
-    "company": "HORIBA LAQUA EMEA",
-    "location": "Ann Arbor, MI",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390241693",
+    "job_url": "https://www.linkedin.com/jobs/view/4390657746",
     "date_posted": null,
     "keyword_score": 3
   },
   {
-    "title": "Software Engineer - AI Engineering",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
+    "title": "Software Engineer 0",
+    "company": "Avid Technology Professionals",
+    "location": "Annapolis Junction, MD",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390268187",
-    "date_posted": null,
-    "keyword_score": 3
-  },
-  {
-    "title": "Software Engineer 1",
-    "company": "Knorr Brake Company",
-    "location": "Westminster, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4365638287",
-    "date_posted": null,
-    "keyword_score": 3
-  },
-  {
-    "title": "Full Stack Software Engineer \u2014 Fund Launch AI",
-    "company": "Fund Launch",
-    "location": "Lehi, UT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390031172",
-    "date_posted": null,
-    "keyword_score": 3
-  },
-  {
-    "title": "Sr. Software Engineer",
-    "company": "Robert Half",
-    "location": "San Diego, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390614360",
+    "job_url": "https://www.linkedin.com/jobs/view/4390654714",
     "date_posted": null,
     "keyword_score": 3
   }
