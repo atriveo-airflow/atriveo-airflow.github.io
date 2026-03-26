@@ -22,28 +22,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Scientific Software Engineer with UI/UX (Data Science and AI Institute)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390882836",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer II",
-    "company": "Apex Systems",
-    "location": "Newport Beach, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381659063",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Recruits Lab",
     "location": "San Francisco, CA",
@@ -51,17 +29,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391096324",
     "date_posted": null,
     "score": 15,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Ruby on Rails Software Engineer",
-    "company": "Largeton Group",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390897376",
-    "date_posted": null,
-    "score": 12,
     "competition_score": 1,
     "site": "linkedin"
   },
@@ -88,11 +55,11 @@
     "site": "linkedin"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "Tech Consulting",
-    "location": "Arizona, United States",
-    "level": "New Grad",
-    "job_url": "https://www.linkedin.com/jobs/view/4390727798",
+    "title": "Software Engineer",
+    "company": "Orum \ud83e\udd47",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4332882952",
     "date_posted": null,
     "score": 9,
     "competition_score": 1,
@@ -110,11 +77,11 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Orum \ud83e\udd47",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4332882952",
+    "title": "Junior Software Engineer",
+    "company": "Tech Consulting",
+    "location": "Arizona, United States",
+    "level": "New Grad",
+    "job_url": "https://www.linkedin.com/jobs/view/4390727798",
     "date_posted": null,
     "score": 9,
     "competition_score": 1,
@@ -154,28 +121,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Ad Code - Ad Audience",
-    "company": "Raptive",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391102018",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "HPC Scientific Software Engineer (IT@JH Research Computing)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390888425",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Compute",
     "company": "Vercel",
     "location": "",
@@ -183,6 +128,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4342933924",
     "date_posted": null,
     "score": 5,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sightline Sr. Software Engineer (Sightline Information Technology)",
+    "company": "Inside Higher Ed",
+    "location": "Baltimore, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390880970",
+    "date_posted": null,
+    "score": 4,
     "competition_score": 1,
     "site": "linkedin"
   },
@@ -196,6 +152,17 @@
     "score": 4,
     "competition_score": 1,
     "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - CRS",
+    "company": "AGILYSYS, INC.",
+    "location": "Alpharetta, GA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a1c352671e8dbbe5",
+    "date_posted": 1774483200000,
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
   },
   {
     "title": "Software Engineer, Android",
@@ -224,7 +191,7 @@
     "company": "Turing",
     "location": "New York, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391101063",
+    "job_url": "https://www.linkedin.com/jobs/view/4390898121",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
@@ -236,17 +203,6 @@
     "location": "Dallas, TX",
     "level": "Entry",
     "job_url": "https://www.linkedin.com/jobs/view/4390722842",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin"
-  },
-  {
-    "title": "Sr. C++ Software Engineer (Healthcare) - Remote",
-    "company": "Cognizant",
-    "location": "Clayton, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380067010",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
