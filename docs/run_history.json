@@ -474,5 +474,28 @@
       "HORIBA"
     ],
     "snapshot_file": "2026-03-26T03-04-07Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T03:56:28Z",
+    "run_at": "2026-03-26T03:56:28.570076+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 8.2,
+      "max": 25,
+      "high": 7
+    },
+    "top_companies": [
+      "Brook Health",
+      "CCI- Computer Consultants International, Inc.",
+      "project44",
+      "Intellect Group",
+      "IntraFi"
+    ],
+    "snapshot_file": "2026-03-26T03-56-28Z_standard.json"
   }
 ]
