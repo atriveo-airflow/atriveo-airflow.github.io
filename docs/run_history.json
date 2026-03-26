@@ -951,5 +951,24 @@
       "GitHub"
     ],
     "snapshot_file": "2026-03-26T19-06-59Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T19:10:34Z",
+    "run_at": "2026-03-26T19:10:34.254130+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 11.5,
+      "max": 23,
+      "high": 1
+    },
+    "top_companies": [
+      "MongoDB",
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-26T19-10-34Z_top500.json"
   }
 ]
