@@ -1,22 +1,42 @@
 [
   {
-    "title": "Network Software Engineer, RDMA",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390749905",
+    "title": "Software Engineer III, Full Stack, Google Chrome",
+    "company": "Google",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390743511",
     "date_posted": null,
     "priority_score": 8,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer 2",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
+    "title": "Sr. iOS Software Engineer",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
+    "job_url": "https://www.linkedin.com/jobs/view/4391122597",
     "date_posted": null,
-    "priority_score": 6,
+    "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Agentic AI Platform - Moveworks",
+    "company": "ServiceNow",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=71440961b85b1472",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390743510",
+    "date_posted": null,
+    "priority_score": 2,
     "site": "linkedin"
   }
 ]
