@@ -1193,5 +1193,28 @@
       "Pariveda"
     ],
     "snapshot_file": "2026-03-26T21-15-35Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T22:02:42Z",
+    "run_at": "2026-03-26T22:02:42.885572+00:00",
+    "pipeline": "standard",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 9.3,
+      "max": 27,
+      "high": 11
+    },
+    "top_companies": [
+      "Wiraa",
+      "Candescent",
+      "AdvancedMD",
+      "Syndicatebleu",
+      "Solid Power, Inc."
+    ],
+    "snapshot_file": "2026-03-26T22-02-42Z_standard.json"
   }
 ]
