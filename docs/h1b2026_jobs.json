@@ -1,22 +1,12 @@
 [
   {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390894419",
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390743510",
     "date_posted": null,
-    "priority_score": 11,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
-    "company": "IBM",
-    "location": "Lowell, MA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4376213179",
-    "date_posted": null,
-    "priority_score": 7,
+    "priority_score": 2,
     "site": "linkedin"
   }
 ]
