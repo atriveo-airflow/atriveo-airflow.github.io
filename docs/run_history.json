@@ -1174,5 +1174,24 @@
       "ServiceNow"
     ],
     "snapshot_file": "2026-03-26T21-12-07Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T21:15:35Z",
+    "run_at": "2026-03-26T21:15:35.209866+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 16,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Garmin",
+      "Google",
+      "Mercor",
+      "Esri",
+      "Pariveda"
+    ],
+    "snapshot_file": "2026-03-26T21-15-35Z_keywords.json"
   }
 ]
