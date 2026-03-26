@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Software Engineer (SWE I / SWE II)",
+    "company": "BigHat Biosciences",
+    "location": "San Mateo, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391108285",
+    "date_posted": null,
+    "score": 17,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer ($165k-$250k + Equity) at Strala",
+    "company": "Jack & Jill",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391120197",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Member Growth, Retention",
+    "company": "Spring Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391036722",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 3, Search Systems Replication & Routing",
+    "company": "MongoDB",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391100797",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Washington, DC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309698364",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Vermont, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309690886",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Creative Software Developer",
+    "company": "DataAnnotation",
+    "location": "South Dakota, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309803443",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Swift Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Colorado, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309678984",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer- Design Systems",
+    "company": "DataAnnotation",
+    "location": "Kansas, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309809236",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Middesk",
+    "location": "New York, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4205003719",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Manufacturing Test Software Engineer",
+    "company": "Red Oak Technologies",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4374634083",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Forward Deployed Software Engineer - Seattle",
+    "company": "OpenAI",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4379332789",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391116064",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer (Journeyman)",
+    "company": "PZI International",
+    "location": "Huntsville, AL, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=16e5d083d4d48440",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 0,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Laneside",
+    "company": "Kapsch TrafficCom USA",
+    "location": "Austin, TX, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=eee2e983fa73c88b",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 0,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Innovation Embedded Software Engineer",
+    "company": "CNH Industrial",
+    "location": "Goodfield, IL, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=57ea61a834529709",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 0,
+    "competition_score": 0,
+    "site": "indeed"
+  }
+]
