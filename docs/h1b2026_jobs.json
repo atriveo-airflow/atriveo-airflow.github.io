@@ -1,12 +1,32 @@
 [
   {
-    "title": "Software Development Engineer (Backend)",
-    "company": "Insight Global",
-    "location": "Austin, Texas Metropolitan Area",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391305059",
+    "title": "Software Engineer III, Google Home",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
     "date_posted": null,
-    "priority_score": 2,
+    "priority_score": 8,
     "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (C/C++, OS, File Systems,Kernel)",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4356522011",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Capgemini",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8567dc5c7966920e",
+    "date_posted": 1774483200000,
+    "priority_score": 5,
+    "site": "indeed"
   }
 ]
