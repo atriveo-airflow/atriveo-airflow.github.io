@@ -1,112 +1,238 @@
 [
   {
-    "session_id": "2026-03-26T05:00:50Z",
-    "run_at": "2026-03-26T05:00:50.850261+00:00",
+    "session_id": "2026-03-25T20:01:49Z",
+    "run_at": "2026-03-25T20:01:49.737415+00:00",
     "pipeline": "standard",
     "total_jobs": 8,
     "levels": {
       "Entry": 8
     },
     "scores": {
-      "avg": 7.6,
-      "max": 16,
-      "high": 7
+      "avg": 4.6,
+      "max": 12,
+      "high": 4
     },
     "top_companies": [
-      "Authly",
-      "TikTok",
-      "Mercor",
-      "Tubi",
-      "Intersect"
-    ],
-    "snapshot_file": "2026-03-26T05-00-50Z_standard.json"
+      "Robert Half",
+      "HireOn Tech",
+      "Avance Consulting",
+      "Applied Intuition",
+      "Turing"
+    ]
   },
   {
-    "session_id": "2026-03-26T05:02:11Z",
-    "run_at": "2026-03-26T05:02:11.002610+00:00",
+    "session_id": "2026-03-25T20:07:58Z",
+    "run_at": "2026-03-25T20:07:58.014477+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 13
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Ampere",
+      "Epsilon",
+      "Arcesium",
+      "HireOn Tech"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:09:58Z",
+    "run_at": "2026-03-25T20:09:58.507216+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": 7.5,
+      "max": 18,
+      "high": 5
+    },
+    "top_companies": [
+      "Robert Half",
+      "EXL",
+      "Supermicro",
+      "THRAYAM TECHNOLOGIES INC",
+      "HireOn Tech"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:13:47Z",
+    "run_at": "2026-03-25T20:13:47.635317+00:00",
     "pipeline": "top500",
     "total_jobs": 1,
     "levels": {
       "Entry": 1
     },
     "scores": {
-      "avg": 14.0,
-      "max": 14,
+      "avg": 3.0,
+      "max": 3,
+      "high": 0
+    },
+    "top_companies": [
+      "Waymo"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:15:49Z",
+    "run_at": "2026-03-25T20:15:49.359396+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 11
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Supermicro",
+      "Ampere",
+      "HireOn Tech",
+      "Avance Consulting"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T20:50:46Z",
+    "run_at": "2026-03-25T20:50:46.467107+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 13,
+      "high": 2
+    },
+    "top_companies": [
+      "EPITEC",
+      "Applied Intuition"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:12:05Z",
+    "run_at": "2026-03-25T21:12:05.198113+00:00",
+    "pipeline": "standard",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 11.0,
+      "max": 35,
+      "high": 13
+    },
+    "top_companies": [
+      "BeaconFire Inc.",
+      "K2United",
+      "Attentive",
+      "BlueMapleIT",
+      "EXL"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:14:04Z",
+    "run_at": "2026-03-25T21:14:04.642758+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 16.0,
+      "max": 16,
       "high": 1
     },
     "top_companies": [
-      "TikTok"
-    ],
-    "snapshot_file": "2026-03-26T05-02-11Z_top500.json"
+      "Box"
+    ]
   },
   {
-    "session_id": "2026-03-26T05:03:06Z",
-    "run_at": "2026-03-26T05:03:06.639933+00:00",
-    "pipeline": "h1b2026",
+    "session_id": "2026-03-25T21:16:29Z",
+    "run_at": "2026-03-25T21:16:29.085033+00:00",
+    "pipeline": "top500",
     "total_jobs": 1,
     "levels": {
       "Entry": 1
     },
     "scores": {
-      "avg": 14.0,
-      "max": 14,
+      "avg": 13.0,
+      "max": 13,
       "high": 1
     },
     "top_companies": [
-      "TikTok"
-    ],
-    "snapshot_file": "2026-03-26T05-03-06Z_h1b2026.json"
+      "project44"
+    ]
   },
   {
-    "session_id": "2026-03-26T05:05:15Z",
-    "run_at": "2026-03-26T05:05:15.392409+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 10,
+    "session_id": "2026-03-25T21:18:35Z",
+    "run_at": "2026-03-25T21:18:35.601159+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
     "levels": {
-      "Entry": 9,
-      "Mid": 1
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 8.3,
+      "max": 13,
+      "high": 3
+    },
+    "top_companies": [
+      "EPITEC",
+      "Akkodis",
+      "Pacer Group"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:20:48Z",
+    "run_at": "2026-03-25T21:20:48.637553+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 18,
+      "Mid": 3
     },
     "scores": {},
     "top_companies": [
-      "Jobs via Dice",
-      "Authly",
-      "TikTok",
-      "Mercor",
-      "Tubi"
-    ],
-    "snapshot_file": "2026-03-26T05-05-15Z_keywords.json"
+      "BeaconFire Inc.",
+      "K2United",
+      "Attentive",
+      "FIGS",
+      "BlueMapleIT"
+    ]
   },
   {
-    "session_id": "2026-03-26T09:01:20Z",
-    "run_at": "2026-03-26T09:01:20.843097+00:00",
+    "session_id": "2026-03-25T22:01:52Z",
+    "run_at": "2026-03-25T22:01:52.490421+00:00",
     "pipeline": "standard",
-    "total_jobs": 11,
+    "total_jobs": 18,
     "levels": {
-      "Entry": 8,
-      "Mid": 3
+      "Entry": 18
     },
     "scores": {
-      "avg": 9.6,
+      "avg": 7.6,
       "max": 20,
-      "high": 7
+      "high": 9
     },
     "top_companies": [
-      "Voxel",
-      "Airlock Digital",
-      "Craftner INC",
-      "Confidential Jobs",
-      "Oracle"
+      "Wiraa",
+      "Yochana",
+      "Purpose Brands, LLC",
+      "CommerceIQ",
+      "Jobright.ai"
     ],
-    "snapshot_file": "2026-03-26T09-01-20Z_standard.json"
+    "snapshot_file": "2026-03-25T22-01-52Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T09:02:47Z",
-    "run_at": "2026-03-26T09:02:47.479593+00:00",
-    "pipeline": "important",
+    "session_id": "2026-03-26T00:37:25Z",
+    "run_at": "2026-03-26T00:37:25.752606+00:00",
+    "pipeline": "top500",
     "total_jobs": 2,
     "levels": {
-      "Entry": 1,
-      "Mid": 1
+      "Mid": 1,
+      "Entry": 1
     },
     "scores": {
       "avg": 5.0,
@@ -114,389 +240,421 @@
       "high": 1
     },
     "top_companies": [
-      "Oracle",
-      "Google"
+      "Chewy",
+      "Airbnb"
     ],
-    "snapshot_file": "2026-03-26T09-02-47Z_important.json"
+    "snapshot_file": "2026-03-26T00-37-25Z_top500.json"
   },
   {
-    "session_id": "2026-03-26T09:04:03Z",
-    "run_at": "2026-03-26T09:04:03.183979+00:00",
+    "session_id": "2026-03-26T01:00:08Z",
+    "run_at": "2026-03-26T01:00:08.222203+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 17,
+      "New Grad": 2,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "edkey",
+      "Loop",
+      "HIFI",
+      "JPMorganChase",
+      "BECU"
+    ],
+    "snapshot_file": "2026-03-26T01-00-08Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T01:02:13Z",
+    "run_at": "2026-03-26T01:02:13.509698+00:00",
+    "pipeline": "standard",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 4,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 6.6,
+      "max": 15,
+      "high": 4
+    },
+    "top_companies": [
+      "hackajob",
+      "BECU",
+      "Tesla",
+      "TherapyNotes, LLC",
+      "Honeywell"
+    ],
+    "snapshot_file": "2026-03-26T01-02-13Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T01:52:18Z",
+    "run_at": "2026-03-26T01:52:18.779425+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Tesla"
+    ],
+    "snapshot_file": "2026-03-26T01-52-18Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T01:54:55Z",
+    "run_at": "2026-03-26T01:54:55.275330+00:00",
     "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Tesla"
+    ],
+    "snapshot_file": "2026-03-26T01-54-55Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T02:01:44Z",
+    "run_at": "2026-03-26T02:01:44.069610+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Voltus",
+      "Tesla",
+      "TherapyNotes, LLC",
+      "TrellisWare Technologies"
+    ],
+    "snapshot_file": "2026-03-26T02-01-44Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T02:02:10Z",
+    "run_at": "2026-03-26T02:02:10.589073+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 7.8,
+      "max": 15,
+      "high": 2
+    },
+    "top_companies": [
+      "Voltus",
+      "CommerceIQ",
+      "TrellisWare Technologies",
+      "Calidar"
+    ],
+    "snapshot_file": "2026-03-26T02-02-10Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T02:04:40Z",
+    "run_at": "2026-03-26T02:04:40.812176+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 1,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 10.5,
+      "max": 12,
+      "high": 2
+    },
+    "top_companies": [
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-26T02-04-40Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T02:06:12Z",
+    "run_at": "2026-03-26T02:06:12.591962+00:00",
+    "pipeline": "h1b2026",
     "total_jobs": 3,
     "levels": {
       "Mid": 2,
       "Entry": 1
     },
     "scores": {
-      "avg": 4.7,
-      "max": 8,
-      "high": 1
-    },
-    "top_companies": [
-      "Oracle",
-      "Spring Health",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T09-04-03Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T09:05:38Z",
-    "run_at": "2026-03-26T09:05:38.644867+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 5.0,
-      "max": 8,
-      "high": 1
-    },
-    "top_companies": [
-      "Oracle",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T09-05-38Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T09:07:19Z",
-    "run_at": "2026-03-26T09:07:19.820926+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 10,
-    "levels": {
-      "Entry": 9,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Tivity Health",
-      "Voxel",
-      "Pivotor AI",
-      "Airlock Digital",
-      "Craftner INC"
-    ],
-    "snapshot_file": "2026-03-26T09-07-19Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T12:02:43Z",
-    "run_at": "2026-03-26T12:02:43.654969+00:00",
-    "pipeline": "standard",
-    "total_jobs": 19,
-    "levels": {
-      "Entry": 16,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 4.8,
-      "max": 16,
-      "high": 9
-    },
-    "top_companies": [
-      "Meta",
-      "Google",
-      "Turing",
-      "UBS",
-      "Cedar"
-    ],
-    "snapshot_file": "2026-03-26T12-02-43Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T12:05:47Z",
-    "run_at": "2026-03-26T12:05:47.147493+00:00",
-    "pipeline": "important",
-    "total_jobs": 7,
-    "levels": {
-      "Entry": 5,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 2.7,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Meta",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T12-05-47Z_important.json"
-  },
-  {
-    "session_id": "2026-03-26T12:08:52Z",
-    "run_at": "2026-03-26T12:08:52.773290+00:00",
-    "pipeline": "top500",
-    "total_jobs": 10,
-    "levels": {
-      "Entry": 7,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 3.5,
-      "max": 8,
-      "high": 4
-    },
-    "top_companies": [
-      "Meta",
-      "Google",
-      "Spring Health",
-      "Nokia"
-    ],
-    "snapshot_file": "2026-03-26T12-08-52Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T12:11:50Z",
-    "run_at": "2026-03-26T12:11:50.336152+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 5,
-    "levels": {
-      "Mid": 3,
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 5.8,
-      "max": 8,
-      "high": 4
-    },
-    "top_companies": [
-      "Google",
-      "Akraya, Inc.",
-      "Applied Intuition"
-    ],
-    "snapshot_file": "2026-03-26T12-11-50Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T12:14:53Z",
-    "run_at": "2026-03-26T12:14:53.308765+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 17,
-    "levels": {
-      "Entry": 15,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "Meta",
-      "Turing",
-      "Wiraa",
-      "Moody's Corporation",
-      "Qualcomm"
-    ],
-    "snapshot_file": "2026-03-26T12-14-53Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T13:02:34Z",
-    "run_at": "2026-03-26T13:02:34.165979+00:00",
-    "pipeline": "standard",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 16,
-      "Mid": 5
-    },
-    "scores": {
-      "avg": 8.4,
-      "max": 32,
-      "high": 15
-    },
-    "top_companies": [
-      "Meta",
-      "Google",
-      "hackajob",
-      "Walmart",
-      "CareerXperts Consulting"
-    ],
-    "snapshot_file": "2026-03-26T13-02-34Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T13:05:12Z",
-    "run_at": "2026-03-26T13:05:12.781764+00:00",
-    "pipeline": "important",
-    "total_jobs": 7,
-    "levels": {
-      "Entry": 6,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 3.6,
-      "max": 8,
+      "avg": 11.0,
+      "max": 12,
       "high": 3
     },
     "top_companies": [
-      "Meta",
-      "Google"
+      "Uber"
     ],
-    "snapshot_file": "2026-03-26T13-05-12Z_important.json"
+    "snapshot_file": "2026-03-26T02-06-12Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-26T13:07:53Z",
-    "run_at": "2026-03-26T13:07:53.651422+00:00",
-    "pipeline": "top500",
-    "total_jobs": 10,
-    "levels": {
-      "Entry": 8,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 4.5,
-      "max": 11,
-      "high": 5
-    },
-    "top_companies": [
-      "Meta",
-      "Ramp",
-      "Google",
-      "Elastic"
-    ],
-    "snapshot_file": "2026-03-26T13-07-53Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T13:10:54Z",
-    "run_at": "2026-03-26T13:10:54.609711+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 6.5,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T13-10-54Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T13:13:51Z",
-    "run_at": "2026-03-26T13:13:51.869421+00:00",
+    "session_id": "2026-03-26T02:07:38Z",
+    "run_at": "2026-03-26T02:07:38.291306+00:00",
     "pipeline": "keywords",
-    "total_jobs": 22,
+    "total_jobs": 6,
     "levels": {
-      "Entry": 19,
+      "Entry": 3,
       "Mid": 3
     },
     "scores": {},
     "top_companies": [
-      "Google",
-      "Meta",
-      "Motion Recruitment",
-      "CareerXperts Consulting",
-      "ejobs Finland"
+      "Uber",
+      "Voltus",
+      "CommerceIQ",
+      "ArcBest"
     ],
-    "snapshot_file": "2026-03-26T13-13-51Z_keywords.json"
+    "snapshot_file": "2026-03-26T02-07-38Z_keywords.json"
   },
   {
-    "session_id": "2026-03-26T14:02:27Z",
-    "run_at": "2026-03-26T14:02:27.103099+00:00",
+    "session_id": "2026-03-26T03:01:00Z",
+    "run_at": "2026-03-26T03:01:00.639609+00:00",
     "pipeline": "standard",
-    "total_jobs": 24,
+    "total_jobs": 5,
     "levels": {
-      "Entry": 21,
-      "Mid": 3
+      "Entry": 5
     },
     "scores": {
-      "avg": 10.7,
-      "max": 28,
-      "high": 19
+      "avg": 10.6,
+      "max": 24,
+      "high": 3
     },
     "top_companies": [
-      "BeaconFire Inc.",
-      "G2i Inc.",
-      "Optum",
-      "Winaxis LLC",
-      "BioSpace"
+      "Brook Health",
+      "project44",
+      "Intellect Group",
+      "HORIBA",
+      "Tamagrow"
     ],
-    "snapshot_file": "2026-03-26T14-02-27Z_standard.json"
+    "snapshot_file": "2026-03-26T03-01-00Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T14:05:11Z",
-    "run_at": "2026-03-26T14:05:11.528346+00:00",
+    "session_id": "2026-03-26T03:02:35Z",
+    "run_at": "2026-03-26T03:02:35.809920+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 13.0,
+      "max": 13,
+      "high": 1
+    },
+    "top_companies": [
+      "project44"
+    ],
+    "snapshot_file": "2026-03-26T03-02-35Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T03:04:07Z",
+    "run_at": "2026-03-26T03:04:07.074471+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Brook Health",
+      "project44",
+      "Intellect Group",
+      "HORIBA"
+    ],
+    "snapshot_file": "2026-03-26T03-04-07Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T03:56:28Z",
+    "run_at": "2026-03-26T03:56:28.570076+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 8.2,
+      "max": 25,
+      "high": 7
+    },
+    "top_companies": [
+      "Brook Health",
+      "CCI- Computer Consultants International, Inc.",
+      "project44",
+      "Intellect Group",
+      "IntraFi"
+    ],
+    "snapshot_file": "2026-03-26T03-56-28Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T03:57:43Z",
+    "run_at": "2026-03-26T03:57:43.872326+00:00",
     "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 4.0,
+      "max": 4,
+      "high": 0
+    },
+    "top_companies": [
+      "Palo Alto Networks"
+    ],
+    "snapshot_file": "2026-03-26T03-57-43Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T03:58:50Z",
+    "run_at": "2026-03-26T03:58:50.866716+00:00",
+    "pipeline": "top500",
     "total_jobs": 3,
     "levels": {
-      "Entry": 2,
-      "Mid": 1
+      "Entry": 3
     },
     "scores": {
       "avg": 8.3,
-      "max": 11,
-      "high": 3
+      "max": 13,
+      "high": 2
     },
     "top_companies": [
-      "Verkada",
-      "Uber",
-      "Meta"
+      "project44",
+      "Akamai Technologies",
+      "Palo Alto Networks"
     ],
-    "snapshot_file": "2026-03-26T14-05-11Z_important.json"
+    "snapshot_file": "2026-03-26T03-58-50Z_top500.json"
   },
   {
-    "session_id": "2026-03-26T14:07:52Z",
-    "run_at": "2026-03-26T14:07:52.418486+00:00",
-    "pipeline": "top500",
-    "total_jobs": 3,
+    "session_id": "2026-03-26T04:00:09Z",
+    "run_at": "2026-03-26T04:00:09.482695+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
     "levels": {
-      "Entry": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 8.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Akamai Technologies"
+    ],
+    "snapshot_file": "2026-03-26T04-00-09Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T04:01:06Z",
+    "run_at": "2026-03-26T04:01:06.183003+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
       "Mid": 1
     },
     "scores": {
-      "avg": 9.7,
+      "avg": 5.9,
       "max": 15,
-      "high": 3
+      "high": 4
     },
     "top_companies": [
-      "HCL Global Systems Inc",
-      "Uber",
-      "Meta"
+      "Alignerr",
+      "CCI- Computer Consultants International, Inc.",
+      "IntraFi",
+      "Akamai Technologies",
+      "Axon"
     ],
-    "snapshot_file": "2026-03-26T14-07-52Z_top500.json"
+    "snapshot_file": "2026-03-26T04-01-06Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T14:10:46Z",
-    "run_at": "2026-03-26T14:10:46.458581+00:00",
-    "pipeline": "h1b2026",
+    "session_id": "2026-03-26T04:01:17Z",
+    "run_at": "2026-03-26T04:01:17.023820+00:00",
+    "pipeline": "keywords",
     "total_jobs": 5,
     "levels": {
-      "Entry": 3,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 9.8,
-      "max": 15,
-      "high": 5
-    },
-    "top_companies": [
-      "Optum",
-      "Verkada",
-      "Kforce Inc",
-      "Uber",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T14-10-46Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T14:13:32Z",
-    "run_at": "2026-03-26T14:13:32.629045+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 19,
-      "Mid": 2
+      "Entry": 4,
+      "Mid": 1
     },
     "scores": {},
     "top_companies": [
-      "BeaconFire Inc.",
-      "Winaxis LLC",
-      "BioSpace",
-      "Tential Solutions",
-      "UBS"
+      "CCI- Computer Consultants International, Inc.",
+      "IntraFi",
+      "Akamai Technologies",
+      "Axon",
+      "Philo Homes"
     ],
-    "snapshot_file": "2026-03-26T14-13-32Z_keywords.json"
+    "snapshot_file": "2026-03-26T04-01-17Z_keywords.json"
   },
   {
-    "session_id": "2026-03-26T15:02:11Z",
-    "run_at": "2026-03-26T15:02:11.224525+00:00",
+    "session_id": "2026-03-26T04:02:44Z",
+    "run_at": "2026-03-26T04:02:44.124783+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 4.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Akamai Technologies",
+      "Siemens"
+    ],
+    "snapshot_file": "2026-03-26T04-02-44Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T04:04:05Z",
+    "run_at": "2026-03-26T04:04:05.662826+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 8.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Akamai Technologies"
+    ],
+    "snapshot_file": "2026-03-26T04-04-05Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T04:05:33Z",
+    "run_at": "2026-03-26T04:05:33.510343+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Brook Inc.",
+      "CCI- Computer Consultants International, Inc.",
+      "Energy Vault",
+      "IntraFi",
+      "Akamai Technologies"
+    ],
+    "snapshot_file": "2026-03-26T04-05-33Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T15:02:33Z",
+    "run_at": "2026-03-26T15:02:33.790958+00:00",
     "pipeline": "standard",
     "total_jobs": 20,
     "levels": {
@@ -504,9 +662,9 @@
       "Mid": 2
     },
     "scores": {
-      "avg": 11.1,
+      "avg": 10.6,
       "max": 25,
-      "high": 14
+      "high": 13
     },
     "top_companies": [
       "Wiraa",
@@ -515,64 +673,63 @@
       "Craftner INC",
       "Otter.ai"
     ],
-    "snapshot_file": "2026-03-26T15-02-11Z_standard.json"
+    "snapshot_file": "2026-03-26T15-02-33Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T15:04:48Z",
-    "run_at": "2026-03-26T15:04:48.787501+00:00",
+    "session_id": "2026-03-26T15:05:17Z",
+    "run_at": "2026-03-26T15:05:17.559004+00:00",
     "pipeline": "important",
-    "total_jobs": 4,
+    "total_jobs": 3,
     "levels": {
-      "Entry": 3,
+      "Entry": 2,
       "Mid": 1
     },
     "scores": {
-      "avg": 5.0,
-      "max": 10,
-      "high": 2
+      "avg": 3.3,
+      "max": 8,
+      "high": 1
     },
     "top_companies": [
-      "Dropbox",
       "Lyft",
       "Google",
       "Amazon"
     ],
-    "snapshot_file": "2026-03-26T15-04-48Z_important.json"
+    "snapshot_file": "2026-03-26T15-05-17Z_important.json"
   },
   {
-    "session_id": "2026-03-26T15:07:18Z",
-    "run_at": "2026-03-26T15:07:18.293736+00:00",
+    "session_id": "2026-03-26T15:07:47Z",
+    "run_at": "2026-03-26T15:07:47.887307+00:00",
     "pipeline": "top500",
-    "total_jobs": 6,
-    "levels": {
-      "Entry": 5,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 5.3,
-      "max": 16,
-      "high": 3
-    },
-    "top_companies": [
-      "Amazon",
-      "Otter.ai",
-      "Lyft",
-      "Visa",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T15-07-18Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T15:09:54Z",
-    "run_at": "2026-03-26T15:09:54.570320+00:00",
-    "pipeline": "h1b2026",
     "total_jobs": 5,
     "levels": {
       "Entry": 4,
       "Mid": 1
     },
     "scores": {
-      "avg": 7.0,
+      "avg": 6.4,
+      "max": 16,
+      "high": 3
+    },
+    "top_companies": [
+      "Otter.ai",
+      "Lyft",
+      "Visa",
+      "Google",
+      "Amazon"
+    ],
+    "snapshot_file": "2026-03-26T15-07-47Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T15:10:35Z",
+    "run_at": "2026-03-26T15:10:35.582928+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 8.0,
       "max": 16,
       "high": 3
     },
@@ -580,259 +737,163 @@
       "Otter.ai",
       "Lyft",
       "Tyler Technologies",
-      "Virtusa",
       "Google"
     ],
-    "snapshot_file": "2026-03-26T15-09-54Z_h1b2026.json"
+    "snapshot_file": "2026-03-26T15-10-35Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-26T15:12:53Z",
-    "run_at": "2026-03-26T15:12:53.058856+00:00",
+    "session_id": "2026-03-26T15:13:36Z",
+    "run_at": "2026-03-26T15:13:36.939637+00:00",
     "pipeline": "keywords",
-    "total_jobs": 17,
+    "total_jobs": 18,
     "levels": {
-      "Entry": 17
+      "Entry": 17,
+      "Mid": 1
     },
     "scores": {},
     "top_companies": [
       "Intellibus",
-      "Tyler Technologies",
       "Wiraa",
-      "Otter.ai",
-      "Visa"
+      "Mastercard",
+      "Tyler Technologies",
+      "Otter.ai"
     ],
-    "snapshot_file": "2026-03-26T15-12-53Z_keywords.json"
+    "snapshot_file": "2026-03-26T15-13-36Z_keywords.json"
   },
   {
-    "session_id": "2026-03-26T16:02:46Z",
-    "run_at": "2026-03-26T16:02:46.450239+00:00",
+    "session_id": "2026-03-26T16:04:25Z",
+    "run_at": "2026-03-26T16:04:25.271270+00:00",
     "pipeline": "standard",
-    "total_jobs": 20,
+    "total_jobs": 24,
     "levels": {
-      "Entry": 17,
+      "Entry": 20,
       "New Grad": 2,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 7.6,
-      "max": 28,
-      "high": 12
-    },
-    "top_companies": [
-      "Meta",
-      "MongoDB",
-      "BAJ Consulting LLC",
-      "Recruits Lab",
-      "Nelnet"
-    ],
-    "snapshot_file": "2026-03-26T16-02-46Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T16:05:59Z",
-    "run_at": "2026-03-26T16:05:59.759188+00:00",
-    "pipeline": "important",
-    "total_jobs": 5,
-    "levels": {
-      "Entry": 3,
       "Mid": 2
     },
     "scores": {
-      "avg": 9.6,
-      "max": 23,
-      "high": 3
+      "avg": 8.4,
+      "max": 28,
+      "high": 17
     },
     "top_companies": [
-      "Microsoft",
+      "Inside Higher Ed",
       "Meta",
-      "MongoDB"
+      "MongoDB",
+      "BAJ Consulting LLC",
+      "Apex Systems"
     ],
-    "snapshot_file": "2026-03-26T16-05-59Z_important.json"
+    "snapshot_file": "2026-03-26T16-04-25Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T16:09:14Z",
-    "run_at": "2026-03-26T16:09:14.522117+00:00",
-    "pipeline": "top500",
-    "total_jobs": 5,
+    "session_id": "2026-03-26T16:07:51Z",
+    "run_at": "2026-03-26T16:07:51.788928+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
     "levels": {
-      "Entry": 3,
+      "Entry": 2,
       "Mid": 2
     },
     "scores": {
       "avg": 10.8,
       "max": 23,
+      "high": 3
+    },
+    "top_companies": [
+      "MongoDB",
+      "Microsoft",
+      "Uber",
+      "Meta"
+    ],
+    "snapshot_file": "2026-03-26T16-07-51Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T16:11:07Z",
+    "run_at": "2026-03-26T16:11:07.195537+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 13.0,
+      "max": 23,
       "high": 4
     },
     "top_companies": [
       "MongoDB",
+      "Mastercard",
       "Microsoft",
       "Vercel",
-      "Uber",
       "Meta"
     ],
-    "snapshot_file": "2026-03-26T16-09-14Z_top500.json"
+    "snapshot_file": "2026-03-26T16-11-07Z_top500.json"
   },
   {
-    "session_id": "2026-03-26T16:12:33Z",
-    "run_at": "2026-03-26T16:12:33.430417+00:00",
+    "session_id": "2026-03-26T16:14:27Z",
+    "run_at": "2026-03-26T16:14:27.590089+00:00",
     "pipeline": "h1b2026",
-    "total_jobs": 3,
+    "total_jobs": 2,
     "levels": {
-      "Mid": 2,
-      "Entry": 1
+      "Mid": 2
     },
     "scores": {
-      "avg": 9.7,
-      "max": 12,
-      "high": 3
+      "avg": 9.0,
+      "max": 11,
+      "high": 2
     },
     "top_companies": [
-      "Randstad Digital Americas",
       "Microsoft",
-      "Uber"
+      "IBM"
     ],
-    "snapshot_file": "2026-03-26T16-12-33Z_h1b2026.json"
+    "snapshot_file": "2026-03-26T16-14-27Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-26T16:15:44Z",
-    "run_at": "2026-03-26T16:15:44.363451+00:00",
+    "session_id": "2026-03-26T16:17:59Z",
+    "run_at": "2026-03-26T16:17:59.901660+00:00",
     "pipeline": "keywords",
-    "total_jobs": 22,
+    "total_jobs": 24,
     "levels": {
-      "Entry": 16,
-      "Mid": 4,
+      "Entry": 17,
+      "Mid": 5,
       "New Grad": 2
     },
     "scores": {},
     "top_companies": [
+      "DataAnnotation",
       "Ultra Electronics Group",
       "Mastercard",
       "MongoDB",
-      "Vercel",
       "BigHat Biosciences"
     ],
-    "snapshot_file": "2026-03-26T16-15-44Z_keywords.json"
+    "snapshot_file": "2026-03-26T16-17-59Z_keywords.json"
   },
   {
-    "session_id": "2026-03-26T17:02:35Z",
-    "run_at": "2026-03-26T17:02:35.632814+00:00",
+    "session_id": "2026-03-26T18:02:46Z",
+    "run_at": "2026-03-26T18:02:46.499032+00:00",
     "pipeline": "standard",
-    "total_jobs": 16,
+    "total_jobs": 31,
     "levels": {
-      "Entry": 13,
-      "Mid": 3
+      "Entry": 26,
+      "Mid": 5
     },
     "scores": {
-      "avg": 6.2,
-      "max": 17,
-      "high": 10
-    },
-    "top_companies": [
-      "DataAnnotation",
-      "BigHat Biosciences",
-      "Jack & Jill",
-      "Spring Health",
-      "MongoDB"
-    ],
-    "snapshot_file": "2026-03-26T17-02-35Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T17:05:39Z",
-    "run_at": "2026-03-26T17:05:39.994104+00:00",
-    "pipeline": "important",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 10.0,
-      "max": 10,
-      "high": 1
-    },
-    "top_companies": [
-      "MongoDB"
-    ],
-    "snapshot_file": "2026-03-26T17-05-39Z_important.json"
-  },
-  {
-    "session_id": "2026-03-26T17:08:54Z",
-    "run_at": "2026-03-26T17:08:54.384063+00:00",
-    "pipeline": "top500",
-    "total_jobs": 1,
-    "levels": {
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 4.0,
-      "max": 4,
-      "high": 0
-    },
-    "top_companies": [
-      "Spring Health"
-    ],
-    "snapshot_file": "2026-03-26T17-08-54Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T17:12:15Z",
-    "run_at": "2026-03-26T17:12:15.040083+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 2.0,
-      "max": 2,
-      "high": 0
-    },
-    "top_companies": [
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T17-12-15Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T17:15:27Z",
-    "run_at": "2026-03-26T17:15:27.048291+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 13
-    },
-    "scores": {},
-    "top_companies": [
-      "DataAnnotation",
-      "Wiraa",
-      "Jack & Jill",
-      "Glean",
-      "MongoDB"
-    ],
-    "snapshot_file": "2026-03-26T17-15-27Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T18:02:47Z",
-    "run_at": "2026-03-26T18:02:47.378845+00:00",
-    "pipeline": "standard",
-    "total_jobs": 23,
-    "levels": {
-      "Entry": 19,
-      "Mid": 4
-    },
-    "scores": {
-      "avg": 9.4,
+      "avg": 8.3,
       "max": 25,
-      "high": 19
+      "high": 22
     },
     "top_companies": [
       "DataAnnotation",
-      "Early Warning\u00ae",
-      "Kodiak",
       "Goldman Sachs",
-      "Clipbook"
+      "Teradyne",
+      "Google",
+      "Early Warning\u00ae"
     ],
-    "snapshot_file": "2026-03-26T18-02-47Z_standard.json"
+    "snapshot_file": "2026-03-26T18-02-46Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T18:06:07Z",
-    "run_at": "2026-03-26T18:06:07.245167+00:00",
+    "session_id": "2026-03-26T18:06:02Z",
+    "run_at": "2026-03-26T18:06:02.372562+00:00",
     "pipeline": "important",
     "total_jobs": 2,
     "levels": {
@@ -847,31 +908,32 @@
     "top_companies": [
       "Google"
     ],
-    "snapshot_file": "2026-03-26T18-06-07Z_important.json"
+    "snapshot_file": "2026-03-26T18-06-02Z_important.json"
   },
   {
-    "session_id": "2026-03-26T18:09:22Z",
-    "run_at": "2026-03-26T18:09:22.933953+00:00",
+    "session_id": "2026-03-26T18:09:18Z",
+    "run_at": "2026-03-26T18:09:18.990350+00:00",
     "pipeline": "top500",
-    "total_jobs": 3,
+    "total_jobs": 4,
     "levels": {
-      "Entry": 3
+      "Entry": 3,
+      "Mid": 1
     },
     "scores": {
-      "avg": 2.3,
-      "max": 3,
-      "high": 0
+      "avg": 3.8,
+      "max": 8,
+      "high": 1
     },
     "top_companies": [
+      "Google",
       "LinkedIn",
-      "ServiceNow",
-      "Google"
+      "ServiceNow"
     ],
-    "snapshot_file": "2026-03-26T18-09-22Z_top500.json"
+    "snapshot_file": "2026-03-26T18-09-18Z_top500.json"
   },
   {
-    "session_id": "2026-03-26T18:13:02Z",
-    "run_at": "2026-03-26T18:13:02.853390+00:00",
+    "session_id": "2026-03-26T18:13:01Z",
+    "run_at": "2026-03-26T18:13:01.919053+00:00",
     "pipeline": "h1b2026",
     "total_jobs": 4,
     "levels": {
@@ -888,15 +950,15 @@
       "ServiceNow",
       "Google"
     ],
-    "snapshot_file": "2026-03-26T18-13-02Z_h1b2026.json"
+    "snapshot_file": "2026-03-26T18-13-01Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-26T18:16:38Z",
-    "run_at": "2026-03-26T18:16:38.910367+00:00",
+    "session_id": "2026-03-26T18:21:59Z",
+    "run_at": "2026-03-26T18:21:59.135488+00:00",
     "pipeline": "keywords",
-    "total_jobs": 19,
+    "total_jobs": 18,
     "levels": {
-      "Entry": 18,
+      "Entry": 17,
       "Mid": 1
     },
     "scores": {},
@@ -905,478 +967,149 @@
       "SoFi",
       "Early Warning\u00ae",
       "Kodiak",
-      "Tyler Technologies"
+      "Clipbook"
     ],
-    "snapshot_file": "2026-03-26T18-16-38Z_keywords.json"
+    "snapshot_file": "2026-03-26T18-21-59Z_keywords.json"
   },
   {
-    "session_id": "2026-03-26T19:03:03Z",
-    "run_at": "2026-03-26T19:03:03.313239+00:00",
+    "session_id": "2026-03-26T19:11:54Z",
+    "run_at": "2026-03-26T19:11:54.345511+00:00",
     "pipeline": "standard",
-    "total_jobs": 13,
+    "total_jobs": 22,
     "levels": {
-      "Entry": 11,
-      "Mid": 2
+      "Entry": 22
     },
     "scores": {
-      "avg": 8.0,
+      "avg": 7.7,
       "max": 28,
-      "high": 6
+      "high": 11
     },
     "top_companies": [
+      "Jobs via Dice",
       "MongoDB",
       "E-IT",
-      "Nasdaq",
-      "WIT Recruiting",
-      "Merge"
+      "Apex Systems",
+      "Nasdaq"
     ],
-    "snapshot_file": "2026-03-26T19-03-03Z_standard.json"
+    "snapshot_file": "2026-03-26T19-11-54Z_standard.json"
   },
   {
-    "session_id": "2026-03-26T19:06:59Z",
-    "run_at": "2026-03-26T19:06:59.182894+00:00",
-    "pipeline": "important",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 14.0,
-      "max": 23,
-      "high": 2
-    },
-    "top_companies": [
-      "MongoDB",
-      "GitHub"
-    ],
-    "snapshot_file": "2026-03-26T19-06-59Z_important.json"
-  },
-  {
-    "session_id": "2026-03-26T19:10:34Z",
-    "run_at": "2026-03-26T19:10:34.254130+00:00",
-    "pipeline": "top500",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 11.5,
-      "max": 23,
-      "high": 1
-    },
-    "top_companies": [
-      "MongoDB",
-      "Epic"
-    ],
-    "snapshot_file": "2026-03-26T19-10-34Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T19:17:22Z",
-    "run_at": "2026-03-26T19:17:22.044341+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 8,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "MongoDB",
-      "Nasdaq",
-      "Tanium",
-      "Akkodis",
-      "Merge"
-    ],
-    "snapshot_file": "2026-03-26T19-17-22Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T20:01:49Z",
-    "run_at": "2026-03-26T20:01:49.511267+00:00",
-    "pipeline": "standard",
-    "total_jobs": 15,
-    "levels": {
-      "Entry": 12,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 7.6,
-      "max": 19,
-      "high": 8
-    },
-    "top_companies": [
-      "BeaconFire Inc.",
-      "Wiraa",
-      "Torque Technologies LLC",
-      "Oracle",
-      "Red Hat"
-    ],
-    "snapshot_file": "2026-03-26T20-01-49Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T20:04:33Z",
-    "run_at": "2026-03-26T20:04:33.348747+00:00",
+    "session_id": "2026-03-26T20:29:40Z",
+    "run_at": "2026-03-26T20:29:40.947771+00:00",
     "pipeline": "important",
     "total_jobs": 1,
     "levels": {
       "Entry": 1
     },
     "scores": {
-      "avg": 6.0,
-      "max": 6,
+      "avg": 23.0,
+      "max": 23,
       "high": 1
     },
     "top_companies": [
-      "Oracle"
+      "MongoDB"
     ],
-    "snapshot_file": "2026-03-26T20-04-33Z_important.json"
+    "snapshot_file": "2026-03-26T20-29-40Z_important.json"
   },
   {
-    "session_id": "2026-03-26T20:07:05Z",
-    "run_at": "2026-03-26T20:07:05.430527+00:00",
+    "session_id": "2026-03-26T20:48:07Z",
+    "run_at": "2026-03-26T20:48:07.118119+00:00",
     "pipeline": "top500",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 7.0,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "TikTok",
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-26T20-07-05Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T20:09:48Z",
-    "run_at": "2026-03-26T20:09:48.334929+00:00",
-    "pipeline": "h1b2026",
     "total_jobs": 4,
     "levels": {
       "Entry": 3,
       "Mid": 1
     },
     "scores": {
-      "avg": 8.5,
+      "avg": 9.8,
       "max": 16,
       "high": 4
     },
     "top_companies": [
       "Oracle",
-      "Pyramid Consulting, Inc",
-      "Tyler Technologies"
-    ],
-    "snapshot_file": "2026-03-26T20-09-48Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T20:12:41Z",
-    "run_at": "2026-03-26T20:12:41.701346+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 12,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Wiraa",
-      "Axiom Space",
-      "Torque Technologies LLC",
-      "BeaconFire Inc.",
-      "ProService Hawaii"
-    ],
-    "snapshot_file": "2026-03-26T20-12-41Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T21:01:56Z",
-    "run_at": "2026-03-26T21:01:56.724859+00:00",
-    "pipeline": "standard",
-    "total_jobs": 25,
-    "levels": {
-      "Entry": 24,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 8.4,
-      "max": 20,
-      "high": 18
-    },
-    "top_companies": [
-      "Mercor",
-      "S Cube Soft",
-      "Tesla",
-      "RemoteHunter",
-      "Garmin"
-    ],
-    "snapshot_file": "2026-03-26T21-01-56Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T21:05:25Z",
-    "run_at": "2026-03-26T21:05:25.352738+00:00",
-    "pipeline": "important",
-    "total_jobs": 6,
-    "levels": {
-      "Mid": 5,
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 4.0,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "Rippling"
-    ],
-    "snapshot_file": "2026-03-26T21-05-25Z_important.json"
-  },
-  {
-    "session_id": "2026-03-26T21:08:49Z",
-    "run_at": "2026-03-26T21:08:49.624625+00:00",
-    "pipeline": "top500",
-    "total_jobs": 8,
-    "levels": {
-      "Entry": 4,
-      "Mid": 4
-    },
-    "scores": {
-      "avg": 5.4,
-      "max": 16,
-      "high": 3
-    },
-    "top_companies": [
-      "Google",
-      "Leidos",
       "Garmin",
-      "ServiceNow"
-    ],
-    "snapshot_file": "2026-03-26T21-08-49Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T21:12:07Z",
-    "run_at": "2026-03-26T21:12:07.853993+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 6,
-    "levels": {
-      "Mid": 4,
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 4.0,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "ServiceNow"
-    ],
-    "snapshot_file": "2026-03-26T21-12-07Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T21:15:35Z",
-    "run_at": "2026-03-26T21:15:35.209866+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 20,
-    "levels": {
-      "Entry": 16,
-      "Mid": 4
-    },
-    "scores": {},
-    "top_companies": [
-      "Garmin",
-      "Google",
-      "Mercor",
-      "Esri",
-      "Pariveda"
-    ],
-    "snapshot_file": "2026-03-26T21-15-35Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T22:02:42Z",
-    "run_at": "2026-03-26T22:02:42.885572+00:00",
-    "pipeline": "standard",
-    "total_jobs": 17,
-    "levels": {
-      "Entry": 15,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 9.3,
-      "max": 27,
-      "high": 11
-    },
-    "top_companies": [
-      "Wiraa",
-      "Candescent",
-      "AdvancedMD",
-      "Syndicatebleu",
-      "Solid Power, Inc."
-    ],
-    "snapshot_file": "2026-03-26T22-02-42Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T22:08:22Z",
-    "run_at": "2026-03-26T22:08:22.777958+00:00",
-    "pipeline": "top500",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 11.0,
-      "max": 16,
-      "high": 2
-    },
-    "top_companies": [
-      "Leidos",
-      "Warner Bros. Discovery"
-    ],
-    "snapshot_file": "2026-03-26T22-08-22Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-26T22:11:41Z",
-    "run_at": "2026-03-26T22:11:41.337780+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 2.0,
-      "max": 2,
-      "high": 0
-    },
-    "top_companies": [
-      "Insight Global"
-    ],
-    "snapshot_file": "2026-03-26T22-11-41Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T22:14:58Z",
-    "run_at": "2026-03-26T22:14:58.041365+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 12,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Candescent",
-      "Wiraa",
-      "Leidos",
-      "Fanatics",
-      "Syndicatebleu"
-    ],
-    "snapshot_file": "2026-03-26T22-14-58Z_keywords.json"
-  },
-  {
-    "session_id": "2026-03-26T23:02:30Z",
-    "run_at": "2026-03-26T23:02:30.859961+00:00",
-    "pipeline": "standard",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 18,
-      "Mid": 2,
-      "New Grad": 1
-    },
-    "scores": {
-      "avg": 9.0,
-      "max": 22,
-      "high": 14
-    },
-    "top_companies": [
-      "Ellipsis Labs",
-      "Jobs via Dice",
-      "hackajob",
-      "Scion Staffing",
-      "Persistent Systems"
-    ],
-    "snapshot_file": "2026-03-26T23-02-30Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-26T23:05:34Z",
-    "run_at": "2026-03-26T23:05:34.863684+00:00",
-    "pipeline": "important",
-    "total_jobs": 2,
-    "levels": {
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 5.0,
-      "max": 8,
-      "high": 1
-    },
-    "top_companies": [
       "Google"
     ],
-    "snapshot_file": "2026-03-26T23-05-34Z_important.json"
+    "snapshot_file": "2026-03-26T20-48-07Z_top500.json"
   },
   {
-    "session_id": "2026-03-26T23:08:33Z",
-    "run_at": "2026-03-26T23:08:33.261005+00:00",
-    "pipeline": "top500",
+    "session_id": "2026-03-26T20:53:01Z",
+    "run_at": "2026-03-26T20:53:01.474873+00:00",
+    "pipeline": "h1b2026",
     "total_jobs": 4,
     "levels": {
       "Entry": 3,
       "Mid": 1
     },
     "scores": {
-      "avg": 7.2,
-      "max": 14,
-      "high": 3
+      "avg": 10.5,
+      "max": 16,
+      "high": 4
     },
     "top_companies": [
-      "Alteryx",
-      "NetApp",
-      "Capgemini",
+      "Oracle",
+      "Flexton Inc.",
       "Google"
     ],
-    "snapshot_file": "2026-03-26T23-08-33Z_top500.json"
+    "snapshot_file": "2026-03-26T20-53-01Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-26T23:11:40Z",
-    "run_at": "2026-03-26T23:11:40.219627+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 3,
-    "levels": {
-      "Entry": 2,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 7.0,
-      "max": 8,
-      "high": 3
-    },
-    "top_companies": [
-      "Google",
-      "NetApp",
-      "Capgemini"
-    ],
-    "snapshot_file": "2026-03-26T23-11-40Z_h1b2026.json"
-  },
-  {
-    "session_id": "2026-03-26T23:14:57Z",
-    "run_at": "2026-03-26T23:14:57.498948+00:00",
+    "session_id": "2026-03-26T21:06:50Z",
+    "run_at": "2026-03-26T21:06:50.276024+00:00",
     "pipeline": "keywords",
-    "total_jobs": 23,
+    "total_jobs": 20,
     "levels": {
-      "Entry": 21,
-      "New Grad": 1,
-      "Mid": 1
+      "Entry": 20
     },
     "scores": {},
     "top_companies": [
-      "Jobs via Dice",
-      "Ellipsis Labs",
-      "U.S. Bank",
-      "Scion Staffing",
-      "Alteryx"
+      "Oracle",
+      "Mercor",
+      "Esri",
+      "Wiraa",
+      "Craftner INC"
     ],
-    "snapshot_file": "2026-03-26T23-14-57Z_keywords.json"
+    "snapshot_file": "2026-03-26T21-06-50Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T22:40:28Z",
+    "run_at": "2026-03-26T22:40:28.316063+00:00",
+    "pipeline": "standard",
+    "total_jobs": 40,
+    "levels": {
+      "Entry": 31,
+      "Mid": 9
+    },
+    "scores": {
+      "avg": 7.9,
+      "max": 24,
+      "high": 23
+    },
+    "top_companies": [
+      "Google",
+      "U.S. Bank",
+      "Jobs via Dice",
+      "Mercor",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-03-26T22-40-28Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T23:56:25Z",
+    "run_at": "2026-03-26T23:56:25.714589+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 16.0,
+      "max": 16,
+      "high": 1
+    },
+    "top_companies": [
+      "Leidos"
+    ],
+    "snapshot_file": "2026-03-26T23-56-25Z_top500.json"
   }
 ]
