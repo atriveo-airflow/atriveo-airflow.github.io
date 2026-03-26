@@ -409,5 +409,26 @@
       "BioSpace"
     ],
     "snapshot_file": "2026-03-26T14-02-27Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T14:05:11Z",
+    "run_at": "2026-03-26T14:05:11.528346+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 8.3,
+      "max": 11,
+      "high": 3
+    },
+    "top_companies": [
+      "Verkada",
+      "Uber",
+      "Meta"
+    ],
+    "snapshot_file": "2026-03-26T14-05-11Z_important.json"
   }
 ]
