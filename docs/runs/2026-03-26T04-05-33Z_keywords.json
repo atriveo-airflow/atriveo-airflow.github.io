@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Software Engineer - Hybrid/Bellevue, WA",
+    "company": "Brook Inc.",
+    "location": "Bellevue, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=442324d7b318c1db",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "keyword_score": 24,
+    "site": "indeed"
+  },
+  {
+    "title": "Backend Developer  - Public Sector Data Portal",
+    "company": "CCI- Computer Consultants International, Inc.",
+    "location": "Massachusetts, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390682754",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Intern, Software Engineering",
+    "company": "Energy Vault",
+    "location": "Tysons Corner, VA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=ce3eb3cb546a1bbc",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "keyword_score": 11,
+    "site": "indeed"
+  },
+  {
+    "title": "Junior Software Developer (Python)",
+    "company": null,
+    "location": "College Station, TX, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8ce51f281785c16d",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "keyword_score": 9,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "IntraFi",
+    "location": "Arlington, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382348807",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Akamai Technologies",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Developer (Vue)",
+    "company": null,
+    "location": "College Station, TX, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=421e22777ba41b50",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "keyword_score": 6,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Axon",
+    "location": "Washington, United States",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390690433",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  }
+]
