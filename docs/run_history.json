@@ -323,5 +323,99 @@
       "Tesla"
     ],
     "snapshot_file": "2026-03-26T01-54-55Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T02:01:44Z",
+    "run_at": "2026-03-26T02:01:44.069610+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Voltus",
+      "Tesla",
+      "TherapyNotes, LLC",
+      "TrellisWare Technologies"
+    ],
+    "snapshot_file": "2026-03-26T02-01-44Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T02:02:10Z",
+    "run_at": "2026-03-26T02:02:10.589073+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 7.8,
+      "max": 15,
+      "high": 2
+    },
+    "top_companies": [
+      "Voltus",
+      "CommerceIQ",
+      "TrellisWare Technologies",
+      "Calidar"
+    ],
+    "snapshot_file": "2026-03-26T02-02-10Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T02:04:40Z",
+    "run_at": "2026-03-26T02:04:40.812176+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 1,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 10.5,
+      "max": 12,
+      "high": 2
+    },
+    "top_companies": [
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-26T02-04-40Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T02:06:12Z",
+    "run_at": "2026-03-26T02:06:12.591962+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 11.0,
+      "max": 12,
+      "high": 3
+    },
+    "top_companies": [
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-26T02-06-12Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T02:07:38Z",
+    "run_at": "2026-03-26T02:07:38.291306+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Uber",
+      "Voltus",
+      "CommerceIQ",
+      "ArcBest"
+    ],
+    "snapshot_file": "2026-03-26T02-07-38Z_keywords.json"
   }
 ]
