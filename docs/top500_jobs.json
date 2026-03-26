@@ -11,20 +11,10 @@
   },
   {
     "title": "Software Engineer II",
-    "company": "Mastercard",
-    "location": "O'Fallon, MO",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4363150484",
-    "date_posted": null,
-    "priority_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
     "company": "Microsoft",
     "location": "",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390898292",
+    "job_url": "https://www.linkedin.com/jobs/view/4390894419",
     "date_posted": null,
     "priority_score": 11,
     "site": "linkedin"
@@ -37,6 +27,16 @@
     "job_url": "https://www.linkedin.com/jobs/view/4343013509",
     "date_posted": null,
     "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, iOS - Autonomous Mobility & Delivery [SF Bay Area]",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4342788919",
+    "date_posted": null,
+    "priority_score": 6,
     "site": "linkedin"
   },
   {
