@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Voltus",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390672806",
+    "date_posted": null,
+    "keyword_score": 15
+  },
+  {
+    "title": "Software Engineer - Founder's Office",
+    "company": "CommerceIQ",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390284472",
+    "date_posted": null,
+    "keyword_score": 13
+  },
+  {
+    "title": "Software Engineer II - Uber Eats",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390688347",
+    "date_posted": null,
+    "keyword_score": 10
+  },
+  {
+    "title": "Software Engineer II - Fares Platform",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390688346",
+    "date_posted": null,
+    "keyword_score": 10
+  },
+  {
+    "title": "Sr Software Engineer - Incentives Platform",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390673791",
+    "date_posted": null,
+    "keyword_score": 7
+  },
+  {
+    "title": "Robotics Software Engineer III - Infrastructure",
+    "company": "ArcBest",
+    "location": "Fort Smith, AR",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379548292",
+    "date_posted": null,
+    "keyword_score": 4
+  }
+]
