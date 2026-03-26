@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Software Engineer - Platform",
+    "company": "Voxel",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390414890",
+    "date_posted": null,
+    "score": 20,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Airlock Digital",
+    "location": "Colorado, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390823653",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Blockchain Software Engineer",
+    "company": "Craftner INC",
+    "location": "Charlotte, NC, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=1dcbb9521bae1da8",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 16,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer (Python, AWS)",
+    "company": "Confidential Jobs",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4385929259",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390562207",
+    "date_posted": null,
+    "score": 10,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Mid level Software Engineer (Python or Java) - Up to $150,000",
+    "company": "Hunter Bond",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390560880",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Member Growth, Retention",
+    "company": "Spring Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390819948",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "SciPlay",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390828471",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Legislative Software Engineer",
+    "company": "State of Utah",
+    "location": "Salt Lake City, UT",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390568218",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Cox Automotive Inc.",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4379555363",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Android, Google TV",
+    "company": "Google",
+    "location": "San Jose, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=9b8f440062449124",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": -2,
+    "competition_score": 3,
+    "site": "indeed"
+  }
+]
