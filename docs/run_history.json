@@ -1236,5 +1236,23 @@
       "Warner Bros. Discovery"
     ],
     "snapshot_file": "2026-03-26T22-08-22Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T22:11:41Z",
+    "run_at": "2026-03-26T22:11:41.337780+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 2.0,
+      "max": 2,
+      "high": 0
+    },
+    "top_companies": [
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-03-26T22-11-41Z_h1b2026.json"
   }
 ]
