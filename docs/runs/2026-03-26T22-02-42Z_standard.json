@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Candescent",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391197466",
+    "date_posted": null,
+    "score": 27,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390849512",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer: Full-Stack",
+    "company": "AdvancedMD",
+    "location": "South Jordan, UT",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391306037",
+    "date_posted": null,
+    "score": 17,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer (Node.JS, AWS)",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390851381",
+    "date_posted": null,
+    "score": 17,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Syndicatebleu",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391910568",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Scientific Software Engineer",
+    "company": "Solid Power, Inc.",
+    "location": "Louisville, CO",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4384530280",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Platform - Brownsville, USA",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391496734",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Warner Bros. Discovery",
+    "location": "Atlanta, GA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=b14582eb61fb1e48",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 8,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer - ML Infrastructure",
+    "company": "Genesis Molecular AI",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4384608039",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Owl Cyber Defense",
+    "location": "Danbury, CT, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=05f781b730cd88f5",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 5,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineering",
+    "company": "Aditi Consulting",
+    "location": "Redmond, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391921257",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Truist",
+    "location": "Charlotte, NC",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391496843",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (API, SQL)",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390848543",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Development Engineer (Backend)",
+    "company": "Insight Global",
+    "location": "Austin, Texas Metropolitan Area",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391305059",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4384092488",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "BraunAbility",
+    "location": "Winamac, IN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391903915",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "OTA Software Engineer",
+    "company": "Hyundai America Technical Center, Inc. (HATCI)",
+    "location": "Superior, MI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391494997",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  }
+]
