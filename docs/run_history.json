@@ -576,5 +576,24 @@
       "Axon"
     ],
     "snapshot_file": "2026-03-26T04-01-06Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T04:01:17Z",
+    "run_at": "2026-03-26T04:01:17.023820+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "CCI- Computer Consultants International, Inc.",
+      "IntraFi",
+      "Akamai Technologies",
+      "Axon",
+      "Philo Homes"
+    ],
+    "snapshot_file": "2026-03-26T04-01-17Z_keywords.json"
   }
 ]
