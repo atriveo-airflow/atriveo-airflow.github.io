@@ -6,6 +6,27 @@
     "level": "Entry",
     "job_url": "https://www.linkedin.com/jobs/view/4376832205",
     "date_posted": null,
-    "priority_score": 13
+    "priority_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Akamai Technologies",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr Software Engineer (L7 Security)",
+    "company": "Palo Alto Networks",
+    "location": "Santa Clara, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=39b84afd7ad8d03c",
+    "date_posted": 1774396800000,
+    "priority_score": 4,
+    "site": "indeed"
   }
 ]
