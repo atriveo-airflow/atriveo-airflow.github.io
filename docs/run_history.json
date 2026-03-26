@@ -201,5 +201,25 @@
       "Cedar"
     ],
     "snapshot_file": "2026-03-26T12-02-43Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T12:05:47Z",
+    "run_at": "2026-03-26T12:05:47.147493+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 2.7,
+      "max": 8,
+      "high": 2
+    },
+    "top_companies": [
+      "Meta",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T12-05-47Z_important.json"
   }
 ]
