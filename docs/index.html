@@ -339,6 +339,56 @@
     footer a { color: var(--muted); }
     footer a:hover { color: var(--accent); }
 
+    /* ── Run history strip ── */
+    .run-strip {
+      display: flex; gap: 7px;
+      overflow-x: auto; padding: 0 2px 10px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) transparent;
+      margin-bottom: 4px;
+    }
+    .run-strip:empty { display: none; }
+    .run-card {
+      flex-shrink: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 8px 14px;
+      cursor: pointer;
+      display: flex; flex-direction: column; align-items: center; gap: 2px;
+      min-width: 72px;
+      box-shadow: var(--shadow);
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .run-card:hover { border-color: var(--accent-bd); }
+    .run-card.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .run-card-time { font-size: 13px; font-weight: 700; }
+    .run-card-count { font-size: 11px; opacity: 0.7; }
+
+    /* ── H1B toggle chip ── */
+    .chip-toggle {
+      padding: 5px 12px; border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-size: 12px; font-weight: 500;
+      color: var(--muted); cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip-toggle:hover { border-color: var(--green); color: var(--green); }
+    .chip-toggle.active { background: var(--green-bg); border-color: var(--green); color: var(--green); font-weight: 600; }
+
+    /* ── Date pill on job card ── */
+    .job-date {
+      font-size: 11px; font-weight: 600;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .job-date.fresh { color: var(--accent); }
+
     @media (max-width: 600px) {
       .job-card { grid-template-columns: 32px 1fr; }
       .job-right { display: none; }
@@ -402,10 +452,13 @@
       <button class="period-tab"        data-period="yesterday">Yesterday <span class="count" id="tab-count-yesterday"></span></button>
     </div>
     <div class="sort-group">
-      <button class="sort-btn active" data-sort="score">★ Score</button>
-      <button class="sort-btn"        data-sort="time">↓ Recent</button>
+      <button class="sort-btn" data-sort="score">★ Score</button>
+      <button class="sort-btn active" data-sort="time">↓ Recent</button>
     </div>
   </div>
+
+  <!-- Run history strip -->
+  <div class="run-strip" id="run-strip"></div>
 
   <!-- Filters -->
   <div class="filter-bar">
@@ -418,6 +471,7 @@
       <button class="chip" data-level="New Grad">New Grad</button>
       <button class="chip" data-level="Entry">Entry</button>
       <button class="chip" data-level="Mid">Mid</button>
+      <button class="chip-toggle" id="chip-h1b">H1B ✓</button>
     </div>
   </div>
 
@@ -446,10 +500,15 @@
   let yesterdayJobs = [];
   let h1bSet        = new Set();
   let prioritySet   = new Set();
+  let runHistory    = [];
+  let snapshotCache = {};
+  let selectedRunId = null;
+  let selectedRunJobs = null;
 
   let period      = "hour";
-  let sortBy      = "score";
+  let sortBy      = "time";
   let levelFilter = "all";
+  let h1bFilter   = false;
   let query       = "";
 
   // ── Helpers ──────────────────────────────────────────────────────────────
@@ -479,6 +538,7 @@
 
   // ── Render ───────────────────────────────────────────────────────────────
   function activeJobs() {
+    if (selectedRunJobs !== null) return selectedRunJobs;
     return { hour: hourJobs, today: todayJobs, yesterday: yesterdayJobs }[period] || [];
   }
 
@@ -488,6 +548,11 @@
     // Level filter
     if (levelFilter !== "all") {
       jobs = jobs.filter(j => (j.level || "Entry") === levelFilter);
+    }
+
+    // H1B filter
+    if (h1bFilter) {
+      jobs = jobs.filter(j => h1bSet.has(j.job_url));
     }
 
     // Search
@@ -540,13 +605,14 @@
       const isPri   = prioritySet.has(j.job_url);
       const top     = i < 3 && score >= 8;
 
+      const dateClass = isNew ? "job-date fresh" : "job-date";
       return `<div class="job-card${top ? " top" : ""}">
         <div class="avatar" style="background:${color}">${initial}</div>
         <div class="job-main">
           <div class="job-title">
             ${j.title || "—"}
             ${isNew ? `<span class="badge badge-new">NEW</span>` : ""}
-            ${isH1b ? `<span class="badge badge-h1b">H1B</span>` : ""}
+            ${isH1b ? `<span class="badge badge-h1b">H1B ✓</span>` : ""}
             ${isPri ? `<span class="badge badge-pri">Priority</span>` : ""}
           </div>
           <div class="job-meta">
@@ -555,10 +621,10 @@
             <span>${j.location || "Remote"}</span>
             <span class="sep">·</span>
             <span class="badge ${levelClass(lvl)}">${lvl}</span>
-            ${posted ? `<span class="sep">·</span><span>${posted}</span>` : ""}
           </div>
         </div>
         <div class="job-right">
+          ${posted ? `<div class="${dateClass}">${posted}</div>` : ""}
           <div class="job-score">
             <span class="star">★</span>
             <span class="${scoreColor(score)}">${score}</span>
@@ -606,6 +672,10 @@
       document.querySelectorAll(".period-tab").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       period = btn.dataset.period;
+      // Clear selected run when switching period tabs
+      selectedRunId = null;
+      selectedRunJobs = null;
+      document.querySelectorAll(".run-card").forEach(c => c.classList.remove("active"));
       render();
     });
   });
@@ -628,16 +698,100 @@
     });
   });
 
+  document.getElementById("chip-h1b").addEventListener("click", function() {
+    h1bFilter = !h1bFilter;
+    this.classList.toggle("active", h1bFilter);
+    render();
+  });
+
+  // ── Run history strip ─────────────────────────────────────────────────────
+  function fmtHour(iso) {
+    const d = new Date(iso);
+    return d.toLocaleTimeString("en-US", { hour: "numeric", hour12: true });
+  }
+
+  function renderRunCards() {
+    const strip = document.getElementById("run-strip");
+    if (!runHistory.length) { strip.innerHTML = ""; return; }
+
+    // Group by hour bucket, prefer standard pipeline
+    const buckets = new Map();
+    [...runHistory].reverse().forEach(entry => {
+      const d = new Date(entry.run_at);
+      const key = `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}-${d.getHours()}`;
+      if (!buckets.has(key) || entry.pipeline === "standard") {
+        buckets.set(key, entry);
+      }
+    });
+
+    const cards = [...buckets.values()].slice(0, 24);
+
+    strip.innerHTML = cards.map(entry => {
+      const isActive = selectedRunId === entry.session_id;
+      return `<button class="run-card${isActive ? " active" : ""}" data-sid="${entry.session_id}" data-snap="${entry.snapshot_file || ""}">
+        <span class="run-card-time">${fmtHour(entry.run_at)}</span>
+        <span class="run-card-count">${entry.total_jobs} jobs</span>
+      </button>`;
+    }).join("");
+
+    strip.querySelectorAll(".run-card").forEach(card => {
+      card.addEventListener("click", async () => {
+        const sid  = card.dataset.sid;
+        const snap = card.dataset.snap;
+
+        // Toggle off if already selected
+        if (selectedRunId === sid) {
+          selectedRunId   = null;
+          selectedRunJobs = null;
+          card.classList.remove("active");
+          // Re-activate the current period tab
+          document.querySelectorAll(".period-tab").forEach(b => {
+            b.classList.toggle("active", b.dataset.period === period);
+          });
+          render();
+          return;
+        }
+
+        selectedRunId = sid;
+        strip.querySelectorAll(".run-card").forEach(c => c.classList.remove("active"));
+        card.classList.add("active");
+        // Deactivate period tabs visually (snapshot mode)
+        document.querySelectorAll(".period-tab").forEach(b => b.classList.remove("active"));
+
+        if (!snap) { selectedRunJobs = []; render(); return; }
+
+        if (snapshotCache[snap]) {
+          selectedRunJobs = snapshotCache[snap];
+          render();
+          return;
+        }
+
+        // Show loading
+        document.getElementById("job-list").innerHTML =
+          `<div class="state-msg"><div class="icon">⏳</div>Loading snapshot…</div>`;
+        try {
+          const data = await fetch(`runs/${snap}`).then(r => r.json());
+          snapshotCache[snap] = data;
+          selectedRunJobs = data;
+        } catch {
+          selectedRunJobs = [];
+        }
+        render();
+      });
+    });
+  }
+
   // ── Load ─────────────────────────────────────────────────────────────────
   async function loadAll() {
     try {
-      const [meta, hour, today, yesterday, important, h1b] = await Promise.all([
+      const [meta, hour, today, yesterday, important, h1b, history] = await Promise.all([
         fetch("metadata.json").then(r => r.json()).catch(() => ({})),
         fetch("jobs.json").then(r => r.json()).catch(() => []),
         fetch("today_jobs.json").then(r => r.json()).catch(() => []),
         fetch("yesterday_jobs.json").then(r => r.json()).catch(() => []),
         fetch("important_jobs.json").then(r => r.json()).catch(() => []),
         fetch("h1b2026_jobs.json").then(r => r.json()).catch(() => []),
+        fetch("run_history.json").then(r => r.json()).catch(() => []),
       ]);
 
       hourJobs      = hour      || [];
@@ -645,6 +799,7 @@
       yesterdayJobs = yesterday || [];
       h1bSet        = urlSet(h1b);
       prioritySet   = urlSet(important);
+      runHistory    = history  || [];
 
       // Header timestamp
       if (meta.last_updated) {
@@ -654,6 +809,7 @@
       }
 
       updateKpis();
+      renderRunCards();
       render();
     } catch (err) {
       document.getElementById("job-list").innerHTML =
