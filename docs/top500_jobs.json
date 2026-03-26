@@ -1,22 +1,42 @@
 [
   {
-    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
-    "company": "Leidos",
+    "title": "Sr. Software Engineer",
+    "company": "Alteryx",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
+    "job_url": "https://www.linkedin.com/jobs/view/4376496916",
     "date_posted": null,
-    "priority_score": 16,
+    "priority_score": 14,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Warner Bros. Discovery",
-    "location": "Atlanta, GA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=b14582eb61fb1e48",
+    "title": "Software Engineer (C/C++, OS, File Systems,Kernel)",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4356522011",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Capgemini",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8567dc5c7966920e",
     "date_posted": 1774483200000,
-    "priority_score": 6,
+    "priority_score": 5,
     "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Engineering Productivity, Google Cloud",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391939470",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
   }
 ]
