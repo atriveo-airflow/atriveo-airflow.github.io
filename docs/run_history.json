@@ -989,5 +989,28 @@
       "Merge"
     ],
     "snapshot_file": "2026-03-26T19-17-22Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T20:01:49Z",
+    "run_at": "2026-03-26T20:01:49.511267+00:00",
+    "pipeline": "standard",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 12,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 7.6,
+      "max": 19,
+      "high": 8
+    },
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Wiraa",
+      "Torque Technologies LLC",
+      "Oracle",
+      "Red Hat"
+    ],
+    "snapshot_file": "2026-03-26T20-01-49Z_standard.json"
   }
 ]
