@@ -493,5 +493,28 @@
       "UBS"
     ],
     "snapshot_file": "2026-03-26T14-13-32Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T15:02:11Z",
+    "run_at": "2026-03-26T15:02:11.224525+00:00",
+    "pipeline": "standard",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 18,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 11.1,
+      "max": 25,
+      "high": 14
+    },
+    "top_companies": [
+      "Wiraa",
+      "Intellibus",
+      "Western Governors University",
+      "Craftner INC",
+      "Otter.ai"
+    ],
+    "snapshot_file": "2026-03-26T15-02-11Z_standard.json"
   }
 ]
