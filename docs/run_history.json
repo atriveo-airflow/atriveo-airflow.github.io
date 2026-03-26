@@ -283,5 +283,28 @@
       "Qualcomm"
     ],
     "snapshot_file": "2026-03-26T12-14-53Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T13:02:34Z",
+    "run_at": "2026-03-26T13:02:34.165979+00:00",
+    "pipeline": "standard",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 16,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": 8.4,
+      "max": 32,
+      "high": 15
+    },
+    "top_companies": [
+      "Meta",
+      "Google",
+      "hackajob",
+      "Walmart",
+      "CareerXperts Consulting"
+    ],
+    "snapshot_file": "2026-03-26T13-02-34Z_standard.json"
   }
 ]
