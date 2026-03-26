@@ -159,5 +159,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T09-05-38Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T09:07:19Z",
+    "run_at": "2026-03-26T09:07:19.820926+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 9,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Tivity Health",
+      "Voxel",
+      "Pivotor AI",
+      "Airlock Digital",
+      "Craftner INC"
+    ],
+    "snapshot_file": "2026-03-26T09-07-19Z_keywords.json"
   }
 ]
