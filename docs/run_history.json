@@ -889,5 +889,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-26T18-13-02Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T18:16:38Z",
+    "run_at": "2026-03-26T18:16:38.910367+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 18,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "DataAnnotation",
+      "SoFi",
+      "Early Warning\u00ae",
+      "Kodiak",
+      "Tyler Technologies"
+    ],
+    "snapshot_file": "2026-03-26T18-16-38Z_keywords.json"
   }
 ]
