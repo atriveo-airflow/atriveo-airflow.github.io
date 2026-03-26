@@ -109,5 +109,219 @@
       "EPITEC",
       "Applied Intuition"
     ]
+  },
+  {
+    "session_id": "2026-03-25T21:12:05Z",
+    "run_at": "2026-03-25T21:12:05.198113+00:00",
+    "pipeline": "standard",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 11.0,
+      "max": 35,
+      "high": 13
+    },
+    "top_companies": [
+      "BeaconFire Inc.",
+      "K2United",
+      "Attentive",
+      "BlueMapleIT",
+      "EXL"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:14:04Z",
+    "run_at": "2026-03-25T21:14:04.642758+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 16.0,
+      "max": 16,
+      "high": 1
+    },
+    "top_companies": [
+      "Box"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:16:29Z",
+    "run_at": "2026-03-25T21:16:29.085033+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 13.0,
+      "max": 13,
+      "high": 1
+    },
+    "top_companies": [
+      "project44"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:18:35Z",
+    "run_at": "2026-03-25T21:18:35.601159+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 8.3,
+      "max": 13,
+      "high": 3
+    },
+    "top_companies": [
+      "EPITEC",
+      "Akkodis",
+      "Pacer Group"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T21:20:48Z",
+    "run_at": "2026-03-25T21:20:48.637553+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 18,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "K2United",
+      "Attentive",
+      "FIGS",
+      "BlueMapleIT"
+    ]
+  },
+  {
+    "session_id": "2026-03-25T22:01:52Z",
+    "run_at": "2026-03-25T22:01:52.490421+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 18
+    },
+    "scores": {
+      "avg": 7.6,
+      "max": 20,
+      "high": 9
+    },
+    "top_companies": [
+      "Wiraa",
+      "Yochana",
+      "Purpose Brands, LLC",
+      "CommerceIQ",
+      "Jobright.ai"
+    ],
+    "snapshot_file": "2026-03-25T22-01-52Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T00:37:25Z",
+    "run_at": "2026-03-26T00:37:25.752606+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 1,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 5.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Chewy",
+      "Airbnb"
+    ],
+    "snapshot_file": "2026-03-26T00-37-25Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-26T01:00:08Z",
+    "run_at": "2026-03-26T01:00:08.222203+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 17,
+      "New Grad": 2,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "edkey",
+      "Loop",
+      "HIFI",
+      "JPMorganChase",
+      "BECU"
+    ],
+    "snapshot_file": "2026-03-26T01-00-08Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T01:02:13Z",
+    "run_at": "2026-03-26T01:02:13.509698+00:00",
+    "pipeline": "standard",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 4,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 6.6,
+      "max": 15,
+      "high": 4
+    },
+    "top_companies": [
+      "hackajob",
+      "BECU",
+      "Tesla",
+      "TherapyNotes, LLC",
+      "Honeywell"
+    ],
+    "snapshot_file": "2026-03-26T01-02-13Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T01:52:18Z",
+    "run_at": "2026-03-26T01:52:18.779425+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Tesla"
+    ],
+    "snapshot_file": "2026-03-26T01-52-18Z_important.json"
+  },
+  {
+    "session_id": "2026-03-26T01:54:55Z",
+    "run_at": "2026-03-26T01:54:55.275330+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Tesla"
+    ],
+    "snapshot_file": "2026-03-26T01-54-55Z_top500.json"
   }
 ]
