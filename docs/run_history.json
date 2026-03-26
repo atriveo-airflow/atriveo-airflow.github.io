@@ -178,5 +178,28 @@
       "Craftner INC"
     ],
     "snapshot_file": "2026-03-26T09-07-19Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T12:02:43Z",
+    "run_at": "2026-03-26T12:02:43.654969+00:00",
+    "pipeline": "standard",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 16,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 4.8,
+      "max": 16,
+      "high": 9
+    },
+    "top_companies": [
+      "Meta",
+      "Google",
+      "Turing",
+      "UBS",
+      "Cedar"
+    ],
+    "snapshot_file": "2026-03-26T12-02-43Z_standard.json"
   }
 ]
