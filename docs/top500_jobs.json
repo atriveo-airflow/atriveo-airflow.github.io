@@ -1,80 +1,80 @@
 [
   {
-    "title": "Software Engineer III, Full Stack, Chrome",
+    "title": "Software Engineer, Stablecoins",
+    "company": "Ramp",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4364997808",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Google Cloud Storage",
     "company": "Google",
-    "location": "Seattle, WA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380026987",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
     "date_posted": null,
     "priority_score": 8,
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - Python - Developer Tools - Search",
+    "company": "Elastic",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4371063019",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Accounting",
+    "company": "Ramp",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4364919811",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Product",
     "company": "Meta",
-    "location": "Bellevue, WA",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4255809879",
+    "job_url": "https://www.linkedin.com/jobs/view/4255811849",
     "date_posted": null,
     "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, AI Native",
-    "company": "Meta",
-    "location": "Menlo Park, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378159495",
-    "date_posted": null,
-    "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, Google Cloud Storage",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380041260",
-    "date_posted": null,
-    "priority_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II, Member Growth, Retention",
-    "company": "Spring Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391036722",
-    "date_posted": null,
-    "priority_score": 4,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer, Android",
     "company": "Meta",
-    "location": "San Francisco, CA",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254371632",
+    "job_url": "https://www.linkedin.com/jobs/view/4254368768",
     "date_posted": null,
     "priority_score": 3,
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer Intern",
-    "company": "Nokia",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4348990503",
+    "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
+    "company": "Google",
+    "location": "Cambridge, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379657347",
     "date_posted": null,
-    "priority_score": 3,
+    "priority_score": 2,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer, iOS",
     "company": "Meta",
-    "location": "New York, NY",
+    "location": "Menlo Park, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254370677",
+    "job_url": "https://www.linkedin.com/jobs/view/4254370675",
     "date_posted": null,
     "priority_score": 0,
     "site": "linkedin"
@@ -82,9 +82,9 @@
   {
     "title": "Embedded Software Engineer",
     "company": "Meta",
-    "location": "Redmond, WA",
+    "location": "Burlingame, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301812138",
+    "job_url": "https://www.linkedin.com/jobs/view/4301803390",
     "date_posted": null,
     "priority_score": 0,
     "site": "linkedin"
@@ -92,9 +92,9 @@
   {
     "title": "Embedded Software Engineer, Firmware",
     "company": "Meta",
-    "location": "Redmond, WA",
+    "location": "San Diego, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301811226",
+    "job_url": "https://www.linkedin.com/jobs/view/4301811227",
     "date_posted": null,
     "priority_score": 0,
     "site": "linkedin"
