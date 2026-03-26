@@ -1070,5 +1070,24 @@
       "Tyler Technologies"
     ],
     "snapshot_file": "2026-03-26T20-09-48Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-26T20:12:41Z",
+    "run_at": "2026-03-26T20:12:41.701346+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 12,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Wiraa",
+      "Axiom Space",
+      "Torque Technologies LLC",
+      "BeaconFire Inc.",
+      "ProService Hawaii"
+    ],
+    "snapshot_file": "2026-03-26T20-12-41Z_keywords.json"
   }
 ]
