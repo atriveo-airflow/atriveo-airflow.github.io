@@ -12,21 +12,21 @@
   {
     "title": "Software Engineer II",
     "company": "Microsoft",
-    "location": "",
+    "location": "Redmond, WA",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390898292",
+    "job_url": "https://www.linkedin.com/jobs/view/4390887648",
     "date_posted": null,
     "priority_score": 11,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, iOS - Autonomous Mobility & Delivery [SF Bay Area]",
-    "company": "Uber",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer II - Azure Resource Graph",
+    "company": "Microsoft",
+    "location": "",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4342788919",
+    "job_url": "https://www.linkedin.com/jobs/view/4391107036",
     "date_posted": null,
-    "priority_score": 6,
+    "priority_score": 11,
     "site": "linkedin"
   },
   {
@@ -37,6 +37,16 @@
     "job_url": "https://www.linkedin.com/jobs/view/4254369813",
     "date_posted": null,
     "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer, Firmware",
+    "company": "Meta",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309226566",
+    "date_posted": null,
+    "priority_score": 0,
     "site": "linkedin"
   }
 ]
