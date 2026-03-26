@@ -60,6 +60,18 @@
     "competition_score": 1
   },
   {
+    "title": "Backend Developer  - Public Sector Data Portal",
+    "company": "CCI- Computer Consultants International, Inc.",
+    "location": "Massachusetts, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390682754",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
+  },
+  {
     "title": "Software Engineer- Data",
     "company": "Wiraa",
     "location": "",
@@ -150,6 +162,18 @@
     "competition_score": 1
   },
   {
+    "title": "Software Engineer",
+    "company": "IntraFi",
+    "location": "Arlington, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382348807",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
+  },
+  {
     "title": "Software Engineer (Full Stack)",
     "company": "Sandberg Goldberg Bernthal Family Foundation",
     "location": "",
@@ -160,6 +184,18 @@
     "competition_score": 1
   },
   {
+    "title": "Software Engineer",
+    "company": "Akamai Technologies",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
+  },
+  {
     "title": "Software Engineer III (Train AI Models Part Time!)",
     "company": "hackajob",
     "location": "Menlo Park, CA",
@@ -168,6 +204,18 @@
     "date_posted": null,
     "score": 6,
     "competition_score": 1
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Axon",
+    "location": "Washington, United States",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390690433",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
   },
   {
     "title": "Software Developer",
@@ -188,6 +236,18 @@
     "date_posted": null,
     "score": 4,
     "competition_score": 1
+  },
+  {
+    "title": "Software Engineer Intern (Computer Vision)_Mandarin Speaking",
+    "company": "Philo Homes",
+    "location": "New York, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390675955",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
   },
   {
     "title": "Software Engineer, AI",
@@ -240,6 +300,18 @@
     "competition_score": 1
   },
   {
+    "title": "Software Engineer - YAML Experience",
+    "company": "Alignerr",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390684764",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
+  },
+  {
     "title": "Software Engineer Intern",
     "company": "Tamagrow",
     "location": "Tempe, AZ",
@@ -248,6 +320,18 @@
     "date_posted": null,
     "score": 2,
     "competition_score": 1
+  },
+  {
+    "title": "Embedded Systems / Network Software Engineer",
+    "company": "Talent Groups",
+    "location": "McKinney, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4385051262",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T03:56:28Z"
   },
   {
     "title": "Software Developer",
@@ -328,5 +412,17 @@
     "date_posted": null,
     "score": 0,
     "competition_score": 1
+  },
+  {
+    "title": "Sr Software Engineer (L7 Security)",
+    "company": "Palo Alto Networks",
+    "location": "Santa Clara, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=39b84afd7ad8d03c",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "score": -2,
+    "competition_score": 2,
+    "site": "indeed",
+    "batch_time": "2026-03-26T03:56:28Z"
   }
 ]
