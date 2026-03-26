@@ -417,5 +417,27 @@
       "ArcBest"
     ],
     "snapshot_file": "2026-03-26T02-07-38Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T03:01:00Z",
+    "run_at": "2026-03-26T03:01:00.639609+00:00",
+    "pipeline": "standard",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": 10.6,
+      "max": 24,
+      "high": 3
+    },
+    "top_companies": [
+      "Brook Health",
+      "project44",
+      "Intellect Group",
+      "HORIBA",
+      "Tamagrow"
+    ],
+    "snapshot_file": "2026-03-26T03-01-00Z_standard.json"
   }
 ]
