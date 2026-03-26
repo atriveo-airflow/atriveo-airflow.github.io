@@ -386,5 +386,28 @@
       "ejobs Finland"
     ],
     "snapshot_file": "2026-03-26T13-13-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T14:02:27Z",
+    "run_at": "2026-03-26T14:02:27.103099+00:00",
+    "pipeline": "standard",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 21,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 10.7,
+      "max": 28,
+      "high": 19
+    },
+    "top_companies": [
+      "BeaconFire Inc.",
+      "G2i Inc.",
+      "Optum",
+      "Winaxis LLC",
+      "BioSpace"
+    ],
+    "snapshot_file": "2026-03-26T14-02-27Z_standard.json"
   }
 ]
