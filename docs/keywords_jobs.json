@@ -1,38 +1,52 @@
 [
   {
-    "title": "Software Engineer - Hybrid/Bellevue, WA",
-    "company": "Brook Health",
-    "location": "Bellevue, WA",
+    "title": "Backend Developer  - Public Sector Data Portal",
+    "company": "CCI- Computer Consultants International, Inc.",
+    "location": "Massachusetts, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390671959",
+    "job_url": "https://www.linkedin.com/jobs/view/4390682754",
     "date_posted": null,
-    "keyword_score": 24
+    "keyword_score": 14,
+    "site": "linkedin"
   },
   {
     "title": "Software Engineer",
-    "company": "project44",
-    "location": "Chicago, IL",
+    "company": "IntraFi",
+    "location": "Arlington, VA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4376832205",
+    "job_url": "https://www.linkedin.com/jobs/view/4382348807",
     "date_posted": null,
-    "keyword_score": 13
+    "keyword_score": 8,
+    "site": "linkedin"
   },
   {
     "title": "Software Engineer",
-    "company": "Intellect Group",
-    "location": "",
+    "company": "Akamai Technologies",
+    "location": "Cambridge, MA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390539100",
+    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
     "date_posted": null,
-    "keyword_score": 11
+    "keyword_score": 7,
+    "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "HORIBA",
-    "location": "Ann Arbor, MI",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390693068",
+    "title": "Software Engineer I",
+    "company": "Axon",
+    "location": "Washington, United States",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390690433",
     "date_posted": null,
-    "keyword_score": 3
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Intern (Computer Vision)_Mandarin Speaking",
+    "company": "Philo Homes",
+    "location": "New York, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390675955",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
   }
 ]
