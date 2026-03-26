@@ -1012,5 +1012,23 @@
       "Red Hat"
     ],
     "snapshot_file": "2026-03-26T20-01-49Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T20:04:33Z",
+    "run_at": "2026-03-26T20:04:33.348747+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 6.0,
+      "max": 6,
+      "high": 1
+    },
+    "top_companies": [
+      "Oracle"
+    ],
+    "snapshot_file": "2026-03-26T20-04-33Z_important.json"
   }
 ]
