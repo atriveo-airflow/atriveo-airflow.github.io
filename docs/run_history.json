@@ -806,5 +806,28 @@
       "MongoDB"
     ],
     "snapshot_file": "2026-03-26T17-15-27Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-26T18:02:47Z",
+    "run_at": "2026-03-26T18:02:47.378845+00:00",
+    "pipeline": "standard",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 19,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": 9.4,
+      "max": 25,
+      "high": 19
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Early Warning\u00ae",
+      "Kodiak",
+      "Goldman Sachs",
+      "Clipbook"
+    ],
+    "snapshot_file": "2026-03-26T18-02-47Z_standard.json"
   }
 ]
