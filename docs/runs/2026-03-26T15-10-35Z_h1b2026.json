@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Software Engineer, Backend (Product)",
+    "company": "Otter.ai",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371038572",
+    "date_posted": null,
+    "priority_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data Platform",
+    "company": "Lyft",
+    "location": "San Francisco County, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4380959813",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "AWS Full Stack Software Engineer, Enterprise Supervision",
+    "company": "Tyler Technologies",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4371707947",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Generative AI, Search Prompt Engineering",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=eae7551d0fb87023",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "priority_score": 2,
+    "site": "indeed"
+  }
+]
