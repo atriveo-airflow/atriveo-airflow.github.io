@@ -1297,5 +1297,23 @@
       "Persistent Systems"
     ],
     "snapshot_file": "2026-03-26T23-02-30Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T23:05:34Z",
+    "run_at": "2026-03-26T23:05:34.863684+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 5.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Google"
+    ],
+    "snapshot_file": "2026-03-26T23-05-34Z_important.json"
   }
 ]
