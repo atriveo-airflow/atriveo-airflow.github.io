@@ -931,5 +931,25 @@
       "Merge"
     ],
     "snapshot_file": "2026-03-26T19-03-03Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-26T19:06:59Z",
+    "run_at": "2026-03-26T19:06:59.182894+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 14.0,
+      "max": 23,
+      "high": 2
+    },
+    "top_companies": [
+      "MongoDB",
+      "GitHub"
+    ],
+    "snapshot_file": "2026-03-26T19-06-59Z_important.json"
   }
 ]
