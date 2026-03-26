@@ -1,52 +1,22 @@
 [
   {
-    "title": "Software Engineer III, Full Stack, Chrome",
+    "title": "Software Engineer, Google Cloud Storage",
     "company": "Google",
-    "location": "Seattle, WA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380026987",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
     "date_posted": null,
     "priority_score": 8,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, AI/ML, Offline Ads",
+    "title": "Software Engineer III, AI/ML, YouTube Ads, User Experiences",
     "company": "Google",
     "location": "Mountain View, CA",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4379684946",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Development Engineer (Backend Heavy): 25-06782",
-    "company": "Akraya, Inc.",
-    "location": "Fremont, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4369692051",
+    "job_url": "https://www.linkedin.com/jobs/view/4380001223",
     "date_posted": null,
     "priority_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, Google Cloud Storage",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380041260",
-    "date_posted": null,
-    "priority_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - C++",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380069341",
-    "date_posted": null,
-    "priority_score": 3,
     "site": "linkedin"
   }
 ]
