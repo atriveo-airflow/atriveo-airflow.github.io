@@ -1,42 +1,42 @@
 [
   {
-    "title": "AWS Full Stack Software Engineer, Enterprise Supervision",
-    "company": "Tyler Technologies",
-    "location": "Plano, TX",
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "Santa Clara, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371707947",
+    "job_url": "https://www.linkedin.com/jobs/view/4391914006",
+    "date_posted": null,
+    "priority_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
+    "company": "Flexton Inc.",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
+    "date_posted": null,
+    "priority_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 2",
+    "company": "Oracle",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
     "date_posted": null,
     "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Sr. iOS Software Engineer",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391122597",
-    "date_posted": null,
-    "priority_score": 3,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Agentic AI Platform - Moveworks",
-    "company": "ServiceNow",
-    "location": "Mountain View, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=71440961b85b1472",
-    "date_posted": 1774483200000,
-    "priority_score": 2,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer, Cloud SDK",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390743510",
-    "date_posted": null,
-    "priority_score": 2,
     "site": "linkedin"
   }
 ]
