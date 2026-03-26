@@ -1,22 +1,12 @@
 [
   {
-    "title": "Software Engineer III, Google Home",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
+    "title": "Software Engineer, Code Generation",
+    "company": "MongoDB",
+    "location": "California, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4328695360",
     "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Privacy, Safety and Security",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391939473",
-    "date_posted": null,
-    "priority_score": 2,
+    "priority_score": 23,
     "site": "linkedin"
   }
 ]
