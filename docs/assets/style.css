@@ -1,0 +1,389 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:           #f2f5fc;
+      --surface:      #ffffff;
+      --surface-2:    #f8faff;
+      --border:       #e2e8f5;
+      --border-hover: #bfcfee;
+      --text:         #111827;
+      --text-2:       #374151;
+      --muted:        #6b7280;
+      --accent:       #0066FF;
+      --accent-2:     #3385FF;
+      --accent-bg:    #eff6ff;
+      --accent-bd:    #bfdbfe;
+      --green:        #059669;
+      --green-bg:     #ecfdf5;
+      --orange:       #d97706;
+      --orange-bg:    #fffbeb;
+      --red:          #dc2626;
+      --radius:       12px;
+      --radius-sm:    7px;
+      --shadow:       0 1px 3px rgba(0,20,80,0.06), 0 1px 2px rgba(0,20,80,0.04);
+      --shadow-md:    0 4px 16px rgba(0,20,80,0.09);
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .wrapper { max-width: 1100px; margin: 0 auto; padding: 0 20px; }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 30;
+      box-shadow: 0 1px 4px rgba(0,20,80,0.06);
+    }
+
+    .header-inner {
+      display: flex; align-items: center;
+      justify-content: space-between;
+      height: 54px; gap: 12px;
+    }
+
+    .logo { display: flex; align-items: center; gap: 9px; }
+
+    .logo-icon {
+      width: 30px; height: 30px;
+      background: var(--accent);
+      border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px; font-weight: 800; color: #fff; flex-shrink: 0;
+    }
+
+    .logo-name { font-size: 16px; font-weight: 700; color: var(--text); letter-spacing: -0.01em; }
+    .logo-sub  { font-size: 11px; color: var(--muted); }
+
+    .header-right { display: flex; align-items: center; gap: 10px; }
+
+    .last-run {
+      font-size: 12px; color: var(--muted);
+      display: flex; align-items: center; gap: 5px;
+    }
+
+    .pulse {
+      width: 7px; height: 7px; border-radius: 50%;
+      background: var(--green);
+      animation: pulse 2.5s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.35; }
+    }
+
+    .admin-link {
+      font-size: 12px; font-weight: 500;
+      color: var(--muted);
+      padding: 5px 10px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      transition: border-color 0.15s, color 0.15s;
+    }
+    .admin-link:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+
+    /* ── Page ── */
+    .page { padding: 22px 0 52px; }
+
+    /* ── KPI row ── */
+    .kpi-row {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 680px) { .kpi-row { grid-template-columns: repeat(2, 1fr); } }
+
+    .kpi-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px 14px;
+      box-shadow: var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+    .kpi-card::before {
+      content: ""; position: absolute;
+      top: 0; left: 0; right: 0; height: 3px;
+      background: var(--border);
+    }
+    .kpi-card.blue::before   { background: var(--accent); }
+    .kpi-card.green::before  { background: var(--green); }
+    .kpi-card.orange::before { background: var(--orange); }
+
+    .kpi-value {
+      font-size: 30px; font-weight: 700;
+      color: var(--text); line-height: 1;
+      margin-bottom: 5px;
+    }
+    .kpi-card.blue   .kpi-value { color: var(--accent); }
+    .kpi-card.green  .kpi-value { color: var(--green); }
+    .kpi-card.orange .kpi-value { color: var(--orange); }
+
+    .kpi-label { font-size: 11px; color: var(--muted); font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
+    .kpi-sub   { font-size: 11px; color: var(--muted); margin-top: 3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+    /* ── Period + sort bar ── */
+    .top-bar {
+      display: flex; align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+    }
+
+    .period-tabs {
+      display: flex;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 3px;
+      gap: 2px;
+      box-shadow: var(--shadow);
+    }
+
+    .period-tab {
+      padding: 6px 16px;
+      border-radius: 5px;
+      border: none; background: none;
+      font-size: 13px; font-weight: 500;
+      color: var(--muted); cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .period-tab:hover { background: var(--bg); color: var(--text-2); }
+    .period-tab.active {
+      background: var(--accent);
+      color: #fff;
+    }
+    .period-tab .count {
+      font-size: 11px; margin-left: 4px;
+      opacity: 0.75;
+    }
+
+    .sort-group {
+      display: flex;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 3px; gap: 2px;
+      box-shadow: var(--shadow);
+    }
+
+    .sort-btn {
+      padding: 5px 12px; border-radius: 5px;
+      border: none; background: none;
+      font-size: 12px; font-weight: 500;
+      color: var(--muted); cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .sort-btn:hover { background: var(--bg); color: var(--text-2); }
+    .sort-btn.active { background: var(--surface-2); color: var(--text); }
+
+    /* ── Filter bar ── */
+    .filter-bar {
+      display: flex; align-items: center;
+      gap: 10px; margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .search-wrap {
+      flex: 1; min-width: 200px;
+      position: relative;
+    }
+    .search-icon {
+      position: absolute; left: 11px; top: 50%; transform: translateY(-50%);
+      color: var(--muted); pointer-events: none; font-size: 14px;
+    }
+    .search-input {
+      width: 100%; padding: 8px 12px 8px 32px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--surface);
+      font-size: 13px; color: var(--text);
+      outline: none;
+      box-shadow: var(--shadow);
+      transition: border-color 0.15s;
+    }
+    .search-input:focus { border-color: var(--accent-bd); }
+    .search-input::placeholder { color: var(--muted); }
+
+    .level-chips { display: flex; gap: 5px; flex-wrap: wrap; }
+
+    .chip {
+      padding: 5px 12px; border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-size: 12px; font-weight: 500;
+      color: var(--muted); cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip:hover { border-color: var(--accent-bd); color: var(--accent); }
+    .chip.active { background: var(--accent-bg); border-color: var(--accent-bd); color: var(--accent); font-weight: 600; }
+
+    /* ── Result meta ── */
+    .result-meta {
+      font-size: 12px; color: var(--muted);
+      margin-bottom: 10px;
+      min-height: 18px;
+    }
+
+    /* ── Job cards ── */
+    .job-list { display: flex; flex-direction: column; gap: 7px; }
+
+    .job-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 38px 1fr auto;
+      align-items: center;
+      gap: 0 14px;
+      box-shadow: var(--shadow);
+      transition: box-shadow 0.15s, border-color 0.15s, transform 0.1s;
+      text-decoration: none; color: inherit;
+    }
+    .job-card:hover {
+      border-color: var(--accent-bd);
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+      text-decoration: none;
+    }
+    .job-card.top { border-left: 3px solid var(--accent); }
+
+    /* Avatar */
+    .avatar {
+      width: 36px; height: 36px; border-radius: 9px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px; font-weight: 700; color: #fff; flex-shrink: 0;
+    }
+
+    /* Middle */
+    .job-main {}
+    .job-title {
+      font-size: 14px; font-weight: 600;
+      color: var(--text); margin-bottom: 4px;
+      display: flex; align-items: center; gap: 7px; flex-wrap: wrap;
+    }
+    .job-meta {
+      font-size: 12px; color: var(--muted);
+      display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+    }
+    .job-meta .sep { color: var(--border); }
+
+    /* Badges */
+    .badge {
+      display: inline-flex; align-items: center;
+      padding: 2px 7px; border-radius: 4px;
+      font-size: 11px; font-weight: 600;
+    }
+    .badge-ng     { background: var(--green-bg);   color: var(--green); }
+    .badge-entry  { background: var(--accent-bg);   color: var(--accent); }
+    .badge-mid    { background: var(--orange-bg);   color: var(--orange); }
+    .badge-new    { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+    .badge-h1b    { background: #f0fdf4; color: #166534; font-size: 10px; }
+    .badge-pri    { background: var(--accent-bg);   color: var(--accent-2); font-size: 10px; }
+
+    /* Right side */
+    .job-right {
+      display: flex; flex-direction: column;
+      align-items: flex-end; gap: 6px;
+    }
+    .job-score {
+      display: flex; align-items: center; gap: 3px;
+      font-size: 13px; font-weight: 700; color: var(--text);
+    }
+    .job-score .star { color: var(--accent); font-size: 12px; }
+    .score-hi { color: var(--accent); }
+    .score-md { color: var(--orange); }
+
+    .apply-btn {
+      padding: 6px 14px; border-radius: var(--radius-sm);
+      background: var(--accent); color: #fff;
+      font-size: 12px; font-weight: 600;
+      border: none; cursor: pointer; white-space: nowrap;
+      transition: background 0.15s;
+      text-decoration: none;
+    }
+    .apply-btn:hover { background: var(--accent-2); text-decoration: none; color: #fff; }
+
+    /* ── Loading / empty ── */
+    .state-msg {
+      text-align: center; padding: 52px 20px;
+      color: var(--muted); font-size: 14px;
+    }
+    .state-msg .icon { font-size: 36px; margin-bottom: 10px; }
+    .state-msg .sub  { font-size: 12px; margin-top: 6px; opacity: 0.7; }
+
+    /* ── Footer ── */
+    footer { padding: 28px 0; text-align: center; font-size: 12px; color: var(--muted); border-top: 1px solid var(--border); }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--accent); }
+
+    /* ── Run history strip ── */
+    .run-strip {
+      display: flex; gap: 7px;
+      overflow-x: auto; padding: 0 2px 10px;
+      scrollbar-width: thin;
+      scrollbar-color: var(--border) transparent;
+      margin-bottom: 4px;
+    }
+    .run-strip:empty { display: none; }
+    .run-card {
+      flex-shrink: 0;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 8px 14px;
+      cursor: pointer;
+      display: flex; flex-direction: column; align-items: center; gap: 2px;
+      min-width: 72px;
+      box-shadow: var(--shadow);
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .run-card:hover { border-color: var(--accent-bd); }
+    .run-card.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+    .run-card-time { font-size: 13px; font-weight: 700; }
+    .run-card-count { font-size: 11px; opacity: 0.7; }
+
+    /* ── H1B toggle chip ── */
+    .chip-toggle {
+      padding: 5px 12px; border-radius: 99px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      font-size: 12px; font-weight: 500;
+      color: var(--muted); cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip-toggle:hover { border-color: var(--green); color: var(--green); }
+    .chip-toggle.active { background: var(--green-bg); border-color: var(--green); color: var(--green); font-weight: 600; }
+
+    /* ── Date pill on job card ── */
+    .job-date {
+      font-size: 11px; font-weight: 600;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .job-date.fresh { color: var(--accent); }
+
+    @media (max-width: 600px) {
+      .job-card { grid-template-columns: 32px 1fr; }
+      .job-right { display: none; }
+      .job-title { font-size: 13px; }
+    }

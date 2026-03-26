@@ -3,8 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Atriveo · Job Feed</title>
-  <link rel="stylesheet" href="assets/style.css" />
+  <title>Atriveo · New York Jobs</title>
+  <link rel="stylesheet" href="../assets/style.css" />
+  <script>
+    window.__DATA_BASE__ = "../";
+    window.__LOCATION__  = {
+      label: "New York",
+      terms: ["new york", ", ny", "nyc", "new york city"]
+    };
+  </script>
 </head>
 <body>
 
@@ -14,11 +21,11 @@
       <div class="logo-icon">A</div>
       <div>
         <div class="logo-name">Atriveo</div>
-        <div class="logo-sub">Job Feed</div>
+        <div class="logo-sub">New York Jobs</div>
       </div>
     </div>
     <div class="header-right">
-      <a id="loc-back-link" href="/" style="display:none;font-size:12px;color:var(--muted);margin-right:6px;">← All Jobs</a>
+      <a id="loc-back-link" href="/" style="font-size:12px;color:var(--muted);margin-right:6px;">← All Jobs</a>
       <div class="last-run">
         <div class="pulse"></div>
         <span id="last-run-text">—</span>
@@ -30,8 +37,6 @@
 
 <div class="wrapper">
 <div class="page">
-
-  <!-- KPIs -->
   <div class="kpi-row">
     <div class="kpi-card blue">
       <div class="kpi-value" id="kpi-hour">—</div>
@@ -54,28 +59,22 @@
       <div class="kpi-sub" id="kpi-score-sub">&nbsp;</div>
     </div>
   </div>
-
-  <!-- Period toggle + sort -->
   <div class="top-bar">
     <div class="period-tabs">
       <button class="period-tab active" data-period="hour">This Hour <span class="count" id="tab-count-hour"></span></button>
-      <button class="period-tab"        data-period="today">Today <span class="count" id="tab-count-today"></span></button>
-      <button class="period-tab"        data-period="yesterday">Yesterday <span class="count" id="tab-count-yesterday"></span></button>
+      <button class="period-tab" data-period="today">Today <span class="count" id="tab-count-today"></span></button>
+      <button class="period-tab" data-period="yesterday">Yesterday <span class="count" id="tab-count-yesterday"></span></button>
     </div>
     <div class="sort-group">
       <button class="sort-btn" data-sort="score">★ Score</button>
       <button class="sort-btn active" data-sort="time">↓ Recent</button>
     </div>
   </div>
-
-  <!-- Run history strip -->
   <div class="run-strip" id="run-strip"></div>
-
-  <!-- Filters -->
   <div class="filter-bar">
     <div class="search-wrap">
       <span class="search-icon">⌕</span>
-      <input class="search-input" type="search" placeholder="Search jobs, companies, locations…" oninput="onSearch(this.value)" />
+      <input class="search-input" type="search" placeholder="Search jobs, companies…" oninput="onSearch(this.value)" />
     </div>
     <div class="level-chips">
       <button class="chip active" data-level="all">All</button>
@@ -85,14 +84,10 @@
       <button class="chip-toggle" id="chip-h1b">H1B ✓</button>
     </div>
   </div>
-
   <div class="result-meta" id="result-meta"></div>
-
-  <!-- Job list -->
   <div class="job-list" id="job-list">
     <div class="state-msg"><div class="icon">⏳</div>Loading…</div>
   </div>
-
 </div>
 </div>
 
@@ -100,10 +95,10 @@
   <div class="wrapper">
     Atriveo Job Pipeline &nbsp;·&nbsp;
     <a href="/admin/">Analytics</a> &nbsp;·&nbsp;
-    Runs hourly 8 AM – 1 AM
+    <a href="/">All Locations</a>
   </div>
 </footer>
 
-<script src="assets/app.js"></script>
+<script src="../assets/app.js"></script>
 </body>
 </html>
