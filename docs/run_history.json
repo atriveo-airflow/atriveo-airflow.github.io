@@ -3284,5 +3284,28 @@
       "Oracle"
     ],
     "snapshot_file": "2026-03-27T22-10-19Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T22:13:49Z",
+    "run_at": "2026-03-27T22:13:49.420483+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -86.1,
+      "max": 90,
+      "high": 7
+    },
+    "top_companies": [
+      "Xylem",
+      "TEKsystems",
+      "Expedite Talent Solutions",
+      "Randstad Digital Americas",
+      "The Information"
+    ],
+    "snapshot_file": "2026-03-27T22-13-49Z_standard.json"
   }
 ]
