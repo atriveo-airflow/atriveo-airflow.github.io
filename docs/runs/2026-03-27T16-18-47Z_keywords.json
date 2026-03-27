@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Dario",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391704767",
+    "date_posted": null,
+    "keyword_score": 51,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Observability (Full-Stack)",
+    "company": "Chewy",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4381905616",
+    "date_posted": null,
+    "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Wealthfront",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
+    "min_exp": 6.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4296093604",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Full Stack Software Engineer",
+    "company": "Humana",
+    "location": "Kentucky, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392273548",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (On-Site, IN)",
+    "company": "Allied Solutions LLC",
+    "location": "Carmel, IN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371195103",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer - Access Control",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4365444069",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product",
+    "company": "Meta",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380209793",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "TherapyNotes, LLC",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391596669",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Fullstack",
+    "company": "Hinge Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381607678",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "UI Software Engineer",
+    "company": "Precision Medicine Group",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371158543",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Software Engineer",
+    "company": "ChannelFlex",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390956037",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390950509",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Jr. Software Developer",
+    "company": "Nokia",
+    "location": "Coppell, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4378523565",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "QuoteWerks",
+    "location": "Orlando, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4383006642",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Infrastructure",
+    "company": "Meta",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392663375",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Kubernetes, Networking",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4380471806",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  }
+]
