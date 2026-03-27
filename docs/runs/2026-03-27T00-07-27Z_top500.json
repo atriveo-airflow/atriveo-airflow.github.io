@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer III, Google Home",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Instructure",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Instructure",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "AI Foundations - Software Engineer",
+    "company": "IBM",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391944072",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Opensource Al workload Software Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391950015",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  }
+]
