@@ -1,5 +1,16 @@
 [
   {
+    "title": "API Backend Developer",
+    "company": "Elsevier",
+    "location": "Philadelphia, PA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390969619",
+    "date_posted": null,
+    "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Developer",
     "company": "Dario",
     "location": "New York, NY",
@@ -11,6 +22,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Frontend - Risk Platform: EVENT",
+    "company": "Coinbase",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4336861461",
+    "date_posted": null,
+    "keyword_score": 45,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer In Test",
+    "company": "PMG GLOBAL",
+    "location": "Merrimack, NH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391733272",
+    "date_posted": null,
+    "keyword_score": 44,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II - Observability (Full-Stack)",
     "company": "Chewy",
     "location": "Boston, MA",
@@ -19,6 +52,50 @@
     "job_url": "https://www.linkedin.com/jobs/view/4381905616",
     "date_posted": null,
     "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381454106",
+    "date_posted": null,
+    "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Go Engineer",
+    "company": "Stand8 Technology Consulting",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391727109",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "IT Software Engineer",
+    "company": "Micron Technology",
+    "location": "Manassas, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390967558",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Amazon Interactive Video Service",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Santa Clara, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381674343",
+    "date_posted": null,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -44,47 +121,58 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (On-Site, IN)",
-    "company": "Allied Solutions LLC",
-    "location": "Carmel, IN",
+    "title": "Sr. C#/.NET Software Engineer - ArcGIS Online",
+    "company": "Esri",
+    "location": "Redlands, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371195103",
+    "job_url": "https://www.linkedin.com/jobs/view/4363186039",
     "date_posted": null,
-    "keyword_score": 24,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer - Access Control",
-    "company": "Verkada",
-    "location": "San Mateo, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365444069",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Product",
-    "company": "Meta",
+    "title": "Software Engineer, Full Stack, Revenue Platform",
+    "company": "OpenAI",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380209793",
+    "job_url": "https://www.linkedin.com/jobs/view/4355295173",
+    "date_posted": null,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, SRE",
+    "company": "Etsy",
+    "location": "Brooklyn, NY",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4339270305",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Constellation Space (YC W26)",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4374661188",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "TherapyNotes, LLC",
+    "title": "Software Engineer (Java, DB)",
+    "company": "Wiraa",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391596669",
+    "job_url": "https://www.linkedin.com/jobs/view/4390948819",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -99,23 +187,12 @@
     "site": "linkedin"
   },
   {
-    "title": "UI Software Engineer",
-    "company": "Precision Medicine Group",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371158543",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Founding Software Engineer",
-    "company": "ChannelFlex",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390956037",
+    "job_url": "https://www.linkedin.com/jobs/view/4377764199",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -132,45 +209,67 @@
     "site": "linkedin"
   },
   {
-    "title": "Jr. Software Developer",
-    "company": "Nokia",
-    "location": "Coppell, TX",
+    "title": "Founding Software Engineer",
+    "company": "ChannelFlex",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4378523565",
+    "job_url": "https://www.linkedin.com/jobs/view/4390956037",
     "date_posted": null,
-    "keyword_score": 15,
+    "keyword_score": 17,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "QuoteWerks",
-    "location": "Orlando, FL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4383006642",
-    "date_posted": null,
-    "keyword_score": 15,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Infrastructure",
-    "company": "Meta",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392663375",
-    "date_posted": null,
-    "keyword_score": 15,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Kubernetes, Networking",
+    "title": "Software Engineer, TPU Compiler Development Infrastructure",
     "company": "Google",
     "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4380471806",
+    "job_url": "https://www.linkedin.com/jobs/view/4390971540",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full-Stack Software Developer",
+    "company": "Mercor",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390994018",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "New York, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391744441",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Engineer (US)",
+    "company": "Turing",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391740142",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I - Junior Level",
+    "company": "Mercor",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390992020",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
