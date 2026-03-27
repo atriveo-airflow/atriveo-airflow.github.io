@@ -2985,5 +2985,24 @@
       "Entegee"
     ],
     "snapshot_file": "2026-03-27T19-14-26Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T19:18:16Z",
+    "run_at": "2026-03-27T19:18:16.084885+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 13,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Elsevier",
+      "Vesta",
+      "Turing",
+      "Dario",
+      "Headlight"
+    ],
+    "snapshot_file": "2026-03-27T19-18-16Z_keywords.json"
   }
 ]
