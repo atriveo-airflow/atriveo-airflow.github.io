@@ -2057,5 +2057,28 @@
       "Meta"
     ],
     "snapshot_file": "2026-03-27T09-04-00Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T09:06:18Z",
+    "run_at": "2026-03-27T09:06:18.354768+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 49.5,
+      "max": 84,
+      "high": 6
+    },
+    "top_companies": [
+      "TikTok",
+      "Chewy",
+      "Oracle",
+      "Uber",
+      "S&P Global"
+    ],
+    "snapshot_file": "2026-03-27T09-06-18Z_top500.json"
   }
 ]
