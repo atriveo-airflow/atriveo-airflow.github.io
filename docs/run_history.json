@@ -2345,5 +2345,29 @@
       "Yahoo"
     ],
     "snapshot_file": "2026-03-27T13-18-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T14:03:32Z",
+    "run_at": "2026-03-27T14:03:32.159449+00:00",
+    "pipeline": "standard",
+    "total_jobs": 45,
+    "levels": {
+      "Entry": 38,
+      "Mid": 5,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -190.0,
+      "max": 79,
+      "high": 35
+    },
+    "top_companies": [
+      "Google",
+      "Crossing Hurdles",
+      "Microsoft",
+      "Counsel Health",
+      "HiringAgents.ai"
+    ],
+    "snapshot_file": "2026-03-27T14-03-32Z_standard.json"
   }
 ]
