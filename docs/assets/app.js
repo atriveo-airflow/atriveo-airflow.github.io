@@ -169,6 +169,7 @@
 
       const dateClass = isNew ? "job-date fresh" : "job-date";
       return `<div class="job-card${top ? " top" : ""}">
+        <div class="row-num">${i + 1}</div>
         <div class="avatar" style="background:${color}">${initial}</div>
         <div class="job-main">
           <div class="job-title">
@@ -334,7 +335,14 @@
         document.getElementById("job-list").innerHTML =
           `<div class="state-msg"><div class="icon">⏳</div>Loading snapshot…</div>`;
         try {
-          const data = await fetch(DATA_BASE + `runs/${snap}`).then(r => r.json());
+          const raw = await fetch(DATA_BASE + `runs/${snap}`).then(r => r.json());
+          // Deduplicate snapshot — old runs had 4-hour windows with overlapping jobs
+          const seen = new Set();
+          const data = raw.filter(j => {
+            const key = j.job_url || `${j.title}-${j.company}`;
+            if (seen.has(key)) return false;
+            seen.add(key); return true;
+          });
           snapshotCache[snap] = data;
           selectedRunJobs = data;
         } catch {
