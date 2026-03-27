@@ -1,16 +1,5 @@
 [
   {
-    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
-    "company": "Leidos",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
-    "date_posted": null,
-    "keyword_score": 54,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer",
     "company": "Xylem",
     "location": "Morrisville, NC",
@@ -30,17 +19,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4390990907",
     "date_posted": null,
     "keyword_score": 47,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III (Java/SpringBoot/Kafka/Cloud)",
-    "company": "hackajob",
-    "location": "Jersey City, NJ",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390994463",
-    "date_posted": null,
-    "keyword_score": 46,
     "site": "linkedin"
   },
   {
@@ -66,17 +44,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Sr. Java Software Engineer",
-    "company": "Randstad Digital Americas",
-    "location": "Jersey City, NJ",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391773340",
-    "date_posted": null,
-    "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
     "title": "AI Software Engineer",
     "company": "People In AI",
     "location": "",
@@ -85,17 +52,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391749230",
     "date_posted": null,
     "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Software Engineer - Global E-Commerce, Supply Chain and Logistics",
-    "company": "TikTok",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4390993765",
-    "date_posted": null,
-    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -121,39 +77,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Database Software Engineer",
-    "company": "eNGINE",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391790358",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Sr Software Engineer",
-    "company": "Ensemble Health Partners",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391204860",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - StorageGRID",
-    "company": "NetApp",
-    "location": "Morrisville, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391752755",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer I, AI Product",
     "company": "Attentive",
     "location": "San Francisco, CA",
@@ -165,23 +88,23 @@
     "site": "linkedin"
   },
   {
+    "title": "US_East | Software Developer - Java /JEE / Java Frameworks_L1",
+    "company": "Expedite Talent Solutions",
+    "location": "Bloomfield, NJ",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392765245",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
     "title": "Junior Software Engineer",
     "company": "Tech Consulting",
     "location": "Texas, United States",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4390999617",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "RemoteHunter",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390997687",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
@@ -231,6 +154,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390997895",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - AWS, .NET",
     "company": "Kforce Inc",
     "location": "Birmingham, AL",
@@ -239,6 +173,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391759673",
     "date_posted": null,
     "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Software Engineer",
+    "company": "GenScript",
+    "location": "Redmond, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391209458",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
