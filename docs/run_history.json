@@ -3349,5 +3349,27 @@
       "Eli Lilly and Company"
     ],
     "snapshot_file": "2026-03-27T23-09-58Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T23:20:39Z",
+    "run_at": "2026-03-27T23:20:39.445584+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -378.4,
+      "max": 43,
+      "high": 3
+    },
+    "top_companies": [
+      "Oracle",
+      "Box",
+      "Lyft",
+      "Benchling"
+    ],
+    "snapshot_file": "2026-03-27T23-20-39Z_important.json"
   }
 ]
