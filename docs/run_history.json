@@ -1505,5 +1505,23 @@
       "SideKix HQ Inc."
     ],
     "snapshot_file": "2026-03-27T01-01-35Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T01:03:44Z",
+    "run_at": "2026-03-27T01:03:44.455325+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 7.0,
+      "max": 7,
+      "high": 1
+    },
+    "top_companies": [
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-27T01-03-44Z_important.json"
   }
 ]
