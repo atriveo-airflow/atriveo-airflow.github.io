@@ -2833,5 +2833,28 @@
       "Cohere"
     ],
     "snapshot_file": "2026-03-27T18-06-57Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T18:10:40Z",
+    "run_at": "2026-03-27T18:10:40.324612+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 4,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -406.9,
+      "max": 57,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "NetApp",
+      "Mastercard",
+      "Epic",
+      "MongoDB"
+    ],
+    "snapshot_file": "2026-03-27T18-10-40Z_top500.json"
   }
 ]
