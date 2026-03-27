@@ -2917,5 +2917,28 @@
       "Elsevier"
     ],
     "snapshot_file": "2026-03-27T19-03-12Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T19:06:57Z",
+    "run_at": "2026-03-27T19:06:57.630861+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -402.6,
+      "max": 49,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Twilio",
+      "SoFi",
+      "Cohere",
+      "MongoDB"
+    ],
+    "snapshot_file": "2026-03-27T19-06-57Z_important.json"
   }
 ]
