@@ -1902,5 +1902,28 @@
       "Twilio"
     ],
     "snapshot_file": "2026-03-27T04-14-53Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T05:02:58Z",
+    "run_at": "2026-03-27T05:02:58.992742+00:00",
+    "pipeline": "standard",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 27,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -339.0,
+      "max": 74,
+      "high": 21
+    },
+    "top_companies": [
+      "Lensa",
+      "Instructure",
+      "Jobs via Dice",
+      "Google",
+      "Mercor"
+    ],
+    "snapshot_file": "2026-03-27T05-02-58Z_standard.json"
   }
 ]
