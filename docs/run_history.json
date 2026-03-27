@@ -2592,5 +2592,27 @@
       "GTN Technical Staffing"
     ],
     "snapshot_file": "2026-03-27T16-03-16Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T16:07:14Z",
+    "run_at": "2026-03-27T16:07:14.405109+00:00",
+    "pipeline": "important",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 10
+    },
+    "scores": {
+      "avg": -585.4,
+      "max": 45,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Meta",
+      "OpenAI",
+      "Wealthfront",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-27T16-07-14Z_important.json"
   }
 ]
