@@ -3393,5 +3393,27 @@
       "Lyft"
     ],
     "snapshot_file": "2026-03-27T23-31-44Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T23:42:27Z",
+    "run_at": "2026-03-27T23:42:27.536505+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -351.6,
+      "max": 56,
+      "high": 5
+    },
+    "top_companies": [
+      "NetApp",
+      "Oracle",
+      "TikTok",
+      "Lyft",
+      "Spotify"
+    ],
+    "snapshot_file": "2026-03-27T23-42-27Z_h1b2026.json"
   }
 ]
