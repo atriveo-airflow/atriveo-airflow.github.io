@@ -1463,5 +1463,24 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-27T00-10-06Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T00:12:40Z",
+    "run_at": "2026-03-27T00:12:40.267889+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 12,
+    "levels": {
+      "Mid": 7,
+      "Entry": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "Instructure",
+      "IBM",
+      "Google",
+      "Pariveda",
+      "USAA"
+    ],
+    "snapshot_file": "2026-03-27T00-12-40Z_keywords.json"
   }
 ]
