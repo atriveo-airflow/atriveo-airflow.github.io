@@ -3396,5 +3396,27 @@
       "Lyft"
     ],
     "snapshot_file": "2026-03-27T22-28-03Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T22:31:06Z",
+    "run_at": "2026-03-27T22:31:06.297108+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -480.7,
+      "max": 39,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "NetApp",
+      "Lyft",
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-27T22-31-06Z_top500.json"
   }
 ]
