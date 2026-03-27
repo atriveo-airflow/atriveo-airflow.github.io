@@ -2169,5 +2169,28 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-27T12-07-23Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T12:11:08Z",
+    "run_at": "2026-03-27T12:11:08.079301+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 9,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -279.8,
+      "max": 58,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Oracle",
+      "Imply",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-27T12-11-08Z_top500.json"
   }
 ]
