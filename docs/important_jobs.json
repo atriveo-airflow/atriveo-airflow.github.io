@@ -1,32 +1,12 @@
 [
   {
-    "title": "Software Engineer III, Google Home",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "AI Foundations - Software Engineer",
-    "company": "IBM",
-    "location": "Cambridge, MA",
+    "title": "Software Engineer, Codex Core Agents",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391944072",
+    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
     "date_posted": null,
-    "priority_score": 5,
+    "priority_score": 7,
     "site": "linkedin"
   }
 ]
