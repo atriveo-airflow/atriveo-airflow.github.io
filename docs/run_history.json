@@ -3175,5 +3175,26 @@
       "NetApp"
     ],
     "snapshot_file": "2026-03-27T21-10-44Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T21:14:27Z",
+    "run_at": "2026-03-27T21:14:27.348625+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -164.0,
+      "max": 52,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "NetApp",
+      "Oracle"
+    ],
+    "snapshot_file": "2026-03-27T21-14-27Z_h1b2026.json"
   }
 ]
