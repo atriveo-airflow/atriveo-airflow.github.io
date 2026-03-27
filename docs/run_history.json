@@ -3133,5 +3133,25 @@
       "Bixal"
     ],
     "snapshot_file": "2026-03-27T21-03-16Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T21:06:56Z",
+    "run_at": "2026-03-27T21:06:56.140324+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -376.6,
+      "max": 49,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "Oracle"
+    ],
+    "snapshot_file": "2026-03-27T21-06-56Z_important.json"
   }
 ]
