@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381454106",
+    "date_posted": null,
+    "priority_score": 60,
+    "score_pct": 46,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer, B2B Connectors",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4361807625",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer - Access Control",
+    "company": "Verkada",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4365444069",
+    "date_posted": null,
+    "priority_score": 46,
+    "score_pct": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Wealthfront",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
+    "min_exp": 6.0,
+    "max_exp": 6.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4296093604",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, People Products",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371749168",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
