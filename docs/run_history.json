@@ -2506,5 +2506,28 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-03-27T15-07-11Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T15:11:03Z",
+    "run_at": "2026-03-27T15:11:03.562563+00:00",
+    "pipeline": "top500",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 12,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -375.9,
+      "max": 53,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "NetApp",
+      "Imply",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-27T15-11-03Z_top500.json"
   }
 ]
