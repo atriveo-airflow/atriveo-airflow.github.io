@@ -1,62 +1,42 @@
 [
   {
-    "title": "Software Engineer III, Google Home",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Instructure",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
+    "title": "Software Engineer, Codex Core Agents",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
     "date_posted": null,
     "priority_score": 7,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Instructure",
+    "title": "Software Engineer II (Datagrid)",
+    "company": "Procore Technologies",
     "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391957251",
     "date_posted": null,
-    "priority_score": 5,
+    "priority_score": 6,
     "site": "linkedin"
   },
   {
-    "title": "AI Foundations - Software Engineer",
-    "company": "IBM",
-    "location": "Cambridge, MA",
+    "title": "Software Engineer 1 - Aviation Web Development",
+    "company": "Garmin",
+    "location": "Middlebury, CT, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391944072",
-    "date_posted": null,
-    "priority_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Opensource Al workload Software Engineer",
-    "company": "AMD",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391950015",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=38beb7dfecc11c8d",
+    "date_posted": 1774483200000,
     "priority_score": 3,
-    "site": "linkedin"
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer 1 - Web Development",
+    "company": "Garmin",
+    "location": "Olathe, KS, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=72bf54b8fc5b9a24",
+    "date_posted": 1774483200000,
+    "priority_score": 3,
+    "site": "indeed"
   }
 ]
