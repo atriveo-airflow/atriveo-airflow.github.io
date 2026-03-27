@@ -3216,5 +3216,29 @@
       "SentiLink"
     ],
     "snapshot_file": "2026-03-27T21-18-12Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T22:03:11Z",
+    "run_at": "2026-03-27T22:03:11.293296+00:00",
+    "pipeline": "standard",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -207.6,
+      "max": 59,
+      "high": 13
+    },
+    "top_companies": [
+      "SentiLink",
+      "RemoteHunter",
+      "Jobright.ai",
+      "Insight Global",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-03-27T22-03-11Z_standard.json"
   }
 ]
