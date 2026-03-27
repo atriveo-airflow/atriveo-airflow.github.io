@@ -2768,5 +2768,24 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-27T17-14-30Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T17:18:18Z",
+    "run_at": "2026-03-27T17:18:18.478356+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 25,
+    "levels": {
+      "Entry": 19,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Mercor",
+      "Turing",
+      "Elsevier",
+      "Dario",
+      "Coinbase"
+    ],
+    "snapshot_file": "2026-03-27T17-18-18Z_keywords.json"
   }
 ]
