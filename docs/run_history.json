@@ -2677,5 +2677,28 @@
       "Humana"
     ],
     "snapshot_file": "2026-03-27T16-18-47Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T17:03:07Z",
+    "run_at": "2026-03-27T17:03:07.816313+00:00",
+    "pipeline": "standard",
+    "total_jobs": 26,
+    "levels": {
+      "Entry": 25,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -241.0,
+      "max": 77,
+      "high": 19
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Google",
+      "Medline",
+      "Conga",
+      "Confidential Jobs"
+    ],
+    "snapshot_file": "2026-03-27T17-03-07Z_standard.json"
   }
 ]
