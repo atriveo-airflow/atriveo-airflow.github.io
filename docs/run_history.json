@@ -3286,180 +3286,68 @@
     "snapshot_file": "2026-03-27T22-10-19Z_top500.json"
   },
   {
-    "session_id": "2026-03-27T22:13:49Z",
-    "run_at": "2026-03-27T22:13:49.420483+00:00",
-    "pipeline": "standard",
-    "total_jobs": 8,
-    "levels": {
-      "Entry": 7,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": -86.1,
-      "max": 90,
-      "high": 7
-    },
-    "top_companies": [
-      "Xylem",
-      "TEKsystems",
-      "Expedite Talent Solutions",
-      "Randstad Digital Americas",
-      "The Information"
-    ],
-    "snapshot_file": "2026-03-27T22-13-49Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-27T22:16:55Z",
-    "run_at": "2026-03-27T22:16:55.981476+00:00",
-    "pipeline": "important",
-    "total_jobs": 5,
-    "levels": {
-      "Entry": 3,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": -585.8,
-      "max": 35,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "Lyft",
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-27T22-16-55Z_important.json"
-  },
-  {
-    "session_id": "2026-03-27T22:19:56Z",
-    "run_at": "2026-03-27T22:19:56.684934+00:00",
-    "pipeline": "top500",
-    "total_jobs": 6,
-    "levels": {
-      "Entry": 5,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": -653.7,
-      "max": 39,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "Lyft",
-      "Epic",
-      "NetApp",
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-27T22-19-56Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-27T22:25:10Z",
-    "run_at": "2026-03-27T22:25:10.960983+00:00",
-    "pipeline": "standard",
-    "total_jobs": 27,
-    "levels": {
-      "Entry": 22,
-      "Mid": 4,
-      "New Grad": 1
-    },
-    "scores": {
-      "avg": -304.6,
-      "max": 69,
-      "high": 18
-    },
-    "top_companies": [
-      "Google",
-      "Bixal",
-      "Sony Interactive Entertainment",
-      "SentiLink",
-      "TikTok"
-    ],
-    "snapshot_file": "2026-03-27T22-25-10Z_standard.json"
-  },
-  {
-    "session_id": "2026-03-27T22:28:03Z",
-    "run_at": "2026-03-27T22:28:03.123783+00:00",
-    "pipeline": "important",
+    "session_id": "2026-03-27T22:13:57Z",
+    "run_at": "2026-03-27T22:13:57.532945+00:00",
+    "pipeline": "h1b2026",
     "total_jobs": 7,
     "levels": {
-      "Entry": 4,
-      "Mid": 3
+      "Entry": 7
     },
     "scores": {
-      "avg": -555.0,
-      "max": 39,
-      "high": 3
+      "avg": -108.6,
+      "max": 66,
+      "high": 6
     },
     "top_companies": [
-      "Google",
-      "Oracle",
-      "Lyft"
-    ],
-    "snapshot_file": "2026-03-27T22-28-03Z_important.json"
-  },
-  {
-    "session_id": "2026-03-27T22:31:06Z",
-    "run_at": "2026-03-27T22:31:06.297108+00:00",
-    "pipeline": "top500",
-    "total_jobs": 6,
-    "levels": {
-      "Entry": 4,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": -480.7,
-      "max": 39,
-      "high": 3
-    },
-    "top_companies": [
-      "Google",
-      "NetApp",
-      "Lyft",
-      "Epic"
-    ],
-    "snapshot_file": "2026-03-27T22-31-06Z_top500.json"
-  },
-  {
-    "session_id": "2026-03-27T22:34:05Z",
-    "run_at": "2026-03-27T22:34:05.530391+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 7,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": -419.8,
-      "max": 56,
-      "high": 5
-    },
-    "top_companies": [
-      "Google",
-      "NetApp",
-      "TikTok",
+      "TEKsystems",
       "Insight Global",
-      "Lyft"
+      "Lyft",
+      "Randstad Digital Americas",
+      "GenScript"
     ],
-    "snapshot_file": "2026-03-27T22-34-05Z_h1b2026.json"
+    "snapshot_file": "2026-03-27T22-13-57Z_h1b2026.json"
   },
   {
-    "session_id": "2026-03-27T22:37:02Z",
-    "run_at": "2026-03-27T22:37:02.307691+00:00",
+    "session_id": "2026-03-27T22:17:25Z",
+    "run_at": "2026-03-27T22:17:25.604157+00:00",
     "pipeline": "keywords",
-    "total_jobs": 22,
+    "total_jobs": 17,
     "levels": {
-      "Entry": 19,
+      "Entry": 14,
       "Mid": 2,
       "New Grad": 1
     },
     "scores": {},
     "top_companies": [
-      "Leidos",
       "Xylem",
       "Bixal",
-      "hackajob",
-      "SentiLink"
+      "SentiLink",
+      "Sony Interactive Entertainment",
+      "People In AI"
     ],
-    "snapshot_file": "2026-03-27T22-37-02Z_keywords.json"
+    "snapshot_file": "2026-03-27T22-17-25Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T23:09:58Z",
+    "run_at": "2026-03-27T23:09:58.564337+00:00",
+    "pipeline": "standard",
+    "total_jobs": 31,
+    "levels": {
+      "Entry": 28,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -290.6,
+      "max": 94,
+      "high": 21
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "RemoteHunter",
+      "Comrise",
+      "Xylem",
+      "Eli Lilly and Company"
+    ],
+    "snapshot_file": "2026-03-27T23-09-58Z_standard.json"
   }
 ]
