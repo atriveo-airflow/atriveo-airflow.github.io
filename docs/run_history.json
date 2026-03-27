@@ -2482,5 +2482,29 @@
       "hackajob"
     ],
     "snapshot_file": "2026-03-27T15-03-14Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T15:07:11Z",
+    "run_at": "2026-03-27T15:07:11.617409+00:00",
+    "pipeline": "important",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -421.4,
+      "max": 53,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "Benchling",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-03-27T15-07-11Z_important.json"
   }
 ]
