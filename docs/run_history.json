@@ -2102,5 +2102,24 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-27T09-08-36Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T09:11:02Z",
+    "run_at": "2026-03-27T09:11:02.406155+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "SPREEAI",
+      "TikTok",
+      "Chewy",
+      "Evolent",
+      "Oracle"
+    ],
+    "snapshot_file": "2026-03-27T09-11-02Z_keywords.json"
   }
 ]
