@@ -2458,5 +2458,29 @@
       "Emburse"
     ],
     "snapshot_file": "2026-03-27T14-20-15Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T15:03:14Z",
+    "run_at": "2026-03-27T15:03:14.229056+00:00",
+    "pipeline": "standard",
+    "total_jobs": 40,
+    "levels": {
+      "Entry": 33,
+      "Mid": 5,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -197.6,
+      "max": 53,
+      "high": 31
+    },
+    "top_companies": [
+      "Google",
+      "DataAnnotation",
+      "OpenAI",
+      "BeaconFire Inc.",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-03-27T15-03-14Z_standard.json"
   }
 ]
