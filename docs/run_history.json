@@ -2637,5 +2637,26 @@
       "Nokia"
     ],
     "snapshot_file": "2026-03-27T16-10-58Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T16:14:51Z",
+    "run_at": "2026-03-27T16:14:51.800478+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -478.2,
+      "max": 50,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "TEKsystems",
+      "NetApp"
+    ],
+    "snapshot_file": "2026-03-27T16-14-51Z_h1b2026.json"
   }
 ]
