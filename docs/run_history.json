@@ -2723,5 +2723,27 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-03-27T17-06-55Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T17:10:39Z",
+    "run_at": "2026-03-27T17:10:39.053880+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -209.8,
+      "max": 75,
+      "high": 6
+    },
+    "top_companies": [
+      "OpenAI",
+      "Conga",
+      "Docusign",
+      "IBM",
+      "Vercel"
+    ],
+    "snapshot_file": "2026-03-27T17-10-39Z_top500.json"
   }
 ]
