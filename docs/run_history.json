@@ -3240,5 +3240,26 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-03-27T22-03-11Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T22:06:49Z",
+    "run_at": "2026-03-27T22:06:49.801188+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -481.0,
+      "max": 39,
+      "high": 2
+    },
+    "top_companies": [
+      "Oracle",
+      "Google",
+      "Lyft"
+    ],
+    "snapshot_file": "2026-03-27T22-06-49Z_important.json"
   }
 ]
