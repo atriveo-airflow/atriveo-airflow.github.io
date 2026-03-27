@@ -3286,26 +3286,25 @@
     "snapshot_file": "2026-03-27T22-10-19Z_top500.json"
   },
   {
-    "session_id": "2026-03-27T22:13:49Z",
-    "run_at": "2026-03-27T22:13:49.420483+00:00",
-    "pipeline": "standard",
-    "total_jobs": 8,
+    "session_id": "2026-03-27T22:13:57Z",
+    "run_at": "2026-03-27T22:13:57.532945+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
     "levels": {
-      "Entry": 7,
-      "Mid": 1
+      "Entry": 7
     },
     "scores": {
-      "avg": -86.1,
-      "max": 90,
-      "high": 7
+      "avg": -108.6,
+      "max": 66,
+      "high": 6
     },
     "top_companies": [
-      "Xylem",
       "TEKsystems",
-      "Expedite Talent Solutions",
+      "Insight Global",
+      "Lyft",
       "Randstad Digital Americas",
-      "The Information"
+      "GenScript"
     ],
-    "snapshot_file": "2026-03-27T22-13-49Z_standard.json"
+    "snapshot_file": "2026-03-27T22-13-57Z_h1b2026.json"
   }
 ]
