@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Pariveda",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391930855",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Mid Level",
+    "company": "USAA",
+    "location": "San Antonio, TX",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391482405",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Instructure",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
+    "date_posted": null,
+    "keyword_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Instructure",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
+    "date_posted": null,
+    "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (E2)",
+    "company": "Incident IQ",
+    "location": "Alpharetta, GA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391934754",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineering, Payments",
+    "company": "Side",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391377953",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "CNN",
+    "location": "Atlanta, GA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391380684",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Lowell, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391471645",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Home",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "AI Foundations - Software Engineer",
+    "company": "IBM",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391944072",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Opensource Al workload Software Engineer",
+    "company": "AMD",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391950015",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
