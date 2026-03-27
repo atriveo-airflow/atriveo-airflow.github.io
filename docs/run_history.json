@@ -3153,5 +3153,27 @@
       "Oracle"
     ],
     "snapshot_file": "2026-03-27T21-06-56Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T21:10:44Z",
+    "run_at": "2026-03-27T21:10:44.002934+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 4,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -551.7,
+      "max": 49,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "Chewy",
+      "Epic",
+      "NetApp"
+    ],
+    "snapshot_file": "2026-03-27T21-10-44Z_top500.json"
   }
 ]
