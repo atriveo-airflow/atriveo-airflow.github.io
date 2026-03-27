@@ -2213,5 +2213,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-27T12-15-01Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T12:18:57Z",
+    "run_at": "2026-03-27T12:18:57.294747+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 13,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Netflix",
+      "hackajob",
+      "Counsel Health",
+      "Yahoo",
+      "Rivian and Volkswagen Group Technologies"
+    ],
+    "snapshot_file": "2026-03-27T12-18-57Z_keywords.json"
   }
 ]
