@@ -1883,5 +1883,24 @@
       "Kforce Inc"
     ],
     "snapshot_file": "2026-03-27T04-11-43Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T04:14:53Z",
+    "run_at": "2026-03-27T04:14:53.205879+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 11,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Optum",
+      "hackajob",
+      "Instructure",
+      "Flitch",
+      "Twilio"
+    ],
+    "snapshot_file": "2026-03-27T04-14-53Z_keywords.json"
   }
 ]
