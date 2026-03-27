@@ -2658,5 +2658,24 @@
       "NetApp"
     ],
     "snapshot_file": "2026-03-27T16-14-51Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T16:18:47Z",
+    "run_at": "2026-03-27T16:18:47.604474+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Meta",
+      "Dario",
+      "Chewy",
+      "Wealthfront",
+      "Humana"
+    ],
+    "snapshot_file": "2026-03-27T16-18-47Z_keywords.json"
   }
 ]
