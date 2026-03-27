@@ -1,42 +1,32 @@
 [
   {
-    "title": "Software Engineer, Codex Core Agents",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
-    "date_posted": null,
-    "priority_score": 7,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II (Datagrid)",
-    "company": "Procore Technologies",
-    "location": "",
+    "title": "Software Engineer II - Discovery and Monetization",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391957251",
+    "job_url": "https://www.linkedin.com/jobs/view/4391949568",
     "date_posted": null,
-    "priority_score": 6,
+    "priority_score": 12,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 1 - Aviation Web Development",
-    "company": "Garmin",
-    "location": "Middlebury, CT, US",
+    "title": "Software Developer",
+    "company": "Oracle",
+    "location": "US",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=38beb7dfecc11c8d",
-    "date_posted": 1774483200000,
-    "priority_score": 3,
+    "job_url": "https://www.indeed.com/viewjob?jk=89c45fbe04f5b107",
+    "date_posted": 1773705600000,
+    "priority_score": 0,
     "site": "indeed"
   },
   {
-    "title": "Software Engineer 1 - Web Development",
-    "company": "Garmin",
-    "location": "Olathe, KS, US",
+    "title": "Software Developer 4",
+    "company": "Oracle",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=72bf54b8fc5b9a24",
-    "date_posted": 1774483200000,
-    "priority_score": 3,
-    "site": "indeed"
+    "job_url": "https://www.linkedin.com/jobs/view/4391959323",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
   }
 ]
