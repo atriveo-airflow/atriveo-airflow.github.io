@@ -1,32 +1,122 @@
 [
   {
-    "title": "Software Engineer II - Discovery and Monetization",
-    "company": "Uber",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391949568",
+    "title": "Software Engineer, Codex Ecosystem & Enterprise",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391950720",
     "date_posted": null,
-    "priority_score": 12,
+    "priority_score": 10,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "Oracle",
-    "location": "US",
+    "title": "Software Engineer 4 - Partner Test Tech",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=89c45fbe04f5b107",
-    "date_posted": 1773705600000,
-    "priority_score": 0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391961368",
+    "date_posted": null,
+    "priority_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Google Cloud AI",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=27ae430acf34c318",
+    "date_posted": 1774483200000,
+    "priority_score": 8,
     "site": "indeed"
   },
   {
-    "title": "Software Developer 4",
-    "company": "Oracle",
-    "location": "",
+    "title": "Software Engineer III, Google Home",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=da39e3aceffa7092",
+    "date_posted": 1774483200000,
+    "priority_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud Business Platforms",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=e51b0dd6ec920b79",
+    "date_posted": 1774483200000,
+    "priority_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Codex Core Agents",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391959323",
+    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
     "date_posted": null,
-    "priority_score": 0,
+    "priority_score": 7,
     "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance, AI and Infrastructure",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=c8a462d4d3f876be",
+    "date_posted": 1774483200000,
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Google Ads",
+    "company": "Google",
+    "location": "Los Angeles, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=a1f5d32414dbd9df",
+    "date_posted": 1774483200000,
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Capgemini",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391517341",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Privacy, Safety and Security",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=518d08d27886933e",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Engineering Productivity, Google Cloud",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=164353488a6532da",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Site Reliability Development",
+    "company": "Google",
+    "location": "San Bruno, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=f01cfaa4fd8f1391",
+    "date_posted": 1774483200000,
+    "priority_score": 2,
+    "site": "indeed"
   }
 ]
