@@ -2303,5 +2303,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-27T13-11-01Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T13:15:01Z",
+    "run_at": "2026-03-27T13:15:01.324658+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 8,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -257.5,
+      "max": 82,
+      "high": 10
+    },
+    "top_companies": [
+      "Google",
+      "Yahoo",
+      "NetApp",
+      "Microsoft",
+      "Klaviyo"
+    ],
+    "snapshot_file": "2026-03-27T13-15-01Z_h1b2026.json"
   }
 ]
