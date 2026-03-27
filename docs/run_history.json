@@ -1544,5 +1544,24 @@
       "Procore Technologies"
     ],
     "snapshot_file": "2026-03-27T01-05-42Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T01:07:50Z",
+    "run_at": "2026-03-27T01:07:50.711727+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 10.5,
+      "max": 15,
+      "high": 2
+    },
+    "top_companies": [
+      "Optum",
+      "Tyler Technologies"
+    ],
+    "snapshot_file": "2026-03-27T01-07-50Z_h1b2026.json"
   }
 ]
