@@ -2787,5 +2787,29 @@
       "Coinbase"
     ],
     "snapshot_file": "2026-03-27T17-18-18Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T18:03:06Z",
+    "run_at": "2026-03-27T18:03:06.792731+00:00",
+    "pipeline": "standard",
+    "total_jobs": 29,
+    "levels": {
+      "Entry": 25,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -181.5,
+      "max": 81,
+      "high": 23
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Mercor",
+      "Turing",
+      "Wiraa",
+      "Crown Equipment Corporation"
+    ],
+    "snapshot_file": "2026-03-27T18-03-06Z_standard.json"
   }
 ]
