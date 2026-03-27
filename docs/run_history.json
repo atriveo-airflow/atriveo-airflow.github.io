@@ -1482,5 +1482,28 @@
       "USAA"
     ],
     "snapshot_file": "2026-03-27T00-12-40Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T01:01:35Z",
+    "run_at": "2026-03-27T01:01:35.911918+00:00",
+    "pipeline": "standard",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 8,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 7.9,
+      "max": 29,
+      "high": 5
+    },
+    "top_companies": [
+      "Optum",
+      "Procore Technologies",
+      "OpenAI",
+      "Cummins Inc.",
+      "SideKix HQ Inc."
+    ],
+    "snapshot_file": "2026-03-27T01-01-35Z_standard.json"
   }
 ]
