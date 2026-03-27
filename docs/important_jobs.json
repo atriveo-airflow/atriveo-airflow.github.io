@@ -13,19 +13,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Full Stack, Google Cloud AI",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Mid",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391218407",
-    "date_posted": null,
-    "priority_score": 37,
-    "score_pct": 28,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Gov Tech",
     "company": "Lyft",
     "location": "Seattle, WA",
@@ -59,32 +46,6 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392758848",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer AI/ML Networking",
-    "company": "Google",
-    "location": "Raleigh, NC",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4390962712",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Site Reliability Development",
-    "company": "Google",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4390976469",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
