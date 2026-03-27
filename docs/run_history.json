@@ -1401,5 +1401,25 @@
       "San Diego Climate Week"
     ],
     "snapshot_file": "2026-03-27T00-02-06Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T00:04:41Z",
+    "run_at": "2026-03-27T00:04:41.923092+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 7.0,
+      "max": 8,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-27T00-04-41Z_important.json"
   }
 ]
