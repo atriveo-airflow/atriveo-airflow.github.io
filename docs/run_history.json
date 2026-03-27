@@ -1148,5 +1148,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-27T02-53-29Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T03:01:52Z",
+    "run_at": "2026-03-27T03:01:52.410478+00:00",
+    "pipeline": "standard",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 13,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": 5.0,
+      "max": 19,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Flitch",
+      "AdvancedMD",
+      "Craftner INC"
+    ],
+    "snapshot_file": "2026-03-27T03-01-52Z_standard.json"
   }
 ]
