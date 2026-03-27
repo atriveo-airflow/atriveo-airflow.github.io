@@ -261,12 +261,21 @@
       border-radius: var(--radius);
       padding: 14px 18px;
       display: grid;
-      grid-template-columns: 38px 1fr auto;
+      grid-template-columns: 22px 38px 1fr auto;
       align-items: center;
-      gap: 0 14px;
+      gap: 0 12px;
       box-shadow: var(--shadow);
       transition: box-shadow 0.15s, border-color 0.15s, transform 0.1s;
       text-decoration: none; color: inherit;
+    }
+
+    .row-num {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--muted, #8892a4);
+      text-align: right;
+      min-width: 18px;
+      flex-shrink: 0;
     }
     .job-card:hover {
       border-color: var(--accent-bd);
@@ -403,7 +412,7 @@
     .job-date.fresh { color: var(--accent); }
 
     @media (max-width: 600px) {
-      .job-card { grid-template-columns: 32px 1fr; }
+      .job-card { grid-template-columns: 18px 32px 1fr; }
       .job-right { display: none; }
       .job-title { font-size: 13px; }
     }
