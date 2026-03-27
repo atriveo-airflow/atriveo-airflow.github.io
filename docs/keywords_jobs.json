@@ -1,5 +1,49 @@
 [
   {
+    "title": "Java Backend Engineer Agentic Workflows",
+    "company": "Jobs via Dice",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391218506",
+    "date_posted": null,
+    "keyword_score": 62,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390995707",
+    "date_posted": null,
+    "keyword_score": 58,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
+    "company": "Leidos",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
+    "date_posted": null,
+    "keyword_score": 54,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Fixed Duration",
+    "company": "Eli Lilly and Company",
+    "location": "Louisville, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391795228",
+    "date_posted": null,
+    "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Developer",
     "company": "Xylem",
     "location": "Morrisville, NC",
@@ -11,6 +55,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Developer, Systems",
+    "company": "HIGH BRIDGE & CO.",
+    "location": "Paramus, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391796502",
+    "date_posted": null,
+    "keyword_score": 47,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (Full Stack)",
     "company": "Bixal",
     "location": "Fairfax, VA",
@@ -19,6 +74,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4390990907",
     "date_posted": null,
     "keyword_score": 47,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Platform)",
+    "company": "Revic",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391767735",
+    "date_posted": null,
+    "keyword_score": 43,
     "site": "linkedin"
   },
   {
@@ -44,36 +110,91 @@
     "site": "linkedin"
   },
   {
-    "title": "AI Software Engineer",
-    "company": "People In AI",
-    "location": "",
-    "level": "Entry",
+    "title": "UI Software Engineer III",
+    "company": "hackajob",
+    "location": "New York, NY",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391749230",
+    "job_url": "https://www.linkedin.com/jobs/view/4371378974",
     "date_posted": null,
-    "keyword_score": 31,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Insight Global",
-    "location": "",
+    "title": "Software Engineer II - Open Distribution (Backend)",
+    "company": "StubHub",
+    "location": "Los Angeles, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391786824",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Backend Engineer",
+    "company": "Jobright.ai",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390992693",
+    "job_url": "https://www.linkedin.com/jobs/view/4391204582",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer - Global E-Commerce, Supply Chain and Logistics",
+    "company": "TikTok",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390993765",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "VP, AI Software Engineering (Hybrid - Flexible Options)",
+    "company": "Broadridge",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391774111",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
+    "title": "Java/Javascript Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "California, United States",
+    "location": "North Carolina, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
+    "job_url": "https://www.linkedin.com/jobs/view/4391084073",
     "date_posted": null,
     "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Edge",
+    "company": "Box",
+    "location": "Redwood City, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391797061",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I WSI",
+    "company": "V2X Inc",
+    "location": "Indianapolis, IN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4385575193",
+    "date_posted": null,
+    "keyword_score": 25,
     "site": "linkedin"
   },
   {
@@ -88,14 +209,36 @@
     "site": "linkedin"
   },
   {
-    "title": "US_East | Software Developer - Java /JEE / Java Frameworks_L1",
-    "company": "Expedite Talent Solutions",
-    "location": "Bloomfield, NJ",
-    "level": "Mid",
+    "title": "Software Engineer, Backend (Platform)",
+    "company": "Vannevar",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392765245",
+    "job_url": "https://www.linkedin.com/jobs/view/4391794522",
     "date_posted": null,
-    "keyword_score": 22,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - StorageGRID",
+    "company": "NetApp",
+    "location": "Morrisville, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391752755",
+    "date_posted": null,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391203368",
+    "date_posted": null,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -110,6 +253,39 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - Marketplace Operations",
+    "company": "StubHub",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391779955",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TALENT Software Services",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392777234",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "CBL Solutions",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389944190",
+    "date_posted": null,
+    "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Gov Tech",
     "company": "Lyft",
     "location": "Seattle, WA",
@@ -118,17 +294,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391778491",
     "date_posted": null,
     "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jonas Software",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391757105",
-    "date_posted": null,
-    "keyword_score": 18,
     "site": "linkedin"
   },
   {
@@ -143,17 +308,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Web",
-    "company": "iHeartMedia",
-    "location": "Nashville, TN",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4309064329",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Jobright.ai",
     "location": "",
@@ -165,23 +319,56 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - AWS, .NET",
-    "company": "Kforce Inc",
-    "location": "Birmingham, AL",
+    "title": "Software Engineer, Data & AI",
+    "company": "Vendelux",
+    "location": "New York, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391759673",
+    "job_url": "https://www.linkedin.com/jobs/view/4392001296",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
   },
   {
-    "title": "Sr. Software Engineer",
-    "company": "GenScript",
-    "location": "Redmond, WA",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391209458",
+    "job_url": "https://www.linkedin.com/jobs/view/4377764199",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Software Engineer",
+    "company": "Berkley Hunt",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391771354",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Music",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391714211",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
