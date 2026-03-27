@@ -1,12 +1,102 @@
 [
   {
-    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
-    "company": "Leidos",
+    "title": "Software Engineer 4 - Partner Test Tech",
+    "company": "Netflix",
+    "location": "Los Gatos, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391961368",
+    "date_posted": null,
+    "priority_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Google Cloud AI",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390799006",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud Business Platforms",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390776998",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Instructure",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Codex Core Agents",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Instructure",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
+    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
     "date_posted": null,
-    "priority_score": 16,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Google Ads",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390797054",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Full-Stack Software Engineer",
+    "company": "Instructure",
+    "location": "Salt Lake City, UT",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4380820525",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance, AI and Infrastructure",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390795073",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Professional Services Team)",
+    "company": "Instructure",
+    "location": "Salt Lake City, UT",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4353625774",
+    "date_posted": null,
+    "priority_score": 3,
     "site": "linkedin"
   }
 ]
