@@ -3353,27 +3353,46 @@
     "snapshot_file": "2026-03-27T22-19-56Z_top500.json"
   },
   {
-    "session_id": "2026-03-27T22:25:10Z",
-    "run_at": "2026-03-27T22:25:10.960983+00:00",
-    "pipeline": "standard",
-    "total_jobs": 27,
+    "session_id": "2026-03-27T22:23:03Z",
+    "run_at": "2026-03-27T22:23:03.330351+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 9,
     "levels": {
-      "Entry": 22,
-      "Mid": 4,
-      "New Grad": 1
+      "Entry": 7,
+      "Mid": 2
     },
     "scores": {
-      "avg": -304.6,
-      "max": 69,
-      "high": 18
+      "avg": -416.1,
+      "max": 72,
+      "high": 5
     },
     "top_companies": [
       "Google",
-      "Bixal",
-      "Sony Interactive Entertainment",
-      "SentiLink",
-      "TikTok"
+      "Randstad Digital Americas",
+      "TikTok",
+      "Insight Global",
+      "Lyft"
     ],
-    "snapshot_file": "2026-03-27T22-25-10Z_standard.json"
+    "snapshot_file": "2026-03-27T22-23-03Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T22:26:16Z",
+    "run_at": "2026-03-27T22:26:16.580902+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 13,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Bixal",
+      "FIGS",
+      "SentiLink",
+      "Sony Interactive Entertainment"
+    ],
+    "snapshot_file": "2026-03-27T22-26-16Z_keywords.json"
   }
 ]
