@@ -3415,5 +3415,25 @@
       "Spotify"
     ],
     "snapshot_file": "2026-03-27T23-42-27Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T23:53:19Z",
+    "run_at": "2026-03-27T23:53:19.563493+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 27,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "RemoteHunter",
+      "hackajob",
+      "StubHub",
+      "Jobright.ai",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-03-27T23-53-19Z_keywords.json"
   }
 ]
