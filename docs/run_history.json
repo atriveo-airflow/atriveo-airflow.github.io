@@ -2940,5 +2940,28 @@
       "MongoDB"
     ],
     "snapshot_file": "2026-03-27T19-06-57Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T19:10:34Z",
+    "run_at": "2026-03-27T19:10:34.986134+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -654.3,
+      "max": 43,
+      "high": 2
+    },
+    "top_companies": [
+      "Twilio",
+      "Mastercard",
+      "Epic",
+      "NetApp",
+      "Cohere"
+    ],
+    "snapshot_file": "2026-03-27T19-10-34Z_top500.json"
   }
 ]
