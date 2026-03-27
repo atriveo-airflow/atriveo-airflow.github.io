@@ -2963,5 +2963,27 @@
       "Cohere"
     ],
     "snapshot_file": "2026-03-27T19-10-34Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T19:14:26Z",
+    "run_at": "2026-03-27T19:14:26.208458+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 4,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -252.6,
+      "max": 52,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Twilio",
+      "NetApp",
+      "Entegee"
+    ],
+    "snapshot_file": "2026-03-27T19-14-26Z_h1b2026.json"
   }
 ]
