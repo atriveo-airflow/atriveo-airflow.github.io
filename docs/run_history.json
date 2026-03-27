@@ -2393,5 +2393,28 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-27T14-07-51Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T14:11:57Z",
+    "run_at": "2026-03-27T14:11:57.889869+00:00",
+    "pipeline": "top500",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -330.2,
+      "max": 42,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "IBM",
+      "Imply",
+      "Robinhood"
+    ],
+    "snapshot_file": "2026-03-27T14-11-57Z_top500.json"
   }
 ]
