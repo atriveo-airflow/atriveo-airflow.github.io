@@ -1,42 +1,12 @@
 [
   {
-    "title": "Software Engineer II - Discovery and Monetization",
-    "company": "Uber",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391949568",
-    "date_posted": null,
-    "priority_score": 12,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Codex Ecosystem & Enterprise",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer, Code Generation",
+    "company": "MongoDB",
+    "location": "California, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391950720",
+    "job_url": "https://www.linkedin.com/jobs/view/4328695360",
     "date_posted": null,
-    "priority_score": 10,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Oracle",
-    "location": "US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=89c45fbe04f5b107",
-    "date_posted": 1773705600000,
-    "priority_score": 0,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Developer 4",
-    "company": "Oracle",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391959323",
-    "date_posted": null,
-    "priority_score": 0,
+    "priority_score": 23,
     "site": "linkedin"
   }
 ]
