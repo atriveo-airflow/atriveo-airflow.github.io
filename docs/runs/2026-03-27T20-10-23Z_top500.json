@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer, Frontend - Risk Platform: EVENT",
+    "company": "Coinbase",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4336861461",
+    "date_posted": null,
+    "priority_score": 61,
+    "score_pct": 47,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, SRE",
+    "company": "Etsy",
+    "location": "Brooklyn, NY",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4339270305",
+    "date_posted": null,
+    "priority_score": 48,
+    "score_pct": 37,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (L1)",
+    "company": "Twilio",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391710988",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Software Engineer (ONTAP)",
+    "company": "NetApp",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392657502",
+    "date_posted": null,
+    "priority_score": 41,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392740714",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Epic",
+    "location": "Bridgeport, CT",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3986116446",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Site Reliability Development",
+    "company": "Google",
+    "location": "San Bruno, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390976471",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
