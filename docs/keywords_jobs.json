@@ -1,57 +1,24 @@
 [
   {
-    "title": "Software Developer",
-    "company": "Dario",
-    "location": "",
+    "title": "Principle Software Engineer , Backend",
+    "company": "Circles",
+    "location": "Lake County, IN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392279674",
+    "job_url": "https://www.linkedin.com/jobs/view/4362017206",
     "date_posted": null,
-    "keyword_score": 51,
-    "site": "linkedin"
-  },
-  {
-    "title": "Junior Backend Software Engineer",
-    "company": "HiringAgents.ai",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": 0.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
-    "date_posted": null,
-    "keyword_score": 46,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III - Smartdesk",
-    "company": "Mindbody",
-    "location": "",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4363194576",
-    "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 44,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer",
-    "company": "AI Fund",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 5.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4362640159",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer in Test III",
-    "company": "Emburse",
-    "location": "Dallas, TX",
+    "company": "TEKsystems",
+    "location": "Omaha, NE",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4363431035",
+    "job_url": "https://www.linkedin.com/jobs/view/4391561581",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 34,
     "site": "linkedin"
   },
   {
@@ -63,28 +30,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4390943470",
     "date_posted": null,
     "keyword_score": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer",
-    "company": "VeriPark",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391579853",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer Apprentice",
-    "company": "IBM",
-    "location": "Poughkeepsie, AR",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380220228",
-    "date_posted": null,
-    "keyword_score": 25,
     "site": "linkedin"
   },
   {
@@ -110,36 +55,25 @@
     "site": "linkedin"
   },
   {
-    "title": "(USA) Software Engineer II",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380218973",
-    "date_posted": null,
-    "keyword_score": 22,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer \u2013 ML Robotics Systems",
-    "company": "Acceler8 Talent",
+    "title": "Software Engineer, Product",
+    "company": "Meta",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392285298",
+    "job_url": "https://www.linkedin.com/jobs/view/4380209793",
     "date_posted": null,
-    "keyword_score": 19,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Fullstack",
-    "company": "Hinge Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
+    "title": "Entry Level Software Developer",
+    "company": "Jobs via Dice",
+    "location": "Orlando, FL",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381607678",
+    "job_url": "https://www.linkedin.com/jobs/view/4390950023",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -154,23 +88,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Founding Software Engineer",
-    "company": "ChannelFlex",
+    "title": "Software Engineer II - Fullstack",
+    "company": "Hinge Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381607678",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "UI Software Engineer",
+    "company": "Precision Medicine Group",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390956037",
+    "job_url": "https://www.linkedin.com/jobs/view/4371158543",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "",
+    "title": "Software Engineer, Lattice C2 UI",
+    "company": "Anduril Industries",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4377764199",
+    "job_url": "https://www.linkedin.com/jobs/view/4364014819",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -193,6 +138,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4378523565",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "QuoteWerks",
+    "location": "Orlando, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4383006642",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
