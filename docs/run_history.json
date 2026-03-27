@@ -2700,5 +2700,28 @@
       "Confidential Jobs"
     ],
     "snapshot_file": "2026-03-27T17-03-07Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T17:06:55Z",
+    "run_at": "2026-03-27T17:06:55.446992+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -367.8,
+      "max": 60,
+      "high": 3
+    },
+    "top_companies": [
+      "Microsoft",
+      "OpenAI",
+      "Verkada",
+      "Wealthfront",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-03-27T17-06-55Z_important.json"
   }
 ]
