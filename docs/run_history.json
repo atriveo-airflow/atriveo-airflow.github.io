@@ -2192,5 +2192,26 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-27T12-11-08Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T12:15:01Z",
+    "run_at": "2026-03-27T12:15:01.774108+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Mid": 6,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -217.1,
+      "max": 82,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Yahoo",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-27T12-15-01Z_h1b2026.json"
   }
 ]
