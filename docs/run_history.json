@@ -1523,5 +1523,26 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-03-27T01-03-44Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T01:05:42Z",
+    "run_at": "2026-03-27T01:05:42.013683+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 4.8,
+      "max": 7,
+      "high": 2
+    },
+    "top_companies": [
+      "Garmin",
+      "OpenAI",
+      "Procore Technologies"
+    ],
+    "snapshot_file": "2026-03-27T01-05-42Z_top500.json"
   }
 ]
