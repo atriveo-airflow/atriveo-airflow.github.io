@@ -2280,5 +2280,28 @@
       "Meta"
     ],
     "snapshot_file": "2026-03-27T13-07-11Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T13:11:01Z",
+    "run_at": "2026-03-27T13:11:01.925370+00:00",
+    "pipeline": "top500",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -364.4,
+      "max": 77,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "CrowdStrike",
+      "Imply",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-27T13-11-01Z_top500.json"
   }
 ]
