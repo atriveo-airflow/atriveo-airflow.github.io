@@ -1773,5 +1773,24 @@
       "Capgemini"
     ],
     "snapshot_file": "2026-03-27T03-08-18Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T03:10:26Z",
+    "run_at": "2026-03-27T03:10:26.462687+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 16,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Google",
+      "Alignerr",
+      "Instructure",
+      "Flitch",
+      "AdvancedMD"
+    ],
+    "snapshot_file": "2026-03-27T03-10-26Z_keywords.json"
   }
 ]
