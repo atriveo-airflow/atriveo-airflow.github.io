@@ -1421,5 +1421,27 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-27T00-04-41Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T00:07:27Z",
+    "run_at": "2026-03-27T00:07:27.702157+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Mid": 3,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 6.0,
+      "max": 8,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Instructure",
+      "IBM",
+      "AMD"
+    ],
+    "snapshot_file": "2026-03-27T00-07-27Z_top500.json"
   }
 ]
