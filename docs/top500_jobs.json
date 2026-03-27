@@ -1,12 +1,32 @@
 [
   {
-    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
-    "company": "Leidos",
+    "title": "Software Engineer II - Discovery and Monetization",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391949568",
+    "date_posted": null,
+    "priority_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Oracle",
+    "location": "US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=89c45fbe04f5b107",
+    "date_posted": 1773705600000,
+    "priority_score": 0,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Developer 4",
+    "company": "Oracle",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
+    "job_url": "https://www.linkedin.com/jobs/view/4391959323",
     "date_posted": null,
-    "priority_score": 16,
+    "priority_score": 0,
     "site": "linkedin"
   }
 ]
