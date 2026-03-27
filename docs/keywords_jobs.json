@@ -10,34 +10,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer: Full-Stack",
-    "company": "AdvancedMD",
-    "location": "South Jordan, UT",
+    "title": "Blockchain Software Engineer",
+    "company": "Craftner INC",
+    "location": "Charlotte, NC, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391306037",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=823ed2547e9ac4a1",
+    "date_posted": 1774483200000,
     "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Full Stack (People Tech, Intelligent Foundations and Experiences)",
-    "company": "Capital One",
-    "location": "McLean, VA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390792250",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Instructure",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
-    "date_posted": null,
-    "keyword_score": 13,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
     "title": "Software Engineer 4 - Partner Test Tech",
@@ -50,13 +30,13 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Instructure",
-    "location": "",
+    "title": "Software Engineer II - Discovery and Monetization",
+    "company": "Uber",
+    "location": "New York, NY",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
+    "job_url": "https://www.linkedin.com/jobs/view/4391958288",
     "date_posted": null,
-    "keyword_score": 11,
+    "keyword_score": 10,
     "site": "linkedin"
   },
   {
@@ -110,74 +90,14 @@
     "site": "indeed"
   },
   {
-    "title": "Software Engineer (Professional Services Team)",
-    "company": "Instructure",
-    "location": "Salt Lake City, UT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4353625774",
-    "date_posted": null,
-    "keyword_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (C#) - Internal Tooling",
-    "company": "Alignerr",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391950940",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Python Software Engineer - AI Workflows",
-    "company": "Alignerr",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391962516",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "C++ Backend Engineer - AI Data Platforms",
-    "company": "Alignerr",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391965097",
-    "date_posted": null,
-    "keyword_score": 4,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Frontend",
-    "company": "Alignerr",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391970001",
-    "date_posted": null,
-    "keyword_score": 4,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer I",
-    "company": "Peloton Interactive",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391953837",
-    "date_posted": null,
-    "keyword_score": 4,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Gemini Wearables, DeepMind",
-    "company": "Google DeepMind",
-    "location": "San Diego, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390775954",
-    "date_posted": null,
+    "title": "Software Engineer III, Performance, AI and Infrastructure",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=c8a462d4d3f876be",
+    "date_posted": 1774483200000,
     "keyword_score": 3,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
     "title": "Software Engineer III, AI/ML, Google Ads",
@@ -190,16 +110,6 @@
     "site": "indeed"
   },
   {
-    "title": "Embedded Software Engineer",
-    "company": "Capgemini",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391517341",
-    "date_posted": null,
-    "keyword_score": 3,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Gemini Wearables, DeepMind",
     "company": "DeepMind",
     "location": "San Diego, CA, US",
@@ -210,13 +120,13 @@
     "site": "indeed"
   },
   {
-    "title": "Software Engineer III, Performance, AI and Infrastructure",
-    "company": "Google",
-    "location": "Sunnyvale, CA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=c8a462d4d3f876be",
-    "date_posted": 1774483200000,
+    "title": "Autonomy Integration Software Engineer",
+    "company": "Glydways",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391506324",
+    "date_posted": null,
     "keyword_score": 3,
-    "site": "indeed"
+    "site": "linkedin"
   }
 ]
