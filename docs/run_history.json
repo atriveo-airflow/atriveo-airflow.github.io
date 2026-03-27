@@ -2369,5 +2369,29 @@
       "HiringAgents.ai"
     ],
     "snapshot_file": "2026-03-27T14-03-32Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T14:07:51Z",
+    "run_at": "2026-03-27T14:07:51.676930+00:00",
+    "pipeline": "important",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 8,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -248.6,
+      "max": 42,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "Robinhood",
+      "Benchling",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-27T14-07-51Z_important.json"
   }
 ]
