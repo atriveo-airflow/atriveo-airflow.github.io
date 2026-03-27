@@ -68,8 +68,31 @@
     return { hour: hourJobs, today: todayJobs, yesterday: yesterdayJobs }[period] || [];
   }
 
+  function updateLevelChips(baseJobs) {
+    const counts = {
+      all:        baseJobs.length,
+      "New Grad": baseJobs.filter(j => (j.level || "Entry") === "New Grad").length,
+      "Entry":    baseJobs.filter(j => (j.level || "Entry") === "Entry").length,
+      "Mid":      baseJobs.filter(j => (j.level || "Entry") === "Mid").length,
+    };
+    const h1bCount = baseJobs.filter(j => h1bSet.has(j.job_url)).length;
+
+    document.querySelectorAll(".chip[data-level]").forEach(btn => {
+      const lvl = btn.dataset.level;
+      const n = counts[lvl] ?? 0;
+      const label = lvl === "all" ? "All" : lvl;
+      btn.innerHTML = `${label} <span class="chip-count">${n}</span>`;
+    });
+
+    const h1bBtn = document.getElementById("chip-h1b");
+    if (h1bBtn) h1bBtn.innerHTML = `H1B ✓ <span class="chip-count">${h1bCount}</span>`;
+  }
+
   function render() {
-    let jobs = [...activeJobs()];
+    const baseJobs = [...activeJobs()];
+    updateLevelChips(baseJobs);
+
+    let jobs = [...baseJobs];
 
     // Level filter
     if (levelFilter !== "all") {
@@ -336,7 +359,14 @@
       ]);
 
       hourJobs      = hour      || [];
-      todayJobs     = today.length ? today : hourJobs;
+      // Deduplicate today_jobs by job_url (old runs had 4-hour windows)
+      const seenToday = new Set();
+      todayJobs = (today.length ? today : hourJobs).filter(j => {
+        const key = j.job_url || `${j.title}-${j.company}`;
+        if (seenToday.has(key)) return false;
+        seenToday.add(key);
+        return true;
+      });
       yesterdayJobs = yesterday || [];
       h1bSet        = urlSet(h1b);
       prioritySet   = urlSet(important);
