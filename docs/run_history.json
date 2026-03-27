@@ -1192,5 +1192,27 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-27T03-20-04Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T03:22:41Z",
+    "run_at": "2026-03-27T03:22:41.216725+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 5,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": 6.2,
+      "max": 9,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "Instructure",
+      "Netflix",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-27T03-22-41Z_top500.json"
   }
 ]
