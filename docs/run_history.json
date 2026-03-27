@@ -1948,5 +1948,28 @@
       "Oracle"
     ],
     "snapshot_file": "2026-03-27T05-06-32Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T05:10:03Z",
+    "run_at": "2026-03-27T05:10:03.099787+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 6,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -74.6,
+      "max": 57,
+      "high": 8
+    },
+    "top_companies": [
+      "Instructure",
+      "Google",
+      "Netflix",
+      "Snowflake",
+      "athenahealth"
+    ],
+    "snapshot_file": "2026-03-27T05-10-03Z_top500.json"
   }
 ]
