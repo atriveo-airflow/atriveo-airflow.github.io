@@ -1815,5 +1815,27 @@
       "Instructure"
     ],
     "snapshot_file": "2026-03-27T04-02-34Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T04:05:40Z",
+    "run_at": "2026-03-27T04:05:40.968558+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 46.2,
+      "max": 59,
+      "high": 6
+    },
+    "top_companies": [
+      "OpenAI",
+      "Google",
+      "Uber",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-27T04-05-40Z_important.json"
   }
 ]
