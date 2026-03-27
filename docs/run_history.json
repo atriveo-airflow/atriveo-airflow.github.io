@@ -1730,5 +1730,27 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-03-27T03-04-18Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T03:06:12Z",
+    "run_at": "2026-03-27T03:06:12.335902+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Mid": 8,
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 5.9,
+      "max": 10,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Netflix",
+      "Capgemini"
+    ],
+    "snapshot_file": "2026-03-27T03-06-12Z_top500.json"
   }
 ]
