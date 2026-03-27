@@ -2416,5 +2416,28 @@
       "Robinhood"
     ],
     "snapshot_file": "2026-03-27T14-11-57Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T14:16:04Z",
+    "run_at": "2026-03-27T14:16:04.680037+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -222.4,
+      "max": 41,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "IBM",
+      "NetApp",
+      "Microsoft",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-27T14-16-04Z_h1b2026.json"
   }
 ]
