@@ -2256,5 +2256,29 @@
       "Counsel Health"
     ],
     "snapshot_file": "2026-03-27T13-03-15Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T13:07:11Z",
+    "run_at": "2026-03-27T13:07:11.789008+00:00",
+    "pipeline": "important",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 12,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -267.0,
+      "max": 58,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Microsoft",
+      "Databricks",
+      "Meta"
+    ],
+    "snapshot_file": "2026-03-27T13-07-11Z_important.json"
   }
 ]
