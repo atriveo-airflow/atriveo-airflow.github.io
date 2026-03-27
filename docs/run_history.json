@@ -2439,5 +2439,24 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-27T14-16-04Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T14:20:15Z",
+    "run_at": "2026-03-27T14:20:15.441828+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Dario",
+      "HiringAgents.ai",
+      "Mindbody",
+      "AI Fund",
+      "Emburse"
+    ],
+    "snapshot_file": "2026-03-27T14-20-15Z_keywords.json"
   }
 ]
