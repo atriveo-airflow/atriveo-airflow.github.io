@@ -1667,5 +1667,24 @@
       "Kforce Inc"
     ],
     "snapshot_file": "2026-03-27T02-07-24Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T02:09:28Z",
+    "run_at": "2026-03-27T02:09:28.919567+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Uber",
+      "OpenAI",
+      "V2X Inc",
+      "OnTrac",
+      "Keysight Technologies"
+    ],
+    "snapshot_file": "2026-03-27T02-09-28Z_keywords.json"
   }
 ]
