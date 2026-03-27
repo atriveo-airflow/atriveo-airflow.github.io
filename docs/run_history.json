@@ -2569,5 +2569,28 @@
       "Sony Interactive Entertainment"
     ],
     "snapshot_file": "2026-03-27T15-19-07Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T16:03:16Z",
+    "run_at": "2026-03-27T16:03:16.016392+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 15,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -358.7,
+      "max": 88,
+      "high": 11
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Progress Residential\u00ae",
+      "Counsel Health",
+      "Dario",
+      "GTN Technical Staffing"
+    ],
+    "snapshot_file": "2026-03-27T16-03-16Z_standard.json"
   }
 ]
