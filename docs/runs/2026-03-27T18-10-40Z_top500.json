@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Morrisville, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4376291062",
+    "date_posted": null,
+    "priority_score": 57,
+    "score_pct": 44,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Mobile, Android",
+    "company": "Google",
+    "location": "San Diego, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390961673",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Ads Bidding",
+    "company": "Google",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390968597",
+    "date_posted": null,
+    "priority_score": 32,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Mastercard",
+    "location": "Arlington, VA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380241070",
+    "date_posted": null,
+    "priority_score": 27,
+    "score_pct": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Epic",
+    "location": "Fort Lauderdale, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3986114509",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Networking & Observability",
+    "company": "MongoDB",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380491440",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer AI/ML Networking",
+    "company": "Google",
+    "location": "Raleigh, NC",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390962712",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
