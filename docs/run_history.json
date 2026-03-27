@@ -2550,5 +2550,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-27T15-15-03Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T15:19:07Z",
+    "run_at": "2026-03-27T15:19:07.601223+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 12,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Circles",
+      "TEKsystems",
+      "Wiraa",
+      "Imply",
+      "Sony Interactive Entertainment"
+    ],
+    "snapshot_file": "2026-03-27T15-19-07Z_keywords.json"
   }
 ]
