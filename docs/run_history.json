@@ -1563,5 +1563,24 @@
       "Tyler Technologies"
     ],
     "snapshot_file": "2026-03-27T01-07-50Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-27T01:10:01Z",
+    "run_at": "2026-03-27T01:10:01.333992+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 13,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Garmin",
+      "Optum",
+      "Cornerstone Defense",
+      "Headlight",
+      "Copart, Inc"
+    ],
+    "snapshot_file": "2026-03-27T01-10-01Z_keywords.json"
   }
 ]
