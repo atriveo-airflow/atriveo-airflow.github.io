@@ -2145,5 +2145,29 @@
       "Yahoo"
     ],
     "snapshot_file": "2026-03-27T12-03-13Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T12:07:23Z",
+    "run_at": "2026-03-27T12:07:23.360746+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 8,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -333.9,
+      "max": 58,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Microsoft",
+      "Robinhood",
+      "Benchling"
+    ],
+    "snapshot_file": "2026-03-27T12-07-23Z_important.json"
   }
 ]
