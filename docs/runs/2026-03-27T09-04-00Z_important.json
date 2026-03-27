@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392272650",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - AI Platform",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391557210",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer, Global Operations",
+    "company": "Meta",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392256802",
+    "date_posted": null,
+    "priority_score": 23,
+    "score_pct": 18,
+    "site": "linkedin"
+  }
+]
