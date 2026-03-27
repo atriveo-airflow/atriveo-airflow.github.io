@@ -1925,5 +1925,28 @@
       "Mercor"
     ],
     "snapshot_file": "2026-03-27T05-02-58Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T05:06:32Z",
+    "run_at": "2026-03-27T05:06:32.137827+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -135.8,
+      "max": 40,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Snowflake",
+      "LinkedIn",
+      "Oracle"
+    ],
+    "snapshot_file": "2026-03-27T05-06-32Z_important.json"
   }
 ]
