@@ -3371,5 +3371,27 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-27T23-20-39Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T23:31:44Z",
+    "run_at": "2026-03-27T23:31:44.758383+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 9
+    },
+    "scores": {
+      "avg": -415.9,
+      "max": 92,
+      "high": 5
+    },
+    "top_companies": [
+      "NetApp",
+      "Oracle",
+      "Leidos",
+      "TikTok",
+      "Lyft"
+    ],
+    "snapshot_file": "2026-03-27T23-31-44Z_top500.json"
   }
 ]
