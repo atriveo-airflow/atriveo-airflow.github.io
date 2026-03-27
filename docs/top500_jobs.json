@@ -1,12 +1,42 @@
 [
   {
-    "title": "Software Engineer\u2013 Intelligent Platforms, Mid",
-    "company": "Leidos",
-    "location": "",
+    "title": "Software Engineer, Codex Core Agents",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4386102901",
+    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
     "date_posted": null,
-    "priority_score": 16,
+    "priority_score": 7,
     "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II (Datagrid)",
+    "company": "Procore Technologies",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391957251",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1 - Aviation Web Development",
+    "company": "Garmin",
+    "location": "Middlebury, CT, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=38beb7dfecc11c8d",
+    "date_posted": 1774483200000,
+    "priority_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer 1 - Web Development",
+    "company": "Garmin",
+    "location": "Olathe, KS, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=72bf54b8fc5b9a24",
+    "date_posted": 1774483200000,
+    "priority_score": 3,
+    "site": "indeed"
   }
 ]
