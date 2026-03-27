@@ -3027,5 +3027,24 @@
       "People In AI"
     ],
     "snapshot_file": "2026-03-27T20-03-07Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T20:06:49Z",
+    "run_at": "2026-03-27T20:06:49.393308+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 52.0,
+      "max": 61,
+      "high": 2
+    },
+    "top_companies": [
+      "Coinbase",
+      "Twilio"
+    ],
+    "snapshot_file": "2026-03-27T20-06-49Z_important.json"
   }
 ]
