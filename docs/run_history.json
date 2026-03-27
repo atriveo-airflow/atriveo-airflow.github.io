@@ -3069,5 +3069,27 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-27T20-10-23Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-27T20:14:07Z",
+    "run_at": "2026-03-27T20:14:07.580667+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -253.3,
+      "max": 61,
+      "high": 5
+    },
+    "top_companies": [
+      "NetApp",
+      "Google",
+      "Coinbase",
+      "Twilio"
+    ],
+    "snapshot_file": "2026-03-27T20-14-07Z_h1b2026.json"
   }
 ]
