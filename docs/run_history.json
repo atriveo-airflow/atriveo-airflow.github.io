@@ -3004,5 +3004,28 @@
       "Headlight"
     ],
     "snapshot_file": "2026-03-27T19-18-16Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T20:03:07Z",
+    "run_at": "2026-03-27T20:03:07.892155+00:00",
+    "pipeline": "standard",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 18,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -118.2,
+      "max": 66,
+      "high": 17
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Mercor",
+      "PMG GLOBAL",
+      "Coinbase",
+      "People In AI"
+    ],
+    "snapshot_file": "2026-03-27T20-03-07Z_standard.json"
   }
 ]
