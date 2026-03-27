@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Software Engineer II - Discovery and Monetization",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391949568",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Codex Ecosystem & Enterprise",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391950720",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I WSI",
+    "company": "V2X Inc",
+    "location": "Indianapolis, IN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4385576108",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Associate Software Developer | Louisville, KY",
+    "company": "OnTrac",
+    "location": "Louisville, KY, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a2f9417ed42ba551",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "keyword_score": 6,
+    "site": "indeed"
+  },
+  {
+    "title": "Quantum Pro Software Engineer",
+    "company": "Keysight Technologies",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4376206116",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Truist",
+    "location": "Atlanta, GA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=58b21db25e7b311a",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": null,
+    "location": "Irvine, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=e2f4c2bb1e23c29f",
+    "date_posted": "2026-03-19T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Autonomy Integration Software Engineer",
+    "company": "Glydways",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391506324",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Capgemini",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391516340",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
