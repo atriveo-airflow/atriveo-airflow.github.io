@@ -2614,5 +2614,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-27T16-07-14Z_important.json"
+  },
+  {
+    "session_id": "2026-03-27T16:10:58Z",
+    "run_at": "2026-03-27T16:10:58.129734+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 10,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -363.4,
+      "max": 45,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Meta",
+      "OpenAI",
+      "Hinge Health",
+      "Nokia"
+    ],
+    "snapshot_file": "2026-03-27T16-10-58Z_top500.json"
   }
 ]
