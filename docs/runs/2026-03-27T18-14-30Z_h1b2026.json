@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Smithfield, RI",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386168033",
+    "date_posted": null,
+    "priority_score": 47,
+    "score_pct": 36,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Mobile, Android",
+    "company": "Google",
+    "location": "San Diego, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390961673",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  }
+]
