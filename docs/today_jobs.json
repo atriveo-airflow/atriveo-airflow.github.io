@@ -1,53 +1,5 @@
 [
   {
-    "title": "Software Engineer III - Admin Center",
-    "company": "hackajob",
-    "location": "Jersey City, NJ",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390490847",
-    "date_posted": null,
-    "score": 32,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Optum",
-    "location": "Eden Prairie, MN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391380980",
-    "date_posted": null,
-    "score": 29,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Optum",
-    "location": "Eden Prairie, MN, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=3b6ee3b702a37e1c",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 28,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Winaxis LLC",
-    "location": "Boston, MA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390865743",
-    "date_posted": null,
-    "score": 28,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
     "title": "Software Engineer, Code Generation",
     "company": "MongoDB",
     "location": "Nevada, United States",
@@ -57,7 +9,7 @@
     "score": 28,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer, Code Generation",
@@ -69,43 +21,7 @@
     "score": 28,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
-  },
-  {
-    "title": "Software Engineer - Fixed Duration",
-    "company": "BioSpace",
-    "location": "Indianapolis, IN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390874277",
-    "date_posted": null,
-    "score": 27,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Candescent",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391197466",
-    "date_posted": null,
-    "score": 27,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "(USA) Software Engineer III",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4379326792",
-    "date_posted": null,
-    "score": 26,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer II",
@@ -117,7 +33,7 @@
     "score": 25,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Sr. Software Engineer - Java/AWS",
@@ -129,19 +45,31 @@
     "score": 25,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "Software Engineer | Remote",
-    "company": "CareerXperts Consulting",
-    "location": "",
+    "title": "Software Engineer 4",
+    "company": "PTR Global",
+    "location": "Charlotte, NC",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391056606",
+    "job_url": "https://www.linkedin.com/jobs/view/4391124543",
     "date_posted": null,
     "score": 24,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Sr. Software Engineer (Java Spring boot, Microservices)",
+    "company": "U.S. Bank",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391307125",
+    "date_posted": null,
+    "score": 24,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer III - Data Protection & Recovery",
@@ -153,7 +81,7 @@
     "score": 22,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Full Stack Software Engineer",
@@ -165,31 +93,7 @@
     "score": 21,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer - Platform",
-    "company": "Voxel",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390414890",
-    "date_posted": null,
-    "score": 20,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer \u2013 High-Scale Financial Systems (Kafka / Node / Azure)",
-    "company": "Intellibus",
-    "location": "Jersey City, NJ",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390735033",
-    "date_posted": null,
-    "score": 20,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer \u2013 Distributed Systems (Real-Time Trading Platforms)",
@@ -201,55 +105,31 @@
     "score": 20,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
-    "title": "Software Engineer Full-Stack",
-    "company": "Kodiak",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer \u2013 High-Scale Financial Systems (Kafka / Node / Azure)",
+    "company": "Intellibus",
+    "location": "Jersey City, NJ",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391132702",
+    "job_url": "https://www.linkedin.com/jobs/view/4390735033",
     "date_posted": null,
     "score": 20,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
-    "title": "Sr. Backend Engineer, Data Platform, Vehicle Software",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
+    "title": "Sr. Software Engineer(Full stack/AWS security)",
+    "company": "U.S. Bank",
+    "location": "Atlanta, GA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391153991",
+    "job_url": "https://www.linkedin.com/jobs/view/4391195743",
     "date_posted": null,
-    "score": 20,
+    "score": 19,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Airlock Digital",
-    "location": "Colorado, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390823653",
-    "date_posted": null,
-    "score": 19,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Backend Software Engineer",
-    "company": "Wiraa",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390849512",
-    "date_posted": null,
-    "score": 19,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Fullstack AI Software Engineer",
@@ -261,7 +141,7 @@
     "score": 18,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Engineering-Dallas-Associate-Software Engineering",
@@ -273,7 +153,7 @@
     "score": 18,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Java Software Engineer",
@@ -285,7 +165,7 @@
     "score": 18,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer I - Data Engineering",
@@ -297,43 +177,7 @@
     "score": 18,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer - 2027 New Grads",
-    "company": "Ellipsis Labs",
-    "location": "New York, NY",
-    "level": "New Grad",
-    "job_url": "https://www.linkedin.com/jobs/view/4391938311",
-    "date_posted": null,
-    "score": 18,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Tential Solutions",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390866806",
-    "date_posted": null,
-    "score": 17,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer (SWE I / SWE II)",
-    "company": "BigHat Biosciences",
-    "location": "San Mateo, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391108285",
-    "date_posted": null,
-    "score": 17,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Founding Full-Stack Software Engineer",
@@ -345,103 +189,31 @@
     "score": 17,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer: Full-Stack",
-    "company": "AdvancedMD",
-    "location": "South Jordan, UT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391306037",
-    "date_posted": null,
-    "score": 17,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Backend Engineer (Node.JS, AWS)",
-    "company": "Wiraa",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390851381",
-    "date_posted": null,
-    "score": 17,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer",
-    "company": "Pariveda",
-    "location": "Philadelphia, PA",
+    "company": "Apex Systems",
+    "location": "Minneapolis, MN",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391930855",
+    "job_url": "https://www.linkedin.com/jobs/view/4391151394",
     "date_posted": null,
     "score": 17,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
-    "title": "Junior Backend Developer (Part-Time, Startup)",
-    "company": "Authly",
-    "location": "Los Angeles, CA",
+    "title": "Journey App Software Developer",
+    "company": "Resource Consultings Services Inc",
+    "location": "Houston, TX",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390434165",
+    "job_url": "https://www.linkedin.com/jobs/view/4391926318",
     "date_posted": null,
-    "score": 16,
+    "score": 17,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Blockchain Software Engineer",
-    "company": "Craftner INC",
-    "location": "Charlotte, NC, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=1dcbb9521bae1da8",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 16,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer (Python, AWS)",
-    "company": "Confidential Jobs",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4385929259",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer, Periodic KYC Reviews",
-    "company": "UBS",
-    "location": "Raleigh, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379694804",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Cloud/Software Engineer",
-    "company": "TalentAlly",
-    "location": "Omaha, NE",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390490902",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Blockchain Software Engineer",
@@ -453,7 +225,7 @@
     "score": 16,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer, Backend (Product)",
@@ -465,7 +237,7 @@
     "score": 16,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer",
@@ -477,7 +249,31 @@
     "score": 16,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
+  },
+  {
+    "title": "Scientific Software Engineer with UI/UX (Data Science and AI Institute)",
+    "company": "Inside Higher Ed",
+    "location": "Baltimore, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390882836",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T16:04:25Z"
+  },
+  {
+    "title": "Software Developer II",
+    "company": "Apex Systems",
+    "location": "Newport Beach, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4381659063",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer - Integrations Platform (Experienced)",
@@ -489,19 +285,7 @@
     "score": 16,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Blockchain Software Engineer",
-    "company": "Craftner INC",
-    "location": "Charlotte, NC, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=b9a1d03162334655",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 16,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Entry Level Software Developer",
@@ -513,43 +297,55 @@
     "score": 16,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Full Stack Software Engineer",
-    "company": "Scion Staffing",
-    "location": "New York, NY",
+    "title": "Software Engineer",
+    "company": "Pariveda",
+    "location": "Philadelphia, PA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391929665",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=e6f6e4a464ec7c64",
+    "date_posted": "2026-03-26T00:00:00.000",
     "score": 16,
     "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Cloud Platform Software Engineer",
-    "company": "Persistent Systems",
-    "location": "Scottsdale, AZ",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391924794",
-    "date_posted": null,
-    "score": 16,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer - Mid Level",
-    "company": "USAA",
-    "location": "San Antonio, TX",
+    "title": "Software Engineer Mid Level",
+    "company": "ELEVI Associates",
+    "location": "Hanover, MD",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391482405",
+    "job_url": "https://www.linkedin.com/jobs/view/4391173127",
     "date_posted": null,
     "score": 16,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Blockchain Software Engineer",
+    "company": "Craftner INC",
+    "location": "Charlotte, NC, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=b9a1d03162334655",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 16,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Backend Developer  - Public Sector Data Portal",
+    "company": "CCI- Computer Consultants International, Inc.",
+    "location": "Massachusetts, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390682754",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Software Engineer",
@@ -561,31 +357,7 @@
     "score": 15,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer ($165k-$250k + Equity) at Strala",
-    "company": "Jack & Jill",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391120197",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Software Engineer III - React",
-    "company": "hackajob",
-    "location": "Jersey City, NJ",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390746817",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Analyst - Software Developer",
@@ -597,55 +369,7 @@
     "score": 15,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "Torque Technologies LLC",
-    "location": "McLean, VA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391499538",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Sr. Software Engineer, Fleet Analytics, Vehicle Software",
-    "company": "Tesla",
-    "location": "Palo Alto, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391159554",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer Sr - Full Stack Angular/Java/Microservices",
-    "company": "PNC",
-    "location": "Farmers Branch, TX",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390764909",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Syndicatebleu",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391910568",
-    "date_posted": null,
-    "score": 15,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Scientific Software Engineer",
@@ -657,19 +381,7 @@
     "score": 15,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "Kforce Inc",
-    "location": "Jersey City, NJ",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390863734",
-    "date_posted": null,
-    "score": 14,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Analyst - Software Developer",
@@ -681,7 +393,7 @@
     "score": 14,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer",
@@ -693,31 +405,7 @@
     "score": 14,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
-  },
-  {
-    "title": "Sr. Software Engineer - Backend",
-    "company": "Lively, Inc.",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390752611",
-    "date_posted": null,
-    "score": 14,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Developer 2",
-    "company": "Oracle",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391499485",
-    "date_posted": null,
-    "score": 14,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer - Observability Product",
@@ -729,79 +417,19 @@
     "score": 14,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer - 2027 Interns",
-    "company": "Ellipsis Labs",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391933602",
-    "date_posted": null,
-    "score": 14,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer",
-    "company": "Instructure",
-    "location": "",
+    "company": "Ronin Consulting",
+    "location": "Franklin, TN, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381975173",
-    "date_posted": null,
-    "score": 14,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Java/Javascript Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "North Carolina, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4383046239",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=00d9114936398c43",
+    "date_posted": "2026-03-26T00:00:00.000",
     "score": 13,
     "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4385744352",
-    "date_posted": null,
-    "score": 13,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "New York, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391907216",
-    "date_posted": null,
-    "score": 13,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Sr Software Engineer, Web",
-    "company": "Jobgether",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391177247",
-    "date_posted": null,
-    "score": 13,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer",
@@ -813,43 +441,7 @@
     "score": 13,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer, Full Stack",
-    "company": "Skydio",
-    "location": "San Mateo, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371460364",
-    "date_posted": null,
-    "score": 12,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer, Platform Infrastructure",
-    "company": "Verkada",
-    "location": "San Mateo, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4365028408",
-    "date_posted": null,
-    "score": 12,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Junior Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "New Jersey, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4361869616",
-    "date_posted": null,
-    "score": 12,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer",
@@ -861,79 +453,43 @@
     "score": 12,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
+  },
+  {
+    "title": "Ruby on Rails Software Engineer",
+    "company": "Largeton Group",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390897376",
+    "date_posted": null,
+    "score": 12,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer II",
-    "company": "Exact Sciences",
-    "location": "San Diego, CA",
+    "company": "Reflexive Concepts",
+    "location": "Laurel, MD",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391919842",
+    "job_url": "https://www.linkedin.com/jobs/view/4391121984",
     "date_posted": null,
     "score": 12,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "Creative Workplaces",
-    "location": "",
+    "title": "Java Software Engineer",
+    "company": "Acro Service Corp",
+    "location": "Plano, TX",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391936512",
+    "job_url": "https://www.linkedin.com/jobs/view/4390736971",
     "date_posted": null,
     "score": 12,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "San Diego Climate Week",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391940500",
-    "date_posted": null,
-    "score": 12,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Instructure",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4374878336",
-    "date_posted": null,
-    "score": 12,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer III (Data Platform)",
-    "company": "Cedar",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4365006096",
-    "date_posted": null,
-    "score": 11,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "iSoftStone",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378981044",
-    "date_posted": null,
-    "score": 11,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer, Data Platform",
@@ -945,7 +501,7 @@
     "score": 11,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer II",
@@ -957,7 +513,7 @@
     "score": 11,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer",
@@ -969,7 +525,19 @@
     "score": 11,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Engineer (C/C++, OS, File Systems,Kernel)",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4356522011",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer IV - Innovative Engines and Energy Company",
@@ -981,31 +549,19 @@
     "score": 11,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
-    "title": "Software Engineer, Applied AI Solutions",
-    "company": "Cloudwick",
-    "location": "",
+    "title": "Software Engineer (Typescript)",
+    "company": "Jobs via Dice",
+    "location": "Seattle, WA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390771759",
+    "job_url": "https://www.linkedin.com/jobs/view/4390757101",
     "date_posted": null,
     "score": 11,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390769800",
-    "date_posted": null,
-    "score": 11,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer, Platform - Brownsville, USA",
@@ -1017,175 +573,31 @@
     "score": 11,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Software Engineer (E2)",
-    "company": "Incident IQ",
-    "location": "Alpharetta, GA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391934754",
-    "date_posted": null,
-    "score": 11,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)",
-    "company": "TikTok",
-    "location": "San Jose, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=213b8900ef078d98",
-    "date_posted": "2026-03-25T00:00:00.000",
-    "score": 10,
-    "competition_score": 2,
-    "site": "indeed",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Software Developer 3",
-    "company": "Oracle",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390562207",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Backend Software Engineer Intern (TikTok-PGC-Creator Strategy) - 2026 Summer (BS/MS)",
-    "company": "TikTok",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4329726076",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Associate Software Engineer",
-    "company": "NiCE",
-    "location": "Sandy, UT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391048977",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer",
-    "company": "West Bend Insurance Company",
-    "location": "West Bend, WI",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380059537",
+    "job_url": "https://www.linkedin.com/jobs/view/4390754115",
     "date_posted": null,
     "score": 10,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Java Software Developer",
-    "company": "BeaconFire Inc.",
-    "location": "New Jersey, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4386687508",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer",
-    "company": "Red Hat",
-    "location": "CO, US",
+    "company": "IntraFi",
+    "location": "Arlington, VA",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=567a69a3f4f4edbf",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 10,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Software Engineering, Payments",
-    "company": "Side",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391377953",
-    "date_posted": null,
-    "score": 10,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer, Payments",
-    "company": "Mercor",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390690834",
+    "job_url": "https://www.linkedin.com/jobs/view/4382348807",
     "date_posted": null,
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Mid level Software Engineer (Python or Java) - Up to $150,000",
-    "company": "Hunter Bond",
-    "location": "Boston, MA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390560880",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer II, Member Growth, Retention",
-    "company": "Spring Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390819948",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer, Applied AI",
-    "company": "Norm Ai",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4240184391",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Developer",
-    "company": "BusinessRate",
-    "location": "Phoenix, AZ, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=d204a8384a88e967",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 9,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Software Engineer I WSI",
@@ -1197,7 +609,7 @@
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer, Product",
@@ -1209,31 +621,7 @@
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Orum \ud83e\udd47",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4332882952",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer I WSI",
-    "company": "V2X Inc",
-    "location": "Indianapolis, IN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4385571393",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Junior Software Engineer",
@@ -1245,103 +633,67 @@
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
-    "title": "Software Engineer II, Member Growth, Retention",
-    "company": "Spring Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391036722",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Software Engineer 3, Search Systems Replication & Routing",
-    "company": "MongoDB",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer I WSI",
+    "company": "V2X Inc",
+    "location": "Indianapolis, IN",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391100797",
+    "job_url": "https://www.linkedin.com/jobs/view/4385571393",
     "date_posted": null,
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer",
-    "company": "RemoteHunter",
+    "company": "Orum \ud83e\udd47",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391909393",
+    "job_url": "https://www.linkedin.com/jobs/view/4332882952",
     "date_posted": null,
     "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
-    "title": "Software Engineer II",
-    "company": "CNN",
-    "location": "Atlanta, GA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391380684",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer II (Datagrid)",
-    "company": "Procore Technologies",
-    "location": "",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391957251",
-    "date_posted": null,
-    "score": 9,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Remote Software Developer",
-    "company": "Turing",
-    "location": "Georgia, United States",
+    "title": "Asset & Wealth Management - Software Engineer - Analyst - New York",
+    "company": "Goldman Sachs",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390860377",
+    "job_url": "https://www.linkedin.com/jobs/view/4381107967",
     "date_posted": null,
-    "score": 8,
+    "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "Remote Software Engineer (US)",
-    "company": "Turing",
-    "location": "Atlanta, GA",
+    "title": "Software Engineer (JAVA & Scala)",
+    "company": "Kelly Science, Engineering, Technology & Telecom",
+    "location": "Chicago, IL",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390856312",
+    "job_url": "https://www.linkedin.com/jobs/view/4391300018",
     "date_posted": null,
-    "score": 8,
+    "score": 9,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
-    "company": "IBM",
-    "location": "Austin, TX",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4375995933",
+    "title": "Software Engineer",
+    "company": "Akamai Technologies",
+    "location": "Cambridge, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390696061",
     "date_posted": null,
     "score": 8,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Infrastructure Software Engineer (Python, Distributed Systems)",
@@ -1353,7 +705,7 @@
     "score": 8,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer 1",
@@ -1365,7 +717,7 @@
     "score": 8,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
@@ -1377,139 +729,31 @@
     "score": 8,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Warner Bros. Discovery",
-    "location": "Atlanta, GA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=b14582eb61fb1e48",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 8,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Jr. Software Developer",
-    "company": "Global Science & Technology, Inc",
-    "location": "Greenbelt, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391932349",
-    "date_posted": null,
-    "score": 8,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer, Codex Core Agents",
-    "company": "OpenAI",
+    "title": "Embedded Software Engineer",
+    "company": "Jobs via Dice",
     "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391515051",
+    "job_url": "https://www.linkedin.com/jobs/view/4390744246",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "Software Developers/Programmer Analysts",
+    "company": "Greycell Labs Inc",
+    "location": "Edison, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391906028",
     "date_posted": null,
     "score": 8,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "NET Software Engineer",
-    "company": "Cummins Inc.",
-    "location": "Fridley, MN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391389553",
-    "date_posted": null,
-    "score": 8,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Tubi",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390684862",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Software Engineer, Microgrid Controls Validation Engineer",
-    "company": "Intersect",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390694381",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Software Engineer III, Full Stack, Chrome",
-    "company": "Google",
-    "location": "Seattle, WA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380026987",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer III - IntelliScript (Remote)",
-    "company": "Milliman",
-    "location": "Brookfield, WI",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4363116089",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, Google Cloud Storage",
-    "company": "Google",
-    "location": "Durham, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4363225702",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Career Soft Solutions Inc",
-    "location": "Cincinnati, OH",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391066915",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Entry Level Software Developer (GIS Majors Encouraged!)",
-    "company": "Revature",
-    "location": "California, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390717161",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer | High-Frequency Trading",
@@ -1521,67 +765,7 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "DataAnnotation",
-    "location": "Washington, DC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309698364",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Backend Software Engineer",
-    "company": "DataAnnotation",
-    "location": "Vermont, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309690886",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Creative Software Developer",
-    "company": "DataAnnotation",
-    "location": "South Dakota, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309803443",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Swift Software Engineer",
-    "company": "DataAnnotation",
-    "location": "Colorado, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309678984",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Software Engineer- Design Systems",
-    "company": "DataAnnotation",
-    "location": "Kansas, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309809236",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Swift Software Engineer",
@@ -1593,31 +777,19 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "Software Developer - Java, Agentic AI, AWS - 100% Remote",
-    "company": "Optomi",
-    "location": "",
+    "title": "Software Engineer - Advanced",
+    "company": "Clarus Technology",
+    "location": "Florida, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390739611",
+    "job_url": "https://www.linkedin.com/jobs/view/4391450297",
     "date_posted": null,
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer- Design Systems",
-    "company": "DataAnnotation",
-    "location": "Vermont, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309814102",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Full Stack Software Engineer (Angular Focus) \u2013 Contract",
@@ -1629,7 +801,31 @@
     "score": 7,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Developer - Java, Agentic AI, AWS - 100% Remote",
+    "company": "Optomi",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390739611",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Engineer- Design Systems",
+    "company": "DataAnnotation",
+    "location": "Vermont, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309814102",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Developer",
@@ -1641,31 +837,7 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer - Advanced",
-    "company": "Clarus Technology",
-    "location": "Indiana, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391446681",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "DataAnnotation",
-    "location": "Rhode Island, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4309692777",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Backend Software Engineer",
@@ -1677,7 +849,19 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "DataAnnotation",
+    "location": "Rhode Island, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4309692777",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer",
@@ -1689,7 +873,7 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer",
@@ -1701,31 +885,7 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "The Princeton Group",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391156691",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Software Engineer - Code QA Expert",
-    "company": "Mercor",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391169492",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Java Software Engineer",
@@ -1737,55 +897,7 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Mercor",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391180094",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer - Fully Remote",
-    "company": "Mercor",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391173383",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Embedded Software Engineer I",
-    "company": "Life Fitness  / Hammer Strength",
-    "location": "Schaumburg, IL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391931676",
-    "date_posted": null,
-    "score": 7,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "NET Software Engineer",
-    "company": "Cummins",
-    "location": "Fridley, MN, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=57cf0a1de5ec49d3",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 7,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Developer (TAK Development/Casual Position)",
@@ -1797,103 +909,55 @@
     "score": 7,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Engineer - Product",
-    "company": "NuPeople",
+    "title": "Experienced Application Software Engineer",
+    "company": "Lutron Electronics",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391935048",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Enterprise - Software Engineer - Java, Angular, Python",
+    "company": "Erias Ventures",
+    "location": "Annapolis Junction, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391927629",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer - Fully Remote",
+    "company": "Mercor",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390438065",
+    "job_url": "https://www.linkedin.com/jobs/view/4391173383",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Axon",
+    "location": "Washington, United States",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4390690433",
     "date_posted": null,
     "score": 6,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Intern - IT Software Engineering",
-    "company": "Maximus",
-    "location": "Rancho Cordova, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390689796",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Embedded Software Engineer Intern",
-    "company": "Nokia",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4348990503",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Full Stack Software Developer",
-    "company": "Russell Tobin",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381115262",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, ML Platform",
-    "company": "Afresh",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4369274548",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, Accounting",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4364919811",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Sr Software Engineer",
-    "company": "Alkami Technology",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4266070348",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Sr Embedded Software Engineer, CCU",
-    "company": "Archer",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4329588148",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Software Engineer",
@@ -1905,7 +969,55 @@
     "score": 6,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
+  },
+  {
+    "title": "Software Engineer II, Ad Code - Ad Audience",
+    "company": "Raptive",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391102018",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T16:04:25Z"
+  },
+  {
+    "title": "HPC Scientific Software Engineer (IT@JH Research Computing)",
+    "company": "Inside Higher Ed",
+    "location": "Baltimore, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390888425",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T16:04:25Z"
+  },
+  {
+    "title": "2026 Software Engineer I/II (Land Systems) - Slidell, LA",
+    "company": "Textron",
+    "location": "Slidell, LA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391437510",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Sr. Generative AI Software Developer",
+    "company": "Esri",
+    "location": "Redlands, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4363108268",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer (PHP Laravel)",
@@ -1917,7 +1029,7 @@
     "score": 6,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer - LLMs",
@@ -1929,127 +1041,19 @@
     "score": 6,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Engineer - ML Infrastructure",
-    "company": "Genesis Molecular AI",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4384608039",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Software Engineer - Hammerhead",
-    "company": "SRAM",
-    "location": "Phoenixville, PA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391304557",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "AI Foundations - Software Engineer",
-    "company": "IBM",
-    "location": "Cambridge, MA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391944072",
-    "date_posted": null,
-    "score": 6,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer, Product",
-    "company": "Meta",
-    "location": "Bellevue, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4255809879",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Robotics Software Engineer III - Infrastructure",
-    "company": "ArcBest",
-    "location": "Fort Smith, AR",
+    "title": "Software Engineer III, Full Stack, Google Chrome",
+    "company": "Google",
+    "location": "Seattle, WA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4379548292",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer / Full Stack / Stealth Startup",
-    "company": "Motion Recruitment",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4371495205",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, AI Native",
-    "company": "Meta",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378158733",
-    "date_posted": null,
-    "score": 5,
+    "job_url": "https://www.indeed.com/viewjob?jk=cbbc2794b17fae85",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": 6,
     "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, Product",
-    "company": "Meta",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4255810891",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, Product",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4255811849",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Uber",
-    "location": "New York, NY",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390864640",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer, Compute",
@@ -2061,43 +1065,7 @@
     "score": 5,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Middesk",
-    "location": "New York, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4205003719",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Sr. Software Engineer- AI/ML, AWS Neuron Distributed Training",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Cupertino, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4253878241",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390782389",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer 1 - Web Development",
@@ -2109,163 +1077,19 @@
     "score": 5,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Engineer",
-    "company": "Owl Cyber Defense",
-    "location": "Danbury, CT, US",
+    "title": "Software Engineer Intern (Computer Vision)_Mandarin Speaking",
+    "company": "Philo Homes",
+    "location": "New York, United States",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=05f781b730cd88f5",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 5,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Software Engineering",
-    "company": "Aditi Consulting",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391921257",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Software Engineer III, Google Home",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391935713",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Founding Software Engineer - Equity Role",
-    "company": "SideKix HQ Inc.",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391398774",
-    "date_posted": null,
-    "score": 5,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "SciPlay",
-    "location": "Austin, TX",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390828471",
+    "job_url": "https://www.linkedin.com/jobs/view/4390675955",
     "date_posted": null,
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Legislative Software Engineer",
-    "company": "State of Utah",
-    "location": "Salt Lake City, UT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390568218",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer (E)",
-    "company": "KLA",
-    "location": "Ann Arbor, MI",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/3679531832",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer - C++",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380069341",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer, Geo, 3D Metrics Infrastructure",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4380033727",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer Summer Intern",
-    "company": "G2",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378644108",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Wells Fargo",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390858807",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, Robotic Applications",
-    "company": "Atomic Machines",
-    "location": "Emeryville, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379326847",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Intern, Robotics Software Engineer",
-    "company": "ArcBest",
-    "location": "Fort Smith, AR",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4373977599",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Software Engineer - Core Platform",
@@ -2277,7 +1101,7 @@
     "score": 4,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Scientific Software Developer II \u2013 Modeler",
@@ -2289,19 +1113,7 @@
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
-  },
-  {
-    "title": "Sightline Sr. Software Engineer (Sightline Information Technology)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390880970",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer, GenAI",
@@ -2313,31 +1125,43 @@
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
-    "title": "Manufacturing Test Software Engineer",
-    "company": "Red Oak Technologies",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer - CRS",
+    "company": "Agilysys",
+    "location": "Alpharetta, GA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4374634083",
+    "job_url": "https://www.linkedin.com/jobs/view/4391114944",
     "date_posted": null,
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
-    "title": "Forward Deployed Software Engineer - Seattle",
-    "company": "OpenAI",
-    "location": "Seattle, WA",
+    "title": "Software Engineer - Automation (Python)",
+    "company": "Virtu Financial",
+    "location": "Austin, TX",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379332789",
+    "job_url": "https://www.linkedin.com/jobs/view/4364936186",
     "date_posted": null,
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Engineer - GenAI (Teradyne, North Reading)",
+    "company": "Teradyne",
+    "location": "North Reading, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4311302487",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer-Mid Level",
@@ -2349,7 +1173,55 @@
     "score": 4,
     "competition_score": 4,
     "site": "indeed",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Scientific Software Developer II \u2013 Modeler",
+    "company": "Cadence",
+    "location": "Santa Fe, NM",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4380019188",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
+  },
+  {
+    "title": "Software Engineer - ENG04 - Uncleared On-Site",
+    "company": "Jobs via Dice",
+    "location": "McKinney, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390738285",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "Software Developer  Enterprise Tax System",
+    "company": "Jobs via Dice",
+    "location": "Columbus, OH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390740291",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Sunrise Systems, Inc.",
+    "location": "Cary, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390740918",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer, GenAI",
@@ -2361,67 +1233,19 @@
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
-    "title": "Software Engineer III",
-    "company": "GitHub",
-    "location": "",
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4363108705",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
-  },
-  {
-    "title": "BAS/HVAC Systems Software Engineer II",
-    "company": "Jobs via Dice",
-    "location": "Covina, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390742278",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
-  },
-  {
-    "title": "Software Engineer Intern",
-    "company": "Premier Inc.",
-    "location": "Charlotte, NC, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=b833bca7c0cf88e9",
+    "job_url": "https://www.indeed.com/viewjob?jk=f32eda3aba6f11b8",
     "date_posted": "2026-03-26T00:00:00.000",
     "score": 4,
-    "competition_score": 1,
+    "competition_score": 4,
     "site": "indeed",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Associate Software Engineer",
-    "company": "RemoteHunter",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390770783",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer 1 - Aviation Web Development",
-    "company": "Garmin",
-    "location": "Middlebury, CT",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391184131",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer III",
@@ -2433,67 +1257,31 @@
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Developer",
-    "company": "Jobs via Dice",
-    "location": "Cupertino, CA",
+    "title": "Software Engineer - OnTap RAID Systems Programming",
+    "company": "NetApp",
+    "location": "San Jose, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391925594",
+    "job_url": "https://www.linkedin.com/jobs/view/4356672931",
     "date_posted": null,
     "score": 4,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Developer",
-    "company": "The AME Group",
-    "location": "South Bend, IN",
+    "title": "Software Engineer - YAML Experience",
+    "company": "Alignerr",
+    "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391919636",
-    "date_posted": null,
-    "score": 4,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer III",
-    "company": "Motion",
-    "location": "Ogden, UT",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4365132136",
+    "job_url": "https://www.linkedin.com/jobs/view/4390684764",
     "date_posted": null,
     "score": 3,
-    "competition_score": 1,
+    "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "Software Engineer, AI (Ruby)",
-    "company": "G2i Inc.",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390722175",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
-  },
-  {
-    "title": "AI Software Engineer (C++)",
-    "company": "G2i Inc.",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390730119",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T14:02:27Z"
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Software Engineer (API, SQL)",
@@ -2505,19 +1293,31 @@
     "score": 3,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
-    "title": "Software Engineer - CRS",
-    "company": "AGILYSYS, INC.",
-    "location": "Alpharetta, GA, US",
+    "title": "Software Engineer (TypeScript) | $55/hr Remote",
+    "company": "Jobs via Dice",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=a1c352671e8dbbe5",
-    "date_posted": "2026-03-26T00:00:00.000",
+    "job_url": "https://www.linkedin.com/jobs/view/4390745270",
+    "date_posted": null,
     "score": 3,
     "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "Embedded Software Engineer (Contractor)",
+    "company": "Peak Energy",
+    "location": "Burlingame, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391154289",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer - CRS",
@@ -2529,43 +1329,55 @@
     "score": 3,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "The Otaku Club",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391912145",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Meridian Cooperative",
-    "location": "Atlanta, GA",
+    "title": "Software Engineer II - Data Workflow",
+    "company": "The Trade Desk",
+    "location": "San Francisco, CA",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4384853926",
+    "job_url": "https://www.linkedin.com/jobs/view/4391930209",
     "date_posted": null,
     "score": 3,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Sr. Software Developer",
-    "company": "S Cube Soft",
-    "location": "Metuchen, NJ, US",
+    "title": "mainframe software engineer",
+    "company": "Insight Global",
+    "location": "Merrimack, NH",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=1f3fd68644cb0911",
+    "job_url": "https://www.linkedin.com/jobs/view/4391190282",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Irving, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391925583",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer II, Frontend Full Stack - HR Product",
+    "company": "Rippling",
+    "location": "New York, NY, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=2f53292cc909f3aa",
     "date_posted": "2026-03-26T00:00:00.000",
     "score": 3,
     "competition_score": 1,
     "site": "indeed",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Junior Software Engineer",
@@ -2577,91 +1389,19 @@
     "score": 3,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Development Engineer (Backend)",
-    "company": "Insight Global",
-    "location": "Austin, Texas Metropolitan Area",
+    "title": "Applied AI/ML Software Engineer",
+    "company": "Ascertain",
+    "location": "New York, NY, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391305059",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "The Otaku Club",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391932683",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Capgemini",
-    "location": "San Francisco, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=8567dc5c7966920e",
+    "job_url": "https://www.indeed.com/viewjob?jk=e66d795168b6774e",
     "date_posted": "2026-03-26T00:00:00.000",
     "score": 3,
     "competition_score": 0,
     "site": "indeed",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "The Otaku Club",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391943570",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Engineer, AI",
-    "company": "Bezi",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391942547",
-    "date_posted": null,
-    "score": 3,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Engineer, Android",
-    "company": "Meta",
-    "location": "Bellevue, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254369816",
-    "date_posted": null,
-    "score": 2,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer, Android",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254368768",
-    "date_posted": null,
-    "score": 2,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Engineer, Android",
@@ -2673,67 +1413,31 @@
     "score": 2,
     "competition_score": 3,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
-    "title": "Software Engineer",
-    "company": "Persistent Systems",
-    "location": "New Jersey, United States",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391958087",
-    "date_posted": null,
-    "score": 2,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T01:01:35Z"
-  },
-  {
-    "title": "Software Engineer I",
-    "company": "Cox Automotive Inc.",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379555363",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T09:01:20Z"
-  },
-  {
-    "title": "Software Engineer \u2013 Trading Systems",
-    "company": "Wolverine Trading",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4378972372",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer III, iOS Video",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380003124",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, GenAI",
-    "company": "Wiraa",
+    "title": "Software Engineer - Ruby",
+    "company": "Alignerr",
     "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390855356",
+    "job_url": "https://www.linkedin.com/jobs/view/4390686783",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T04:01:06Z"
+  },
+  {
+    "title": "Embedded Systems / Network Software Engineer",
+    "company": "Talent Groups",
+    "location": "McKinney, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4385051262",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T04:01:06Z"
   },
   {
     "title": "Embedded Software Engineer, Motor Inverter",
@@ -2745,7 +1449,31 @@
     "score": 1,
     "competition_score": 0,
     "site": "linkedin",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
+  },
+  {
+    "title": "Software Engineer, GenAI",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390855356",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T15:02:33Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Virtusa",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390549178",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
     "title": "Software Engineer, AI Dev Tools",
@@ -2757,19 +1485,19 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Remote Software Developer",
     "company": "Turing",
     "location": "New York, United States",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390898121",
+    "job_url": "https://www.linkedin.com/jobs/view/4391101063",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Software Engineer -- .NET-IAM-Okta",
@@ -2781,31 +1509,31 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
-    "title": "Remote Software Developer",
-    "company": "Turing",
-    "location": "Austin, TX",
+    "title": "Sr. C++ Software Engineer (Healthcare) - Remote",
+    "company": "Cognizant",
+    "location": "Clayton, NC",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391116064",
+    "job_url": "https://www.linkedin.com/jobs/view/4380067010",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T17:02:35Z"
+    "batch_time": "2026-03-26T16:04:25Z"
   },
   {
     "title": "Remote Software Developer",
     "company": "Turing",
     "location": "Minneapolis, MN",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391126718",
+    "job_url": "https://www.linkedin.com/jobs/view/4391130483",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer (Nextest, San Jose)",
@@ -2817,7 +1545,7 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer",
@@ -2829,7 +1557,31 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Allagi Technologies Inc",
+    "location": "Hillsborough, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391497159",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
+  },
+  {
+    "title": "SOFTWARE DEVELOPER",
+    "company": "SEOYON E-HWA MANUFACTURING AUBURN, INC.",
+    "location": "Dadeville, AL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391155279",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
     "title": "Software Engineer - Dragonfly Portfolio",
@@ -2841,55 +1593,31 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T19:11:54Z"
   },
   {
-    "title": "Sr. Software Developer",
-    "company": "Allagi Technologies Inc",
-    "location": "Hillsborough, NJ",
+    "title": "Software Engineer (SWE-2)",
+    "company": "Leidos",
+    "location": "Fort Meade, MD",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391492569",
+    "job_url": "https://www.linkedin.com/jobs/view/4382702951",
     "date_posted": null,
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T19:03:03Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Sony Interactive Entertainment",
-    "location": "San Mateo, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391901310",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "Software Engineer II - (E2)",
-    "company": "Applied Materials",
-    "location": "Santa Clara, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391492878",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
-  },
-  {
-    "title": "IOS Software Engineer (Hybrid San Diego, CA or Acton, MA)",
-    "company": "Insulet Corporation",
-    "location": "San Diego, CA",
+    "title": "Front-Office Hedge Fund Software Engineer | C++ Required | Up to $700K",
+    "company": "Saragossa",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4390747929",
+    "job_url": "https://www.linkedin.com/jobs/view/4388465986",
     "date_posted": null,
     "score": 1,
-    "competition_score": 0,
+    "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T20:01:49Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Software Developer",
@@ -2901,259 +1629,19 @@
     "score": 1,
     "competition_score": 1,
     "site": "linkedin",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Embedded Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Dallas, TX",
+    "company": null,
+    "location": "Carmel, IN, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4384092488",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "BraunAbility",
-    "location": "Winamac, IN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391903915",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "OTA Software Engineer",
-    "company": "Hyundai America Technical Center, Inc. (HATCI)",
-    "location": "Superior, MI",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391494997",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T22:02:42Z"
-  },
-  {
-    "title": "Software developer",
-    "company": "Reveille Technologies,Inc",
-    "location": "Cupertino, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391185966",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer with VB .NET and AutoCAD",
-    "company": "Chetu, Inc.",
-    "location": "Sunrise, FL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391916728",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Embedded Software Engineer - Automotive",
-    "company": "Stefanini North America and APAC",
-    "location": "Grimes, IA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391938317",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 0,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T23:02:30Z"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "AGCO Corporation",
-    "location": "Jackson, MN",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4385601495",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Kanawha Scales & Systems, LLC.",
-    "location": "Poca, WV",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4384196706",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Software Engineer III, Site Reliability Development",
-    "company": "Google",
-    "location": "San Bruno, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391929932",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 4,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "C++ Software Engineer | Chicago/NYC- Global Quant Firm",
-    "company": "Jobs via eFinancialCareers",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391947006",
-    "date_posted": null,
-    "score": 1,
-    "competition_score": 1,
-    "site": "linkedin",
-    "batch_time": "2026-03-27T00:02:06Z"
-  },
-  {
-    "title": "Embedded Systems Software Engineer",
-    "company": "JLR",
-    "location": "Portland, OR, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=8bf14f162ea7e41f",
+    "job_url": "https://www.indeed.com/viewjob?jk=841ad89e58f45fe6",
     "date_posted": "2026-03-26T00:00:00.000",
     "score": 0,
     "competition_score": 0,
     "site": "indeed",
-    "batch_time": "2026-03-26T05:00:50Z"
-  },
-  {
-    "title": "Software Developer (Journeyman)",
-    "company": "PZI International",
-    "location": "Huntsville, AL, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=16e5d083d4d48440",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 0,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Software Engineer, Laneside",
-    "company": "Kapsch TrafficCom USA",
-    "location": "Austin, TX, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=eee2e983fa73c88b",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 0,
-    "competition_score": 1,
-    "site": "indeed",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Innovation Embedded Software Engineer",
-    "company": "CNH Industrial",
-    "location": "Goodfield, IL, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=57ea61a834529709",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": 0,
-    "competition_score": 0,
-    "site": "indeed",
-    "batch_time": "2026-03-26T17:02:35Z"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Meta",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301812138",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer, Google Cloud Security, Threat Detection",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4379649602",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Embedded Software Engineer, Firmware",
-    "company": "Meta",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301811226",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Software Engineer, iOS",
-    "company": "Meta",
-    "location": "New York, NY",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254370677",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T12:02:43Z"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Meta",
-    "location": "Burlingame, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4301803390",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer, iOS",
-    "company": "Meta",
-    "location": "Menlo Park, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4254370675",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
-  },
-  {
-    "title": "Software Engineer III, Mobile (iOS), Extended Reality",
-    "company": "Google",
-    "location": "San Jose, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4380436651",
-    "date_posted": null,
-    "score": -1,
-    "competition_score": 3,
-    "site": "linkedin",
-    "batch_time": "2026-03-26T13:02:34Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
     "title": "Embedded Software Engineer, Firmware",
@@ -3165,7 +1653,19 @@
     "score": -1,
     "competition_score": 3,
     "site": "linkedin",
-    "batch_time": "2026-03-26T16:02:46Z"
+    "batch_time": "2026-03-26T16:04:25Z"
+  },
+  {
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390743510",
+    "date_posted": null,
+    "score": -1,
+    "competition_score": 4,
+    "site": "linkedin",
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer III, Android TV",
@@ -3177,19 +1677,7 @@
     "score": -1,
     "competition_score": 3,
     "site": "linkedin",
-    "batch_time": "2026-03-26T18:02:47Z"
-  },
-  {
-    "title": "Software Engineer III, Android, Google TV",
-    "company": "Google",
-    "location": "San Jose, CA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=9b8f440062449124",
-    "date_posted": "2026-03-26T00:00:00.000",
-    "score": -2,
-    "competition_score": 3,
-    "site": "indeed",
-    "batch_time": "2026-03-26T09:01:20Z"
+    "batch_time": "2026-03-26T18:02:46Z"
   },
   {
     "title": "Software Engineer III, Generative AI, Search Prompt Engineering",
@@ -3201,42 +1689,54 @@
     "score": -2,
     "competition_score": 4,
     "site": "indeed",
-    "batch_time": "2026-03-26T15:02:11Z"
+    "batch_time": "2026-03-26T15:02:33Z"
   },
   {
-    "title": "Software Engineer",
-    "company": "S Cube Soft",
-    "location": "Metuchen, NJ, US",
+    "title": "Software Engineer 2 (Controls)",
+    "company": "Strattec Security Corporation",
+    "location": "Auburn Hills, MI, US",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=a460562ced5ccfb0",
-    "date_posted": "2016-07-31T00:00:00.000",
+    "job_url": "https://www.indeed.com/viewjob?jk=d95af14b3d7f26d3",
+    "date_posted": "2026-03-16T00:00:00.000",
     "score": -2,
     "competition_score": 4,
     "site": "indeed",
-    "batch_time": "2026-03-26T21:01:56Z"
+    "batch_time": "2026-03-26T22:40:28Z"
   },
   {
-    "title": "Sr. Software Engineer",
-    "company": "S Cube Soft",
-    "location": "Metuchen, NJ, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=158c214d91c9e763",
-    "date_posted": "2014-01-06T00:00:00.000",
-    "score": -2,
-    "competition_score": 4,
-    "site": "indeed",
-    "batch_time": "2026-03-26T21:01:56Z"
-  },
-  {
-    "title": "Software Engineer III",
-    "company": "R1 RCM",
-    "location": "Remote, US",
+    "title": "Software Engineer III, Android TV",
+    "company": "Google",
+    "location": "San Jose, CA, US",
     "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=0f2f28d6be35bbda",
+    "job_url": "https://www.indeed.com/viewjob?jk=d964b39b9933d260",
     "date_posted": "2026-03-26T00:00:00.000",
     "score": -2,
     "competition_score": 3,
     "site": "indeed",
-    "batch_time": "2026-03-27T00:02:06Z"
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=50f08d196eb49a9b",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": -2,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
+  },
+  {
+    "title": "Software Engineer III, Search",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=61e0b2c000f6d3b4",
+    "date_posted": "2026-03-26T00:00:00.000",
+    "score": -2,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-03-26T22:40:28Z"
   }
 ]
