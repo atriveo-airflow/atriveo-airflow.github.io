@@ -2894,5 +2894,28 @@
       "Micron Technology"
     ],
     "snapshot_file": "2026-03-27T18-18-25Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T19:03:12Z",
+    "run_at": "2026-03-27T19:03:12.269104+00:00",
+    "pipeline": "standard",
+    "total_jobs": 27,
+    "levels": {
+      "Entry": 22,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -112.1,
+      "max": 93,
+      "high": 23
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Google",
+      "Turing",
+      "Mercor",
+      "Elsevier"
+    ],
+    "snapshot_file": "2026-03-27T19-03-12Z_standard.json"
   }
 ]
