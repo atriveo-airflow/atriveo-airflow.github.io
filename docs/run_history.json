@@ -2121,5 +2121,29 @@
       "Oracle"
     ],
     "snapshot_file": "2026-03-27T09-11-02Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-27T12:03:13Z",
+    "run_at": "2026-03-27T12:03:13.089275+00:00",
+    "pipeline": "standard",
+    "total_jobs": 35,
+    "levels": {
+      "Entry": 25,
+      "Mid": 8,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -316.9,
+      "max": 82,
+      "high": 23
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Microsoft",
+      "Crossing Hurdles",
+      "Yahoo"
+    ],
+    "snapshot_file": "2026-03-27T12-03-13Z_standard.json"
   }
 ]
