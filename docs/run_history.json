@@ -1605,5 +1605,26 @@
       "Planet"
     ],
     "snapshot_file": "2026-03-27T02-01-30Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-27T02:03:29Z",
+    "run_at": "2026-03-27T02:03:29.675560+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 5.5,
+      "max": 12,
+      "high": 2
+    },
+    "top_companies": [
+      "Oracle",
+      "Uber",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-27T02-03-29Z_important.json"
   }
 ]
