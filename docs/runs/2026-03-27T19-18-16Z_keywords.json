@@ -1,0 +1,189 @@
+[
+  {
+    "title": "API Backend Developer",
+    "company": "Elsevier",
+    "location": "Philadelphia, PA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390969619",
+    "date_posted": null,
+    "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Dario",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391704767",
+    "date_posted": null,
+    "keyword_score": 51,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Platform",
+    "company": "Vesta",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392668891",
+    "date_posted": null,
+    "keyword_score": 44,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Headlight",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390958849",
+    "date_posted": null,
+    "keyword_score": 44,
+    "site": "linkedin"
+  },
+  {
+    "title": "Professional, Software Engineering",
+    "company": "Cargill",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "min_exp": 160.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4354246079",
+    "date_posted": null,
+    "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III (Full Stack) \u2013 API Gateway Platform",
+    "company": "JPMorganChase",
+    "location": "Palo Alto, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391726891",
+    "date_posted": null,
+    "keyword_score": 36,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Backend",
+    "company": "Vesta",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392677435",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (L1)",
+    "company": "Twilio",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391710988",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "C# .Net Software Engineer III",
+    "company": "Elsevier",
+    "location": "Pennsylvania, United States",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390993020",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "TherapyNotes, LLC",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391596669",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, Google Cloud Compute Infrastructure",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4390965677",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Web",
+    "company": "iHeartMedia",
+    "location": "Nashville, TN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4309064329",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full-Stack Software Developer",
+    "company": "Mercor",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390994018",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Internship - Software Engineer",
+    "company": "Infineon Technologies",
+    "location": "Lexington, KY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4332874068",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Developer (Kotlin/Java, Android APIs)",
+    "company": "DataAnnotation",
+    "location": "New York, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4334631035",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "Georgia, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391738638",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Engineer (US)",
+    "company": "Turing",
+    "location": "Pittsburgh, PA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391740282",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  }
+]
