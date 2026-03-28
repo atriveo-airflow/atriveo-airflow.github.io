@@ -1,10 +1,20 @@
 [
   {
-    "title": "AI Foundations - Software Engineer",
-    "company": "IBM",
-    "location": "Yorktown Heights, NY",
+    "title": "Software Engineer - Platform",
+    "company": "Plaid",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4393134782",
+    "job_url": "https://www.linkedin.com/jobs/view/4392017988",
+    "date_posted": null,
+    "priority_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Developer Platform",
+    "company": "Benchling",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391765641",
     "date_posted": null,
     "priority_score": 0,
     "site": "linkedin"
