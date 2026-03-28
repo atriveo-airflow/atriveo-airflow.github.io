@@ -4773,5 +4773,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T17-17-54Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T17:26:57Z",
+    "run_at": "2026-03-28T17:26:57.163511+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 11,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -197.9,
+      "max": 57,
+      "high": 10
+    },
+    "top_companies": [
+      "OpenAI",
+      "IBM",
+      "Coinbase",
+      "Microsoft",
+      "Twitch"
+    ],
+    "snapshot_file": "2026-03-28T17-26-57Z_top500.json"
   }
 ]
