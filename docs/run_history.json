@@ -3588,5 +3588,28 @@
       "Lyft"
     ],
     "snapshot_file": "2026-03-28T01-18-27Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T01:28:17Z",
+    "run_at": "2026-03-28T01:28:17.416533+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -134.3,
+      "max": 54,
+      "high": 5
+    },
+    "top_companies": [
+      "Ramp",
+      "NetApp",
+      "Lyft",
+      "Hinge Health",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-28T01-28-17Z_top500.json"
   }
 ]
