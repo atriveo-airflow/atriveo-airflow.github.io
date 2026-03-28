@@ -5013,5 +5013,26 @@
       "Vercel"
     ],
     "snapshot_file": "2026-03-28T19-27-08Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T19:35:52Z",
+    "run_at": "2026-03-28T19:35:52.966941+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 55.0,
+      "max": 75,
+      "high": 3
+    },
+    "top_companies": [
+      "TEKsystems",
+      "Coinbase",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T19-35-52Z_h1b2026.json"
   }
 ]
