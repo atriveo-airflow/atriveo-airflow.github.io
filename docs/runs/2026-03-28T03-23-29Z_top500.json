@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Engineer, Fraud & Identity",
+    "company": "Ramp",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392016456",
+    "date_posted": null,
+    "priority_score": 42,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393163141",
+    "date_posted": null,
+    "priority_score": 38,
+    "score_pct": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Travel, Juno",
+    "company": "Ramp",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392011539",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
