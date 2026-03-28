@@ -5267,5 +5267,28 @@
       "MobiusEngine"
     ],
     "snapshot_file": "2026-03-28T21-41-18Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T22:06:54Z",
+    "run_at": "2026-03-28T22:06:54.812869+00:00",
+    "pipeline": "standard",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -374.8,
+      "max": 49,
+      "high": 3
+    },
+    "top_companies": [
+      "Jobright.ai",
+      "Jobot",
+      "RemoteHunter",
+      "Erias Ventures",
+      "Todd"
+    ],
+    "snapshot_file": "2026-03-28T22-06-54Z_standard.json"
   }
 ]
