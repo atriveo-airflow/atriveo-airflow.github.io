@@ -3797,5 +3797,24 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-28T03-15-48Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T03:23:29Z",
+    "run_at": "2026-03-28T03:23:29.915373+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": -306.3,
+      "max": 42,
+      "high": 2
+    },
+    "top_companies": [
+      "Ramp",
+      "Bloomberg"
+    ],
+    "snapshot_file": "2026-03-28T03-23-29Z_top500.json"
   }
 ]
