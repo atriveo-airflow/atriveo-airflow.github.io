@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer - Insights Platform",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391234141",
+    "date_posted": null,
+    "priority_score": 49,
+    "score_pct": 38,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Data License Monitoring & Resiliency",
     "company": "Bloomberg",
     "location": "New York, NY",
@@ -13,16 +26,42 @@
     "site": "linkedin"
   },
   {
-    "title": "SQL Tableau Software Developer",
-    "company": "Kforce Inc",
-    "location": "Englewood, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391768545",
+    "title": "Software Engineer III, Full Stack, Commerce",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391250247",
     "date_posted": null,
-    "priority_score": 35,
-    "score_pct": 27,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Payments",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391235742",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance, Google Cloud Platforms",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391250246",
+    "date_posted": null,
+    "priority_score": 32,
+    "score_pct": 25,
     "site": "linkedin"
   },
   {
@@ -36,19 +75,6 @@
     "date_posted": null,
     "priority_score": 29,
     "score_pct": 22,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend AI Engineer",
-    "company": "Stefanini Group",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392013382",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   }
 ]
