@@ -5290,5 +5290,23 @@
       "Todd"
     ],
     "snapshot_file": "2026-03-28T22-06-54Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T22:14:02Z",
+    "run_at": "2026-03-28T22:14:02.491849+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 34.0,
+      "max": 34,
+      "high": 1
+    },
+    "top_companies": [
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T22-14-02Z_important.json"
   }
 ]
