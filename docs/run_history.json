@@ -4504,5 +4504,28 @@
       "xAI"
     ],
     "snapshot_file": "2026-03-28T14-55-13Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T15:10:40Z",
+    "run_at": "2026-03-28T15:10:40.251081+00:00",
+    "pipeline": "standard",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 16,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -337.1,
+      "max": 98,
+      "high": 12
+    },
+    "top_companies": [
+      "BNSF Railway",
+      "BeaconFire Inc.",
+      "Figma",
+      "OpenAI",
+      "Jobright.ai"
+    ],
+    "snapshot_file": "2026-03-28T15-10-40Z_standard.json"
   }
 ]
