@@ -5053,5 +5053,28 @@
       "Hirenza"
     ],
     "snapshot_file": "2026-03-28T19-44-17Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T20:08:06Z",
+    "run_at": "2026-03-28T20:08:06.326812+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -212.2,
+      "max": 75,
+      "high": 9
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "MobiusEngine",
+      "Cargill",
+      "CGI",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-03-28T20-08-06Z_standard.json"
   }
 ]
