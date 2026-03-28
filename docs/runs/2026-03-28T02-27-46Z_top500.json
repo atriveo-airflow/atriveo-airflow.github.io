@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Engineer II",
+    "company": "Hinge Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392764830",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Cloud Inference Safeguards",
+    "company": "Anthropic",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391224471",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Travel, Juno",
+    "company": "Ramp",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392011539",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
