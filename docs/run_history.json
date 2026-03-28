@@ -4550,5 +4550,28 @@
       "Qualcomm"
     ],
     "snapshot_file": "2026-03-28T15-21-47Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T15:32:48Z",
+    "run_at": "2026-03-28T15:32:48.009200+00:00",
+    "pipeline": "top500",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 16,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -153.0,
+      "max": 65,
+      "high": 17
+    },
+    "top_companies": [
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "Stripe",
+      "Twitch"
+    ],
+    "snapshot_file": "2026-03-28T15-32-48Z_top500.json"
   }
 ]
