@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Software Engineer II",
+    "company": "Chewy",
+    "location": "Bellevue, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391541218",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Backend + AI) Intern",
+    "company": "Pivotor AI",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390909385",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390849512",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Fullstack AI Software Engineer",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390849514",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer (Node.JS, AWS)",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390851381",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer, CRM",
+    "company": "BrkThru Digital",
+    "location": "Remote, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=773b2fc1fb693547",
+    "date_posted": "2026-03-27T00:00:00.000",
+    "keyword_score": 15,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Aditi Consulting",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391936737",
+    "date_posted": null,
+    "keyword_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Automation (Python)",
+    "company": "Virtu Financial",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4364936186",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer (Telematics and Productivity)",
+    "company": "Caterpillar Inc.",
+    "location": "Mossville, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391392226",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
