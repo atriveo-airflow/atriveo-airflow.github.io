@@ -5182,5 +5182,25 @@
       "Sikkim Manipal Institute of Technology - SMU"
     ],
     "snapshot_file": "2026-03-28T21-07-35Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T21:15:52Z",
+    "run_at": "2026-03-28T21:15:52.035895+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 45.0,
+      "max": 56,
+      "high": 2
+    },
+    "top_companies": [
+      "Coinbase",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T21-15-52Z_important.json"
   }
 ]
