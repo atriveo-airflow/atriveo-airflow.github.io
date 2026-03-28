@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Software Engineer - Fixed Duration",
+    "company": "Eli Lilly and Company",
+    "location": "Louisville, CO",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391795228",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "VIVIO, a Public Benefit Corporation",
+    "location": "Hayward, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392030097",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "Equinix",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393135741",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393152159",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer (Tapestry)",
+    "company": "X, The Moonshot Factory",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391229374",
+    "date_posted": null,
+    "keyword_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=38e6e6414fad95eb",
+    "date_posted": "2026-03-27T00:00:00.000",
+    "keyword_score": 11,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III - Mobile (iOS)",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=d8d6fa0509ddf9cd",
+    "date_posted": "2026-03-27T00:00:00.000",
+    "keyword_score": 10,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer (Entry)",
+    "company": "Pattern Data",
+    "location": "Richmond, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392005818",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "United Federal Credit Union",
+    "location": "St Joseph, MI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391203084",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Illumina",
+    "location": "San Diego, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=e4117d2b5c485ebc",
+    "date_posted": "2026-03-27T00:00:00.000",
+    "keyword_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer in Test",
+    "company": "Vertisystem (A MOURI Tech Company)",
+    "location": "San Diego County, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392013784",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Activations (MANTL)",
+    "company": "Alkami Technology",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391753096",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Manufacturing Systems Software Engineer",
+    "company": "Polaris Inc.",
+    "location": "Battle Ground, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392016714",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sightline Sr. Software Engineer (Sightline Information Technology Department)",
+    "company": "The Johns Hopkins University",
+    "location": "Baltimore, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391755355",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
