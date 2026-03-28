@@ -4750,5 +4750,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-28T17-09-02Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T17:17:54Z",
+    "run_at": "2026-03-28T17:17:54.107643+00:00",
+    "pipeline": "important",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -202.8,
+      "max": 63,
+      "high": 13
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "IBM",
+      "Coinbase",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T17-17-54Z_important.json"
   }
 ]
