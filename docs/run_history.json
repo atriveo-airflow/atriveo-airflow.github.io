@@ -3922,5 +3922,27 @@
       "Bloomberg"
     ],
     "snapshot_file": "2026-03-28T04-24-54Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T04:33:42Z",
+    "run_at": "2026-03-28T04:33:42.144755+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 35.7,
+      "max": 49,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Applied Intuition",
+      "Bloomberg",
+      "TEKsystems"
+    ],
+    "snapshot_file": "2026-03-28T04-33-42Z_h1b2026.json"
   }
 ]
