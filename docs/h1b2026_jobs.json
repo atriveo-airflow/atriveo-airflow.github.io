@@ -1,52 +1,22 @@
 [
   {
-    "title": "Software Engineer \u2013 Frontend / Fullstack (Data Governance & Security UI)",
-    "company": "Snowflake",
-    "location": "Menlo Park, CA",
+    "title": "Associate Software Engineer",
+    "company": "Equinix",
+    "location": "Dallas, TX",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391384429",
+    "job_url": "https://www.linkedin.com/jobs/view/4393135741",
     "date_posted": null,
-    "priority_score": 11,
+    "priority_score": 12,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Full Stack, Google Cloud AI",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390799006",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud Business Platforms",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390785242",
-    "date_posted": null,
-    "priority_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, Google Ads",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4390797054",
-    "date_posted": null,
-    "priority_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "Capgemini",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391517341",
-    "date_posted": null,
-    "priority_score": 5,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=38e6e6414fad95eb",
+    "date_posted": 1774569600000,
+    "priority_score": 9,
+    "site": "indeed"
   }
 ]
