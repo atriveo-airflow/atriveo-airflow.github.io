@@ -3479,5 +3479,28 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-03-28T00-21-10Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T00:32:24Z",
+    "run_at": "2026-03-28T00:32:24.476283+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -259.0,
+      "max": 43,
+      "high": 5
+    },
+    "top_companies": [
+      "Oracle",
+      "NetApp",
+      "Ramp",
+      "Lyft",
+      "Hinge Health"
+    ],
+    "snapshot_file": "2026-03-28T00-32-24Z_top500.json"
   }
 ]
