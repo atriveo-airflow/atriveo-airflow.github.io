@@ -4662,5 +4662,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-28T16-18-56Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T16:28:20Z",
+    "run_at": "2026-03-28T16:28:20.598084+00:00",
+    "pipeline": "top500",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 16,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -122.5,
+      "max": 57,
+      "high": 16
+    },
+    "top_companies": [
+      "OpenAI",
+      "Microsoft",
+      "Google",
+      "Meta",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-28T16-28-20Z_top500.json"
   }
 ]
