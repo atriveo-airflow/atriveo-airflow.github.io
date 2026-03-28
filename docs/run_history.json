@@ -3963,5 +3963,28 @@
       "X, The Moonshot Factory"
     ],
     "snapshot_file": "2026-03-28T04-42-47Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T05:09:42Z",
+    "run_at": "2026-03-28T05:09:42.713119+00:00",
+    "pipeline": "standard",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 24,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -217.1,
+      "max": 87,
+      "high": 21
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Lensa",
+      "Bloomreach",
+      "NetApp",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-28T05-09-42Z_standard.json"
   }
 ]
