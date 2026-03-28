@@ -4261,5 +4261,24 @@
       "Databricks"
     ],
     "snapshot_file": "2026-03-28T12-43-22Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T12:54:30Z",
+    "run_at": "2026-03-28T12:54:30.523821+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 36,
+    "levels": {
+      "Entry": 28,
+      "Mid": 8
+    },
+    "scores": {},
+    "top_companies": [
+      "Adobe",
+      "Candescent",
+      "Microsoft",
+      "Box",
+      "xAI"
+    ],
+    "snapshot_file": "2026-03-28T12-54-30Z_keywords.json"
   }
 ]
