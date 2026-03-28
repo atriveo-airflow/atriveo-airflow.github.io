@@ -4049,5 +4049,24 @@
       "TEKsystems"
     ],
     "snapshot_file": "2026-03-28T05-37-57Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T05:47:33Z",
+    "run_at": "2026-03-28T05:47:33.286985+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 27,
+    "levels": {
+      "Entry": 25,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Inside Higher Ed",
+      "Bloomreach",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-28T05-47-33Z_keywords.json"
   }
 ]
