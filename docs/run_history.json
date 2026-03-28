@@ -4091,5 +4091,23 @@
       "Moody's Corporation"
     ],
     "snapshot_file": "2026-03-28T09-06-52Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T09:14:44Z",
+    "run_at": "2026-03-28T09:14:44.623788+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 69.7,
+      "max": 118,
+      "high": 3
+    },
+    "top_companies": [
+      "Adobe"
+    ],
+    "snapshot_file": "2026-03-28T09-14-44Z_important.json"
   }
 ]
