@@ -1379,5 +1379,23 @@
       "Palex Espa\u00f1a"
     ],
     "snapshot_file": "2026-03-28T01-01-26Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T01:03:44Z",
+    "run_at": "2026-03-28T01:03:44.661156+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 0.0,
+      "max": 0,
+      "high": 0
+    },
+    "top_companies": [
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-28T01-03-44Z_important.json"
   }
 ]
