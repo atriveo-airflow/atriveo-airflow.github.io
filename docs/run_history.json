@@ -1476,5 +1476,24 @@
       "Bloomberg"
     ],
     "snapshot_file": "2026-03-28T02-01-31Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T02:03:43Z",
+    "run_at": "2026-03-28T02:03:43.200151+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 7.5,
+      "max": 15,
+      "high": 1
+    },
+    "top_companies": [
+      "Plaid",
+      "Benchling"
+    ],
+    "snapshot_file": "2026-03-28T02-03-43Z_important.json"
   }
 ]
