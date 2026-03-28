@@ -4727,5 +4727,28 @@
       "Figma"
     ],
     "snapshot_file": "2026-03-28T16-47-55Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T17:09:02Z",
+    "run_at": "2026-03-28T17:09:02.813908+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 16,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -249.2,
+      "max": 69,
+      "high": 13
+    },
+    "top_companies": [
+      "Wiraa",
+      "Cargill",
+      "Microsoft",
+      "Vercel",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-28T17-09-02Z_standard.json"
   }
 ]
