@@ -4597,5 +4597,24 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-28T15-43-34Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T15:53:42Z",
+    "run_at": "2026-03-28T15:53:42.734751+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 43,
+    "levels": {
+      "Entry": 36,
+      "Mid": 7
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Microsoft",
+      "Candescent",
+      "BNSF Railway",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-03-28T15-53-42Z_keywords.json"
   }
 ]
