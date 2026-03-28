@@ -5308,5 +5308,27 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T22-14-02Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T22:21:28Z",
+    "run_at": "2026-03-28T22:21:28.902223+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -373.4,
+      "max": 52,
+      "high": 3
+    },
+    "top_companies": [
+      "Epic",
+      "ByteDance",
+      "Mastercard",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T22-21-28Z_top500.json"
   }
 ]
