@@ -44,25 +44,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "TEKsystems",
-    "location": "Charlotte, NC",
+    "title": "Software Developer (Front End with Angular skilllset)",
+    "company": "CGI",
+    "location": "Fairfax, VA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392098416",
+    "job_url": "https://www.linkedin.com/jobs/view/4372204710",
     "date_posted": null,
-    "keyword_score": 49,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Fullstack)",
-    "company": "Cargill",
-    "location": "Wayzata, MN",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393714549",
-    "date_posted": null,
-    "keyword_score": 42,
+    "keyword_score": 40,
     "site": "linkedin"
   },
   {
@@ -88,34 +77,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Full Stack (EAA - Compliance)",
-    "company": "Coinbase",
+    "title": "Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Smithfield, RI",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386168033",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Rust Software Engineer - Dragonfly Portfolio",
+    "company": "Dragonfly",
     "location": "",
     "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4372160813",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany",
-    "company": "Goldman Sachs",
-    "location": "Albany, NY",
-    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371787775",
-    "date_posted": null,
-    "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Founding Backend Engineer",
-    "company": "Jobright.ai",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391646324",
+    "job_url": "https://www.linkedin.com/jobs/view/4384463454",
     "date_posted": null,
     "keyword_score": 29,
     "site": "linkedin"
@@ -137,7 +115,7 @@
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391638375",
+    "job_url": "https://www.linkedin.com/jobs/view/4391630491",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
@@ -154,23 +132,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "Robert Half",
-    "location": "Franklin Park, IL",
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392078857",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391650278",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
+    "title": "Software Engineer",
+    "company": "Cavela",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392099507",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Graphics Software Engineer II",
+    "company": "Jobs via Dice",
     "location": "Redmond, WA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392307367",
+    "job_url": "https://www.linkedin.com/jobs/view/4390496239",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
@@ -187,12 +176,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Cavela",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392099507",
+    "job_url": "https://www.linkedin.com/jobs/view/4392307367",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
