@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "SQL Tableau Software Developer",
+    "company": "Kforce Inc",
+    "location": "Englewood, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391768545",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Commerce",
+    "company": "Google",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391236741",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Payments",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391235742",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "React Software Developer",
+    "company": "TEKsystems",
+    "location": "Westbrook, ME",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392040230",
+    "date_posted": null,
+    "priority_score": 29,
+    "score_pct": 22,
+    "site": "linkedin"
+  }
+]
