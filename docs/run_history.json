@@ -4129,5 +4129,24 @@
       "Expedia Group"
     ],
     "snapshot_file": "2026-03-28T09-23-07Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T09:31:38Z",
+    "run_at": "2026-03-28T09:31:38.489355+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 67.5,
+      "max": 118,
+      "high": 4
+    },
+    "top_companies": [
+      "Adobe",
+      "Expedia Group"
+    ],
+    "snapshot_file": "2026-03-28T09-31-38Z_h1b2026.json"
   }
 ]
