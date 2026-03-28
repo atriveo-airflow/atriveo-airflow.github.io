@@ -4191,5 +4191,28 @@
       "Qualcomm"
     ],
     "snapshot_file": "2026-03-28T12-10-48Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T12:20:50Z",
+    "run_at": "2026-03-28T12:20:50.551337+00:00",
+    "pipeline": "important",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 9,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -142.9,
+      "max": 118,
+      "high": 9
+    },
+    "top_companies": [
+      "Adobe",
+      "Qualcomm",
+      "Box",
+      "Google",
+      "Robinhood"
+    ],
+    "snapshot_file": "2026-03-28T12-20-50Z_important.json"
   }
 ]
