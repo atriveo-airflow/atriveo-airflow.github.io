@@ -1,35 +1,35 @@
 [
   {
-    "title": "Infrastructure Software Engineer II (Remote - US)",
-    "company": "BNSF Railway",
+    "title": "Software Developer",
+    "company": "Intelex Technologies ULC",
     "location": "",
-    "level": "Mid",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4371557362",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392306120",
     "date_posted": null,
-    "keyword_score": 60,
+    "keyword_score": 59,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Internal Applications - Enterprise",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer (Fullstack)",
+    "company": "Cargill",
+    "location": "Wayzata, MN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4355510250",
+    "job_url": "https://www.linkedin.com/jobs/view/4356531114",
     "date_posted": null,
-    "keyword_score": 47,
+    "keyword_score": 42,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Applied Intuition",
-    "location": "Ann Arbor, MI",
+    "title": "Fall Co-op, Software Engineer",
+    "company": "Symbotic",
+    "location": "Wilmington, MA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4301103187",
+    "job_url": "https://www.linkedin.com/jobs/view/4382188262",
     "date_posted": null,
-    "keyword_score": 41,
+    "keyword_score": 40,
     "site": "linkedin"
   },
   {
@@ -44,23 +44,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Fleet Management",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Associate Software Engineer",
+    "company": "Moody's Corporation",
+    "location": "Charlotte, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4341950197",
-    "date_posted": null,
-    "keyword_score": 37,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392092087",
+    "job_url": "https://www.linkedin.com/jobs/view/4391619260",
     "date_posted": null,
     "keyword_score": 37,
     "site": "linkedin"
@@ -77,23 +66,23 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Full Stack (EAA - Compliance)",
+    "company": "Coinbase",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4372160813",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
     "title": "Ignition Software Engineer",
     "company": "BW Design Group",
     "location": "Raleigh, NC",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4381354775",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Systems Engineering AI Tooling",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381327012",
     "date_posted": null,
     "keyword_score": 34,
     "site": "linkedin"
@@ -132,6 +121,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - CoreAI",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4361354521",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
     "title": "Founding Backend Engineer",
     "company": "Jobright.ai",
     "location": "San Francisco, CA",
@@ -143,14 +143,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
+    "title": "Software Engineer I, Twitch Chat",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392076810",
+    "job_url": "https://www.linkedin.com/jobs/view/4381062426",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
@@ -160,28 +160,6 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4239984026",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Grainger",
-    "location": "Lake Forest, IL",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382174807",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Pennsylvania, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4383031996",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -198,14 +176,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I, Twitch Chat",
-    "company": "Twitch",
-    "location": "San Francisco, CA",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "California, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381062426",
+    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
     "date_posted": null,
     "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - within Wisconsin / northern Illinois  footprint",
+    "company": "Johnson Financial Group",
+    "location": "Racine, WI",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372201676",
+    "date_posted": null,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -220,17 +209,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Agent Services (CoreAI)",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392081687",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Developer - Java",
     "company": "AgileGrid Solutions",
     "location": "",
@@ -242,23 +220,45 @@
     "site": "linkedin"
   },
   {
-    "title": "2026 Summer Intern \u2013 AI/ML Software Engineer (PhD)",
-    "company": "General Motors",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer, AI Gateway",
+    "company": "Vercel",
+    "location": "New York, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343298512",
+    "job_url": "https://www.linkedin.com/jobs/view/4372140732",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Akron Brass Company",
+    "location": "Wooster, OH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371784724",
     "date_posted": null,
     "keyword_score": 22,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, GDC Connected Cluster",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
+    "title": "HPC Technical Software Engineer",
+    "company": "ExxonMobil",
+    "location": "Spring, TX",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4372016247",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371608836",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Manufacturing Execution Software Developer",
+    "company": "G&W Electric Co.",
+    "location": "Bolingbrook, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4365358527",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
@@ -275,36 +275,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
-    "company": "IBM",
-    "location": "San Jose, CA",
-    "level": "Mid",
+    "title": "Software Engineer, Engineering Tooling",
+    "company": "Tailscale",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4356428365",
+    "job_url": "https://www.linkedin.com/jobs/view/4364195865",
     "date_posted": null,
     "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Full Stack",
-    "company": "Anduril Industries",
-    "location": "Irvine, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4342825622",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Applied GenAI Apps - AI Geospatial Assistant team",
-    "company": "Planet",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382188358",
-    "date_posted": null,
-    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -319,34 +297,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
-    "location": "",
+    "title": "BMW, FG-AM-61 Software Engineer Coop Fall 2026 (AI/Data) - Application via WayUp",
+    "company": "WayUp",
+    "location": "Greenville, SC",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391606837",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - AI Platform",
-    "company": "Uber",
-    "location": "Seattle, WA",
-    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371263417",
+    "job_url": "https://www.linkedin.com/jobs/view/4382118706",
     "date_posted": null,
-    "keyword_score": 16,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Developer Products (AI)",
-    "company": "Workato",
+    "title": "Software Engineer, Seller Growth",
+    "company": "Whatnot",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4291632937",
+    "job_url": "https://www.linkedin.com/jobs/view/4319383912",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
@@ -358,6 +325,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4239984024",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Developer Products (AI)",
+    "company": "Workato",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4291632937",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
