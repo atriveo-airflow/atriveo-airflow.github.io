@@ -4819,5 +4819,24 @@
       "Otter.ai"
     ],
     "snapshot_file": "2026-03-28T17-36-44Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T17:46:14Z",
+    "run_at": "2026-03-28T17:46:14.675523+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 31,
+    "levels": {
+      "Entry": 30,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "BeaconFire Inc.",
+      "Intelex Technologies ULC",
+      "Cargill"
+    ],
+    "snapshot_file": "2026-03-28T17-46-14Z_keywords.json"
   }
 ]
