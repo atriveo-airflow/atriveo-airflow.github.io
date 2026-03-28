@@ -1,38 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Togetherwork",
-    "location": "Austin, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392098514",
-    "date_posted": null,
-    "keyword_score": 78,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Alarm.com",
-    "location": "Lawrence, KS",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380837117",
-    "date_posted": null,
-    "keyword_score": 53,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Developer",
-    "company": "Hirenza",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392090918",
-    "date_posted": null,
-    "keyword_score": 50,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Engineer",
     "company": "MobiusEngine",
     "location": "",
@@ -44,25 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer (Front End with Angular skilllset)",
-    "company": "CGI",
-    "location": "Fairfax, VA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372204710",
-    "date_posted": null,
-    "keyword_score": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer IV",
+    "title": "Software Engineer",
     "company": "Jobs via Dice",
     "location": "Charlotte, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391932252",
+    "job_url": "https://www.linkedin.com/jobs/view/4391646272",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 49,
     "site": "linkedin"
   },
   {
@@ -88,25 +44,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Rust Software Engineer - Dragonfly Portfolio",
-    "company": "Dragonfly",
-    "location": "",
+    "title": "Founding Backend Engineer",
+    "company": "Jobright.ai",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384463454",
+    "job_url": "https://www.linkedin.com/jobs/view/4391646324",
     "date_posted": null,
     "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Mastercard",
-    "location": "O'Fallon, MO",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4364504275",
-    "date_posted": null,
-    "keyword_score": 23,
     "site": "linkedin"
   },
   {
@@ -121,14 +66,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Robert Half",
-    "location": "Springfield, OR",
+    "title": "Full Stack Software Engineer (Minnesota)",
+    "company": "SkyWater Search Partners",
+    "location": "Minnetonka, MN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392076934",
+    "job_url": "https://www.linkedin.com/jobs/view/4392310616",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 17,
     "site": "linkedin"
   },
   {
@@ -143,17 +88,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Cavela",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392099507",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
     "title": "Graphics Software Engineer II",
     "company": "Jobs via Dice",
     "location": "Redmond, WA",
@@ -165,23 +99,23 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "Cavela",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392099507",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
     "title": "URGENT Backend AI Engineer-Legal Tech!",
     "company": "Jobot",
     "location": "Culver City, CA",
     "level": "Mid",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4363233559",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392307367",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
