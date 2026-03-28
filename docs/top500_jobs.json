@@ -1,80 +1,12 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "NetApp",
-    "location": "Waltham, MA",
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY, US",
     "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
-    "date_posted": null,
-    "priority_score": 54,
-    "score_pct": 42,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Fraud & Identity",
-    "company": "Ramp",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392016456",
-    "date_posted": null,
-    "priority_score": 42,
-    "score_pct": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Gov Tech",
-    "company": "Lyft",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391778491",
-    "date_posted": null,
-    "priority_score": 35,
-    "score_pct": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Hinge Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392764830",
-    "date_posted": null,
-    "priority_score": 34,
-    "score_pct": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "AI Foundations - Software Engineer",
-    "company": "IBM",
-    "location": "Yorktown Heights, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393134782",
-    "date_posted": null,
-    "priority_score": 28,
-    "score_pct": 22,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Travel, Juno",
-    "company": "Ramp",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392011539",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=38e6e6414fad95eb",
+    "date_posted": 1774569600000,
+    "priority_score": 9,
+    "site": "indeed"
   }
 ]
