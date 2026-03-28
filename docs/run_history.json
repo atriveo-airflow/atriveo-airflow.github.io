@@ -4883,5 +4883,28 @@
       "Wealthfront"
     ],
     "snapshot_file": "2026-03-28T18-16-57Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T18:25:52Z",
+    "run_at": "2026-03-28T18:25:52.048631+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 9,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -379.4,
+      "max": 47,
+      "high": 6
+    },
+    "top_companies": [
+      "Microsoft",
+      "Twitch",
+      "Stripe",
+      "Vercel",
+      "Otter.ai"
+    ],
+    "snapshot_file": "2026-03-28T18-25-52Z_top500.json"
   }
 ]
