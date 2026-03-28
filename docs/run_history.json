@@ -4573,5 +4573,29 @@
       "Twitch"
     ],
     "snapshot_file": "2026-03-28T15-32-48Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T15:43:34Z",
+    "run_at": "2026-03-28T15:43:34.048417+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 8,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -106.3,
+      "max": 57,
+      "high": 12
+    },
+    "top_companies": [
+      "Microsoft",
+      "Google",
+      "IBM",
+      "Applied Intuition",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-28T15-43-34Z_h1b2026.json"
   }
 ]
