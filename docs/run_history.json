@@ -1319,5 +1319,23 @@
       "SGS Consulting"
     ],
     "snapshot_file": "2026-03-28T00-01-32Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T00:04:48Z",
+    "run_at": "2026-03-28T00:04:48.302616+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 3.0,
+      "max": 4,
+      "high": 0
+    },
+    "top_companies": [
+      "Ramp"
+    ],
+    "snapshot_file": "2026-03-28T00-04-48Z_top500.json"
   }
 ]
