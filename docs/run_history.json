@@ -1397,5 +1397,23 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-28T01-03-44Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T01:05:54Z",
+    "run_at": "2026-03-28T01:05:54.975386+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Bloomberg"
+    ],
+    "snapshot_file": "2026-03-28T01-05-54Z_top500.json"
   }
 ]
