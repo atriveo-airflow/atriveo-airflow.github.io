@@ -4948,5 +4948,28 @@
       "BNSF Railway"
     ],
     "snapshot_file": "2026-03-28T18-45-06Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T19:08:10Z",
+    "run_at": "2026-03-28T19:08:10.909307+00:00",
+    "pipeline": "standard",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 15,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -280.4,
+      "max": 112,
+      "high": 13
+    },
+    "top_companies": [
+      "Hirenza",
+      "Robert Half",
+      "Epic",
+      "Togetherwork",
+      "Alarm.com"
+    ],
+    "snapshot_file": "2026-03-28T19-08-10Z_standard.json"
   }
 ]
