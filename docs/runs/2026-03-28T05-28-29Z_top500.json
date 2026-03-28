@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Commerce",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391250247",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Payments",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391235742",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  }
+]
