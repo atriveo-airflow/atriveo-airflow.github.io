@@ -4685,5 +4685,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-28T16-28-20Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T16:38:07Z",
+    "run_at": "2026-03-28T16:38:07.885939+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 9,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -35.5,
+      "max": 57,
+      "high": 12
+    },
+    "top_companies": [
+      "Microsoft",
+      "Google",
+      "Applied Intuition",
+      "Stripe",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-28T16-38-07Z_h1b2026.json"
   }
 ]
