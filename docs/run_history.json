@@ -3524,5 +3524,25 @@
       "Akkodis"
     ],
     "snapshot_file": "2026-03-28T00-43-21Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T00:54:28Z",
+    "run_at": "2026-03-28T00:54:28.828605+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 28,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "NetApp",
+      "Leidos",
+      "Eli Lilly and Company",
+      "Robert Half"
+    ],
+    "snapshot_file": "2026-03-28T00-54-28Z_keywords.json"
   }
 ]
