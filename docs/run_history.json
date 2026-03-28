@@ -4214,5 +4214,28 @@
       "Robinhood"
     ],
     "snapshot_file": "2026-03-28T12-20-50Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T12:32:02Z",
+    "run_at": "2026-03-28T12:32:02.535710+00:00",
+    "pipeline": "top500",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 14,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -22.0,
+      "max": 118,
+      "high": 14
+    },
+    "top_companies": [
+      "Adobe",
+      "xAI",
+      "Google",
+      "Alteryx",
+      "Expedia Group"
+    ],
+    "snapshot_file": "2026-03-28T12-32-02Z_top500.json"
   }
 ]
