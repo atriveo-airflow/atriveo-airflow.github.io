@@ -1,24 +1,13 @@
 [
   {
-    "title": "Software Engineer",
+    "title": "Software Engineer IV",
     "company": "Candescent",
-    "location": "Atlanta, GA",
+    "location": "Elkhart County, IN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4355361123",
+    "job_url": "https://www.linkedin.com/jobs/view/4349605779",
     "date_posted": null,
-    "keyword_score": 64,
-    "site": "linkedin"
-  },
-  {
-    "title": "Infrastructure Software Engineer II (Remote - US)",
-    "company": "BNSF Railway",
-    "location": "",
-    "level": "Mid",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4371557362",
-    "date_posted": null,
-    "keyword_score": 60,
+    "keyword_score": 58,
     "site": "linkedin"
   },
   {
@@ -30,6 +19,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4349720084",
     "date_posted": null,
     "keyword_score": 58,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, AI Systems & Infrastructure - AI Geospatial Assistant Team",
+    "company": "Planet",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4382182517",
+    "date_posted": null,
+    "keyword_score": 47,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Internal Applications - Enterprise",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4355510250",
+    "date_posted": null,
+    "keyword_score": 47,
     "site": "linkedin"
   },
   {
@@ -88,6 +99,39 @@
     "site": "linkedin"
   },
   {
+    "title": "Product, Platform & Enterprise Front End Software Engineer II (Remote - US)",
+    "company": "BNSF Railway",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371558320",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "R&T Software Engineer 3 (H/F) - SAFRAN CABIN INC.",
+    "company": "AEROCONTACT",
+    "location": "Costa Mesa, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389538335",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HR Employee Experience",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392084666",
+    "date_posted": null,
+    "keyword_score": 37,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Fleet Management",
     "company": "OpenAI",
     "location": "San Francisco, CA",
@@ -99,12 +143,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer III - Managed Services (Hybrid)",
-    "company": "CrowdStrike",
-    "location": "Austin, TX",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4363121990",
+    "job_url": "https://www.linkedin.com/jobs/view/4392092087",
     "date_posted": null,
     "keyword_score": 37,
     "site": "linkedin"
@@ -132,17 +176,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer (API, Go)",
-    "company": "Wiraa",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392076482",
-    "date_posted": null,
-    "keyword_score": 33,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Engineer",
     "company": "Wealthfront",
     "location": "New York, NY",
@@ -154,25 +187,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Contractor, Software Engineer II",
-    "company": "Apex Fintech Solutions",
-    "location": "Austin, TX",
-    "level": "Mid",
-    "min_exp": 5.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4365337388",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software engineer - C / Linux / Python / Yocto /",
-    "company": "Motion Recruitment",
-    "location": "Lake Forest, CA",
+    "title": "Software Engineer - Portfolio Services",
+    "company": "Addepar",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372202542",
+    "job_url": "https://www.linkedin.com/jobs/view/4382137139",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
@@ -198,23 +220,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Grainger",
-    "location": "Lake Forest, IL",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382174807",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Production Engineering",
-    "company": "Figma",
+    "title": "Software Engineer I, Twitch Chat",
+    "company": "Twitch",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239984026",
+    "job_url": "https://www.linkedin.com/jobs/view/4381062426",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -222,10 +233,21 @@
   {
     "title": "Java Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "Atlanta, GA",
+    "location": "California, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385744352",
+    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java/Javascript Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "North Carolina, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391084073",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -242,17 +264,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Infrastructure",
-    "company": "xAI",
-    "location": "Palo Alto, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4262571856",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer Apprentice",
     "company": "IBM",
     "location": "Austin, TX",
@@ -264,12 +275,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer Graduate (Data Arch - E-commerce) - 2026 Start (PhD)",
-    "company": "TikTok",
-    "location": "San Jose, CA",
+    "title": "Backend Developer - Java",
+    "company": "AgileGrid Solutions",
+    "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4290126082",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392093214",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
@@ -286,17 +297,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Community Engagement",
-    "company": "CircleCI",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343183183",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer",
     "company": "Orion Innovation",
     "location": "Montvale, NJ",
@@ -305,28 +305,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4382168735",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Developer - Java",
-    "company": "AgileGrid Solutions",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392093214",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Manufacturing Test",
-    "company": "Anduril Industries",
-    "location": "Costa Mesa, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343490597",
-    "date_posted": null,
-    "keyword_score": 23,
     "site": "linkedin"
   },
   {
@@ -352,14 +330,25 @@
     "site": "linkedin"
   },
   {
-    "title": "2026 Summer Intern \u2013 AI/ML Software Engineer (PhD)",
-    "company": "General Motors",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer, GDC Connected Cluster",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4372016247",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Experimental Projects",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343298512",
+    "job_url": "https://www.linkedin.com/jobs/view/4372787292",
     "date_posted": null,
-    "keyword_score": 22,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -374,23 +363,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, GDC Connected Cluster",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4372016247",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Manufacturing Execution Software Developer",
-    "company": "G&W Electric Co.",
-    "location": "Bolingbrook, IL",
+    "title": "Software Developer, Scaled Ops AI Acceleration Team",
+    "company": "Meta",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365358527",
+    "job_url": "https://www.linkedin.com/jobs/view/4350076162",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
@@ -407,12 +385,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Imagine Product",
-    "company": "xAI",
-    "location": "Palo Alto, CA",
+    "title": "Software Engineer, Windows Agent",
+    "company": "Iru",
+    "location": "Miami, FL",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382183665",
+    "job_url": "https://www.linkedin.com/jobs/view/4337212305",
     "date_posted": null,
     "keyword_score": 19,
     "site": "linkedin"
@@ -429,12 +407,67 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Streaming Data, Otter - Seattle",
-    "company": "Otter",
-    "location": "Seattle, WA",
+    "title": "Software Engineer, Full Stack",
+    "company": "Anduril Industries",
+    "location": "Irvine, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4319461580",
+    "job_url": "https://www.linkedin.com/jobs/view/4342825622",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "C++ Software Engineer",
+    "company": "Jobs via eFinancialCareers",
+    "location": "St Louis, MO",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4378976372",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - AI Platform",
+    "company": "Uber",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371263417",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Cloud SDK",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4381012937",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sensors Software Engineer",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381008591",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Developer Products (AI)",
+    "company": "Workato",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4291632937",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
