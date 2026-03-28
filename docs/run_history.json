@@ -5410,5 +5410,25 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-28T23-15-56Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T23:21:44Z",
+    "run_at": "2026-03-28T23:21:44.960875+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 45.3,
+      "max": 52,
+      "high": 3
+    },
+    "top_companies": [
+      "ByteDance",
+      "Randstad Digital Americas",
+      "Virtusa"
+    ],
+    "snapshot_file": "2026-03-28T23-21-44Z_h1b2026.json"
   }
 ]
