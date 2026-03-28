@@ -4373,5 +4373,24 @@
       "Applied Intuition"
     ],
     "snapshot_file": "2026-03-28T13-46-52Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T13:59:11Z",
+    "run_at": "2026-03-28T13:59:11.837803+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 45,
+    "levels": {
+      "Entry": 37,
+      "Mid": 8
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Adobe",
+      "Candescent",
+      "BNSF Railway",
+      "Box"
+    ],
+    "snapshot_file": "2026-03-28T13-59-11Z_keywords.json"
   }
 ]
