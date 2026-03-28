@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Engineer \u2013 Adobe Experience Platform",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4300759659",
+    "date_posted": null,
+    "priority_score": 118,
+    "score_pct": 91,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Fullstack (Front-end heavy)",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4326710679",
+    "date_posted": null,
+    "priority_score": 46,
+    "score_pct": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 5",
+    "company": "Adobe",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4309791481",
+    "date_posted": null,
+    "priority_score": 45,
+    "score_pct": 35,
+    "site": "linkedin"
+  }
+]
