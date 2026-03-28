@@ -3837,5 +3837,24 @@
       "Stefanini Group"
     ],
     "snapshot_file": "2026-03-28T03-31-16Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T03:39:03Z",
+    "run_at": "2026-03-28T03:39:03.603198+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 20,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "hackajob",
+      "Stefanini Group",
+      "Eli Lilly and Company",
+      "Bloomreach",
+      "Bixal"
+    ],
+    "snapshot_file": "2026-03-28T03-39-03Z_keywords.json"
   }
 ]
