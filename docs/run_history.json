@@ -3696,5 +3696,26 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-28T02-18-29Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T02:27:46Z",
+    "run_at": "2026-03-28T02:27:46.398682+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -654.7,
+      "max": 34,
+      "high": 1
+    },
+    "top_companies": [
+      "Hinge Health",
+      "Anthropic",
+      "Ramp"
+    ],
+    "snapshot_file": "2026-03-28T02-27-46Z_top500.json"
   }
 ]
