@@ -4971,5 +4971,24 @@
       "Alarm.com"
     ],
     "snapshot_file": "2026-03-28T19-08-10Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T19:18:18Z",
+    "run_at": "2026-03-28T19:18:18.915060+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 49.5,
+      "max": 56,
+      "high": 2
+    },
+    "top_companies": [
+      "Coinbase",
+      "Twitch"
+    ],
+    "snapshot_file": "2026-03-28T19-18-18Z_important.json"
   }
 ]
