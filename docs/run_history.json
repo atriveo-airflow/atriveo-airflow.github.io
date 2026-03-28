@@ -4708,5 +4708,24 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-28T16-38-07Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T16:47:55Z",
+    "run_at": "2026-03-28T16:47:55.366352+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 28,
+      "Mid": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Microsoft",
+      "Applied Intuition",
+      "Jobright.ai",
+      "Figma"
+    ],
+    "snapshot_file": "2026-03-28T16-47-55Z_keywords.json"
   }
 ]
