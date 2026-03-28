@@ -4148,5 +4148,24 @@
       "Expedia Group"
     ],
     "snapshot_file": "2026-03-28T09-31-38Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T09:39:47Z",
+    "run_at": "2026-03-28T09:39:47.589902+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 14,
+      "Mid": 7
+    },
+    "scores": {},
+    "top_companies": [
+      "Adobe",
+      "Reflexive Concepts",
+      "TalentAlly",
+      "Box",
+      "Alteryx"
+    ],
+    "snapshot_file": "2026-03-28T09-39-47Z_keywords.json"
   }
 ]
