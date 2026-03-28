@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Associate Software Engineer",
+    "company": "Equinix",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393135741",
+    "date_posted": null,
+    "priority_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=38e6e6414fad95eb",
+    "date_posted": "2026-03-27T00:00:00.000",
+    "priority_score": 9,
+    "site": "indeed"
+  }
+]
