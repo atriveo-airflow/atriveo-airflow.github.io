@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Software Engineer - Platform",
+    "company": "Plaid",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392017988",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392035122",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Sustaining Engineering",
+    "company": "Canonical",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392023529",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Workload Enablement",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393149874",
+    "date_posted": null,
+    "keyword_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "SoC Systems Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392040121",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Minnesota)",
+    "company": "SkyWater Search Partners",
+    "location": "Minnetonka, MN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392024455",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Apex Systems",
+    "location": "Brooklyn, OH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392020383",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II (Remote)",
+    "company": "Inspira Financial",
+    "location": "Oak Brook, IL",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4380548116",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  }
+]
