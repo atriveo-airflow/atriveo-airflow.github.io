@@ -4007,5 +4007,25 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-28T05-18-53Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T05:28:29Z",
+    "run_at": "2026-03-28T05:28:29.805802+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 40.0,
+      "max": 54,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "NetApp"
+    ],
+    "snapshot_file": "2026-03-28T05-28-29Z_top500.json"
   }
 ]
