@@ -5350,5 +5350,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T22-29-06Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T22:36:16Z",
+    "run_at": "2026-03-28T22:36:16.084427+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 12,
+      "Mid": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Togetherwork",
+      "Alarm.com",
+      "Hirenza",
+      "MobiusEngine"
+    ],
+    "snapshot_file": "2026-03-28T22-36-16Z_keywords.json"
   }
 ]
