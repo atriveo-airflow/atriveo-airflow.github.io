@@ -5430,5 +5430,24 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-03-28T23-21-44Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T23:28:05Z",
+    "run_at": "2026-03-28T23:28:05.407478+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 9,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Jobright.ai",
+      "MobiusEngine",
+      "ByteDance",
+      "Randstad Digital Americas"
+    ],
+    "snapshot_file": "2026-03-28T23-28-05Z_keywords.json"
   }
 ]
