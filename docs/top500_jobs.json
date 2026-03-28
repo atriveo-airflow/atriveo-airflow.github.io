@@ -1,28 +1,28 @@
 [
   {
-    "title": "Software Engineer, Workload Enablement",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393149874",
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
     "date_posted": null,
     "priority_score": 54,
     "score_pct": 42,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Data License Monitoring & Resiliency",
-    "company": "Bloomberg",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393163141",
+    "title": "Software Engineer III, Full Stack, Commerce",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391250247",
     "date_posted": null,
-    "priority_score": 38,
-    "score_pct": 29,
+    "priority_score": 33,
+    "score_pct": 25,
     "site": "linkedin"
   },
   {
@@ -35,19 +35,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391235742",
     "date_posted": null,
     "priority_score": 33,
-    "score_pct": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Performance, Google Cloud Platforms",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391250246",
-    "date_posted": null,
-    "priority_score": 32,
     "score_pct": 25,
     "site": "linkedin"
   }
