@@ -1,18 +1,5 @@
 [
   {
-    "title": "Software Engineer III, Edge",
-    "company": "Box",
-    "location": "Redwood City, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391797061",
-    "date_posted": null,
-    "priority_score": 43,
-    "score_pct": 33,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Gov Tech",
     "company": "Lyft",
     "location": "Seattle, WA",
@@ -39,19 +26,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer 3",
-    "company": "Oracle",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392778057",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer 4",
     "company": "Oracle",
     "location": "",
@@ -59,6 +33,32 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392758848",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Cloud Inference Safeguards",
+    "company": "Anthropic",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391224471",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392778057",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
