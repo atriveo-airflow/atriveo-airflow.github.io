@@ -4929,5 +4929,24 @@
       "Otter.ai"
     ],
     "snapshot_file": "2026-03-28T18-35-28Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T18:45:06Z",
+    "run_at": "2026-03-28T18:45:06.459995+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 25,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Intelex Technologies ULC",
+      "Alarm.com",
+      "TEKsystems",
+      "BNSF Railway"
+    ],
+    "snapshot_file": "2026-03-28T18-45-06Z_keywords.json"
   }
 ]
