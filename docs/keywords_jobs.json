@@ -1,35 +1,13 @@
 [
   {
-    "title": "Java Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Merrimack, NH",
-    "level": "Entry",
+    "title": "Software Engineer II (Pulsar team)",
+    "company": "Bloomreach",
+    "location": "",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391230843",
-    "date_posted": null,
-    "keyword_score": 61,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Fixed Duration",
-    "company": "Eli Lilly and Company",
-    "location": "Louisville, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391795228",
+    "job_url": "https://www.linkedin.com/jobs/view/4392018899",
     "date_posted": null,
     "keyword_score": 53,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Phoenix, AZ",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391230841",
-    "date_posted": null,
-    "keyword_score": 50,
     "site": "linkedin"
   },
   {
@@ -39,6 +17,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392032994",
+    "date_posted": null,
+    "keyword_score": 44,
+    "site": "linkedin"
+  },
+  {
+    "title": "Python Backend / AI Engineer",
+    "company": "Jobs via Dice",
+    "location": "McLean, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391230849",
     "date_posted": null,
     "keyword_score": 44,
     "site": "linkedin"
@@ -55,47 +44,58 @@
     "site": "linkedin"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "Lensa",
-    "location": "Cary, NC",
+    "title": "Software Engineer, Workload Enablement",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392044311",
+    "job_url": "https://www.linkedin.com/jobs/view/4393149874",
     "date_posted": null,
-    "keyword_score": 41,
+    "keyword_score": 38,
     "site": "linkedin"
   },
   {
-    "title": "Backend Software Engineer (Tapestry)",
-    "company": "X, The Moonshot Factory",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
     "level": "Entry",
-    "min_exp": 5.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391229374",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 38,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer, Sustaining Engineering",
     "company": "Canonical",
-    "location": "Nashville, TN",
+    "location": "Fresno, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392020667",
+    "job_url": "https://www.linkedin.com/jobs/view/4392026405",
     "date_posted": null,
     "keyword_score": 37,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "VIVIO, a Public Benefit Corporation",
-    "location": "Hayward, CA",
+    "title": "Software Developer",
+    "company": "Inside Higher Ed",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392030491",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer Entry",
+    "company": "Inside Higher Ed",
+    "location": "Atlanta, GA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392030097",
+    "job_url": "https://www.linkedin.com/jobs/view/4392033478",
     "date_posted": null,
-    "keyword_score": 35,
+    "keyword_score": 34,
     "site": "linkedin"
   },
   {
@@ -107,28 +107,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392040723",
     "date_posted": null,
     "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - Open Distribution (Backend)",
-    "company": "StubHub",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391786824",
-    "date_posted": null,
-    "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Robotics",
-    "company": "NPAworldwide",
-    "location": "Hartford, CT",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391235334",
-    "date_posted": null,
-    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -154,23 +132,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Insights Platform",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391234141",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer Apprentice",
+    "title": "Software Engineer, Apprentice",
     "company": "Lensa",
-    "location": "Poughkeepsie, NY",
+    "location": "Chicago, IL",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392046183",
+    "job_url": "https://www.linkedin.com/jobs/view/4392040759",
     "date_posted": null,
     "keyword_score": 25,
     "site": "linkedin"
@@ -187,23 +154,45 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393152159",
+    "job_url": "https://www.linkedin.com/jobs/view/4393163141",
     "date_posted": null,
     "keyword_score": 22,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - FS JAVA/GenA",
-    "company": "Jobs via Dice",
-    "location": "West Des Moines, IA",
+    "title": "Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+    "company": "Amazon Web Services (AWS)",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391249526",
+    "job_url": "https://www.linkedin.com/jobs/view/4392021635",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer -  Identity & Access Management",
+    "company": "The Depository Trust & Clearing Corporation (DTCC)",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392047610",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer - Remote",
+    "company": "YO HR Consultancy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4376206109",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
@@ -220,12 +209,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Activations (MANTL)",
-    "company": "Alkami Technology",
-    "location": "",
+    "title": "Business Process Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Merrimack, NH",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391753096",
+    "job_url": "https://www.linkedin.com/jobs/view/4391230842",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Natoma",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392049439",
     "date_posted": null,
     "keyword_score": 19,
     "site": "linkedin"
@@ -242,6 +242,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Journeyman Software Engineer",
+    "company": "Bering Straits Native Corporation (BSNC)",
+    "location": "Beavercreek, OH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368882349",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
     "title": "Jr. Software Developer",
     "company": "Lensa",
     "location": "",
@@ -253,14 +264,25 @@
     "site": "linkedin"
   },
   {
-    "title": "C++ Software Engineer",
-    "company": "Jobs via eFinancialCareers",
-    "location": "St Louis, MO",
+    "title": "Software Engineer - Backend",
+    "company": "Koah",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4378976372",
+    "job_url": "https://www.linkedin.com/jobs/view/4392042843",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Mercury Ignite: Software Engineering Graduate Development Program (Remote)",
+    "company": "Mercury Insurance",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392061109",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   },
   {
