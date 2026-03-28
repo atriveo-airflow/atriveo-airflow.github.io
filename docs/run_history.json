@@ -1495,5 +1495,24 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-28T02-03-43Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T02:05:57Z",
+    "run_at": "2026-03-28T02:05:57.236132+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 13.0,
+      "max": 15,
+      "high": 2
+    },
+    "top_companies": [
+      "Plaid",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-28T02-05-57Z_top500.json"
   }
 ]
