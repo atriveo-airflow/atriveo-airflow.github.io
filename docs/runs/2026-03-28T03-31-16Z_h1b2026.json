@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393163141",
+    "date_posted": null,
+    "priority_score": 38,
+    "score_pct": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "SQL Tableau Software Developer",
+    "company": "Kforce Inc",
+    "location": "Englewood, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391768545",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "React Software Developer",
+    "company": "TEKsystems",
+    "location": "Westbrook, ME",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392040230",
+    "date_posted": null,
+    "priority_score": 29,
+    "score_pct": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend AI Engineer",
+    "company": "Stefanini Group",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392013382",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
