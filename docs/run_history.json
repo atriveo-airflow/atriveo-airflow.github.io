@@ -5248,5 +5248,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T21-32-51Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T21:41:18Z",
+    "run_at": "2026-03-28T21:41:18.442510+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Robert Half",
+      "Togetherwork",
+      "Alarm.com",
+      "Hirenza",
+      "MobiusEngine"
+    ],
+    "snapshot_file": "2026-03-28T21-41-18Z_keywords.json"
   }
 ]
