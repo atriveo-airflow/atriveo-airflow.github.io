@@ -3736,5 +3736,24 @@
       "Stefanini Group"
     ],
     "snapshot_file": "2026-03-28T02-36-59Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T02:46:28Z",
+    "run_at": "2026-03-28T02:46:28.452203+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 20,
+      "Mid": 8
+    },
+    "scores": {},
+    "top_companies": [
+      "StubHub",
+      "Jobs via Dice",
+      "Stefanini Group",
+      "Eli Lilly and Company",
+      "Bloomreach"
+    ],
+    "snapshot_file": "2026-03-28T02-46-28Z_keywords.json"
   }
 ]
