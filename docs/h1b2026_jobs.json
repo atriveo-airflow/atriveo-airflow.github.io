@@ -1,31 +1,5 @@
 [
   {
-    "title": "Software Engineer - Insights Platform",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391234141",
-    "date_posted": null,
-    "priority_score": 49,
-    "score_pct": 38,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Gov Tech",
-    "company": "Lyft",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391778491",
-    "date_posted": null,
-    "priority_score": 35,
-    "score_pct": 27,
-    "site": "linkedin"
-  },
-  {
     "title": "AI Foundations - Software Engineer",
     "company": "IBM",
     "location": "Yorktown Heights, NY",
