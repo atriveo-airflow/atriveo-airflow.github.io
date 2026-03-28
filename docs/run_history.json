@@ -3901,5 +3901,26 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-28T04-16-13Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T04:24:54Z",
+    "run_at": "2026-03-28T04:24:54.342849+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 39.2,
+      "max": 54,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Bloomberg"
+    ],
+    "snapshot_file": "2026-03-28T04-24-54Z_top500.json"
   }
 ]
