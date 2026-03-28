@@ -1337,5 +1337,24 @@
       "Ramp"
     ],
     "snapshot_file": "2026-03-28T00-04-48Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T00:08:20Z",
+    "run_at": "2026-03-28T00:08:20.578804+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "hackajob",
+      "Pattern Data",
+      "Illumina",
+      "Alkami Technology",
+      "Ramp"
+    ],
+    "snapshot_file": "2026-03-28T00-08-20Z_keywords.json"
   }
 ]
