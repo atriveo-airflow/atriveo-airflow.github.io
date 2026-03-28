@@ -1,28 +1,28 @@
 [
   {
-    "title": "Software Engineer II",
-    "company": "Hinge Health",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392764830",
-    "date_posted": null,
-    "priority_score": 34,
-    "score_pct": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Cloud Inference Safeguards",
-    "company": "Anthropic",
-    "location": "Seattle, WA",
+    "title": "Software Engineer, Fraud & Identity",
+    "company": "Ramp",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391224471",
+    "job_url": "https://www.linkedin.com/jobs/view/4392016456",
     "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
+    "priority_score": 42,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data License Monitoring & Resiliency",
+    "company": "Bloomberg",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393163141",
+    "date_posted": null,
+    "priority_score": 38,
+    "score_pct": 29,
     "site": "linkedin"
   },
   {
