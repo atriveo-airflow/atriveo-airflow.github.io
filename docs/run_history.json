@@ -4838,5 +4838,27 @@
       "Cargill"
     ],
     "snapshot_file": "2026-03-28T17-46-14Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T18:08:23Z",
+    "run_at": "2026-03-28T18:08:23.028454+00:00",
+    "pipeline": "standard",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 15
+    },
+    "scores": {
+      "avg": -371.9,
+      "max": 68,
+      "high": 9
+    },
+    "top_companies": [
+      "Mercor",
+      "Cargill",
+      "Symbotic",
+      "Crown Equipment Corporation",
+      "Jobright.ai"
+    ],
+    "snapshot_file": "2026-03-28T18-08-23Z_standard.json"
   }
 ]
