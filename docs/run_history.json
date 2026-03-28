@@ -3816,5 +3816,26 @@
       "Bloomberg"
     ],
     "snapshot_file": "2026-03-28T03-23-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T03:31:16Z",
+    "run_at": "2026-03-28T03:31:16.061964+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": -224.2,
+      "max": 38,
+      "high": 3
+    },
+    "top_companies": [
+      "Bloomberg",
+      "Kforce Inc",
+      "TEKsystems",
+      "Stefanini Group"
+    ],
+    "snapshot_file": "2026-03-28T03-31-16Z_h1b2026.json"
   }
 ]
