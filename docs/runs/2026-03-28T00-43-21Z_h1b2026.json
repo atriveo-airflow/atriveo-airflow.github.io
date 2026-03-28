@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - StorageGRID",
+    "company": "NetApp",
+    "location": "Morrisville, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391752755",
+    "date_posted": null,
+    "priority_score": 39,
+    "score_pct": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Gov Tech",
+    "company": "Lyft",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391778491",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Music",
+    "company": "Spotify",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391714211",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392775201",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 4",
+    "company": "Oracle",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392758848",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer- C++",
+    "company": "Akkodis",
+    "location": "Rochester, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4364474430",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
