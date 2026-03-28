@@ -5076,5 +5076,25 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-03-28T20-08-06Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T20:16:11Z",
+    "run_at": "2026-03-28T20:16:11.400066+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 45.0,
+      "max": 56,
+      "high": 2
+    },
+    "top_companies": [
+      "Coinbase",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-28T20-16-11Z_important.json"
   }
 ]
