@@ -1556,5 +1556,26 @@
       "Craftner INC"
     ],
     "snapshot_file": "2026-03-28T03-01-09Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T03:02:55Z",
+    "run_at": "2026-03-28T03:02:55.016859+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 5,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 6.1,
+      "max": 11,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-28T03-02-55Z_important.json"
   }
 ]
