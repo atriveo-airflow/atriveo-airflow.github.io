@@ -4438,5 +4438,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-28T14-21-43Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T14:32:39Z",
+    "run_at": "2026-03-28T14:32:39.756741+00:00",
+    "pipeline": "top500",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 16,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -155.2,
+      "max": 65,
+      "high": 17
+    },
+    "top_companies": [
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "IBM",
+      "xAI"
+    ],
+    "snapshot_file": "2026-03-28T14-32-39Z_top500.json"
   }
 ]
