@@ -4616,5 +4616,28 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-03-28T15-53-42Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T16:08:57Z",
+    "run_at": "2026-03-28T16:08:57.634125+00:00",
+    "pipeline": "standard",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -267.2,
+      "max": 55,
+      "high": 12
+    },
+    "top_companies": [
+      "AEROCONTACT",
+      "Addepar",
+      "BeaconFire Inc.",
+      "Twitch",
+      "ExxonMobil"
+    ],
+    "snapshot_file": "2026-03-28T16-08-57Z_standard.json"
   }
 ]
