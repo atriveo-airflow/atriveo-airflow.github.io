@@ -4303,5 +4303,28 @@
       "BNSF Railway"
     ],
     "snapshot_file": "2026-03-28T13-11-03Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T13:22:51Z",
+    "run_at": "2026-03-28T13:22:51.572488+00:00",
+    "pipeline": "important",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 11,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -82.4,
+      "max": 118,
+      "high": 14
+    },
+    "top_companies": [
+      "Adobe",
+      "Google",
+      "Microsoft",
+      "OpenAI",
+      "Box"
+    ],
+    "snapshot_file": "2026-03-28T13-22-51Z_important.json"
   }
 ]
