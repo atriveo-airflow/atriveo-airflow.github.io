@@ -3717,5 +3717,24 @@
       "Ramp"
     ],
     "snapshot_file": "2026-03-28T02-27-46Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T02:36:59Z",
+    "run_at": "2026-03-28T02:36:59.943075+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -485.5,
+      "max": 28,
+      "high": 1
+    },
+    "top_companies": [
+      "IBM",
+      "Stefanini Group"
+    ],
+    "snapshot_file": "2026-03-28T02-36-59Z_h1b2026.json"
   }
 ]
