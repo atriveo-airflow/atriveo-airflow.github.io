@@ -3632,5 +3632,25 @@
       "Stefanini Group"
     ],
     "snapshot_file": "2026-03-28T01-37-48Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T01:47:23Z",
+    "run_at": "2026-03-28T01:47:23.465308+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 25,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "StubHub",
+      "hackajob",
+      "Stefanini Group",
+      "Jobs via Dice",
+      "Eli Lilly and Company"
+    ],
+    "snapshot_file": "2026-03-28T01-47-23Z_keywords.json"
   }
 ]
