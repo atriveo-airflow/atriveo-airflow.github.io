@@ -4167,5 +4167,29 @@
       "Alteryx"
     ],
     "snapshot_file": "2026-03-28T09-39-47Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T12:10:48Z",
+    "run_at": "2026-03-28T12:10:48.497851+00:00",
+    "pipeline": "standard",
+    "total_jobs": 41,
+    "levels": {
+      "Entry": 33,
+      "Mid": 7,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -163.2,
+      "max": 90,
+      "high": 33
+    },
+    "top_companies": [
+      "Wiraa",
+      "Candescent",
+      "JPMorganChase",
+      "xAI",
+      "Qualcomm"
+    ],
+    "snapshot_file": "2026-03-28T12-10-48Z_standard.json"
   }
 ]
