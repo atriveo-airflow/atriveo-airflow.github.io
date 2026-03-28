@@ -1,13 +1,13 @@
 [
   {
-    "title": "Software Developer",
-    "company": "Intelex Technologies ULC",
-    "location": "",
+    "title": "Software Engineer",
+    "company": "Togetherwork",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392306120",
+    "job_url": "https://www.linkedin.com/jobs/view/4392098514",
     "date_posted": null,
-    "keyword_score": 59,
+    "keyword_score": 78,
     "site": "linkedin"
   },
   {
@@ -30,6 +30,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4380837117",
     "date_posted": null,
     "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Jobs via Dice",
+    "location": "Durham, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391915976",
+    "date_posted": null,
+    "keyword_score": 50,
     "site": "linkedin"
   },
   {
@@ -56,24 +67,13 @@
   },
   {
     "title": "Software Engineer",
-    "company": "TEKsystems",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392098416",
-    "date_posted": null,
-    "keyword_score": 49,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
     "company": "Jobs via Dice",
     "location": "Charlotte, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391646272",
+    "job_url": "https://www.linkedin.com/jobs/view/4390751180",
     "date_posted": null,
-    "keyword_score": 49,
+    "keyword_score": 43,
     "site": "linkedin"
   },
   {
@@ -88,17 +88,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Mid",
-    "company": "Wiraa",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392074459",
-    "date_posted": null,
-    "keyword_score": 41,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer (Front End with Angular skilllset)",
     "company": "CGI",
     "location": "Fairfax, VA",
@@ -110,12 +99,45 @@
     "site": "linkedin"
   },
   {
+    "title": "Fall Co-op, Software Engineer",
+    "company": "Symbotic",
+    "location": "Wilmington, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4382188262",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer IV",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391932252",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (Node.js, TypeScript)",
     "company": "Wiraa",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392082358",
+    "date_posted": null,
+    "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
     "date_posted": null,
     "keyword_score": 38,
     "site": "linkedin"
@@ -132,14 +154,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany",
-    "company": "Goldman Sachs",
-    "location": "Albany, NY",
+    "title": "Software Developer - Indefinite US Work Authorization required",
+    "company": "Crown Equipment Corporation",
+    "location": "New Bremen, OH",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371787775",
+    "job_url": "https://www.linkedin.com/jobs/view/4368802281",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 34,
     "site": "linkedin"
   },
   {
@@ -154,47 +176,58 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I, Twitch Chat",
-    "company": "Twitch",
-    "location": "San Francisco, CA",
-    "level": "Entry",
+    "title": "Software Engineer III",
+    "company": "Truist",
+    "location": "Charlotte, NC",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381062426",
+    "job_url": "https://www.linkedin.com/jobs/view/4392313076",
     "date_posted": null,
-    "keyword_score": 27,
+    "keyword_score": 25,
     "site": "linkedin"
   },
   {
-    "title": "Software Dev Engineer II (SDE2), Amazon Connect",
-    "company": "Amazon Web Services (AWS)",
-    "location": "New York, NY",
+    "title": "Software Engineer (Typescript)",
+    "company": "Jobs via Dice",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344556486",
+    "job_url": "https://www.linkedin.com/jobs/view/4390757101",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Akron Brass Company",
-    "location": "Wooster, OH",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Mastercard",
+    "location": "O'Fallon, MO",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371784724",
+    "job_url": "https://www.linkedin.com/jobs/view/4364504275",
     "date_posted": null,
-    "keyword_score": 22,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
+    "title": "BMW, FG-AM-61 Software Engineer Coop Fall 2026 (AI/Data) - Application via WayUp",
+    "company": "WayUp",
+    "location": "Greenville, SC",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392307367",
+    "job_url": "https://www.linkedin.com/jobs/view/4382118706",
     "date_posted": null,
-    "keyword_score": 16,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Robert Half",
+    "location": "Franklin Park, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392078857",
+    "date_posted": null,
+    "keyword_score": 17,
     "site": "linkedin"
   },
   {
@@ -209,23 +242,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Embedded Software Engineer - Effectors",
+    "company": "CHAOS Industries",
+    "location": "Hawthorne, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4321394983",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Effector Embedded Software Engineer",
+    "company": "CHAOS Industries",
+    "location": "Hawthorne, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4300782763",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Mercor",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392304328",
-    "date_posted": null,
-    "keyword_score": 15,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Developer Products (AI)",
-    "company": "Workato",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4291632937",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
