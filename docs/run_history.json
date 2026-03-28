@@ -5391,5 +5391,24 @@
       "Randstad Digital Americas"
     ],
     "snapshot_file": "2026-03-28T23-05-22Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T23:15:56Z",
+    "run_at": "2026-03-28T23:15:56.896878+00:00",
+    "pipeline": "top500",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": -298.3,
+      "max": 52,
+      "high": 2
+    },
+    "top_companies": [
+      "ByteDance",
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-28T23-15-56Z_top500.json"
   }
 ]
