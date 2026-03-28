@@ -1,24 +1,13 @@
 [
   {
-    "title": "Java Backend Engineer Agentic Workflows",
+    "title": "Software Engineer",
     "company": "Jobs via Dice",
-    "location": "Austin, TX",
+    "location": "California, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391218506",
+    "job_url": "https://www.linkedin.com/jobs/view/4391226168",
     "date_posted": null,
-    "keyword_score": 62,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer",
-    "company": "RemoteHunter",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390995707",
-    "date_posted": null,
-    "keyword_score": 58,
+    "keyword_score": 55,
     "site": "linkedin"
   },
   {
@@ -41,6 +30,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391795228",
     "date_posted": null,
     "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Robert Half",
+    "location": "San Ramon, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4379124839",
+    "date_posted": null,
+    "keyword_score": 50,
     "site": "linkedin"
   },
   {
@@ -88,12 +88,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Go Engineer",
+    "company": "Stand8 Technology Consulting",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391727109",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Full Stack/Backend, New Grad",
     "company": "SentiLink",
     "location": "Austin, TX",
     "level": "New Grad",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4391776549",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer (Tapestry)",
+    "company": "X, The Moonshot Factory",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391229374",
     "date_posted": null,
     "keyword_score": 39,
     "site": "linkedin"
@@ -110,78 +132,67 @@
     "site": "linkedin"
   },
   {
-    "title": "UI Software Engineer III",
-    "company": "hackajob",
-    "location": "New York, NY",
-    "level": "Mid",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371378974",
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
     "date_posted": null,
-    "keyword_score": 32,
+    "keyword_score": 38,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Open Distribution (Backend)",
-    "company": "StubHub",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391786824",
-    "date_posted": null,
-    "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Founding Backend Engineer",
-    "company": "Jobright.ai",
+    "title": "Software Engineer - Agentic Commerce",
+    "company": "Perplexity",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391204582",
+    "job_url": "https://www.linkedin.com/jobs/view/4391224003",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "Piper Companies",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391213526",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Python)",
+    "company": "Jobs via Dice",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391228072",
     "date_posted": null,
     "keyword_score": 29,
     "site": "linkedin"
   },
   {
-    "title": "Backend Software Engineer - Global E-Commerce, Supply Chain and Logistics",
-    "company": "TikTok",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4390993765",
-    "date_posted": null,
-    "keyword_score": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "VP, AI Software Engineering (Hybrid - Flexible Options)",
-    "company": "Broadridge",
-    "location": "New York, NY",
+    "title": "Software Engineer in Test - StorageGRID",
+    "company": "NetApp",
+    "location": "Morrisville, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391774111",
+    "job_url": "https://www.linkedin.com/jobs/view/4391758586",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
   },
   {
-    "title": "Java/Javascript Software Engineer",
+    "title": "Java Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "North Carolina, United States",
+    "location": "Georgia, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391084073",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Edge",
-    "company": "Box",
-    "location": "Redwood City, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391797061",
+    "job_url": "https://www.linkedin.com/jobs/view/4383029897",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -198,23 +209,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I, AI Product",
-    "company": "Attentive",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Illumina",
+    "location": "San Diego, CA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391759827",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Backend (Platform)",
-    "company": "Vannevar",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391794522",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392004706",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
@@ -231,58 +231,47 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "RemoteHunter",
+    "title": "Software Engineer, Backend (Platform)",
+    "company": "Vannevar",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391203368",
+    "job_url": "https://www.linkedin.com/jobs/view/4391794522",
     "date_posted": null,
-    "keyword_score": 21,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "Tech Consulting",
-    "location": "Texas, United States",
+    "title": "Software Engineer I, AI Product",
+    "company": "Attentive",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390999617",
+    "job_url": "https://www.linkedin.com/jobs/view/4391759827",
     "date_posted": null,
-    "keyword_score": 21,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Marketplace Operations",
-    "company": "StubHub",
+    "title": "Software Engineer, Fraud & Identity",
+    "company": "Ramp",
     "location": "New York, NY",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391779955",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "TALENT Software Services",
-    "location": "San Diego, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392777234",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "CBL Solutions",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4389944190",
+    "job_url": "https://www.linkedin.com/jobs/view/4392016456",
     "date_posted": null,
     "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Developer Go and Nest",
+    "company": "Jobs via Dice",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391220500",
+    "date_posted": null,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -308,34 +297,23 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II",
+    "company": "Hinge Health",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392764830",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Jobright.ai",
     "location": "",
     "level": "Entry",
     "min_exp": 1.0,
     "job_url": "https://www.linkedin.com/jobs/view/4390997895",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Data & AI",
-    "company": "Vendelux",
-    "location": "New York, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392001296",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4377764199",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -358,6 +336,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4391771354",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "C++ Software Engineer (Automotive / ADAS Systems)",
+    "company": "Comrise",
+    "location": "Ann Arbor, MI",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391209042",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
