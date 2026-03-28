@@ -4109,5 +4109,25 @@
       "Adobe"
     ],
     "snapshot_file": "2026-03-28T09-14-44Z_important.json"
+  },
+  {
+    "session_id": "2026-03-28T09:23:07Z",
+    "run_at": "2026-03-28T09:23:07.987015+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": 68.6,
+      "max": 118,
+      "high": 5
+    },
+    "top_companies": [
+      "Adobe",
+      "Alteryx",
+      "Expedia Group"
+    ],
+    "snapshot_file": "2026-03-28T09-23-07Z_top500.json"
   }
 ]
