@@ -1600,5 +1600,27 @@
       "RELX Group"
     ],
     "snapshot_file": "2026-03-28T03-04-50Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T03:06:36Z",
+    "run_at": "2026-03-28T03:06:36.561534+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Mid": 5,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 5.5,
+      "max": 10,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Bloomberg",
+      "TEKsystems"
+    ],
+    "snapshot_file": "2026-03-28T03-06-36Z_h1b2026.json"
   }
 ]
