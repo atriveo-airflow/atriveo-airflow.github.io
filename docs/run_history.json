@@ -4237,5 +4237,29 @@
       "Expedia Group"
     ],
     "snapshot_file": "2026-03-28T12-32-02Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-28T12:43:22Z",
+    "run_at": "2026-03-28T12:43:22.803845+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": 48.3,
+      "max": 118,
+      "high": 10
+    },
+    "top_companies": [
+      "Adobe",
+      "Microsoft",
+      "Google",
+      "Snowflake",
+      "Databricks"
+    ],
+    "snapshot_file": "2026-03-28T12-43-22Z_h1b2026.json"
   }
 ]
