@@ -3458,5 +3458,26 @@
       "Perplexity"
     ],
     "snapshot_file": "2026-03-28T00-10-15Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T00:21:10Z",
+    "run_at": "2026-03-28T00:21:10.559526+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -586.8,
+      "max": 35,
+      "high": 2
+    },
+    "top_companies": [
+      "Oracle",
+      "Lyft",
+      "Benchling",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-03-28T00-21-10Z_important.json"
   }
 ]
