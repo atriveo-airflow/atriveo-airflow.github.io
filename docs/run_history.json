@@ -5140,5 +5140,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T20-34-34Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T20:43:22Z",
+    "run_at": "2026-03-28T20:43:22.730467+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 25,
+    "levels": {
+      "Entry": 21,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Wiraa",
+      "CHAOS Industries",
+      "Togetherwork",
+      "ImpetusIT"
+    ],
+    "snapshot_file": "2026-03-28T20-43-22Z_keywords.json"
   }
 ]
