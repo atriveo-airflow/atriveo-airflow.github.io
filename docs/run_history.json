@@ -5034,5 +5034,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-28T19-35-52Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-28T19:44:17Z",
+    "run_at": "2026-03-28T19:44:17.066512+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 19,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Wiraa",
+      "Intelex Technologies ULC",
+      "ImpetusIT",
+      "Alarm.com",
+      "Hirenza"
+    ],
+    "snapshot_file": "2026-03-28T19-44-17Z_keywords.json"
   }
 ]
