@@ -5369,5 +5369,27 @@
       "MobiusEngine"
     ],
     "snapshot_file": "2026-03-28T22-36-16Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-28T23:05:22Z",
+    "run_at": "2026-03-28T23:05:22.007933+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 12
+    },
+    "scores": {
+      "avg": -221.9,
+      "max": 59,
+      "high": 9
+    },
+    "top_companies": [
+      "RemoteHunter",
+      "Jobs via Dice",
+      "Jobright.ai",
+      "Dragonfly",
+      "Randstad Digital Americas"
+    ],
+    "snapshot_file": "2026-03-28T23-05-22Z_standard.json"
   }
 ]
