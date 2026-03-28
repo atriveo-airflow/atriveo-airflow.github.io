@@ -4639,5 +4639,28 @@
       "ExxonMobil"
     ],
     "snapshot_file": "2026-03-28T16-08-57Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T16:18:56Z",
+    "run_at": "2026-03-28T16:18:56.915310+00:00",
+    "pipeline": "important",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 19,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -228.9,
+      "max": 63,
+      "high": 17
+    },
+    "top_companies": [
+      "Microsoft",
+      "Figma",
+      "OpenAI",
+      "Google",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-28T16-18-56Z_important.json"
   }
 ]
