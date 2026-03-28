@@ -11,6 +11,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Java Software Engineer",
+    "company": "ImpetusIT",
+    "location": "Tampa, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391645087",
+    "date_posted": null,
+    "keyword_score": 58,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II",
     "company": "Alarm.com",
     "location": "Lawrence, KS",
@@ -19,6 +30,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4380837117",
     "date_posted": null,
     "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Hirenza",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392090918",
+    "date_posted": null,
+    "keyword_score": 50,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "MobiusEngine",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392305515",
+    "date_posted": null,
+    "keyword_score": 49,
     "site": "linkedin"
   },
   {
@@ -33,14 +66,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Product, Platform & Enterprise Full Stack Software Engineer II (Remote - US)",
-    "company": "BNSF Railway",
-    "location": "",
-    "level": "Mid",
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371556362",
+    "job_url": "https://www.linkedin.com/jobs/view/4391646272",
     "date_posted": null,
-    "keyword_score": 46,
+    "keyword_score": 49,
     "site": "linkedin"
   },
   {
@@ -55,23 +88,23 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Mid",
+    "company": "Wiraa",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392074459",
+    "date_posted": null,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Developer (Front End with Angular skilllset)",
     "company": "CGI",
     "location": "Fairfax, VA",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4372204710",
-    "date_posted": null,
-    "keyword_score": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Fall Co-op, Software Engineer",
-    "company": "Symbotic",
-    "location": "Wilmington, MA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382188262",
     "date_posted": null,
     "keyword_score": 40,
     "site": "linkedin"
@@ -88,17 +121,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Associate Software Engineer",
-    "company": "Moody's Corporation",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391619260",
-    "date_posted": null,
-    "keyword_score": 37,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer - Full Stack (EAA - Compliance)",
     "company": "Coinbase",
     "location": "",
@@ -110,58 +132,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer",
-    "company": "Wealthfront",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": 6.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4296094481",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Portfolio Services",
-    "company": "Addepar",
-    "location": "",
+    "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate-Albany",
+    "company": "Goldman Sachs",
+    "location": "Albany, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382137139",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - CoreAI",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4361354521",
+    "job_url": "https://www.linkedin.com/jobs/view/4371787775",
     "date_posted": null,
     "keyword_score": 29,
     "site": "linkedin"
   },
   {
-    "title": "Java/Javascript Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "North Carolina, United States",
+    "title": "Software Engineer, Fullstack",
+    "company": "Wiraa",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391084073",
+    "job_url": "https://www.linkedin.com/jobs/view/4392070716",
     "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "California, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
-    "date_posted": null,
-    "keyword_score": 27,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -187,28 +176,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Site Reliability Engineer)",
-    "company": "HumaniTapp",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391636194",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, AI Gateway",
-    "company": "Vercel",
-    "location": "New York, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372140732",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Akron Brass Company",
     "location": "Wooster, OH",
@@ -220,78 +187,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Experimental Projects",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372787292",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Engineering Tooling",
-    "company": "Tailscale",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4364195865",
-    "date_posted": null,
-    "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Windows Agent",
-    "company": "Iru",
-    "location": "Miami, FL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337212305",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Sandboxing (Systems)",
-    "company": "Anthropic",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4326940131",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Robert Half",
-    "location": "Franklin Park, IL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392078857",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Effector Embedded Software Engineer",
-    "company": "CHAOS Industries",
-    "location": "Hawthorne, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4300782763",
+    "job_url": "https://www.linkedin.com/jobs/view/4392307367",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Seller Growth",
-    "company": "Whatnot",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Cavela",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4319383912",
+    "job_url": "https://www.linkedin.com/jobs/view/4392099507",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Mercor",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392304328",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
