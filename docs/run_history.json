@@ -3880,5 +3880,26 @@
       "Inside Higher Ed"
     ],
     "snapshot_file": "2026-03-28T04-07-49Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-28T04:16:13Z",
+    "run_at": "2026-03-28T04:16:13.694336+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 36.8,
+      "max": 54,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Benchling"
+    ],
+    "snapshot_file": "2026-03-28T04-16-13Z_important.json"
   }
 ]
