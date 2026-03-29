@@ -6470,5 +6470,27 @@
       "General Motors"
     ],
     "snapshot_file": "2026-03-29T16-08-39Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T16:17:41Z",
+    "run_at": "2026-03-29T16:17:41.378411+00:00",
+    "pipeline": "important",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 12
+    },
+    "scores": {
+      "avg": -125.8,
+      "max": 67,
+      "high": 10
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "Scale AI",
+      "Notion",
+      "Waymo"
+    ],
+    "snapshot_file": "2026-03-29T16-17-41Z_important.json"
   }
 ]
