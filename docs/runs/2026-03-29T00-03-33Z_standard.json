@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer, Global Payments Financing Product",
+    "company": "ByteDance",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391629448",
+    "date_posted": null,
+    "batch_time": "2026-03-29T00:03:32Z",
+    "score": 52,
+    "score_pct": 40,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391640511",
+    "date_posted": null,
+    "batch_time": "2026-03-29T00:03:32Z",
+    "score": 27,
+    "score_pct": 21,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend",
+    "company": "Nestmed",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391643350",
+    "date_posted": null,
+    "batch_time": "2026-03-29T00:03:32Z",
+    "score": 22,
+    "score_pct": 17,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "LATAM - Backend Developer",
+    "company": "Playsaurus Inc.",
+    "location": "Alameda, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394001158",
+    "date_posted": null,
+    "batch_time": "2026-03-29T00:03:32Z",
+    "score": 22,
+    "score_pct": 17,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
