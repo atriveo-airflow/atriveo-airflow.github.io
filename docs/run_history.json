@@ -6929,5 +6929,27 @@
       "AgileGrid Solutions"
     ],
     "snapshot_file": "2026-03-29T21-29-12Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T22:05:17Z",
+    "run_at": "2026-03-29T22:05:17.421487+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -464.0,
+      "max": 72,
+      "high": 2
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Pivotor AI",
+      "hackajob",
+      "RemoteHunter"
+    ],
+    "snapshot_file": "2026-03-29T22-05-17Z_standard.json"
   }
 ]
