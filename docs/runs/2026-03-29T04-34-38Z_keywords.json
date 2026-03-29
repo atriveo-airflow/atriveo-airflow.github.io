@@ -1,0 +1,156 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389868998",
+    "date_posted": null,
+    "keyword_score": 73,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry Level Software Engineering - Agentic AI & Workflow Automation",
+    "company": "Lensa",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392313853",
+    "date_posted": null,
+    "keyword_score": 50,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Lensa",
+    "location": "Cary, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392330100",
+    "date_posted": null,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Node.js Backend Developer - Remote",
+    "company": "YO IT Consulting",
+    "location": "Florida, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391638698",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineer (Remote)",
+    "company": "Lensa",
+    "location": "Menomonee Falls, WI",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392328153",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4343327745",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1",
+    "company": "Lensa",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392334064",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391649613",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer - Entry Level",
+    "company": "Lensa",
+    "location": "Minneapolis, MN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392315686",
+    "date_posted": null,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HR Employee Experience",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389882377",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Business Process Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Merrimack, NH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391635806",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Jr. Software Developer",
+    "company": "Lensa",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392315649",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  }
+]
