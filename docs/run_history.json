@@ -6448,5 +6448,27 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-03-29T15-45-52Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T16:08:39Z",
+    "run_at": "2026-03-29T16:08:39.127835+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 18
+    },
+    "scores": {
+      "avg": -307.9,
+      "max": 56,
+      "high": 12
+    },
+    "top_companies": [
+      "Whatnot",
+      "BeaconFire Inc.",
+      "Jobs via Dice",
+      "DataAnnotation",
+      "General Motors"
+    ],
+    "snapshot_file": "2026-03-29T16-08-39Z_standard.json"
   }
 ]
