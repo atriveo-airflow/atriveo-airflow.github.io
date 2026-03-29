@@ -5629,5 +5629,24 @@
       "hackajob"
     ],
     "snapshot_file": "2026-03-29T03-06-43Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T03:13:56Z",
+    "run_at": "2026-03-29T03:13:56.220811+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -478.5,
+      "max": 42,
+      "high": 1
+    },
+    "top_companies": [
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-29T03-13-56Z_important.json"
   }
 ]
