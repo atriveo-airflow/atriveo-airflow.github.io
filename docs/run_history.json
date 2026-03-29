@@ -6101,5 +6101,25 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-29T12-25-41Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T12:32:23Z",
+    "run_at": "2026-03-29T12:32:23.430524+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 31,
+    "levels": {
+      "Entry": 24,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "hackajob",
+      "Quik Hire Staffing",
+      "Sundayy",
+      "Stripe",
+      "General Motors"
+    ],
+    "snapshot_file": "2026-03-29T12-32-23Z_keywords.json"
   }
 ]
