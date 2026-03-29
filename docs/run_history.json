@@ -6211,5 +6211,24 @@
       "TikTok"
     ],
     "snapshot_file": "2026-03-29T13-28-41Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T13:37:13Z",
+    "run_at": "2026-03-29T13:37:13.793464+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 30,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Sundayy",
+      "hackajob",
+      "JPMorganChase",
+      "Figma"
+    ],
+    "snapshot_file": "2026-03-29T13-37-13Z_keywords.json"
   }
 ]
