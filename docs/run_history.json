@@ -6834,5 +6834,23 @@
       "myGwork - LGBTQ+ Business Community"
     ],
     "snapshot_file": "2026-03-29T20-06-06Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T20:18:54Z",
+    "run_at": "2026-03-29T20:18:54.387971+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": -999.0,
+      "max": -999,
+      "high": 0
+    },
+    "top_companies": [
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-29T20-18-54Z_top500.json"
   }
 ]
