@@ -6718,5 +6718,23 @@
       "Roblox"
     ],
     "snapshot_file": "2026-03-29T18-20-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T18:27:34Z",
+    "run_at": "2026-03-29T18:27:34.427133+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 48.0,
+      "max": 48,
+      "high": 1
+    },
+    "top_companies": [
+      "Pacer Group"
+    ],
+    "snapshot_file": "2026-03-29T18-27-34Z_h1b2026.json"
   }
 ]
