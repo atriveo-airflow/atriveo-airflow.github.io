@@ -6811,5 +6811,28 @@
       "Whatnot"
     ],
     "snapshot_file": "2026-03-29T19-33-09Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T20:06:06Z",
+    "run_at": "2026-03-29T20:06:06.717471+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -385.9,
+      "max": 73,
+      "high": 7
+    },
+    "top_companies": [
+      "Harrison Clarke",
+      "Jobs via Dice",
+      "Jobot",
+      "AgileGrid Solutions",
+      "myGwork - LGBTQ+ Business Community"
+    ],
+    "snapshot_file": "2026-03-29T20-06-06Z_standard.json"
   }
 ]
