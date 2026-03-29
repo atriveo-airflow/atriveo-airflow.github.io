@@ -1,13 +1,13 @@
 [
   {
-    "title": "Software Engineer, Developer Productivity",
-    "company": "Harrison Clarke",
-    "location": "",
+    "title": "Software Engineer I - GCP",
+    "company": "hackajob",
+    "location": "Phoenix, AZ",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392348914",
+    "job_url": "https://www.linkedin.com/jobs/view/4391800160",
     "date_posted": null,
-    "keyword_score": 56,
+    "keyword_score": 54,
     "site": "linkedin"
   },
   {
@@ -22,6 +22,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Junior Backend Software Engineer",
+    "company": "HiringAgents.ai",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
+    "date_posted": null,
+    "keyword_score": 46,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Developer",
     "company": "AgileGrid Solutions",
     "location": "",
@@ -30,17 +41,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392355816",
     "date_posted": null,
     "keyword_score": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer IV",
-    "company": "Jobs via Dice",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391932252",
-    "date_posted": null,
-    "keyword_score": 39,
     "site": "linkedin"
   },
   {
@@ -55,17 +55,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Edge",
-    "company": "myGwork - LGBTQ+ Business Community",
-    "location": "Redwood City, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394539670",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer",
     "company": "AVEVA",
     "location": "Philadelphia, PA",
@@ -77,12 +66,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Optomi",
-    "location": "Charlotte, NC",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391685047",
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391693289",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
