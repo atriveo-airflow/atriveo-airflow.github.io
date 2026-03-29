@@ -5807,5 +5807,28 @@
       "Randstad Digital Americas"
     ],
     "snapshot_file": "2026-03-29T04-34-38Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T05:05:39Z",
+    "run_at": "2026-03-29T05:05:39.218672+00:00",
+    "pipeline": "standard",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 11,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -733.2,
+      "max": 113,
+      "high": 4
+    },
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Walmart",
+      "KKR",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-03-29T05-05-39Z_standard.json"
   }
 ]
