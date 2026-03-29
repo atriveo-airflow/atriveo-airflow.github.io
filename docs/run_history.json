@@ -6699,5 +6699,24 @@
       "Notion"
     ],
     "snapshot_file": "2026-03-29T18-13-28Z_important.json"
+  },
+  {
+    "session_id": "2026-03-29T18:20:29Z",
+    "run_at": "2026-03-29T18:20:29.556520+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -999.0,
+      "max": -999,
+      "high": 0
+    },
+    "top_companies": [
+      "Epic",
+      "Roblox"
+    ],
+    "snapshot_file": "2026-03-29T18-20-29Z_top500.json"
   }
 ]
