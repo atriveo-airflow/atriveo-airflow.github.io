@@ -6121,5 +6121,28 @@
       "General Motors"
     ],
     "snapshot_file": "2026-03-29T12-32-23Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T13:06:34Z",
+    "run_at": "2026-03-29T13:06:34.465731+00:00",
+    "pipeline": "standard",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -84.1,
+      "max": 84,
+      "high": 14
+    },
+    "top_companies": [
+      "Sundayy",
+      "Candescent",
+      "hackajob",
+      "Scale AI",
+      "Notion"
+    ],
+    "snapshot_file": "2026-03-29T13-06-34Z_standard.json"
   }
 ]
