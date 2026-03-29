@@ -5868,5 +5868,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-29T05-18-28Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T05:24:55Z",
+    "run_at": "2026-03-29T05:24:55.591593+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -307.3,
+      "max": 42,
+      "high": 2
+    },
+    "top_companies": [
+      "Stripe",
+      "Randstad Digital Americas"
+    ],
+    "snapshot_file": "2026-03-29T05-24-55Z_h1b2026.json"
   }
 ]
