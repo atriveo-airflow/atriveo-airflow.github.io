@@ -6775,5 +6775,23 @@
       "Hirenza"
     ],
     "snapshot_file": "2026-03-29T19-06-36Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T19:19:56Z",
+    "run_at": "2026-03-29T19:19:56.565609+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": -999.0,
+      "max": -999,
+      "high": 0
+    },
+    "top_companies": [
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-29T19-19-56Z_top500.json"
   }
 ]
