@@ -1,27 +1,5 @@
 [
   {
-    "title": "Software Engineer II - Python",
-    "company": "7-Eleven",
-    "location": "Irving, TX",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372782086",
-    "date_posted": null,
-    "keyword_score": 80,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer [Multiple Positions Available]",
-    "company": "hackajob",
-    "location": "Plano, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391655279",
-    "date_posted": null,
-    "keyword_score": 62,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer (Java, AI)",
     "company": "Sundayy",
     "location": "",
@@ -41,28 +19,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4349615803",
     "date_posted": null,
     "keyword_score": 58,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer - Confidential Computing Platform",
-    "company": "hackajob",
-    "location": "Plano, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391660228",
-    "date_posted": null,
-    "keyword_score": 54,
-    "site": "linkedin"
-  },
-  {
-    "title": "FircoSoft Application Developer - Software Engineer III",
-    "company": "JPMorganChase",
-    "location": "Tampa, FL",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372715394",
-    "date_posted": null,
-    "keyword_score": 52,
     "site": "linkedin"
   },
   {
@@ -99,6 +55,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Environment Platform",
+    "company": "Palantir Technologies",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4016406224",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Compute - Storage",
     "company": "OpenAI",
     "location": "",
@@ -107,6 +74,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4349617560",
     "date_posted": null,
     "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Agentic Runtime",
+    "company": "Glean",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4311672139",
+    "date_posted": null,
+    "keyword_score": 37,
     "site": "linkedin"
   },
   {
@@ -121,6 +99,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Mail",
+    "company": "Notion",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4365588470",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
     "title": "Full Stack Software Engineer - Risk",
     "company": "Chicago Trading Company",
     "location": "New York, NY",
@@ -132,56 +121,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Mail",
-    "company": "Notion",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365580693",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (AI/LLM)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392334874",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Distributed Systems",
-    "company": "Figma",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239981544",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Robot Data Platform",
     "company": "Zoox",
     "location": "Foster City, CA",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4372936810",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer, Data Platform",
-    "company": "LaunchDarkly",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4343340006",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -198,23 +143,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Engineer, Data Platform",
+    "company": "LaunchDarkly",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4343340006",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Distributed Systems",
+    "company": "Figma",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4239981544",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer III - GCP",
     "company": "JPMorganChase",
     "location": "Plano, TX",
     "level": "Mid",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4343380639",
-    "date_posted": null,
-    "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Discovery (Feed)",
-    "company": "Whatnot",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343494984",
     "date_posted": null,
     "keyword_score": 29,
     "site": "linkedin"
@@ -231,14 +187,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I",
-    "company": "Sundayy",
-    "location": "",
+    "title": "Software Engineer, Discovery (Feed)",
+    "company": "Whatnot",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392343326",
+    "job_url": "https://www.linkedin.com/jobs/view/4343494984",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 29,
     "site": "linkedin"
   },
   {
@@ -253,14 +209,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - .NET - hybrid",
-    "company": "CyberArk",
-    "location": "Santa Clara, CA",
+    "title": "Software Engineer I",
+    "company": "Sundayy",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372977428",
+    "job_url": "https://www.linkedin.com/jobs/view/4392343326",
     "date_posted": null,
-    "keyword_score": 27,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Early Career",
+    "company": "Jobs via Dice",
+    "location": "Mt. Laurel, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391655913",
+    "date_posted": null,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -297,6 +264,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "Bold Orange",
+    "location": "Minneapolis, MN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381375491",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391655961",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
     "title": "Junior Software Engineer",
     "company": "Tech Consulting",
     "location": "Colorado, United States",
@@ -305,17 +294,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391670748",
     "date_posted": null,
     "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Embedded Software Engineer",
-    "company": "hackajob",
-    "location": "Philadelphia, PA",
-    "level": "Entry",
-    "min_exp": 7.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4379678067",
-    "date_posted": null,
-    "keyword_score": 20,
     "site": "linkedin"
   },
   {
@@ -341,6 +319,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Product Backend (2-8 YOE)",
+    "company": "Airtable",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4291500677",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer III- Space Mission Applications- Hybrid",
+    "company": "Jobs via Dice",
+    "location": "Cope, CO",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391669807",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer 5 - Ads Identity & Privacy",
     "company": "Netflix",
     "location": "New York, NY",
@@ -349,6 +349,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4349800695",
     "date_posted": null,
     "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
+    "date_posted": null,
+    "keyword_score": 16,
     "site": "linkedin"
   },
   {
@@ -363,12 +374,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, C++",
-    "company": "Figma",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239979662",
+    "job_url": "https://www.linkedin.com/jobs/view/4391666818",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Info Resume Edge - GCC",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391663916",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
