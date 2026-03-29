@@ -6,7 +6,7 @@
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372796885",
+    "job_url": "https://www.linkedin.com/jobs/view/4372797944",
     "date_posted": null,
     "priority_score": 67,
     "score_pct": 52,
@@ -52,6 +52,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Environment Platform",
+    "company": "Palantir Technologies",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4016406224",
+    "date_posted": null,
+    "priority_score": 55,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Software Engineer, B2B Applications",
     "company": "OpenAI",
     "location": "San Francisco, CA",
@@ -80,11 +93,11 @@
   {
     "title": "Software Engineer, Distributed Systems",
     "company": "Figma",
-    "location": "San Francisco, CA",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239977995",
+    "job_url": "https://www.linkedin.com/jobs/view/4239981544",
     "date_posted": null,
     "priority_score": 47,
     "score_pct": 36,
@@ -104,16 +117,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Model Lifecycle",
-    "company": "Waymo",
-    "location": "Kirkland, WA",
+    "title": "Software Engineer, Machine Learning",
+    "company": "Figma",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372310221",
+    "job_url": "https://www.linkedin.com/jobs/view/4239980531",
     "date_posted": null,
-    "priority_score": 27,
-    "score_pct": 21,
+    "priority_score": 26,
+    "score_pct": 20,
     "site": "linkedin"
   },
   {
@@ -127,19 +140,6 @@
     "date_posted": null,
     "priority_score": 26,
     "score_pct": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Sandboxing (Systems)",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4326873442",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   },
   {
