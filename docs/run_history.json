@@ -5888,5 +5888,25 @@
       "Randstad Digital Americas"
     ],
     "snapshot_file": "2026-03-29T05-24-55Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T05:31:19Z",
+    "run_at": "2026-03-29T05:31:19.246488+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 10,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Stripe",
+      "hackajob",
+      "Walmart"
+    ],
+    "snapshot_file": "2026-03-29T05-31-19Z_keywords.json"
   }
 ]
