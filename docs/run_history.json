@@ -6988,5 +6988,25 @@
       "Pivotor AI"
     ],
     "snapshot_file": "2026-03-29T22-27-30Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T23:03:58Z",
+    "run_at": "2026-03-29T23:03:58.198764+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": -214.8,
+      "max": 59,
+      "high": 3
+    },
+    "top_companies": [
+      "Jobright.ai",
+      "RemoteHunter",
+      "FetchJobs.co"
+    ],
+    "snapshot_file": "2026-03-29T23-03-58Z_standard.json"
   }
 ]
