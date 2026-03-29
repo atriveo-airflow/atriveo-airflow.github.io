@@ -6054,5 +6054,28 @@
       "Figma"
     ],
     "snapshot_file": "2026-03-29T12-12-39Z_important.json"
+  },
+  {
+    "session_id": "2026-03-29T12:19:14Z",
+    "run_at": "2026-03-29T12:19:14.323613+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -47.1,
+      "max": 67,
+      "high": 11
+    },
+    "top_companies": [
+      "Netflix",
+      "Stripe",
+      "Scale AI",
+      "OpenAI",
+      "Zoox"
+    ],
+    "snapshot_file": "2026-03-29T12-19-14Z_top500.json"
   }
 ]
