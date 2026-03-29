@@ -1,5 +1,16 @@
 [
   {
+    "title": "Software Engineer (Java, AI)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392351038",
+    "date_posted": null,
+    "keyword_score": 59,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer I - GCP",
     "company": "hackajob",
     "location": "Phoenix, AZ",
@@ -11,34 +22,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Junior Backend Software Engineer",
-    "company": "HiringAgents.ai",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": 0.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
-    "date_posted": null,
-    "keyword_score": 46,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Developer",
     "company": "AgileGrid Solutions",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392355816",
-    "date_posted": null,
-    "keyword_score": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer (AI-Native) Intern",
-    "company": "Pivotor AI",
-    "location": "Fremont, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391681378",
     "date_posted": null,
     "keyword_score": 40,
     "site": "linkedin"
@@ -66,14 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "AVEVA",
-    "location": "Philadelphia, PA",
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Mt. Laurel, NJ",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4327066549",
+    "job_url": "https://www.linkedin.com/jobs/view/4391666824",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
