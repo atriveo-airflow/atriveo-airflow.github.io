@@ -67,24 +67,11 @@
   {
     "title": "Backend Software Engineer, B2B Applications",
     "company": "OpenAI",
-    "location": "",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4349618734",
-    "date_posted": null,
-    "priority_score": 53,
-    "score_pct": 41,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - Flows Platform",
-    "company": "Klaviyo",
-    "location": "Boston, MA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4363435459",
+    "job_url": "https://www.linkedin.com/jobs/view/4349578900",
     "date_posted": null,
     "priority_score": 53,
     "score_pct": 41,
@@ -104,19 +91,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Bill Pay & Procurement",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4333152741",
-    "date_posted": null,
-    "priority_score": 46,
-    "score_pct": 35,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Backend - Sora",
     "company": "OpenAI",
     "location": "",
@@ -127,19 +101,6 @@
     "date_posted": null,
     "priority_score": 41,
     "score_pct": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - AI Platform",
-    "company": "Uber",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371402759",
-    "date_posted": null,
-    "priority_score": 34,
-    "score_pct": 26,
     "site": "linkedin"
   },
   {
@@ -156,39 +117,13 @@
     "site": "linkedin"
   },
   {
-    "title": "Fullstack Software Engineer, Applied AI",
-    "company": "LangChain",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381519355",
-    "date_posted": null,
-    "priority_score": 26,
-    "score_pct": 20,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer (Entry Level)",
     "company": "Epic",
-    "location": "Bloomington, IN",
+    "location": "Indianapolis, IN",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4321306206",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Sandboxing (Systems)",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4326873442",
+    "job_url": "https://www.linkedin.com/jobs/view/4363417556",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
