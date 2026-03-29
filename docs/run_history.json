@@ -6362,5 +6362,28 @@
       "Palantir Technologies"
     ],
     "snapshot_file": "2026-03-29T15-08-40Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T15:17:54Z",
+    "run_at": "2026-03-29T15:17:54.928646+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 13,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -101.9,
+      "max": 67,
+      "high": 12
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "Scale AI",
+      "Notion",
+      "Klaviyo"
+    ],
+    "snapshot_file": "2026-03-29T15-17-54Z_important.json"
   }
 ]
