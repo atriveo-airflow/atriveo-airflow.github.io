@@ -6144,5 +6144,28 @@
       "Notion"
     ],
     "snapshot_file": "2026-03-29T13-06-34Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T13:14:04Z",
+    "run_at": "2026-03-29T13:14:04.986998+00:00",
+    "pipeline": "important",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 13,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 42.3,
+      "max": 67,
+      "high": 15
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "Netflix",
+      "Scale AI",
+      "Notion"
+    ],
+    "snapshot_file": "2026-03-29T13-14-04Z_important.json"
   }
 ]
