@@ -5449,5 +5449,26 @@
       "Randstad Digital Americas"
     ],
     "snapshot_file": "2026-03-28T23-28-05Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T00:03:33Z",
+    "run_at": "2026-03-29T00:03:33.067642+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 30.8,
+      "max": 52,
+      "high": 4
+    },
+    "top_companies": [
+      "ByteDance",
+      "Haystack",
+      "Nestmed",
+      "Playsaurus Inc."
+    ],
+    "snapshot_file": "2026-03-29T00-03-33Z_standard.json"
   }
 ]
