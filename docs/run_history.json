@@ -5510,5 +5510,24 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-03-29T00-15-51Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T00:19:59Z",
+    "run_at": "2026-03-29T00:19:59.574577+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 9,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobright.ai",
+      "NetApp",
+      "ByteDance",
+      "Randstad Digital Americas",
+      "Dragonfly"
+    ],
+    "snapshot_file": "2026-03-29T00-19-59Z_keywords.json"
   }
 ]
