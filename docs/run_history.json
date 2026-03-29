@@ -7008,5 +7008,24 @@
       "FetchJobs.co"
     ],
     "snapshot_file": "2026-03-29T23-03-58Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T23:20:36Z",
+    "run_at": "2026-03-29T23:20:36.205127+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "hackajob",
+      "AgileGrid Solutions",
+      "myGwork - LGBTQ+ Business Community",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-03-29T23-20-36Z_keywords.json"
   }
 ]
