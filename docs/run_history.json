@@ -6621,5 +6621,24 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-29T17-26-03Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T17:34:57Z",
+    "run_at": "2026-03-29T17:34:57.604070+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 57.5,
+      "max": 67,
+      "high": 2
+    },
+    "top_companies": [
+      "Scale AI",
+      "Pacer Group"
+    ],
+    "snapshot_file": "2026-03-29T17-34-57Z_h1b2026.json"
   }
 ]
