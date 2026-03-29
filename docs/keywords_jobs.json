@@ -1,11 +1,55 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Randstad Digital Americas",
-    "location": "Smithfield, RI",
+    "title": "Java Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "North Carolina, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386168033",
+    "job_url": "https://www.linkedin.com/jobs/view/4390487538",
+    "date_posted": null,
+    "keyword_score": 77,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry Level Software Engineering - Agentic AI & Workflow Automation",
+    "company": "Lensa",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392313853",
+    "date_posted": null,
+    "keyword_score": 50,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Lensa",
+    "location": "Cary, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392330100",
+    "date_posted": null,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Node.js Backend Developer - Remote",
+    "company": "YO IT Consulting",
+    "location": "Florida, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391638698",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1",
+    "company": "Lensa",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392334064",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -22,14 +66,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "RemoteHunter",
-    "location": "",
+    "title": "Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391649613",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer - Entry Level",
+    "company": "Lensa",
+    "location": "Minneapolis, MN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391638375",
+    "job_url": "https://www.linkedin.com/jobs/view/4392315686",
     "date_posted": null,
-    "keyword_score": 21,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
@@ -44,6 +99,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Jr. Software Developer",
+    "company": "Lensa",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392315649",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Full Stack Software Engineer (Minnesota)",
     "company": "SkyWater Search Partners",
     "location": "Minnetonka, MN",
@@ -55,14 +121,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
-    "location": "",
+    "title": "Software Developer",
+    "company": "Jobs via Dice",
+    "location": "Franklin Park, IL",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391650278",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391629812",
     "date_posted": null,
     "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Specialty Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389876738",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
