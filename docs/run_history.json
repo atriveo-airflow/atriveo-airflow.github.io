@@ -6911,5 +6911,23 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-29T21-17-28Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T21:29:12Z",
+    "run_at": "2026-03-29T21:29:12.078511+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 9
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "hackajob",
+      "Jobot",
+      "HiringAgents.ai",
+      "AgileGrid Solutions"
+    ],
+    "snapshot_file": "2026-03-29T21-29-12Z_keywords.json"
   }
 ]
