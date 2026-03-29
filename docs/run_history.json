@@ -6852,5 +6852,24 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-29T20-18-54Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T20:31:35Z",
+    "run_at": "2026-03-29T20:31:35.407675+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Sundayy",
+      "Harrison Clarke",
+      "Jobot",
+      "AgileGrid Solutions"
+    ],
+    "snapshot_file": "2026-03-29T20-31-35Z_keywords.json"
   }
 ]
