@@ -1,12 +1,25 @@
 [
   {
-    "title": "Software Engineer,  Global Payment",
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Global Payments Financing Product",
     "company": "ByteDance",
     "location": "San Jose, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391645285",
+    "job_url": "https://www.linkedin.com/jobs/view/4391629448",
     "date_posted": null,
     "priority_score": 52,
     "score_pct": 40,
