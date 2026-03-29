@@ -5686,5 +5686,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-29T03-27-53Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T03:35:08Z",
+    "run_at": "2026-03-29T03:35:08.506704+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 11,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Stripe",
+      "YO IT Consulting",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-03-29T03-35-08Z_keywords.json"
   }
 ]
