@@ -6009,5 +6009,28 @@
       "HumaniTapp"
     ],
     "snapshot_file": "2026-03-29T09-21-59Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T12:06:04Z",
+    "run_at": "2026-03-29T12:06:04.162107+00:00",
+    "pipeline": "standard",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 27,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -145.0,
+      "max": 112,
+      "high": 27
+    },
+    "top_companies": [
+      "Netflix",
+      "hackajob",
+      "JPMorganChase",
+      "Wiraa",
+      "7-Eleven"
+    ],
+    "snapshot_file": "2026-03-29T12-06-04Z_standard.json"
   }
 ]
