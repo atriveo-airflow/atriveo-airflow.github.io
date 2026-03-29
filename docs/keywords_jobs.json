@@ -11,36 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Applied Cryptography & Cybersecurity Software Engineer \u2013 Post Quantum Focus (M.S. or Ph.D.)",
-    "company": "Exponent",
-    "location": "Los Angeles, CA",
+    "title": "Backend Developer",
+    "company": "AgileGrid Solutions",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4326873345",
+    "job_url": "https://www.linkedin.com/jobs/view/4392355816",
     "date_posted": null,
-    "keyword_score": 41,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Mail",
-    "company": "Notion",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365588470",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Java Developer - W2 & Local Candidates Only",
-    "company": "Pacer Group",
-    "location": "Alpharetta, GA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391900563",
-    "date_posted": null,
-    "keyword_score": 32,
+    "keyword_score": 40,
     "site": "linkedin"
   },
   {
@@ -57,12 +35,34 @@
   {
     "title": "Software Engineer, Discovery (Feed)",
     "company": "Whatnot",
-    "location": "New York, NY",
+    "location": "Los Angeles, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343532368",
+    "job_url": "https://www.linkedin.com/jobs/view/4343455036",
     "date_posted": null,
     "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392343326",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Pennsylvania, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4383031996",
+    "date_posted": null,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
@@ -77,17 +77,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385744352",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Dev Engineer II (SDE2), Amazon Connect",
     "company": "Amazon Web Services (AWS)",
     "location": "Seattle, WA",
@@ -96,28 +85,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4344735527",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Low Touch Desk",
-    "company": "Clear Street",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4327256658",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Sandboxing (Systems)",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4326873442",
-    "date_posted": null,
-    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -140,28 +107,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391663879",
     "date_posted": null,
     "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Autonomy Platform Software Engineer",
-    "company": "Zipline",
-    "location": "South San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343407241",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Frontend Software Engineer",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392345260",
-    "date_posted": null,
-    "keyword_score": 16,
     "site": "linkedin"
   }
 ]
