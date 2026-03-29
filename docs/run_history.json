@@ -6167,5 +6167,28 @@
       "Notion"
     ],
     "snapshot_file": "2026-03-29T13-14-04Z_important.json"
+  },
+  {
+    "session_id": "2026-03-29T13:21:15Z",
+    "run_at": "2026-03-29T13:21:15.327506+00:00",
+    "pipeline": "top500",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -17.9,
+      "max": 67,
+      "high": 16
+    },
+    "top_companies": [
+      "OpenAI",
+      "Netflix",
+      "Scale AI",
+      "LaunchDarkly",
+      "Klaviyo"
+    ],
+    "snapshot_file": "2026-03-29T13-21-15Z_top500.json"
   }
 ]
