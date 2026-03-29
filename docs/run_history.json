@@ -5489,5 +5489,26 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-03-29T00-11-28Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T00:15:51Z",
+    "run_at": "2026-03-29T00:15:51.352470+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 47.5,
+      "max": 54,
+      "high": 4
+    },
+    "top_companies": [
+      "NetApp",
+      "ByteDance",
+      "Randstad Digital Americas",
+      "Virtusa"
+    ],
+    "snapshot_file": "2026-03-29T00-15-51Z_h1b2026.json"
   }
 ]
