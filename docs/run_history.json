@@ -6659,5 +6659,27 @@
       "Scale AI"
     ],
     "snapshot_file": "2026-03-29T17-44-11Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T18:06:17Z",
+    "run_at": "2026-03-29T18:06:17.614858+00:00",
+    "pipeline": "standard",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 9
+    },
+    "scores": {
+      "avg": -309.0,
+      "max": 48,
+      "high": 6
+    },
+    "top_companies": [
+      "Sundayy",
+      "Pacer Group",
+      "Whatnot",
+      "BeaconFire Inc.",
+      "Great Value Hiring"
+    ],
+    "snapshot_file": "2026-03-29T18-06-17Z_standard.json"
   }
 ]
