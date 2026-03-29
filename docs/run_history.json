@@ -6640,5 +6640,24 @@
       "Pacer Group"
     ],
     "snapshot_file": "2026-03-29T17-34-57Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-29T17:44:11Z",
+    "run_at": "2026-03-29T17:44:11.867457+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 29,
+    "levels": {
+      "Entry": 28,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Jobs via Dice",
+      "Whatnot",
+      "BeaconFire Inc.",
+      "Scale AI"
+    ],
+    "snapshot_file": "2026-03-29T17-44-11Z_keywords.json"
   }
 ]
