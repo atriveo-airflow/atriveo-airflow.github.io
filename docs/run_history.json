@@ -6754,5 +6754,26 @@
       "Pacer Group"
     ],
     "snapshot_file": "2026-03-29T18-34-44Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T19:06:36Z",
+    "run_at": "2026-03-29T19:06:36.143741+00:00",
+    "pipeline": "standard",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -378.4,
+      "max": 43,
+      "high": 3
+    },
+    "top_companies": [
+      "hackajob",
+      "BeaconFire Inc.",
+      "AVEVA",
+      "Hirenza"
+    ],
+    "snapshot_file": "2026-03-29T19-06-36Z_standard.json"
   }
 ]
