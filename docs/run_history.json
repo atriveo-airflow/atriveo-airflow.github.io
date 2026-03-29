@@ -5706,5 +5706,28 @@
       "hackajob"
     ],
     "snapshot_file": "2026-03-29T03-35-08Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T04:06:24Z",
+    "run_at": "2026-03-29T04:06:24.482011+00:00",
+    "pipeline": "standard",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -266.6,
+      "max": 109,
+      "high": 7
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Lensa",
+      "hackajob",
+      "myGwork - LGBTQ+ Business Community",
+      "Randstad Digital Americas"
+    ],
+    "snapshot_file": "2026-03-29T04-06-24Z_standard.json"
   }
 ]
