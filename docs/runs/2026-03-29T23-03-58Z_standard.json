@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Founding Backend Engineer",
+    "company": "Jobright.ai",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391690271",
+    "date_posted": null,
+    "batch_time": "2026-03-29T23:03:57Z",
+    "score": 59,
+    "score_pct": 45,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391693289",
+    "date_posted": null,
+    "batch_time": "2026-03-29T23:03:57Z",
+    "score": 49,
+    "score_pct": 38,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391699201",
+    "date_posted": null,
+    "batch_time": "2026-03-29T23:03:57Z",
+    "score": 32,
+    "score_pct": 25,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "FetchJobs.co",
+    "location": "Tucson, AZ",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391683366",
+    "date_posted": null,
+    "batch_time": "2026-03-29T23:03:57Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
