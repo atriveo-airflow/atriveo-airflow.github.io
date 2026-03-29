@@ -1,16 +1,5 @@
 [
   {
-    "title": "Java Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "North Carolina, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390487538",
-    "date_posted": null,
-    "keyword_score": 77,
-    "site": "linkedin"
-  },
-  {
     "title": "Entry Level Software Engineering - Agentic AI & Workflow Automation",
     "company": "Lensa",
     "location": "New York, NY",
@@ -33,6 +22,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Java Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390489257",
+    "date_posted": null,
+    "keyword_score": 36,
+    "site": "linkedin"
+  },
+  {
     "title": "Node.js Backend Developer - Remote",
     "company": "YO IT Consulting",
     "location": "Florida, United States",
@@ -41,6 +41,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391638698",
     "date_posted": null,
     "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4343327745",
+    "date_posted": null,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -55,25 +66,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Rust Software Engineer - Dragonfly Portfolio",
-    "company": "Dragonfly",
-    "location": "",
-    "level": "Entry",
+    "title": "React Software Engineer II",
+    "company": "hackajob",
+    "location": "Wilmington, DE",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384463454",
+    "job_url": "https://www.linkedin.com/jobs/view/4391645778",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Jobs via Dice",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391649613",
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
     "date_posted": null,
-    "keyword_score": 24,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -85,6 +96,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392315686",
     "date_posted": null,
     "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HR Employee Experience",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4389882377",
+    "date_posted": null,
+    "keyword_score": 22,
     "site": "linkedin"
   },
   {
@@ -110,17 +132,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Engineer (Minnesota)",
-    "company": "SkyWater Search Partners",
-    "location": "Minnetonka, MN",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392310616",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer",
     "company": "Jobs via Dice",
     "location": "Franklin Park, IL",
@@ -132,14 +143,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Specialty Software Engineer",
+    "title": "Software Engineer",
     "company": "Jobs via Dice",
-    "location": "Charlotte, NC",
+    "location": "Rockville, MD",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4389876738",
+    "job_url": "https://www.linkedin.com/jobs/view/4389880460",
     "date_posted": null,
-    "keyword_score": 15,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Santa Clara, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390709047",
+    "date_posted": null,
+    "keyword_score": 16,
     "site": "linkedin"
   }
 ]
