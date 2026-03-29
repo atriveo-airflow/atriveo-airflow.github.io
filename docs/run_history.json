@@ -6253,5 +6253,28 @@
       "RemoteHunter"
     ],
     "snapshot_file": "2026-03-29T14-08-48Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T14:18:13Z",
+    "run_at": "2026-03-29T14:18:13.617324+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 13,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -27.9,
+      "max": 67,
+      "high": 13
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "Scale AI",
+      "Notion",
+      "Klaviyo"
+    ],
+    "snapshot_file": "2026-03-29T14-18-13Z_important.json"
   }
 ]
