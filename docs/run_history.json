@@ -6951,5 +6951,23 @@
       "RemoteHunter"
     ],
     "snapshot_file": "2026-03-29T22-05-17Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T22:16:11Z",
+    "run_at": "2026-03-29T22:16:11.119980+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": -999.0,
+      "max": -999,
+      "high": 0
+    },
+    "top_companies": [
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-29T22-16-11Z_top500.json"
   }
 ]
