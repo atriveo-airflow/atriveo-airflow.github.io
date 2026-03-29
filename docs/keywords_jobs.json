@@ -11,17 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer, Distributed Systems",
-    "company": "Jobot",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394159046",
-    "date_posted": null,
-    "keyword_score": 51,
-    "site": "linkedin"
-  },
-  {
     "title": "Junior Backend Software Engineer",
     "company": "HiringAgents.ai",
     "location": "San Francisco, CA",
@@ -44,6 +33,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Engineer (AI-Native) Intern",
+    "company": "Pivotor AI",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391681378",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer I",
     "company": "Sundayy",
     "location": "",
@@ -52,6 +52,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392343326",
     "date_posted": null,
     "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Edge",
+    "company": "myGwork - LGBTQ+ Business Community",
+    "location": "Redwood City, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394539670",
+    "date_posted": null,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
@@ -83,17 +94,6 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392345260",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer -Full stack .NET",
-    "company": "Jobs via Dice",
-    "location": "West Des Moines, IA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391691206",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
