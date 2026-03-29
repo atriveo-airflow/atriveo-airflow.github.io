@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer",
+    "company": "NetApp",
+    "location": "Waltham, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380296929",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Global Payments Financing Product",
     "company": "ByteDance",
     "location": "San Jose, CA",
@@ -10,32 +23,6 @@
     "date_posted": null,
     "priority_score": 52,
     "score_pct": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer,  Global Payment",
-    "company": "ByteDance",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391645285",
-    "date_posted": null,
-    "priority_score": 52,
-    "score_pct": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer (Entry Level)",
-    "company": "Epic",
-    "location": "Warren, MI",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4321375718",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   }
 ]
