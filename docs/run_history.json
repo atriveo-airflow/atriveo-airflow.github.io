@@ -6600,5 +6600,26 @@
       "Palantir Technologies"
     ],
     "snapshot_file": "2026-03-29T17-17-14Z_important.json"
+  },
+  {
+    "session_id": "2026-03-29T17:26:03Z",
+    "run_at": "2026-03-29T17:26:03.330205+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -76.4,
+      "max": 67,
+      "high": 7
+    },
+    "top_companies": [
+      "OpenAI",
+      "Scale AI",
+      "LaunchDarkly",
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-29T17-26-03Z_top500.json"
   }
 ]
