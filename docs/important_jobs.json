@@ -1,5 +1,44 @@
 [
   {
+    "title": "Software Engineer, Platform",
+    "company": "Scale AI",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372796885",
+    "date_posted": null,
+    "priority_score": 67,
+    "score_pct": 52,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Agent Infrastructure",
+    "company": "OpenAI",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4349701713",
+    "date_posted": null,
+    "priority_score": 61,
+    "score_pct": 47,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Mail",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4365580693",
+    "date_posted": null,
+    "priority_score": 56,
+    "score_pct": 43,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Software Engineer, B2B Applications",
     "company": "OpenAI",
     "location": "",
@@ -13,15 +52,54 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer, Core Technology",
-    "company": "Stripe",
+    "title": "Software Engineer II - Flows Platform",
+    "company": "Klaviyo",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4363435459",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Security Software Engineer, Product and AI",
+    "company": "Gusto",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372794138",
+    "date_posted": null,
+    "priority_score": 51,
+    "score_pct": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Distributed Systems",
+    "company": "Figma",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "job_url": "https://www.linkedin.com/jobs/view/4239977995",
     "date_posted": null,
-    "priority_score": 42,
+    "priority_score": 47,
+    "score_pct": 36,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend - Sora",
+    "company": "OpenAI",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4349578269",
+    "date_posted": null,
+    "priority_score": 41,
     "score_pct": 32,
     "site": "linkedin"
   },
@@ -39,6 +117,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - AI Platform",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4371402759",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer L5, Ads Eventing",
     "company": "Netflix",
     "location": "Los Gatos, CA",
@@ -52,16 +143,42 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, C++",
+    "title": "Software Engineer, Graphics & Media",
+    "company": "Figma",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4239979658",
+    "date_posted": null,
+    "priority_score": 27,
+    "score_pct": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Model Lifecycle",
+    "company": "Waymo",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372310221",
+    "date_posted": null,
+    "priority_score": 27,
+    "score_pct": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
     "company": "Figma",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239979662",
+    "job_url": "https://www.linkedin.com/jobs/view/4239980531",
     "date_posted": null,
-    "priority_score": 31,
-    "score_pct": 24,
+    "priority_score": 26,
+    "score_pct": 20,
     "site": "linkedin"
   },
   {
@@ -75,19 +192,6 @@
     "date_posted": null,
     "priority_score": 24,
     "score_pct": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend/API Engineer, Money as a Service",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "level": "New Grad",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343327745",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   }
 ]
