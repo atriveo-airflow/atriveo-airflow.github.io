@@ -1,16 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Charlotte, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4389868998",
-    "date_posted": null,
-    "keyword_score": 73,
-    "site": "linkedin"
-  },
-  {
     "title": "Entry Level Software Engineering - Agentic AI & Workflow Automation",
     "company": "Lensa",
     "location": "New York, NY",
@@ -33,6 +22,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394083452",
+    "date_posted": null,
+    "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390489257",
+    "date_posted": null,
+    "keyword_score": 36,
+    "site": "linkedin"
+  },
+  {
     "title": "Node.js Backend Developer - Remote",
     "company": "YO IT Consulting",
     "location": "Florida, United States",
@@ -44,14 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Engineer (Remote)",
-    "company": "Lensa",
-    "location": "Menomonee Falls, WI",
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392328153",
+    "job_url": "https://www.linkedin.com/jobs/view/4390487539",
     "date_posted": null,
-    "keyword_score": 32,
+    "keyword_score": 33,
     "site": "linkedin"
   },
   {
@@ -74,6 +85,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392334064",
     "date_posted": null,
     "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "React Software Engineer II",
+    "company": "hackajob",
+    "location": "Wilmington, DE",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391645778",
+    "date_posted": null,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
@@ -121,14 +143,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Business Process Software Engineer",
-    "company": "Randstad Digital Americas",
-    "location": "Merrimack, NH",
+    "title": "Software Developer",
+    "company": "Jobs via Dice",
+    "location": "Franklin Park, IL",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391635806",
+    "job_url": "https://www.linkedin.com/jobs/view/4391629812",
     "date_posted": null,
-    "keyword_score": 19,
+    "keyword_score": 17,
     "site": "linkedin"
   },
   {
