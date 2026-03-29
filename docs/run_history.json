@@ -6871,5 +6871,27 @@
       "AgileGrid Solutions"
     ],
     "snapshot_file": "2026-03-29T20-31-35Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T21:05:44Z",
+    "run_at": "2026-03-29T21:05:44.851833+00:00",
+    "pipeline": "standard",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -476.7,
+      "max": 78,
+      "high": 3
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "HiringAgents.ai",
+      "Fenix Studios",
+      "Haystack"
+    ],
+    "snapshot_file": "2026-03-29T21-05-44Z_standard.json"
   }
 ]
