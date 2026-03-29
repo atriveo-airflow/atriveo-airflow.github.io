@@ -6276,5 +6276,28 @@
       "Klaviyo"
     ],
     "snapshot_file": "2026-03-29T14-18-13Z_important.json"
+  },
+  {
+    "session_id": "2026-03-29T14:27:56Z",
+    "run_at": "2026-03-29T14:27:56.971218+00:00",
+    "pipeline": "top500",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 12,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 47.5,
+      "max": 67,
+      "high": 14
+    },
+    "top_companies": [
+      "OpenAI",
+      "Scale AI",
+      "LaunchDarkly",
+      "Klaviyo",
+      "Zoox"
+    ],
+    "snapshot_file": "2026-03-29T14-27-56Z_top500.json"
   }
 ]
