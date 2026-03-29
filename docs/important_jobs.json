@@ -13,6 +13,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Compute - Storage",
+    "company": "OpenAI",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4349617560",
+    "date_posted": null,
+    "priority_score": 61,
+    "score_pct": 47,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Agent Infrastructure",
     "company": "OpenAI",
     "location": "",
@@ -65,26 +78,26 @@
     "site": "linkedin"
   },
   {
-    "title": "Security Software Engineer, Product and AI",
-    "company": "Gusto",
-    "location": "",
+    "title": "Software Engineer, Full Stack (People Innovation)",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372794138",
+    "job_url": "https://www.linkedin.com/jobs/view/4268919673",
     "date_posted": null,
-    "priority_score": 51,
-    "score_pct": 39,
+    "priority_score": 50,
+    "score_pct": 38,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer, Distributed Systems",
     "company": "Figma",
-    "location": "San Francisco, CA",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239977995",
+    "job_url": "https://www.linkedin.com/jobs/view/4239981544",
     "date_posted": null,
     "priority_score": 47,
     "score_pct": 36,
@@ -117,42 +130,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - AI Platform",
-    "company": "Uber",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371402759",
-    "date_posted": null,
-    "priority_score": 34,
-    "score_pct": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer L5, Ads Eventing",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4309915049",
-    "date_posted": null,
-    "priority_score": 32,
-    "score_pct": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Graphics & Media",
+    "title": "Software Engineer, C++",
     "company": "Figma",
-    "location": "New York, NY",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239979658",
+    "job_url": "https://www.linkedin.com/jobs/view/4239979662",
     "date_posted": null,
-    "priority_score": 27,
-    "score_pct": 21,
+    "priority_score": 31,
+    "score_pct": 24,
     "site": "linkedin"
   },
   {
@@ -182,16 +169,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 5 - Ads Member Experience",
-    "company": "Netflix",
-    "location": "New York, United States",
+    "title": "Software Engineer, AI Product",
+    "company": "Figma",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4364164472",
+    "job_url": "https://www.linkedin.com/jobs/view/4239978845",
     "date_posted": null,
-    "priority_score": 24,
-    "score_pct": 18,
+    "priority_score": -999,
+    "score_pct": 0,
     "site": "linkedin"
   }
 ]
