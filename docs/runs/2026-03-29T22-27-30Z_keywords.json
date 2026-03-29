@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Software Engineer I - GCP",
+    "company": "hackajob",
+    "location": "Phoenix, AZ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391800160",
+    "date_posted": null,
+    "keyword_score": 54,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Backend Software Engineer",
+    "company": "HiringAgents.ai",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
+    "date_posted": null,
+    "keyword_score": 46,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392355816",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer (AI-Native) Intern",
+    "company": "Pivotor AI",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391681378",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392343326",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Edge",
+    "company": "myGwork - LGBTQ+ Business Community",
+    "location": "Redwood City, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394539670",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "AVEVA",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4327066549",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391693289",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Frontend Software Engineer",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392345260",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  }
+]
