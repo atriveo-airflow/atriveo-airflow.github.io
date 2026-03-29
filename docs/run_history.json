@@ -6408,5 +6408,26 @@
       "Klaviyo"
     ],
     "snapshot_file": "2026-03-29T15-27-11Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-29T15:36:24Z",
+    "run_at": "2026-03-29T15:36:24.429032+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 42.7,
+      "max": 67,
+      "high": 3
+    },
+    "top_companies": [
+      "Scale AI",
+      "Uber",
+      "Waymo"
+    ],
+    "snapshot_file": "2026-03-29T15-36-24Z_h1b2026.json"
   }
 ]
