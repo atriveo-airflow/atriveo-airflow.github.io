@@ -5,7 +5,7 @@
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372796885",
+    "job_url": "https://www.linkedin.com/jobs/view/4372797944",
     "date_posted": null,
     "keyword_score": 51,
     "site": "linkedin"
@@ -30,6 +30,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4349701713",
     "date_posted": null,
     "keyword_score": 45,
+    "site": "linkedin"
+  },
+  {
+    "title": "Applied Cryptography & Cybersecurity Software Engineer \u2013 Post Quantum Focus (M.S. or Ph.D.)",
+    "company": "Exponent",
+    "location": "Menlo Park, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4326786684",
+    "date_posted": null,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -77,6 +88,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Radar Control & Signal Processing",
+    "company": "Jobs via Dice",
+    "location": "Moorestown, NJ",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391657861",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Mail",
     "company": "Notion",
     "location": "New York, NY",
@@ -85,28 +107,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4365588470",
     "date_posted": null,
     "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Full Stack Software Engineer - Risk",
-    "company": "Chicago Trading Company",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4327106781",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer 3",
-    "company": "hackajob",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391669979",
-    "date_posted": null,
-    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -121,12 +121,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer, Data Platform",
-    "company": "LaunchDarkly",
+    "title": "Software Engineer, Distributed Systems",
+    "company": "Figma",
     "location": "",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4343340006",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4239981544",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -143,12 +143,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Distributed Systems",
-    "company": "Figma",
-    "location": "San Francisco, CA",
+    "title": "Backend Engineer, Data Platform",
+    "company": "LaunchDarkly",
+    "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239977995",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4343340006",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -176,6 +176,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "California, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
     "title": "Java/Javascript Software Engineer",
     "company": "BeaconFire Inc.",
     "location": "North Carolina, United States",
@@ -187,47 +198,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Atlanta, GA",
+    "title": "Software Engineer / Ruby on Rails/ Back-end (San Francisco)",
+    "company": "Levelpath",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385744352",
+    "job_url": "https://www.linkedin.com/jobs/view/4256064995",
     "date_posted": null,
-    "keyword_score": 27,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Cyber) - Early Career",
+    "company": "Jobs via Dice",
+    "location": "Fort Worth, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391655901",
+    "date_posted": null,
+    "keyword_score": 25,
     "site": "linkedin"
   },
   {
     "title": "Software Dev Engineer II (SDE2), Amazon Connect",
     "company": "Amazon Web Services (AWS)",
-    "location": "Seattle, WA",
+    "location": "Santa Clara, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344735527",
+    "job_url": "https://www.linkedin.com/jobs/view/4344646104",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "Tech Consulting",
-    "location": "Colorado, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391670748",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "RemoteHunter",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391655961",
-    "date_posted": null,
-    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -239,6 +239,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4327256658",
     "date_posted": null,
     "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391675758",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (API, AI)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392359452",
+    "date_posted": null,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -264,6 +286,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II",
+    "company": "Optomi",
+    "location": "Charlotte, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391685047",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391656915",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Web for Warfighters",
     "company": "Jobs via Dice",
     "location": "Orlando, FL",
@@ -272,39 +316,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391657867",
     "date_posted": null,
     "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Autonomy Platform Software Engineer",
-    "company": "Zipline",
-    "location": "South San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343407241",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - AI Platform",
-    "company": "Uber",
-    "location": "San Francisco, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4371402759",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Frontend Software Engineer",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392345260",
-    "date_posted": null,
-    "keyword_score": 16,
     "site": "linkedin"
   }
 ]
