@@ -6340,5 +6340,27 @@
       "Scale AI"
     ],
     "snapshot_file": "2026-03-29T14-47-04Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T15:08:40Z",
+    "run_at": "2026-03-29T15:08:40.385555+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 18
+    },
+    "scores": {
+      "avg": -248.8,
+      "max": 59,
+      "high": 13
+    },
+    "top_companies": [
+      "Jobright.ai",
+      "Figma",
+      "Jobs via Dice",
+      "Notion",
+      "Palantir Technologies"
+    ],
+    "snapshot_file": "2026-03-29T15-08-40Z_standard.json"
   }
 ]
