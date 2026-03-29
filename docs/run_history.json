@@ -5470,5 +5470,24 @@
       "Playsaurus Inc."
     ],
     "snapshot_file": "2026-03-29T00-03-33Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-29T00:11:28Z",
+    "run_at": "2026-03-29T00:11:28.691811+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 53.0,
+      "max": 54,
+      "high": 2
+    },
+    "top_companies": [
+      "NetApp",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-03-29T00-11-28Z_top500.json"
   }
 ]
