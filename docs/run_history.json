@@ -6230,5 +6230,28 @@
       "Figma"
     ],
     "snapshot_file": "2026-03-29T13-37-13Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-29T14:08:48Z",
+    "run_at": "2026-03-29T14:08:48.740462+00:00",
+    "pipeline": "standard",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 26,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -108.0,
+      "max": 61,
+      "high": 24
+    },
+    "top_companies": [
+      "OpenAI",
+      "Figma",
+      "Jobs via Dice",
+      "Whatnot",
+      "RemoteHunter"
+    ],
+    "snapshot_file": "2026-03-29T14-08-48Z_standard.json"
   }
 ]
