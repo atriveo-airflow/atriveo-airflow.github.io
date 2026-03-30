@@ -2,14 +2,27 @@
   {
     "title": "Software Engineer II, Backend (Credit Decisioning)",
     "company": "Affirm",
-    "location": "St Louis, MO",
+    "location": "Seattle, WA",
     "level": "Mid",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365801508",
+    "job_url": "https://www.linkedin.com/jobs/view/4321368857",
     "date_posted": null,
     "priority_score": 60,
     "score_pct": 46,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Graduate (Data Platfrom TikTok BP) - 2026 Start (BS/MS)",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4323603794",
+    "date_posted": null,
+    "priority_score": 50,
+    "score_pct": 38,
     "site": "linkedin"
   },
   {
@@ -33,19 +46,6 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4292025906",
-    "date_posted": null,
-    "priority_score": 45,
-    "score_pct": 35,
-    "site": "linkedin"
-  },
-  {
-    "title": "iOS Software Engineer, Ad Formats",
-    "company": "Reddit, Inc.",
-    "location": "Chicago, IL",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "max_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4324000224",
     "date_posted": null,
     "priority_score": 45,
     "score_pct": 35,
@@ -91,19 +91,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer Intern (AI Model Optimization) - 2026 Summer (BS/MS)",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4291503204",
-    "date_posted": null,
-    "priority_score": 39,
-    "score_pct": 30,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer L5 - Open Connect Control Plane",
     "company": "Netflix",
     "location": "",
@@ -127,19 +114,6 @@
     "date_posted": null,
     "priority_score": 35,
     "score_pct": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391812252",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   },
   {
