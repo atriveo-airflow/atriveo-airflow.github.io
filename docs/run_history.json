@@ -1685,5 +1685,23 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T14-04-52Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T14:07:52Z",
+    "run_at": "2026-03-30T14:07:52.599481+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 6.5,
+      "max": 8,
+      "high": 2
+    },
+    "top_companies": [
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-30T14-07-52Z_top500.json"
   }
 ]
