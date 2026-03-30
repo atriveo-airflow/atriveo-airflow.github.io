@@ -8042,5 +8042,28 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T16-23-02Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T16:34:37Z",
+    "run_at": "2026-03-30T16:34:37.811087+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -221.8,
+      "max": 47,
+      "high": 9
+    },
+    "top_companies": [
+      "OpenAI",
+      "Google",
+      "Garmin",
+      "NetApp",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-30T16-34-37Z_top500.json"
   }
 ]
