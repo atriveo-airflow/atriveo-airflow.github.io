@@ -1725,5 +1725,24 @@
       "Entegee"
     ],
     "snapshot_file": "2026-03-30T14-10-51Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T14:13:49Z",
+    "run_at": "2026-03-30T14:13:49.246551+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 12,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Scribd, Inc.",
+      "Figma",
+      "OpenAI",
+      "Collabera",
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-03-30T14-13-49Z_keywords.json"
   }
 ]
