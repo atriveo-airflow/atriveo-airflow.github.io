@@ -7631,5 +7631,27 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-03-30T12-24-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T12:33:13Z",
+    "run_at": "2026-03-30T12:33:13.699269+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -130.7,
+      "max": 48,
+      "high": 5
+    },
+    "top_companies": [
+      "ByteDance",
+      "Stripe",
+      "Pacer Group",
+      "TikTok"
+    ],
+    "snapshot_file": "2026-03-30T12-33-13Z_h1b2026.json"
   }
 ]
