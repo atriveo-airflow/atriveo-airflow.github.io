@@ -8217,5 +8217,28 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-03-30T17-58-05Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T18:10:21Z",
+    "run_at": "2026-03-30T18:10:21.019220+00:00",
+    "pipeline": "standard",
+    "total_jobs": 31,
+    "levels": {
+      "Entry": 30,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -395.9,
+      "max": 70,
+      "high": 18
+    },
+    "top_companies": [
+      "Google",
+      "LinkedIn",
+      "Frame Data & AI",
+      "MyFitnessPal",
+      "Jobs via eFinancialCareers"
+    ],
+    "snapshot_file": "2026-03-30T18-10-21Z_standard.json"
   }
 ]
