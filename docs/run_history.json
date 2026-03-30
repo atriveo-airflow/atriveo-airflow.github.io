@@ -7063,5 +7063,23 @@
       "hackajob"
     ],
     "snapshot_file": "2026-03-30T00-14-28Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T01:02:32Z",
+    "run_at": "2026-03-30T01:02:32.340098+00:00",
+    "pipeline": "standard",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 29.0,
+      "max": 29,
+      "high": 1
+    },
+    "top_companies": [
+      "Trojan Trading"
+    ],
+    "snapshot_file": "2026-03-30T01-02-32Z_standard.json"
   }
 ]
