@@ -7358,5 +7358,29 @@
       "24-MAG"
     ],
     "snapshot_file": "2026-03-30T04-25-27Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T05:05:06Z",
+    "run_at": "2026-03-30T05:05:06.011155+00:00",
+    "pipeline": "standard",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 26,
+      "Mid": 5,
+      "New Grad": 3
+    },
+    "scores": {
+      "avg": -599.9,
+      "max": 95,
+      "high": 13
+    },
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "24-MAG",
+      "Chewy",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-30T05-05-06Z_standard.json"
   }
 ]
