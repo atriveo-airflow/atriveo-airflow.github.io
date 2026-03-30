@@ -7181,5 +7181,24 @@
       "Lensa"
     ],
     "snapshot_file": "2026-03-30T03-04-47Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T03:10:00Z",
+    "run_at": "2026-03-30T03:10:00.574263+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -478.5,
+      "max": 42,
+      "high": 1
+    },
+    "top_companies": [
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-30T03-10-00Z_important.json"
   }
 ]
