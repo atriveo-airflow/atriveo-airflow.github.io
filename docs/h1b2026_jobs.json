@@ -1,28 +1,28 @@
 [
   {
-    "title": "Software Developer / Application Support",
-    "company": "Idexcel",
-    "location": "Washington, DC",
+    "title": "Software Engineer",
+    "company": "Insight Global",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391866573",
+    "job_url": "https://www.linkedin.com/jobs/view/4391864985",
     "date_posted": null,
-    "priority_score": 50,
-    "score_pct": 38,
+    "priority_score": 60,
+    "score_pct": 46,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - StorageGRID",
-    "company": "NetApp",
-    "location": "Morrisville, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395042991",
+    "title": "Software Engineer III, Infrastructure, Google Cloud Global Networking",
+    "company": "Google",
+    "location": "Reston, VA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392116071",
     "date_posted": null,
-    "priority_score": 39,
-    "score_pct": 30,
+    "priority_score": 52,
+    "score_pct": 40,
     "site": "linkedin"
   },
   {
@@ -65,6 +65,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III, Platforms and Devices",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391892109",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Uber",
     "location": "San Francisco, CA",
@@ -78,6 +91,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Decoding, Quantum AI",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "max_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392110168",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Full Stack, gUP Engineering",
     "company": "Google",
     "location": "Pittsburgh, PA",
@@ -88,6 +114,19 @@
     "date_posted": null,
     "priority_score": 33,
     "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - F2F Interview",
+    "company": "IMR Soft LLC",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391879085",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
     "site": "linkedin"
   }
 ]
