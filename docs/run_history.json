@@ -2043,5 +2043,24 @@
       "MeeBoss"
     ],
     "snapshot_file": "2026-03-30T19-54-01Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T19:54:11Z",
+    "run_at": "2026-03-30T19:54:11.507864+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 7.0,
+      "max": 11,
+      "high": 3
+    },
+    "top_companies": [
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T19-54-11Z_important.json"
   }
 ]
