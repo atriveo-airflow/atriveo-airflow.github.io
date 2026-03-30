@@ -7540,5 +7540,25 @@
       "Susquehanna International Group"
     ],
     "snapshot_file": "2026-03-30T09-17-40Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T09:23:11Z",
+    "run_at": "2026-03-30T09:23:11.202155+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Stripe",
+      "Alignerr",
+      "NextGen Coding Company",
+      "OpenAI",
+      "Mopid"
+    ],
+    "snapshot_file": "2026-03-30T09-23-11Z_keywords.json"
   }
 ]
