@@ -1,16 +1,5 @@
 [
   {
-    "title": "Backend Engineer",
-    "company": "Air Apps",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395046325",
-    "date_posted": null,
-    "keyword_score": 57,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer (Python, API)",
     "company": "Sundayy",
     "location": "",
@@ -19,6 +8,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392590482",
     "date_posted": null,
     "keyword_score": 56,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Backend (Python)",
+    "company": "Scribd, Inc.",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391871364",
+    "date_posted": null,
+    "keyword_score": 48,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II (Backend + Data pipelines)",
+    "company": "Scribd, Inc.",
+    "location": "Chicago, IL",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391850793",
+    "date_posted": null,
+    "keyword_score": 44,
     "site": "linkedin"
   },
   {
@@ -33,14 +44,47 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Backend (Credit Decisioning)",
-    "company": "Affirm",
-    "location": "Madison, WI",
-    "level": "Mid",
+    "title": "Software Engineer",
+    "company": "Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4321398856",
+    "job_url": "https://www.linkedin.com/jobs/view/4392916376",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Java Engineer (Entry-Level)",
+    "company": "BeaconFire Inc.",
+    "location": "New Jersey, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4385757460",
     "date_posted": null,
     "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Backend (Credit Decisioning)",
+    "company": "Affirm",
+    "location": "Atlanta, GA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4321452777",
+    "date_posted": null,
+    "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TECHEAD",
+    "location": "Richmond, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392595881",
+    "date_posted": null,
+    "keyword_score": 34,
     "site": "linkedin"
   },
   {
@@ -55,25 +99,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend/API Engineer, Money as a Service",
-    "company": "Stripe",
-    "location": "New York, United States",
-    "level": "New Grad",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
-    "date_posted": null,
-    "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Distributed Systems",
-    "company": "Figma",
-    "location": "New York, NY",
+    "title": "Backend Software Engineer",
+    "company": "Sundayy",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239977994",
+    "job_url": "https://www.linkedin.com/jobs/view/4392595617",
     "date_posted": null,
-    "keyword_score": 31,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -88,34 +121,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Developer",
-    "company": "Mopid",
+    "title": "Software Engineer II - Growth Platform",
+    "company": "Scribd, Inc.",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391863517",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Backend Engineer",
+    "company": "Jobright.ai",
     "location": "San Francisco, CA",
     "level": "Entry",
-    "min_exp": 7.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4395024516",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer Graduate (Data Platfrom TikTok BP) - 2026 Start (BS/MS)",
-    "company": "TikTok",
-    "location": "San Jose, CA",
-    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4323603794",
+    "job_url": "https://www.linkedin.com/jobs/view/4391853574",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 29,
     "site": "linkedin"
   },
   {
-    "title": "Android Software Engineer, Ad Formats",
-    "company": "Reddit, Inc.",
+    "title": "Backend Software Engineer",
+    "company": "Haystack",
     "location": "New York, NY",
     "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4324010233",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392932180",
     "date_posted": null,
     "keyword_score": 28,
     "site": "linkedin"
@@ -132,34 +165,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Production Engineering",
-    "company": "Figma",
-    "location": "",
+    "title": "Android Software Developer",
+    "company": "Collabera",
+    "location": "Memphis, TN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4239981549",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer, Core Technology",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "job_url": "https://www.linkedin.com/jobs/view/4391854515",
     "date_posted": null,
     "keyword_score": 26,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Liquid Cooling",
-    "company": "Delta Electronics Americas",
-    "location": "Plano, TX",
+    "title": "Software Engineer - Production",
+    "company": "Supermicro",
+    "location": "San Jose, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4363494698",
+    "job_url": "https://www.linkedin.com/jobs/view/4365624898",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
@@ -176,25 +198,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Trane Technologies",
-    "location": "Noblesville, IN",
+    "title": "3.81 Software Engineer, Developer Tools",
+    "company": "FieldAI",
+    "location": "Irvine, CA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392588212",
+    "min_exp": 7.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4337627983",
     "date_posted": null,
     "keyword_score": 22,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer- Multiple Levels",
-    "company": "MCS Group - USA |  Your Specialist Recruitment Firm",
-    "location": "Massachusetts, United States",
+    "title": "Junior Software Engineer",
+    "company": "Tech Consulting",
+    "location": "Richmond, VA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392909131",
+    "job_url": "https://www.linkedin.com/jobs/view/4391855323",
     "date_posted": null,
-    "keyword_score": 22,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -220,25 +242,47 @@
     "site": "linkedin"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "Tech Consulting",
-    "location": "Richmond, VA",
+    "title": "Fullstack Software Engineer",
+    "company": "CHAOS Industries",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391855323",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4327137285",
     "date_posted": null,
     "keyword_score": 21,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer Graduate (Ads Infrastructure-Ranking) - 2026 Start (BS/MS)",
-    "company": "TikTok",
-    "location": "San Jose, CA",
+    "title": "Software Engineer, Research - Human Data",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4318956866",
+    "job_url": "https://www.linkedin.com/jobs/view/4351183157",
     "date_posted": null,
     "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "QPU Software Engineer",
+    "company": "CT19",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392598704",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer V",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391852500",
+    "date_posted": null,
+    "keyword_score": 17,
     "site": "linkedin"
   },
   {
@@ -253,12 +297,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer V",
-    "company": "RemoteHunter",
+    "title": "Software Engineer",
+    "company": "Jobright.ai",
     "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391852500",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391855698",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -286,28 +330,6 @@
     "site": "linkedin"
   },
   {
-    "title": "URGENT Backend AI Engineer-Legal Tech!",
-    "company": "Jobot",
-    "location": "Santa Monica, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4381261356",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Goliath Partners",
-    "location": "New York, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392598842",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
     "title": "Frontend Software Engineer",
     "company": "Sundayy",
     "location": "",
@@ -319,12 +341,45 @@
     "site": "linkedin"
   },
   {
-    "title": "Remote Software Developer",
-    "company": "Turing",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer",
+    "company": "Goliath Partners",
+    "location": "New York, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392901713",
+    "job_url": "https://www.linkedin.com/jobs/view/4392910158",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392900767",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391872198",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Textron",
+    "location": "Hunt Valley, MD",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4395058298",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
@@ -343,10 +398,10 @@
   {
     "title": "Remote Software Engineer (US)",
     "company": "Turing",
-    "location": "New York, United States",
+    "location": "Los Angeles, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392599430",
+    "job_url": "https://www.linkedin.com/jobs/view/4392583977",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
