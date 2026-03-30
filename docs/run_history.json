@@ -8656,5 +8656,28 @@
       "Precision Technologies"
     ],
     "snapshot_file": "2026-03-30T21-55-40Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T22:10:36Z",
+    "run_at": "2026-03-30T22:10:36.646194+00:00",
+    "pipeline": "standard",
+    "total_jobs": 41,
+    "levels": {
+      "Entry": 34,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -107.3,
+      "max": 124,
+      "high": 35
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Scribd, Inc.",
+      "Jobright.ai",
+      "RemoteHunter",
+      "AIG"
+    ],
+    "snapshot_file": "2026-03-30T22-10-36Z_standard.json"
   }
 ]
