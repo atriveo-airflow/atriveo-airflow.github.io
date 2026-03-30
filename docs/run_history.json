@@ -8859,5 +8859,25 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-03-30T23-44-36Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T23:55:56Z",
+    "run_at": "2026-03-30T23:55:56.175290+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 43,
+    "levels": {
+      "Entry": 37,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Veeva Systems",
+      "RemoteHunter",
+      "Jobs via Dice",
+      "AIG"
+    ],
+    "snapshot_file": "2026-03-30T23-55-56Z_keywords.json"
   }
 ]
