@@ -1766,5 +1766,24 @@
       "Haystack"
     ],
     "snapshot_file": "2026-03-30T15-05-00Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T15:07:57Z",
+    "run_at": "2026-03-30T15:07:57.151019+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 4,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 6.3,
+      "max": 8,
+      "high": 6
+    },
+    "top_companies": [
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T15-07-57Z_important.json"
   }
 ]
