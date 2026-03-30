@@ -7856,5 +7856,26 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T14-31-28Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T14:42:08Z",
+    "run_at": "2026-03-30T14:42:08.977983+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 43.5,
+      "max": 50,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Idexcel",
+      "Pacer Group"
+    ],
+    "snapshot_file": "2026-03-30T14-42-08Z_h1b2026.json"
   }
 ]
