@@ -7560,5 +7560,28 @@
       "Mopid"
     ],
     "snapshot_file": "2026-03-30T09-23-11Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T12:07:38Z",
+    "run_at": "2026-03-30T12:07:38.486007+00:00",
+    "pipeline": "standard",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 30,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -149.2,
+      "max": 89,
+      "high": 27
+    },
+    "top_companies": [
+      "Sundayy",
+      "TikTok",
+      "RemoteHunter",
+      "Revature",
+      "Air Apps"
+    ],
+    "snapshot_file": "2026-03-30T12-07-38Z_standard.json"
   }
 ]
