@@ -2100,5 +2100,28 @@
       "Emory University"
     ],
     "snapshot_file": "2026-03-30T20-02-16Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T20:03:05Z",
+    "run_at": "2026-03-30T20:03:05.114915+00:00",
+    "pipeline": "standard",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 21,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 5.2,
+      "max": 16,
+      "high": 11
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "WisdomAI",
+      "KellyMitchell Group",
+      "CUBX",
+      "Keel"
+    ],
+    "snapshot_file": "2026-03-30T20-03-05Z_standard.json"
   }
 ]
