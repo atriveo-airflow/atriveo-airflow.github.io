@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Software Engineer, Decoding, Quantum AI",
+    "company": "Google",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392110168",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance, AI and Infrastructure",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392100302",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, Google Cloud Global Networking",
+    "company": "Google",
+    "location": "Reston, VA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392116071",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  }
+]
