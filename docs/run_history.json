@@ -7260,5 +7260,24 @@
       "YO IT Consulting"
     ],
     "snapshot_file": "2026-03-30T03-26-25Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T04:04:35Z",
+    "run_at": "2026-03-30T04:04:35.665785+00:00",
+    "pipeline": "standard",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -999.0,
+      "max": -999,
+      "high": 0
+    },
+    "top_companies": [
+      "Lensa",
+      "Thoro.ai"
+    ],
+    "snapshot_file": "2026-03-30T04-04-35Z_standard.json"
   }
 ]
