@@ -8308,5 +8308,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T18-45-20Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T18:57:02Z",
+    "run_at": "2026-03-30T18:57:02.726433+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 44,
+    "levels": {
+      "Entry": 38,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Scribd, Inc.",
+      "LinkedIn",
+      "hackajob",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T18-57-02Z_keywords.json"
   }
 ]
