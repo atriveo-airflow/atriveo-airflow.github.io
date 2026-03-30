@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "NextGen Coding Company",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392394402",
+    "date_posted": null,
+    "keyword_score": 43,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "New York, United States",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer, ChatGPT Enterprise",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394882860",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Mopid",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": 7.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4395024516",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer ($250,0000 | AI | InsurTech)",
+    "company": "Dex",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392517012",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Python Software Engineer - AI Workflows",
+    "company": "Alignerr",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395005431",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "TechKareer",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391812149",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Python Engineer",
+    "company": "Alignerr",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394895668",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "URGENT Backend AI Engineer-Legal Tech!",
+    "company": "Jobot",
+    "location": "Santa Monica, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4381261356",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  }
+]
