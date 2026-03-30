@@ -1,42 +1,72 @@
 [
   {
-    "title": "Sr. Software Engineer (AI/ LLM)",
-    "company": "Insight Global",
-    "location": "Raleigh, NC",
+    "title": "Software Engineer, TPU Inference, AI/ML",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391869190",
-    "date_posted": null,
-    "priority_score": 11,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=d0f0c19fb2b5710b",
+    "date_posted": 1774828800000,
+    "priority_score": 8,
+    "site": "indeed"
   },
   {
-    "title": "Android Software Developer",
-    "company": "Collabera",
-    "location": "Memphis, TN",
+    "title": "Software Engineer, Machine Health",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391854515",
-    "date_posted": null,
-    "priority_score": 11,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=513f613382e68dce",
+    "date_posted": 1774828800000,
+    "priority_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Platforms and Devices",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=c77f350cf5201658",
+    "date_posted": 1774828800000,
+    "priority_score": 8,
+    "site": "indeed"
   },
   {
     "title": "Software Engineer III, Google Cloud AI",
     "company": "Google",
-    "location": "Kirkland, WA",
+    "location": "Kirkland, WA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391872198",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=68350a6004ea1f98",
+    "date_posted": 1774828800000,
     "priority_score": 8,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Sr. Java Full Stack Software Engineer (Angular PrimeNG / Kendo UI)",
-    "company": "Entegee",
-    "location": "Cocoa Beach, FL",
+    "title": "Software Engineer III, AI/ML GenAI, Google Cloud Compute",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=018d05fc1e1a846b",
+    "date_posted": 1774828800000,
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Front End, Google Cloud AI",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=0f778ea393dc28c7",
+    "date_posted": 1774828800000,
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Developer III, Embedded Systems/Firmware",
+    "company": "Google",
+    "location": "San Jose, CA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4381725692",
-    "date_posted": null,
-    "priority_score": 3,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=6bc8c606887f3453",
+    "date_posted": 1774828800000,
+    "priority_score": 2,
+    "site": "indeed"
   }
 ]
