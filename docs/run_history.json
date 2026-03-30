@@ -8131,5 +8131,27 @@
       "FanDuel"
     ],
     "snapshot_file": "2026-03-30T17-11-09Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T17:22:46Z",
+    "run_at": "2026-03-30T17:22:46.563305+00:00",
+    "pipeline": "important",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 9,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -46.7,
+      "max": 47,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Figma",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-30T17-22-46Z_important.json"
   }
 ]
