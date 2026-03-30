@@ -8065,5 +8065,27 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-30T16-34-37Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T16:46:16Z",
+    "run_at": "2026-03-30T16:46:16.378951+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 41.4,
+      "max": 60,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Insight Global",
+      "NetApp",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-30T16-46-16Z_h1b2026.json"
   }
 ]
