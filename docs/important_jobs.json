@@ -1,52 +1,32 @@
 [
   {
-    "title": "Software Engineer - Applications",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391881641",
+    "title": "Software Engineer III, Infrastructure, Kubernetes Networking",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392112123",
     "date_posted": null,
-    "priority_score": 8,
+    "priority_score": 11,
     "site": "linkedin"
   },
   {
-    "title": "iOS Software Engineer",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
+    "title": "Software Engineer, Decoding, Quantum AI",
+    "company": "Google",
+    "location": "Los Angeles, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391882671",
+    "job_url": "https://www.linkedin.com/jobs/view/4392110168",
     "date_posted": null,
-    "priority_score": 8,
+    "priority_score": 5,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Frontend (DPX)",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391897313",
+    "title": "Software Engineer III, Infrastructure, Google Cloud Global Networking",
+    "company": "Google",
+    "location": "Reston, VA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392116071",
     "date_posted": null,
-    "priority_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Distinguished Software Engineer - AI Infrastructure",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4391887593",
-    "date_posted": null,
-    "priority_score": 2,
-    "site": "linkedin"
-  },
-  {
-    "title": "Distinguished Software Engineer, Machine Learning (Growth)",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4392963214",
-    "date_posted": null,
-    "priority_score": 0,
+    "priority_score": 5,
     "site": "linkedin"
   }
 ]
