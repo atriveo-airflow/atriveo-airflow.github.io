@@ -1922,5 +1922,28 @@
       "LinkedIn"
     ],
     "snapshot_file": "2026-03-30T18-14-48Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T18:15:15Z",
+    "run_at": "2026-03-30T18:15:15.899625+00:00",
+    "pipeline": "standard",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 32,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 8.0,
+      "max": 24,
+      "high": 19
+    },
+    "top_companies": [
+      "Sundayy",
+      "CaseGuard",
+      "LinkedIn",
+      "Allen Control Systems",
+      "Aechelon Technology Inc."
+    ],
+    "snapshot_file": "2026-03-30T18-15-15Z_standard.json"
   }
 ]
