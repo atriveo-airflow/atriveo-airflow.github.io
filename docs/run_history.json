@@ -7484,5 +7484,24 @@
       "Dex"
     ],
     "snapshot_file": "2026-03-30T09-03-42Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T09:08:00Z",
+    "run_at": "2026-03-30T09:08:00.210241+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 42.0,
+      "max": 53,
+      "high": 2
+    },
+    "top_companies": [
+      "OpenAI",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-30T09-08-00Z_important.json"
   }
 ]
