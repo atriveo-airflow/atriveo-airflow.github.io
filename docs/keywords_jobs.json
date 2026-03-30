@@ -44,6 +44,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - Copilot Studio",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391678737",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Robotics",
     "company": "Jobs via Dice",
     "location": "East Hartford, CT",
@@ -66,6 +77,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "New York, United States",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer 1",
     "company": "Lensa",
     "location": "Mountain View, CA",
@@ -74,6 +96,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392369927",
     "date_posted": null,
     "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391692595",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Intern Program - Software Engineer Intern",
+    "company": "Lensa",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392384410",
+    "date_posted": null,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -99,14 +143,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I",
-    "company": "Sundayy",
-    "location": "",
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392343326",
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -118,6 +162,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391678726",
     "date_posted": null,
     "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer - Entry Level",
+    "company": "Lensa",
+    "location": "Minneapolis, MN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392379634",
+    "date_posted": null,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
@@ -143,28 +198,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Remote | Backend Engineer Talent Network \u2014 Up to $150/hr",
-    "company": "24-MAG",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391689607",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Remote Software Engineer II-iOS",
-    "company": "Lensa",
-    "location": "Chicago, IL",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392381539",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
     "title": "Jr. Software Developer",
     "company": "Lensa",
     "location": "",
@@ -176,17 +209,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Frontend Software Engineer",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392345260",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer - Game Engineer",
     "company": "Jobs via Dice",
     "location": "Orlando, FL",
@@ -195,17 +217,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391677829",
     "date_posted": null,
     "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer I",
-    "company": "Lensa",
-    "location": "Pleasanton, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392388013",
-    "date_posted": null,
-    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
