@@ -7157,5 +7157,29 @@
       "Chewy"
     ],
     "snapshot_file": "2026-03-30T02-24-41Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T03:04:47Z",
+    "run_at": "2026-03-30T03:04:47.462484+00:00",
+    "pipeline": "standard",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 9,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -356.9,
+      "max": 95,
+      "high": 8
+    },
+    "top_companies": [
+      "24-MAG",
+      "Chewy",
+      "Jobs via Dice",
+      "hackajob",
+      "Lensa"
+    ],
+    "snapshot_file": "2026-03-30T03-04-47Z_standard.json"
   }
 ]
