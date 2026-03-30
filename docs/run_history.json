@@ -7240,5 +7240,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-30T03-20-51Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T03:26:25Z",
+    "run_at": "2026-03-30T03:26:25.259135+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 15,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Stripe",
+      "Chewy",
+      "YO IT Consulting"
+    ],
+    "snapshot_file": "2026-03-30T03-26-25Z_keywords.json"
   }
 ]
