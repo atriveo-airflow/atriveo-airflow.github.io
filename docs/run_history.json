@@ -8396,5 +8396,28 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-30T19-33-30Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T19:45:15Z",
+    "run_at": "2026-03-30T19:45:15.431296+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -63.7,
+      "max": 60,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "LinkedIn",
+      "Insight Global",
+      "Uber",
+      "IMR Soft LLC"
+    ],
+    "snapshot_file": "2026-03-30T19-45-15Z_h1b2026.json"
   }
 ]
