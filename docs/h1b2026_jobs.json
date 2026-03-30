@@ -1,15 +1,15 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "Insight Global",
-    "location": "Austin, TX",
+    "title": "Java Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Merrimack, NH",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391864985",
+    "job_url": "https://www.linkedin.com/jobs/view/4392947512",
     "date_posted": null,
-    "priority_score": 60,
-    "score_pct": 46,
+    "priority_score": 95,
+    "score_pct": 73,
     "site": "linkedin"
   },
   {
@@ -26,26 +26,13 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Software Engineer (C#/.Net)",
-    "company": "Insight Global",
-    "location": "Austin, Texas Metropolitan Area",
+    "title": "Business Process Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Merrimack, NH",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391208056",
-    "date_posted": null,
-    "priority_score": 44,
-    "score_pct": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391871236",
+    "job_url": "https://www.linkedin.com/jobs/view/4392946539",
     "date_posted": null,
     "priority_score": 43,
     "score_pct": 33,
@@ -62,6 +49,19 @@
     "date_posted": null,
     "priority_score": 39,
     "score_pct": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "iOS Software Engineer",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391882671",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
     "site": "linkedin"
   },
   {
@@ -91,16 +91,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, AI/ML GenAI, Google Cloud Compute",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Mid",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391852479",
+    "title": "Software Engineer - F2F Interview",
+    "company": "IMR Soft LLC",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391879085",
     "date_posted": null,
-    "priority_score": 32,
-    "score_pct": 25,
+    "priority_score": -999,
+    "score_pct": 0,
     "site": "linkedin"
   }
 ]
