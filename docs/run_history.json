@@ -8679,5 +8679,28 @@
       "AIG"
     ],
     "snapshot_file": "2026-03-30T22-10-36Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T22:22:07Z",
+    "run_at": "2026-03-30T22:22:07.426726+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -82.8,
+      "max": 74,
+      "high": 7
+    },
+    "top_companies": [
+      "Veeva Systems",
+      "Google",
+      "Chime",
+      "IBM",
+      "Waymo"
+    ],
+    "snapshot_file": "2026-03-30T22-22-07Z_important.json"
   }
 ]
