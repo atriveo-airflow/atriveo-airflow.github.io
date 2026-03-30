@@ -8614,5 +8614,28 @@
       "Broadcom"
     ],
     "snapshot_file": "2026-03-30T21-33-13Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T21:44:41Z",
+    "run_at": "2026-03-30T21:44:41.493329+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 10,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 45.8,
+      "max": 97,
+      "high": 12
+    },
+    "top_companies": [
+      "LinkedIn",
+      "Precision Technologies",
+      "Veeva Systems",
+      "Miracle Software Systems, Inc",
+      "Collabera"
+    ],
+    "snapshot_file": "2026-03-30T21-44-41Z_h1b2026.json"
   }
 ]
