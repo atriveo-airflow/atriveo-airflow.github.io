@@ -8569,5 +8569,27 @@
       "KellyMitchell Group"
     ],
     "snapshot_file": "2026-03-30T21-10-32Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T21:21:43Z",
+    "run_at": "2026-03-30T21:21:43.742839+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 41.1,
+      "max": 52,
+      "high": 7
+    },
+    "top_companies": [
+      "LinkedIn",
+      "Google",
+      "Chime",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-30T21-21-43Z_important.json"
   }
 ]
