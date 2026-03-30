@@ -8176,5 +8176,27 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-30T17-34-28Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T17:46:09Z",
+    "run_at": "2026-03-30T17:46:09.887526+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -84.0,
+      "max": 95,
+      "high": 7
+    },
+    "top_companies": [
+      "Kforce Inc",
+      "Google",
+      "NetApp",
+      "LinkedIn",
+      "Uber"
+    ],
+    "snapshot_file": "2026-03-30T17-46-09Z_h1b2026.json"
   }
 ]
