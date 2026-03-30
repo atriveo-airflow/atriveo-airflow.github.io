@@ -39,6 +39,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III, Platforms and Devices",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391892109",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Uber",
     "location": "San Francisco, CA",
@@ -52,16 +65,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 2",
-    "company": "Garmin",
-    "location": "Olathe, KS",
+    "title": "Software Engineer, Decoding, Quantum AI",
+    "company": "Google",
+    "location": "Goleta, CA",
     "level": "Entry",
-    "min_exp": 1.0,
-    "max_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392929473",
+    "min_exp": 3.0,
+    "max_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392109198",
     "date_posted": null,
-    "priority_score": 33,
-    "score_pct": 25,
+    "priority_score": 34,
+    "score_pct": 26,
     "site": "linkedin"
   },
   {
@@ -74,19 +87,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391877263",
     "date_posted": null,
     "priority_score": 33,
-    "score_pct": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, Health and Home",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Mid",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391895070",
-    "date_posted": null,
-    "priority_score": 32,
     "score_pct": 25,
     "site": "linkedin"
   },
@@ -117,32 +117,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Aviation",
-    "company": "Garmin",
-    "location": "St Louis, MO",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "max_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392915754",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Internal Infrastructure (North America)",
-    "company": "Cohere",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4311852189",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Broadcom",
     "location": "San Jose, CA",
@@ -150,19 +124,6 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4372856572",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer III, Embedded Systems/Firmware",
-    "company": "Google",
-    "location": "San Jose, CA",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391895065",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
