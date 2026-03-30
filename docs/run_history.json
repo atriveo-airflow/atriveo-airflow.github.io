@@ -7027,5 +7027,25 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-03-29T23-20-36Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T00:02:43Z",
+    "run_at": "2026-03-30T00:02:43.630037+00:00",
+    "pipeline": "standard",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": -316.7,
+      "max": 27,
+      "high": 2
+    },
+    "top_companies": [
+      "Code on JVM Chennai",
+      "Playsaurus Inc.",
+      "Todd"
+    ],
+    "snapshot_file": "2026-03-30T00-02-43Z_standard.json"
   }
 ]
