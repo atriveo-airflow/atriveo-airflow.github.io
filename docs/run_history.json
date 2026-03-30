@@ -7522,5 +7522,23 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-30T09-12-32Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T09:17:40Z",
+    "run_at": "2026-03-30T09:17:40.599232+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 26.0,
+      "max": 26,
+      "high": 1
+    },
+    "top_companies": [
+      "Susquehanna International Group"
+    ],
+    "snapshot_file": "2026-03-30T09-17-40Z_h1b2026.json"
   }
 ]
