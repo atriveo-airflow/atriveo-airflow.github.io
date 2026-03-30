@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Software Engineer - Applications",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391881641",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "iOS Software Engineer",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391882671",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Frontend (DPX)",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391897313",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Distinguished Software Engineer - AI Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391887593",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
+  },
+  {
+    "title": "Distinguished Software Engineer, Machine Learning (Growth)",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392963214",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
+  }
+]
