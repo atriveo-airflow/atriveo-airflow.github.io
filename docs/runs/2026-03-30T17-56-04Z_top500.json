@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392935757",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Machine Health",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391873919",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, TPU Inference, AI/ML",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391877266",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Full Stack, gUP Engineering",
+    "company": "Google",
+    "location": "Pittsburgh, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391877263",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Health and Home",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391895070",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Mobile (iOS), Search Notifications, User Experience",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391893099",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
+  }
+]
