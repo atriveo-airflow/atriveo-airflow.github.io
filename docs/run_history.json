@@ -7120,5 +7120,23 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-03-30T02-04-36Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T02:14:31Z",
+    "run_at": "2026-03-30T02:14:31.050048+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 78.5,
+      "max": 95,
+      "high": 2
+    },
+    "top_companies": [
+      "Chewy"
+    ],
+    "snapshot_file": "2026-03-30T02-14-31Z_top500.json"
   }
 ]
