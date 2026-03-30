@@ -7979,5 +7979,24 @@
       "Insight Global"
     ],
     "snapshot_file": "2026-03-30T15-45-06Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T15:56:43Z",
+    "run_at": "2026-03-30T15:56:43.937693+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 39,
+    "levels": {
+      "Entry": 35,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Scribd, Inc.",
+      "OpenAI",
+      "Turing",
+      "Air Apps"
+    ],
+    "snapshot_file": "2026-03-30T15-56-43Z_keywords.json"
   }
 ]
