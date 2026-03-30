@@ -8546,5 +8546,28 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-03-30T20-57-19Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T21:10:32Z",
+    "run_at": "2026-03-30T21:10:32.462635+00:00",
+    "pipeline": "standard",
+    "total_jobs": 30,
+    "levels": {
+      "Entry": 25,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -129.8,
+      "max": 89,
+      "high": 25
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Scribd, Inc.",
+      "hackajob",
+      "Eliassen Group",
+      "KellyMitchell Group"
+    ],
+    "snapshot_file": "2026-03-30T21-10-32Z_standard.json"
   }
 ]
