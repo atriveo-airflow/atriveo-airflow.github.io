@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fullstack Software Engineer - DET",
+    "company": "Informatica",
+    "location": "Mexico, MO, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=c9e982974d266ee7",
+    "date_posted": "2026-03-30T00:00:00.000",
+    "priority_score": 11,
+    "site": "indeed"
+  },
+  {
+    "title": "iOS Software Engineer, Monetization Client - Ads Core Technology, Demonstration",
+    "company": "TikTok",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391893723",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer (Entry Level)",
+    "company": "Epic",
+    "location": "Independence, MO",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4363437671",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  }
+]
