@@ -8591,5 +8591,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-30T21-21-43Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T21:33:13Z",
+    "run_at": "2026-03-30T21:33:13.378703+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -220.8,
+      "max": 49,
+      "high": 6
+    },
+    "top_companies": [
+      "LinkedIn",
+      "Google",
+      "Chime",
+      "Epic",
+      "Broadcom"
+    ],
+    "snapshot_file": "2026-03-30T21-33-13Z_top500.json"
   }
 ]
