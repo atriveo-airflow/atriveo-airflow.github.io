@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Sr. Software Engineer (AI/ LLM)",
+    "company": "Insight Global",
+    "location": "Raleigh, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391869190",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Android Software Developer",
+    "company": "Collabera",
+    "location": "Memphis, TN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391854515",
+    "date_posted": null,
+    "priority_score": 11,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391872198",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Java Full Stack Software Engineer (Angular PrimeNG / Kendo UI)",
+    "company": "Entegee",
+    "location": "Cocoa Beach, FL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4381725692",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  }
+]
