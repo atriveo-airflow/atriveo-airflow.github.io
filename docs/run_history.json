@@ -8481,5 +8481,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-03-30T20-22-45Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T20:34:21Z",
+    "run_at": "2026-03-30T20:34:21.355490+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 11,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -120.8,
+      "max": 52,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "LinkedIn",
+      "Chime",
+      "Uber",
+      "Epic"
+    ],
+    "snapshot_file": "2026-03-30T20-34-21Z_top500.json"
   }
 ]
