@@ -7958,5 +7958,26 @@
       "Garmin"
     ],
     "snapshot_file": "2026-03-30T15-33-12Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T15:45:06Z",
+    "run_at": "2026-03-30T15:45:06.148721+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 37.3,
+      "max": 50,
+      "high": 3
+    },
+    "top_companies": [
+      "Idexcel",
+      "Google",
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-03-30T15-45-06Z_h1b2026.json"
   }
 ]
