@@ -7583,5 +7583,29 @@
       "Air Apps"
     ],
     "snapshot_file": "2026-03-30T12-07-38Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T12:15:59Z",
+    "run_at": "2026-03-30T12:15:59.544440+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -103.4,
+      "max": 60,
+      "high": 6
+    },
+    "top_companies": [
+      "Reddit, Inc.",
+      "Stripe",
+      "Affirm",
+      "Figma",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-30T12-15-59Z_important.json"
   }
 ]
