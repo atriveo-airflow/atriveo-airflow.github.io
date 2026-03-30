@@ -8790,5 +8790,28 @@
       "Precision Technologies"
     ],
     "snapshot_file": "2026-03-30T23-10-28Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T23:21:59Z",
+    "run_at": "2026-03-30T23:21:59.973060+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -86.4,
+      "max": 66,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Veeva Systems",
+      "Chime",
+      "IBM",
+      "LinkedIn"
+    ],
+    "snapshot_file": "2026-03-30T23-21-59Z_important.json"
   }
 ]
