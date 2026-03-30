@@ -2082,5 +2082,23 @@
       "Epic"
     ],
     "snapshot_file": "2026-03-30T19-58-21Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T20:02:16Z",
+    "run_at": "2026-03-30T20:02:16.369294+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 9.0,
+      "max": 9,
+      "high": 1
+    },
+    "top_companies": [
+      "Emory University"
+    ],
+    "snapshot_file": "2026-03-30T20-02-16Z_h1b2026.json"
   }
 ]
