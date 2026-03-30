@@ -1,0 +1,47 @@
+[
+  {
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "company": "Code on JVM Chennai",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394812927",
+    "date_posted": null,
+    "batch_time": "2026-03-30T00:02:43Z",
+    "score": 27,
+    "score_pct": 21,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "LATAM - Backend Developer",
+    "company": "Playsaurus Inc.",
+    "location": "Alameda, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394812921",
+    "date_posted": null,
+    "batch_time": "2026-03-30T00:02:43Z",
+    "score": 22,
+    "score_pct": 17,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Developer Intern (Summer '26)",
+    "company": "Todd",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391680558",
+    "date_posted": null,
+    "batch_time": "2026-03-30T00:02:43Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
