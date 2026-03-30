@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Intellect Group",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4379716988",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Helic & Co.",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392940085",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Stellar Solutions",
+    "location": "St. Louis, MO, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=7dbdab4ba8e35f1a",
+    "date_posted": "2026-03-30T00:00:00.000",
+    "score": 15,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Sr. Software Engineer",
+    "company": "Trane Technologies",
+    "location": "Saint Paul, MN, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=4cbeaf171f6307db",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "score": 14,
+    "competition_score": 4,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Discovery (Feed)",
+    "company": "Whatnot",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4327167357",
+    "date_posted": null,
+    "score": 14,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Trane Technologies",
+    "location": "Noblesville, IN, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=9683b519cb61e227",
+    "date_posted": "2026-03-25T00:00:00.000",
+    "score": 8,
+    "competition_score": 4,
+    "site": "indeed"
+  },
+  {
+    "title": "Jr. Software Engineer - AI & Prompt Engineering (Contract to Perm)",
+    "company": "Locality Streaming",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391960685",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Software Engineer",
+    "company": "Recruiting from Scratch",
+    "location": "New York, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4388999731",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Berkshire Hathaway Shoe Holdings",
+    "location": "Andover, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391881123",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Internal Infrastructure (North America)",
+    "company": "Cohere",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4311852189",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Recruiting from Scratch",
+    "location": "Phoenix, AZ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4383146518",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - F2F Interview",
+    "company": "IMR Soft LLC",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391879085",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer (Entry Level)",
+    "company": "Epic",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4363407597",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Frontend Software Engineer II",
+    "company": "Bestow",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4312797454",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Apollo Technology Solutions LLC",
+    "location": "NJ, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8aa985e03500630d",
+    "date_posted": "2026-03-30T00:00:00.000",
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "Turing",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392915981",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2026",
+    "company": "Akuna Capital",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4266390955",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  }
+]
