@@ -7319,5 +7319,24 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-30T04-14-58Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T04:20:08Z",
+    "run_at": "2026-03-30T04:20:08.808436+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -478.5,
+      "max": 42,
+      "high": 1
+    },
+    "top_companies": [
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-30T04-20-08Z_h1b2026.json"
   }
 ]
