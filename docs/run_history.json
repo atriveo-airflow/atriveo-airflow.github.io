@@ -8263,5 +8263,28 @@
       "Broadcom"
     ],
     "snapshot_file": "2026-03-30T18-21-43Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T18:33:35Z",
+    "run_at": "2026-03-30T18:33:35.540901+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 12,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -363.8,
+      "max": 37,
+      "high": 8
+    },
+    "top_companies": [
+      "LinkedIn",
+      "Google",
+      "Garmin",
+      "Uber",
+      "Character.AI"
+    ],
+    "snapshot_file": "2026-03-30T18-33-35Z_top500.json"
   }
 ]
