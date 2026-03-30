@@ -44,25 +44,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Copilot Studio",
-    "company": "Jobs via Dice",
-    "location": "Redmond, WA",
+    "title": "Software Engineer III",
+    "company": "Chewy",
+    "location": "Boston, MA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391678737",
+    "job_url": "https://www.linkedin.com/jobs/view/4392386290",
     "date_posted": null,
-    "keyword_score": 35,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Robotics",
-    "company": "Jobs via Dice",
-    "location": "East Hartford, CT",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391696525",
-    "date_posted": null,
-    "keyword_score": 34,
+    "keyword_score": 36,
     "site": "linkedin"
   },
   {
@@ -99,23 +88,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
+    "title": "Software Engineer, Operations",
     "company": "Jobs via Dice",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391692595",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Intern Program - Software Engineer Intern",
-    "company": "Lensa",
-    "location": "Chicago, IL",
+    "location": "Boston, MA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392384410",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391678746",
     "date_posted": null,
     "keyword_score": 28,
     "site": "linkedin"
@@ -127,17 +105,6 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392365993",
-    "date_posted": null,
-    "keyword_score": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Operations",
-    "company": "Jobs via Dice",
-    "location": "Boston, MA",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391678746",
     "date_posted": null,
     "keyword_score": 28,
     "site": "linkedin"
@@ -198,6 +165,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Remote | Backend Engineer Talent Network \u2014 Up to $150/hr",
+    "company": "24-MAG",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391689607",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry Level Software Developer",
+    "company": "Lensa",
+    "location": "Vienna, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392379595",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Jr. Software Developer",
     "company": "Lensa",
     "location": "",
@@ -217,6 +206,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391677829",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Lensa",
+    "location": "Pleasanton, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392388013",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
