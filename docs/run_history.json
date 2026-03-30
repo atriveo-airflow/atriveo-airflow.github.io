@@ -8748,5 +8748,24 @@
       "Strategic Staffing Solutions"
     ],
     "snapshot_file": "2026-03-30T22-44-47Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T22:56:20Z",
+    "run_at": "2026-03-30T22:56:20.762007+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 48,
+    "levels": {
+      "Entry": 39,
+      "Mid": 9
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Scribd, Inc.",
+      "Jobs via Dice",
+      "MeeBoss",
+      "TD"
+    ],
+    "snapshot_file": "2026-03-30T22-56-20Z_keywords.json"
   }
 ]
