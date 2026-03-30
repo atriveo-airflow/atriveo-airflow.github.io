@@ -7462,5 +7462,27 @@
       "BioSpace"
     ],
     "snapshot_file": "2026-03-30T05-27-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T09:03:42Z",
+    "run_at": "2026-03-30T09:03:42.345194+00:00",
+    "pipeline": "standard",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 18
+    },
+    "scores": {
+      "avg": -80.2,
+      "max": 65,
+      "high": 16
+    },
+    "top_companies": [
+      "Alignerr",
+      "Crossing Hurdles",
+      "NextGen Coding Company",
+      "OpenAI",
+      "Dex"
+    ],
+    "snapshot_file": "2026-03-30T09-03-42Z_standard.json"
   }
 ]
