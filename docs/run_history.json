@@ -8527,5 +8527,24 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-03-30T20-45-55Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T20:57:19Z",
+    "run_at": "2026-03-30T20:57:19.816048+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 52,
+    "levels": {
+      "Entry": 42,
+      "Mid": 10
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Scribd, Inc.",
+      "Google",
+      "LinkedIn",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-03-30T20-57-19Z_keywords.json"
   }
 ]
