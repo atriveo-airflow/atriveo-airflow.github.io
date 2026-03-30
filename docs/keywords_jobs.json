@@ -22,6 +22,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Fixed Duration",
+    "company": "BioSpace",
+    "location": "Louisville, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392399035",
+    "date_posted": null,
+    "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry Level Software Engineering - Agentic AI & Workflow Automation",
+    "company": "Lensa",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392376669",
+    "date_posted": null,
+    "keyword_score": 50,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (Remote)",
     "company": "Lensa",
     "location": "Menomonee Falls, WI",
@@ -66,6 +88,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Robotics",
+    "company": "Jobs via Dice",
+    "location": "East Hartford, CT",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391696525",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend/API Engineer, Money as a Service",
     "company": "Stripe",
     "location": "New York, United States",
@@ -88,14 +121,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Operations",
+    "title": "Software Engineer II",
     "company": "Jobs via Dice",
-    "location": "Boston, MA",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391678746",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391692595",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
@@ -105,6 +138,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4392365993",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Operations",
+    "company": "Jobs via Dice",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391678746",
     "date_posted": null,
     "keyword_score": 28,
     "site": "linkedin"
@@ -165,14 +209,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Remote | Backend Engineer Talent Network \u2014 Up to $150/hr",
-    "company": "24-MAG",
-    "location": "San Francisco, CA",
+    "title": "Software Developer - Prototype Automotive Electronics - C++ / React.js & node.js / Front end coding  (Full Benefits Package)",
+    "company": "Akkodis",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391689607",
+    "job_url": "https://www.linkedin.com/jobs/view/4372636482",
     "date_posted": null,
-    "keyword_score": 21,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -198,6 +242,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Developer - Internship",
+    "company": "Lensa",
+    "location": "Rockville, MD",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392388016",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Game Engineer",
     "company": "Jobs via Dice",
     "location": "Orlando, FL",
@@ -206,6 +261,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391677829",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Textron Systems",
+    "location": "Hunt Valley, MD",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391692996",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   },
   {
