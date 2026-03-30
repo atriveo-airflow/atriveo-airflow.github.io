@@ -7833,5 +7833,28 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-30T14-20-24Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T14:31:28Z",
+    "run_at": "2026-03-30T14:31:28.473178+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -72.3,
+      "max": 60,
+      "high": 8
+    },
+    "top_companies": [
+      "OpenAI",
+      "Garmin",
+      "Affirm",
+      "Reddit, Inc.",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T14-31-28Z_top500.json"
   }
 ]
