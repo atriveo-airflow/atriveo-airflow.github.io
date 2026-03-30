@@ -8767,5 +8767,28 @@
       "TD"
     ],
     "snapshot_file": "2026-03-30T22-56-20Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T23:10:28Z",
+    "run_at": "2026-03-30T23:10:28.232105+00:00",
+    "pipeline": "standard",
+    "total_jobs": 30,
+    "levels": {
+      "Entry": 25,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -306.4,
+      "max": 110,
+      "high": 20
+    },
+    "top_companies": [
+      "Google",
+      "RemoteHunter",
+      "Expedite Talent Solutions",
+      "Walmart",
+      "Precision Technologies"
+    ],
+    "snapshot_file": "2026-03-30T23-10-28Z_standard.json"
   }
 ]
