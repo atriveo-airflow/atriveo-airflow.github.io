@@ -7744,5 +7744,28 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-03-30T13-28-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T13:38:14Z",
+    "run_at": "2026-03-30T13:38:14.528035+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -257.9,
+      "max": 50,
+      "high": 5
+    },
+    "top_companies": [
+      "TikTok",
+      "Stripe",
+      "Susquehanna International Group",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T13-38-14Z_h1b2026.json"
   }
 ]
