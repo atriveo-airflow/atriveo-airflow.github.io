@@ -1,72 +1,54 @@
 [
   {
-    "title": "Software Engineer, TPU Inference, AI/ML",
-    "company": "Google",
-    "location": "Kirkland, WA, US",
+    "title": "Software Developer / Application Support",
+    "company": "Idexcel",
+    "location": "Washington, DC",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=d0f0c19fb2b5710b",
-    "date_posted": 1774828800000,
-    "priority_score": 8,
-    "site": "indeed"
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391866573",
+    "date_posted": null,
+    "priority_score": 50,
+    "score_pct": 38,
+    "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Machine Health",
-    "company": "Google",
-    "location": "Sunnyvale, CA, US",
+    "title": "Backend Java Developer - W2 & Local Candidates Only",
+    "company": "Pacer Group",
+    "location": "Alpharetta, GA",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=513f613382e68dce",
-    "date_posted": 1774828800000,
-    "priority_score": 8,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer III, Platforms and Devices",
-    "company": "Google",
-    "location": "Mountain View, CA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=c77f350cf5201658",
-    "date_posted": 1774828800000,
-    "priority_score": 8,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud AI",
-    "company": "Google",
-    "location": "Kirkland, WA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=68350a6004ea1f98",
-    "date_posted": 1774828800000,
-    "priority_score": 8,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer III, AI/ML GenAI, Google Cloud Compute",
-    "company": "Google",
-    "location": "Kirkland, WA, US",
-    "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=018d05fc1e1a846b",
-    "date_posted": 1774828800000,
-    "priority_score": 5,
-    "site": "indeed"
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391900563",
+    "date_posted": null,
+    "priority_score": 48,
+    "score_pct": 37,
+    "site": "linkedin"
   },
   {
     "title": "Software Engineer III, Front End, Google Cloud AI",
     "company": "Google",
-    "location": "Kirkland, WA, US",
+    "location": "Kirkland, WA",
     "level": "Mid",
-    "job_url": "https://www.indeed.com/viewjob?jk=0f778ea393dc28c7",
-    "date_posted": 1774828800000,
-    "priority_score": 5,
-    "site": "indeed"
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391814252",
+    "date_posted": null,
+    "priority_score": 39,
+    "score_pct": 30,
+    "site": "linkedin"
   },
   {
-    "title": "Software Developer III, Embedded Systems/Firmware",
+    "title": "Software Engineer III, Generative AI, Payments Risk",
     "company": "Google",
-    "location": "San Jose, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=6bc8c606887f3453",
-    "date_posted": 1774828800000,
-    "priority_score": 2,
-    "site": "indeed"
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391823156",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
   }
 ]
