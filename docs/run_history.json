@@ -2123,5 +2123,24 @@
       "Keel"
     ],
     "snapshot_file": "2026-03-30T20-03-05Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T20:08:08Z",
+    "run_at": "2026-03-30T20:08:08.868507+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 19,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Google",
+      "Jobs via Dice",
+      "KellyMitchell Group",
+      "Piper Companies",
+      "The Guitar Center Company"
+    ],
+    "snapshot_file": "2026-03-30T20-08-08Z_keywords.json"
   }
 ]
