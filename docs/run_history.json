@@ -7200,5 +7200,26 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-30T03-10-00Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T03:15:20Z",
+    "run_at": "2026-03-30T03:15:20.466792+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -200.0,
+      "max": 95,
+      "high": 3
+    },
+    "top_companies": [
+      "Chewy",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-30T03-15-20Z_top500.json"
   }
 ]
