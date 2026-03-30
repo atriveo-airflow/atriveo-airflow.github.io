@@ -1804,5 +1804,24 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T15-10-54Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-30T15:15:03Z",
+    "run_at": "2026-03-30T15:15:03.470665+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 4,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 6.3,
+      "max": 8,
+      "high": 6
+    },
+    "top_companies": [
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T15-15-03Z_h1b2026.json"
   }
 ]
