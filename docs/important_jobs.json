@@ -1,52 +1,72 @@
 [
   {
-    "title": "Software Engineer, Distributed Systems",
-    "company": "Figma",
-    "location": "New York, NY",
+    "title": "Software Engineer, TPU Inference, AI/ML",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4239977994",
-    "date_posted": null,
-    "priority_score": 13,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=d0f0c19fb2b5710b",
+    "date_posted": 1774828800000,
+    "priority_score": 8,
+    "site": "indeed"
   },
   {
-    "title": "Software Engineer, Hardware",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer, Machine Health",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4333441113",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=513f613382e68dce",
+    "date_posted": 1774828800000,
     "priority_score": 8,
-    "site": "linkedin"
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer III, Platforms and Devices",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=c77f350cf5201658",
+    "date_posted": 1774828800000,
+    "priority_score": 8,
+    "site": "indeed"
   },
   {
     "title": "Software Engineer III, Google Cloud AI",
     "company": "Google",
-    "location": "Sunnyvale, CA",
+    "location": "Kirkland, WA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4391871236",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=68350a6004ea1f98",
+    "date_posted": 1774828800000,
     "priority_score": 8,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Software Engineer, Research - Human Data",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4351183157",
-    "date_posted": null,
+    "title": "Software Engineer III, AI/ML GenAI, Google Cloud Compute",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=018d05fc1e1a846b",
+    "date_posted": 1774828800000,
     "priority_score": 5,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Software Engineer, Machine Learning",
-    "company": "Figma",
-    "location": "New York, NY",
+    "title": "Software Engineer III, Front End, Google Cloud AI",
+    "company": "Google",
+    "location": "Kirkland, WA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=0f778ea393dc28c7",
+    "date_posted": 1774828800000,
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Developer III, Embedded Systems/Firmware",
+    "company": "Google",
+    "location": "San Jose, CA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4239984019",
-    "date_posted": null,
-    "priority_score": 3,
-    "site": "linkedin"
+    "job_url": "https://www.indeed.com/viewjob?jk=6bc8c606887f3453",
+    "date_posted": 1774828800000,
+    "priority_score": 2,
+    "site": "indeed"
   }
 ]
