@@ -8107,5 +8107,29 @@
       "Rivago Infotech Inc"
     ],
     "snapshot_file": "2026-03-30T16-58-04Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-30T17:11:09Z",
+    "run_at": "2026-03-30T17:11:09.825847+00:00",
+    "pipeline": "standard",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 20,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -222.3,
+      "max": 68,
+      "high": 18
+    },
+    "top_companies": [
+      "Google",
+      "TalentBurst, an Inc 5000 company",
+      "Exyn Technologies",
+      "Harbor.ai",
+      "FanDuel"
+    ],
+    "snapshot_file": "2026-03-30T17-11-09Z_standard.json"
   }
 ]
