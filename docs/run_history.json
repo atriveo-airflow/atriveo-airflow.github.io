@@ -7938,5 +7938,25 @@
       "Figma"
     ],
     "snapshot_file": "2026-03-30T15-21-29Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T15:33:12Z",
+    "run_at": "2026-03-30T15:33:12.052266+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -373.4,
+      "max": 47,
+      "high": 3
+    },
+    "top_companies": [
+      "OpenAI",
+      "Epic",
+      "Garmin"
+    ],
+    "snapshot_file": "2026-03-30T15-33-12Z_top500.json"
   }
 ]
