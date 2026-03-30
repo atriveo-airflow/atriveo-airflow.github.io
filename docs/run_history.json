@@ -1664,5 +1664,26 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T14-01-55Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T14:04:52Z",
+    "run_at": "2026-03-30T14:04:52.653374+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 7.4,
+      "max": 13,
+      "high": 4
+    },
+    "top_companies": [
+      "Figma",
+      "OpenAI",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-30T14-04-52Z_important.json"
   }
 ]
