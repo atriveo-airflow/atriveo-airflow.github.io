@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Software Engineer II",
+    "company": "Chewy",
+    "location": "Minneapolis, MN",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392372820",
+    "date_posted": null,
+    "priority_score": 95,
+    "score_pct": 73,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Chewy",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392386290",
+    "date_posted": null,
+    "priority_score": 62,
+    "score_pct": 48,
+    "site": "linkedin"
+  }
+]
