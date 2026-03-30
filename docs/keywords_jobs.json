@@ -1,24 +1,101 @@
 [
   {
-    "title": "Software Engineer (Java, AI)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Chewy",
+    "location": "Minneapolis, MN",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392351038",
+    "job_url": "https://www.linkedin.com/jobs/view/4392372820",
     "date_posted": null,
-    "keyword_score": 59,
+    "keyword_score": 63,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I - GCP",
-    "company": "hackajob",
-    "location": "Phoenix, AZ",
+    "title": "Python Software Engineer (Remote)",
+    "company": "Lensa",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391800160",
+    "job_url": "https://www.linkedin.com/jobs/view/4392369948",
     "date_posted": null,
-    "keyword_score": 54,
+    "keyword_score": 60,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Remote)",
+    "company": "Lensa",
+    "location": "Menomonee Falls, WI",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392380655",
+    "date_posted": null,
+    "keyword_score": 49,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Lensa",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 7.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392380595",
+    "date_posted": null,
+    "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Robotics",
+    "company": "Jobs via Dice",
+    "location": "East Hartford, CT",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391696525",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Node.js Backend Developer - Remote",
+    "company": "YO IT Consulting",
+    "location": "Washington, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391695566",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1",
+    "company": "Lensa",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392369927",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Summer 2026 Intern - Software Developer (IT) - 2 Openings",
+    "company": "Lensa",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392365993",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Operations",
+    "company": "Jobs via Dice",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391678746",
+    "date_posted": null,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -33,12 +110,67 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
+    "title": "Remote | Python Software Engineer \u2014 Up to $100/hr",
+    "company": "24-MAG",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391678726",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "2026 Summer Intern - AI/ML Software Engineer (Master's)",
+    "company": "Lensa",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392375653",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "Lensa",
+    "location": "Cary, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392381500",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote | Backend Engineer Talent Network \u2014 Up to $150/hr",
+    "company": "24-MAG",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391689607",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Engineer II-iOS",
+    "company": "Lensa",
+    "location": "Chicago, IL",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392381539",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Jr. Software Developer",
+    "company": "Lensa",
     "location": "",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4391693289",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392382557",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -52,6 +184,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392345260",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Game Engineer",
+    "company": "Jobs via Dice",
+    "location": "Orlando, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391677829",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Lensa",
+    "location": "Pleasanton, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392388013",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
