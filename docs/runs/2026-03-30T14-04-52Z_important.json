@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Software Engineer, Distributed Systems",
+    "company": "Figma",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4239977994",
+    "date_posted": null,
+    "priority_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Hardware",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4333441113",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4391871236",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Research - Human Data",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4351183157",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
+    "company": "Figma",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4239984019",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  }
+]
