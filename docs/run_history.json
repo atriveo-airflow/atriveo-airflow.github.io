@@ -7607,5 +7607,29 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-30T12-15-59Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T12:24:29Z",
+    "run_at": "2026-03-30T12:24:29.149839+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 9,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -130.3,
+      "max": 60,
+      "high": 10
+    },
+    "top_companies": [
+      "TikTok",
+      "Reddit, Inc.",
+      "Stripe",
+      "Affirm",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-03-30T12-24-29Z_top500.json"
   }
 ]
