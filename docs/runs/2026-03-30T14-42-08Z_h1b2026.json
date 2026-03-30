@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Software Developer / Application Support",
+    "company": "Idexcel",
+    "location": "Washington, DC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391866573",
+    "date_posted": null,
+    "priority_score": 50,
+    "score_pct": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Java Developer - W2 & Local Candidates Only",
+    "company": "Pacer Group",
+    "location": "Alpharetta, GA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391900563",
+    "date_posted": null,
+    "priority_score": 48,
+    "score_pct": 37,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Front End, Google Cloud AI",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391814252",
+    "date_posted": null,
+    "priority_score": 39,
+    "score_pct": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Generative AI, Payments Risk",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4391823156",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
+  }
+]
