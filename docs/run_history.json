@@ -7767,5 +7767,25 @@
       "Google"
     ],
     "snapshot_file": "2026-03-30T13-38-14Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-30T13:48:14Z",
+    "run_at": "2026-03-30T13:48:14.718423+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 29,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Stripe",
+      "Figma",
+      "OpenAI",
+      "TikTok"
+    ],
+    "snapshot_file": "2026-03-30T13-48-14Z_keywords.json"
   }
 ]
