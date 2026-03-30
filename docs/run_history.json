@@ -7720,5 +7720,29 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-03-30T13-18-17Z_important.json"
+  },
+  {
+    "session_id": "2026-03-30T13:28:29Z",
+    "run_at": "2026-03-30T13:28:29.328503+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -59.9,
+      "max": 60,
+      "high": 9
+    },
+    "top_companies": [
+      "TikTok",
+      "Stripe",
+      "Affirm",
+      "Reddit, Inc.",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-03-30T13-28-29Z_top500.json"
   }
 ]
