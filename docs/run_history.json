@@ -7696,5 +7696,29 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-03-30T13-08-34Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-30T13:18:17Z",
+    "run_at": "2026-03-30T13:18:17.212500+00:00",
+    "pipeline": "important",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -72.2,
+      "max": 60,
+      "high": 8
+    },
+    "top_companies": [
+      "Stripe",
+      "Google",
+      "Affirm",
+      "Reddit, Inc.",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-30T13-18-17Z_important.json"
   }
 ]
