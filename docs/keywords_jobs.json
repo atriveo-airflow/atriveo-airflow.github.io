@@ -1,16 +1,5 @@
 [
   {
-    "title": "Junior Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Springfield, VA",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392138748",
-    "date_posted": null,
-    "keyword_score": 59,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer [Multiple Positions Available]",
     "company": "JPMorganChase",
     "location": "Chicago, IL",
@@ -22,58 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, (L2) Audiences & Journeys",
-    "company": "Twilio",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
-    "date_posted": null,
-    "keyword_score": 54,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Developer - Internship (USA ONLY)",
-    "company": "Park My Ride, LLC",
+    "title": "Software Engineer (NYC)",
+    "company": "NextGen Coding Company",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392156357",
+    "job_url": "https://www.linkedin.com/jobs/view/4393286147",
     "date_posted": null,
-    "keyword_score": 52,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
-    "company": "Flexton Inc.",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
-    "date_posted": null,
-    "keyword_score": 49,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer 2 (Full Stack - AI, SQL, React, Python)",
-    "company": "U.S. Bank",
-    "location": "Hopkins, MN",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393247885",
-    "date_posted": null,
-    "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer III",
-    "company": "Spigen Inc",
-    "location": "Irvine, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4319166236",
-    "date_posted": null,
-    "keyword_score": 40,
+    "keyword_score": 43,
     "site": "linkedin"
   },
   {
@@ -110,14 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Software Engineer II \u2013 Go (Golang)",
-    "company": "Medbridge",
-    "location": "Bellevue, WA",
-    "level": "Mid",
+    "title": "Software Engineer - Cloud Images",
+    "company": "Canonical",
+    "location": "Cincinnati, OH",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392131715",
+    "job_url": "https://www.linkedin.com/jobs/view/4393279399",
     "date_posted": null,
-    "keyword_score": 32,
+    "keyword_score": 33,
     "site": "linkedin"
   },
   {
@@ -132,47 +77,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer 1",
-    "company": "Inside Higher Ed",
-    "location": "Stanford, CA",
-    "level": "Entry",
+    "title": "Backend Software Engineer II \u2013 Go (Golang)",
+    "company": "Medbridge",
+    "location": "Bellevue, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393240335",
+    "job_url": "https://www.linkedin.com/jobs/view/4392131715",
     "date_posted": null,
-    "keyword_score": 31,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer 1",
     "company": "Lensa",
-    "location": "New York, NY",
+    "location": "Mountain View, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393253469",
+    "job_url": "https://www.linkedin.com/jobs/view/4393249755",
     "date_posted": null,
     "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "SICK Sensor Intelligence",
-    "location": "Canton, MA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391304594",
-    "date_posted": null,
-    "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Full Stack)",
-    "company": "BNY",
-    "location": "Lake Mary, FL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344905589",
-    "date_posted": null,
-    "keyword_score": 27,
     "site": "linkedin"
   },
   {
@@ -184,6 +107,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4392144737",
     "date_posted": null,
     "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Software Engineer III",
+    "company": "Walmart",
+    "location": "Bentonville, AR",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395559792",
+    "date_posted": null,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer \u2013 HPE NonStop Tandem",
+    "company": "Jobs via Dice",
+    "location": "Jersey City, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392143739",
+    "date_posted": null,
+    "keyword_score": 22,
     "site": "linkedin"
   },
   {
@@ -220,12 +165,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Jobs via Dice",
-    "location": "Redmond, WA",
-    "level": "Mid",
+    "title": "Software Engineer - Reliability",
+    "company": "Luma",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392136782",
+    "job_url": "https://www.linkedin.com/jobs/view/4378342847",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
@@ -242,23 +187,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer Graduate",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393269799",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Software Engineer II",
+    "company": "VIZIO",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395576077",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
     "title": "Jr. Software Developer",
     "company": "Lensa",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4393258105",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Sightline Software Engineer (Sightline Information Technology)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393230805",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -275,14 +231,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Backend (Marketplace Performance)",
-    "company": "Affirm",
-    "location": "Seattle, WA",
-    "level": "Mid",
+    "title": "C++ Backend Engineer - AI Data Platforms",
+    "company": "Alignerr",
+    "location": "Denver, CO",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392130625",
+    "job_url": "https://www.linkedin.com/jobs/view/4391958676",
     "date_posted": null,
-    "keyword_score": 16,
+    "keyword_score": 15,
     "site": "linkedin"
   },
   {
@@ -292,6 +248,17 @@
     "level": "Mid",
     "min_exp": 7.0,
     "job_url": "https://www.linkedin.com/jobs/view/4392996886",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Jobs via Dice",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392145617",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
