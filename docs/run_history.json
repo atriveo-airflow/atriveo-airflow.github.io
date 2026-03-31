@@ -8879,5 +8879,28 @@
       "AIG"
     ],
     "snapshot_file": "2026-03-30T23-55-56Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T00:09:09Z",
+    "run_at": "2026-03-31T00:09:09.912152+00:00",
+    "pipeline": "standard",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 17,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -215.2,
+      "max": 91,
+      "high": 15
+    },
+    "top_companies": [
+      "Veeva Systems",
+      "Altisource",
+      "Medbridge",
+      "Microsoft AI",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-31T00-09-09Z_standard.json"
   }
 ]
