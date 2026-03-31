@@ -9508,5 +9508,26 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-31T05-31-21Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T05:41:57Z",
+    "run_at": "2026-03-31T05:41:57.404468+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -483.5,
+      "max": 33,
+      "high": 2
+    },
+    "top_companies": [
+      "Hewlett Packard Enterprise",
+      "TD Securities",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-31T05-41-57Z_h1b2026.json"
   }
 ]
