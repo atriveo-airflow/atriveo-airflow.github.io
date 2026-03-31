@@ -9130,5 +9130,28 @@
       "Flexton Inc."
     ],
     "snapshot_file": "2026-03-31T02-09-17Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T02:19:23Z",
+    "run_at": "2026-03-31T02:19:23.913448+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -250.7,
+      "max": 86,
+      "high": 5
+    },
+    "top_companies": [
+      "Twilio",
+      "Netflix",
+      "Aurora",
+      "Affirm",
+      "Google"
+    ],
+    "snapshot_file": "2026-03-31T02-19-23Z_important.json"
   }
 ]
