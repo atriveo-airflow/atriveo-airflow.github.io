@@ -10117,5 +10117,29 @@
       "TwinSpires"
     ],
     "snapshot_file": "2026-03-31T18-08-06Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T19:13:31Z",
+    "run_at": "2026-03-31T19:13:31.846923+00:00",
+    "pipeline": "standard",
+    "total_jobs": 53,
+    "levels": {
+      "Entry": 46,
+      "Mid": 5,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -234.6,
+      "max": 111,
+      "high": 39
+    },
+    "top_companies": [
+      "Truist",
+      "BeaconFire Inc.",
+      "Jobs via eFinancialCareers",
+      "Quik Hire Staffing",
+      "Cadence"
+    ],
+    "snapshot_file": "2026-03-31T19-13-31Z_standard.json"
   }
 ]
