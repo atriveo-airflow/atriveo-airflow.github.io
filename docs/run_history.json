@@ -9683,5 +9683,29 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-31T12-10-47Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T12:22:24Z",
+    "run_at": "2026-03-31T12:22:24.550980+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 11,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -105.3,
+      "max": 61,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Reddit, Inc.",
+      "Cloudflare",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-03-31T12-22-24Z_important.json"
   }
 ]
