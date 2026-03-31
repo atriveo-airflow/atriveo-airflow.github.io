@@ -10391,5 +10391,29 @@
       "Google"
     ],
     "snapshot_file": "2026-03-31T23-25-39Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T23:38:39Z",
+    "run_at": "2026-03-31T23:38:39.460588+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 5,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -270.2,
+      "max": 97,
+      "high": 7
+    },
+    "top_companies": [
+      "Stripe",
+      "Uber",
+      "Alight Solutions",
+      "Roblox",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-31T23-38-39Z_top500.json"
   }
 ]
