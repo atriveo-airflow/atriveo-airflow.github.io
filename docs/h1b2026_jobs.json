@@ -1,28 +1,15 @@
 [
   {
-    "title": "Software Engineer, (L2) Audiences & Journeys",
-    "company": "Twilio",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
-    "date_posted": null,
-    "priority_score": 86,
-    "score_pct": 66,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
-    "company": "Flexton Inc.",
+    "title": "Software Engineer Graduate",
+    "company": "Hewlett Packard Enterprise",
     "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
+    "job_url": "https://www.linkedin.com/jobs/view/4393269799",
     "date_posted": null,
-    "priority_score": 75,
-    "score_pct": 58,
+    "priority_score": 33,
+    "score_pct": 25,
     "site": "linkedin"
   },
   {
@@ -46,6 +33,19 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Roseville, CA",
+    "level": "Entry",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393265812",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
