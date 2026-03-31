@@ -9106,5 +9106,29 @@
       "TD Securities"
     ],
     "snapshot_file": "2026-03-31T01-48-23Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T02:09:17Z",
+    "run_at": "2026-03-31T02:09:17.553697+00:00",
+    "pipeline": "standard",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 22,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -403.8,
+      "max": 94,
+      "high": 16
+    },
+    "top_companies": [
+      "Lensa",
+      "Luma",
+      "Jobs via Dice",
+      "JPMorganChase",
+      "Flexton Inc."
+    ],
+    "snapshot_file": "2026-03-31T02-09-17Z_standard.json"
   }
 ]
