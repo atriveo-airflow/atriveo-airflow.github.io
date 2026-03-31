@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Software Engineer, (L2) Audiences & Journeys",
+    "company": "Twilio",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
+    "date_posted": null,
+    "priority_score": 86,
+    "score_pct": 66,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 4, N-Tech Systems Engineering",
+    "company": "Netflix",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395173417",
+    "date_posted": null,
+    "priority_score": 48,
+    "score_pct": 37,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Community Builders",
+    "company": "Reddit, Inc.",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392144737",
+    "date_posted": null,
+    "priority_score": 39,
+    "score_pct": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Backend (Marketplace Performance)",
+    "company": "Affirm",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392144385",
+    "date_posted": null,
+    "priority_score": 38,
+    "score_pct": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Broadcom",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372856572",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
