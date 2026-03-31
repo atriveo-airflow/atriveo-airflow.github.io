@@ -9219,5 +9219,29 @@
       "Twilio"
     ],
     "snapshot_file": "2026-03-31T02-50-21Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T03:08:59Z",
+    "run_at": "2026-03-31T03:08:59.407325+00:00",
+    "pipeline": "standard",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 9,
+      "Mid": 3,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -259.0,
+      "max": 56,
+      "high": 10
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Lensa",
+      "Medbridge",
+      "SICK Sensor Intelligence",
+      "SynergisticIT"
+    ],
+    "snapshot_file": "2026-03-31T03-08-59Z_standard.json"
   }
 ]
