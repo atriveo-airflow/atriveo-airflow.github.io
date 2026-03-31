@@ -9243,5 +9243,28 @@
       "SynergisticIT"
     ],
     "snapshot_file": "2026-03-31T03-08-59Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T03:18:59Z",
+    "run_at": "2026-03-31T03:18:59.946029+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -297.8,
+      "max": 86,
+      "high": 4
+    },
+    "top_companies": [
+      "Twilio",
+      "Netflix",
+      "Reddit, Inc.",
+      "Affirm",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-31T03-18-59Z_important.json"
   }
 ]
