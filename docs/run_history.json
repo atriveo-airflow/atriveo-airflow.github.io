@@ -9659,5 +9659,29 @@
       "Ensemble Health Partners"
     ],
     "snapshot_file": "2026-03-31T09-47-58Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T12:10:47Z",
+    "run_at": "2026-03-31T12:10:47.546551+00:00",
+    "pipeline": "standard",
+    "total_jobs": 54,
+    "levels": {
+      "Entry": 35,
+      "Mid": 15,
+      "New Grad": 4
+    },
+    "scores": {
+      "avg": -114.0,
+      "max": 71,
+      "high": 46
+    },
+    "top_companies": [
+      "JPMorganChase",
+      "Sundayy",
+      "Clay",
+      "Google",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-31T12-10-47Z_standard.json"
   }
 ]
