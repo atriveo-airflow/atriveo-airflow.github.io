@@ -9935,5 +9935,29 @@
       "Benchling"
     ],
     "snapshot_file": "2026-03-31T15-24-22Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T15:37:32Z",
+    "run_at": "2026-03-31T15:37:32.755478+00:00",
+    "pipeline": "top500",
+    "total_jobs": 27,
+    "levels": {
+      "Entry": 22,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -188.0,
+      "max": 97,
+      "high": 21
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "Stripe",
+      "Lockheed Martin"
+    ],
+    "snapshot_file": "2026-03-31T15-37-32Z_top500.json"
   }
 ]
