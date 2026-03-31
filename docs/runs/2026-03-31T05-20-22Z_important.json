@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Software Engineer, Vehicle Engineering",
+    "company": "Tesla",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393254398",
+    "date_posted": null,
+    "priority_score": 55,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
