@@ -9549,5 +9549,29 @@
       "NextGen Coding Company"
     ],
     "snapshot_file": "2026-03-31T05-52-12Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T09:08:19Z",
+    "run_at": "2026-03-31T09:08:19.552854+00:00",
+    "pipeline": "standard",
+    "total_jobs": 48,
+    "levels": {
+      "Entry": 33,
+      "Mid": 14,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -108.9,
+      "max": 113,
+      "high": 41
+    },
+    "top_companies": [
+      "JPMorganChase",
+      "Alignerr",
+      "New Lantern",
+      "Ensemble Health Partners",
+      "Alluvium Health"
+    ],
+    "snapshot_file": "2026-03-31T09-08-19Z_standard.json"
   }
 ]
