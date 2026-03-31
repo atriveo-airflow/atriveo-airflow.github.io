@@ -10164,5 +10164,29 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-03-31T19-26-51Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T19:40:44Z",
+    "run_at": "2026-03-31T19:40:44.955615+00:00",
+    "pipeline": "top500",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 8,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -147.9,
+      "max": 64,
+      "high": 9
+    },
+    "top_companies": [
+      "Mastercard",
+      "Docusign",
+      "Illumio",
+      "Goldman Sachs",
+      "Atlassian"
+    ],
+    "snapshot_file": "2026-03-31T19-40-44Z_top500.json"
   }
 ]
