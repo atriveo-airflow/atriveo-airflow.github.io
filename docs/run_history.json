@@ -2344,5 +2344,27 @@
       "National Vision Inc."
     ],
     "snapshot_file": "2026-03-31T22-22-27Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T23:04:49Z",
+    "run_at": "2026-03-31T23:04:49.952649+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 6.8,
+      "max": 14,
+      "high": 2
+    },
+    "top_companies": [
+      "HP",
+      "Google",
+      "Waymo",
+      "Atlassian"
+    ],
+    "snapshot_file": "2026-03-31T23-04-49Z_top500.json"
   }
 ]
