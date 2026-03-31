@@ -9573,5 +9573,25 @@
       "Alluvium Health"
     ],
     "snapshot_file": "2026-03-31T09-08-19Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T09:16:59Z",
+    "run_at": "2026-03-31T09:16:59.857705+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": 44.5,
+      "max": 58,
+      "high": 2
+    },
+    "top_companies": [
+      "Uber",
+      "Salesforce"
+    ],
+    "snapshot_file": "2026-03-31T09-16-59Z_important.json"
   }
 ]
