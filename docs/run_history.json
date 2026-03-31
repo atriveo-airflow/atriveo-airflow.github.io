@@ -9707,5 +9707,28 @@
       "Affirm"
     ],
     "snapshot_file": "2026-03-31T12-22-24Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T12:34:03Z",
+    "run_at": "2026-03-31T12:34:03.144400+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 12,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -115.6,
+      "max": 60,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Affirm",
+      "Intuit",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-03-31T12-34-03Z_top500.json"
   }
 ]
