@@ -10026,5 +10026,29 @@
       "Kashable"
     ],
     "snapshot_file": "2026-03-31T17-13-04Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T17:26:58Z",
+    "run_at": "2026-03-31T17:26:58.956553+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 12,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -629.1,
+      "max": 42,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Figma",
+      "LinkedIn",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-31T17-26-58Z_important.json"
   }
 ]
