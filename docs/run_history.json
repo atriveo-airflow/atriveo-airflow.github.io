@@ -8902,5 +8902,28 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-31T00-09-09Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T00:19:18Z",
+    "run_at": "2026-03-31T00:19:18.812842+00:00",
+    "pipeline": "important",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -265.3,
+      "max": 74,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Veeva Systems",
+      "Chime",
+      "Netflix",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-31T00-19-18Z_important.json"
   }
 ]
