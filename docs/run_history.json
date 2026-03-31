@@ -10050,5 +10050,29 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-03-31T17-26-58Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T17:40:48Z",
+    "run_at": "2026-03-31T17:40:48.942060+00:00",
+    "pipeline": "top500",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -325.7,
+      "max": 53,
+      "high": 13
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Docusign",
+      "Goldman Sachs",
+      "Atlassian"
+    ],
+    "snapshot_file": "2026-03-31T17-40-48Z_top500.json"
   }
 ]
