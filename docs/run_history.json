@@ -10415,5 +10415,29 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-31T23-38-39Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T23:51:21Z",
+    "run_at": "2026-03-31T23:51:21.967817+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 9,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -333.7,
+      "max": 70,
+      "high": 9
+    },
+    "top_companies": [
+      "Randstad Digital Americas",
+      "Stripe",
+      "Google",
+      "Uber",
+      "Roblox"
+    ],
+    "snapshot_file": "2026-03-31T23-51-21Z_h1b2026.json"
   }
 ]
