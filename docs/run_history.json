@@ -8990,5 +8990,29 @@
       "Walmart"
     ],
     "snapshot_file": "2026-03-31T00-49-40Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T01:08:37Z",
+    "run_at": "2026-03-31T01:08:37.926671+00:00",
+    "pipeline": "standard",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 13,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -298.0,
+      "max": 94,
+      "high": 10
+    },
+    "top_companies": [
+      "Motion Recruitment",
+      "Maxonic Inc.",
+      "Twilio",
+      "Citi",
+      "BNY"
+    ],
+    "snapshot_file": "2026-03-31T01-08-37Z_standard.json"
   }
 ]
