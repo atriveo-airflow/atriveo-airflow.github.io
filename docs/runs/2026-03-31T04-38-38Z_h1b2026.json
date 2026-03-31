@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Software Engineer, (L2) Audiences & Journeys",
+    "company": "Twilio",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
+    "date_posted": null,
+    "priority_score": 86,
+    "score_pct": 66,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
+    "company": "Flexton Inc.",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
+    "date_posted": null,
+    "priority_score": 75,
+    "score_pct": 58,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III (Typescript, Java, Python, AI) (US)",
+    "company": "TD Securities",
+    "location": "Mount Laurel, NJ",
+    "level": "Mid",
+    "min_exp": 7.0,
+    "max_exp": 7.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392996886",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
