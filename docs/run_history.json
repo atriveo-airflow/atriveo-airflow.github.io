@@ -9062,5 +9062,29 @@
       "Netflix"
     ],
     "snapshot_file": "2026-03-31T01-27-19Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T01:37:54Z",
+    "run_at": "2026-03-31T01:37:54.624401+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 7,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -212.2,
+      "max": 86,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "TD Securities",
+      "Twilio",
+      "Flexton Inc.",
+      "Veeva Systems"
+    ],
+    "snapshot_file": "2026-03-31T01-37-54Z_h1b2026.json"
   }
 ]
