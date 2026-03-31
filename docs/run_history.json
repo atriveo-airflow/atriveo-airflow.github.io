@@ -9153,5 +9153,28 @@
       "Google"
     ],
     "snapshot_file": "2026-03-31T02-19-23Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T02:29:48Z",
+    "run_at": "2026-03-31T02:29:48.015493+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -99.1,
+      "max": 86,
+      "high": 6
+    },
+    "top_companies": [
+      "Twilio",
+      "Tesla",
+      "Netflix",
+      "Garmin",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-03-31T02-29-48Z_top500.json"
   }
 ]
