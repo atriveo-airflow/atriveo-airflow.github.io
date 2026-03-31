@@ -9753,5 +9753,25 @@
       "Sigma"
     ],
     "snapshot_file": "2026-03-31T12-46-12Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T12:58:48Z",
+    "run_at": "2026-03-31T12:58:48.907636+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 49,
+    "levels": {
+      "Entry": 36,
+      "Mid": 12,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "JPMorganChase",
+      "Sundayy",
+      "Clay",
+      "Netflix",
+      "NTT DATA North America"
+    ],
+    "snapshot_file": "2026-03-31T12-58-48Z_keywords.json"
   }
 ]
