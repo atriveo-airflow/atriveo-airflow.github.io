@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
+    "company": "Flexton Inc.",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
+    "date_posted": null,
+    "priority_score": 75,
+    "score_pct": 58,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Java",
     "company": "Veeva Systems",
     "location": "",
@@ -10,19 +23,6 @@
     "date_posted": null,
     "priority_score": 74,
     "score_pct": 57,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Full Stack",
-    "company": "Veeva Systems",
-    "location": "San Luis Obispo, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386803504",
-    "date_posted": null,
-    "priority_score": 66,
-    "score_pct": 51,
     "site": "linkedin"
   },
   {
@@ -39,26 +39,13 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "Kforce Inc",
-    "location": "Marlborough, MA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393222509",
-    "date_posted": null,
-    "priority_score": 53,
-    "score_pct": 41,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer \u2013 HashiCorp Secure Products",
     "company": "IBM",
-    "location": "Poughkeepsie, AR",
+    "location": "Tucson, AZ",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395152805",
+    "job_url": "https://www.linkedin.com/jobs/view/4395163294",
     "date_posted": null,
     "priority_score": 42,
     "score_pct": 32,
@@ -78,19 +65,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer-ServiceNow",
-    "company": "Strategic Staffing Solutions",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392993906",
-    "date_posted": null,
-    "priority_score": 33,
-    "score_pct": 25,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer III, Full Stack, Payments",
     "company": "Google",
     "location": "Mountain View, CA",
@@ -104,6 +78,32 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III (Typescript, Java, Python, AI) (US)",
+    "company": "TD Securities",
+    "location": "Mount Laurel, NJ",
+    "level": "Mid",
+    "min_exp": 7.0,
+    "max_exp": 7.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392996886",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II/ Software Developer (US)",
+    "company": "TD Securities",
+    "location": "Mount Laurel, NJ",
+    "level": "Mid",
+    "min_exp": 5.0,
+    "max_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393206292",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer III",
     "company": "EPITEC",
     "location": "Menlo Park, CA",
@@ -114,19 +114,6 @@
     "date_posted": null,
     "priority_score": 31,
     "score_pct": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Simulation Infrastructure",
-    "company": "Waymo",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392123037",
-    "date_posted": null,
-    "priority_score": 20,
-    "score_pct": 15,
     "site": "linkedin"
   },
   {
