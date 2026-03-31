@@ -9176,5 +9176,28 @@
       "Affirm"
     ],
     "snapshot_file": "2026-03-31T02-29-48Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T02:40:10Z",
+    "run_at": "2026-03-31T02:40:10.649619+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -360.8,
+      "max": 86,
+      "high": 3
+    },
+    "top_companies": [
+      "Twilio",
+      "Flexton Inc.",
+      "Google",
+      "Stripe",
+      "Emory University"
+    ],
+    "snapshot_file": "2026-03-31T02-40-10Z_h1b2026.json"
   }
 ]
