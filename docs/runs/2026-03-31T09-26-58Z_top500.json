@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Software Engineer II - Uber Eats",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393287569",
+    "date_posted": null,
+    "priority_score": 58,
+    "score_pct": 45,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Siemens",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392167423",
+    "date_posted": null,
+    "priority_score": 50,
+    "score_pct": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer - Platforms",
+    "company": "ByteDance",
+    "location": "New York, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392191418",
+    "date_posted": null,
+    "priority_score": 45,
+    "score_pct": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, AI Native",
+    "company": "Meta",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395651926",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  }
+]
