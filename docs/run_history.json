@@ -9442,5 +9442,29 @@
       "Twilio"
     ],
     "snapshot_file": "2026-03-31T04-50-01Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T05:09:24Z",
+    "run_at": "2026-03-31T05:09:24.146658+00:00",
+    "pipeline": "standard",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 25,
+      "Mid": 7,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -400.3,
+      "max": 94,
+      "high": 19
+    },
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Walmart",
+      "Luma",
+      "Hewlett Packard Enterprise"
+    ],
+    "snapshot_file": "2026-03-31T05-09-24Z_standard.json"
   }
 ]
