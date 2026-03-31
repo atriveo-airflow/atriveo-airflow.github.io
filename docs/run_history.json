@@ -9086,5 +9086,25 @@
       "Veeva Systems"
     ],
     "snapshot_file": "2026-03-31T01-37-54Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T01:48:23Z",
+    "run_at": "2026-03-31T01:48:23.676091+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 40,
+    "levels": {
+      "Entry": 31,
+      "Mid": 7,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Lensa",
+      "Jobs via Dice",
+      "SynergisticIT",
+      "TD Securities"
+    ],
+    "snapshot_file": "2026-03-31T01-48-23Z_keywords.json"
   }
 ]
