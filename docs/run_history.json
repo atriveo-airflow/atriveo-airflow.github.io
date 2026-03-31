@@ -9730,5 +9730,28 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-03-31T12-34-03Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T12:46:12Z",
+    "run_at": "2026-03-31T12:46:12.160892+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 9,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": 39.4,
+      "max": 53,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "Intuit",
+      "NTT DATA North America",
+      "ByteDance",
+      "Sigma"
+    ],
+    "snapshot_file": "2026-03-31T12-46-12Z_h1b2026.json"
   }
 ]
