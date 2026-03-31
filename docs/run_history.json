@@ -10141,5 +10141,28 @@
       "Cadence"
     ],
     "snapshot_file": "2026-03-31T19-13-31Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T19:26:51Z",
+    "run_at": "2026-03-31T19:26:51.527650+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Mid": 3,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": -305.8,
+      "max": 52,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "GitHub",
+      "LinkedIn",
+      "Tanium",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-03-31T19-26-51Z_important.json"
   }
 ]
