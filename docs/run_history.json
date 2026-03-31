@@ -8948,5 +8948,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-31T00-29-14Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T00:39:38Z",
+    "run_at": "2026-03-31T00:39:38.087013+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 6,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -58.7,
+      "max": 75,
+      "high": 9
+    },
+    "top_companies": [
+      "TD Securities",
+      "Flexton Inc.",
+      "Veeva Systems",
+      "Miracle Software Systems, Inc",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-31T00-39-38Z_h1b2026.json"
   }
 ]
