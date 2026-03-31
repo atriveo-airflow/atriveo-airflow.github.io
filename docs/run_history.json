@@ -9354,5 +9354,28 @@
       "Tesla"
     ],
     "snapshot_file": "2026-03-31T04-09-08Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T04:18:55Z",
+    "run_at": "2026-03-31T04:18:55.598464+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -156.2,
+      "max": 86,
+      "high": 4
+    },
+    "top_companies": [
+      "Twilio",
+      "Tesla",
+      "Reddit, Inc.",
+      "Affirm",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-31T04-18-55Z_important.json"
   }
 ]
