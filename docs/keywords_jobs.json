@@ -1,57 +1,35 @@
 [
   {
-    "title": "GenAI Software Engineer (Full Stack)",
-    "company": "AIG",
-    "location": "Atlanta, GA",
+    "title": "Software Engineer",
+    "company": "Maxonic Inc.",
+    "location": "San Jose, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392100992",
+    "job_url": "https://www.linkedin.com/jobs/view/4392128333",
     "date_posted": null,
-    "keyword_score": 72,
+    "keyword_score": 58,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395156911",
-    "date_posted": null,
-    "keyword_score": 68,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Agentic Development",
-    "company": "Altisource",
+    "title": "Software Engineer, (L2) Audiences & Journeys",
+    "company": "Twilio",
     "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395173255",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
     "date_posted": null,
-    "keyword_score": 59,
+    "keyword_score": 54,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Python, API)",
-    "company": "Sundayy",
-    "location": "",
+    "title": "Junior Software Engineer",
+    "company": "Lensa",
+    "location": "Cary, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392590482",
+    "job_url": "https://www.linkedin.com/jobs/view/4393246899",
     "date_posted": null,
-    "keyword_score": 56,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Java",
-    "company": "Veeva Systems",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385971334",
-    "date_posted": null,
-    "keyword_score": 48,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -77,25 +55,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Collabera",
-    "location": "Gaithersburg, MD",
+    "title": "Software Engineer - Full Stack",
+    "company": "Veeva Systems",
+    "location": "Bend, OR",
     "level": "Entry",
-    "min_exp": 4.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392116434",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386498855",
     "date_posted": null,
     "keyword_score": 34,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Optomi",
-    "location": "",
+    "title": "Software Engineer - Level 3",
+    "company": "Jobs via Dice",
+    "location": "Fort Worth, TX",
     "level": "Entry",
-    "min_exp": 5.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392109514",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392130848",
     "date_posted": null,
-    "keyword_score": 34,
+    "keyword_score": 33,
     "site": "linkedin"
   },
   {
@@ -110,34 +88,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "recruyt",
-    "location": "",
-    "level": "Entry",
+    "title": "Backend Software Engineer II \u2013 Go (Golang)",
+    "company": "Medbridge",
+    "location": "Bellevue, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392116439",
+    "job_url": "https://www.linkedin.com/jobs/view/4392131715",
     "date_posted": null,
-    "keyword_score": 31,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer 1",
-    "company": "Inside Higher Ed",
-    "location": "Stanford, CA",
+    "title": "Software Engineer 1",
+    "company": "Lensa",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393240335",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Achieve",
-    "location": "San Mateo, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391882363",
+    "job_url": "https://www.linkedin.com/jobs/view/4393253469",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -149,6 +116,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4393219830",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Kubernetes Software Developer and Integrator",
+    "company": "Jobs via Dice",
+    "location": "Manassas, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392137749",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
@@ -166,11 +144,22 @@
   },
   {
     "title": "Software Engineer II",
-    "company": "Alarm.com",
-    "location": "Tysons Corner, VA",
+    "company": "SICK Sensor Intelligence",
+    "location": "Canton, MA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395161449",
+    "job_url": "https://www.linkedin.com/jobs/view/4391304594",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Language Biomarker Lab) - Emory College of Arts and Sciences",
+    "company": "Emory University",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395147247",
     "date_posted": null,
     "keyword_score": 28,
     "site": "linkedin"
@@ -187,12 +176,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Growth - Paid Ads & Acquisition",
-    "company": "Chime",
-    "location": "San Francisco, CA",
+    "title": "SkillBridge Fellowship Atlanta GA: Software Engineer (Full Stack, Frontend, or Backend)",
+    "company": "Borel Educational Consulting Services",
+    "location": "Atlanta, GA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395160326",
+    "job_url": "https://www.linkedin.com/jobs/view/4393209771",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Fellow, Software Engineering- Infrastructure",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393214814",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -209,25 +209,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Fellow, Software Engineering- Infrastructure",
-    "company": "LinkedIn",
-    "location": "Mountain View, CA",
-    "level": "Entry",
+    "title": "entry level software developer/AI engineer",
+    "company": "SynergisticIT",
+    "location": "Newark, NJ",
+    "level": "New Grad",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393214814",
+    "job_url": "https://www.linkedin.com/jobs/view/4392134886",
     "date_posted": null,
     "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "InfoPeople Corporation",
-    "location": "San Antonio, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392993678",
-    "date_posted": null,
-    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -242,17 +231,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - AI Focus (Center for Technology in Education)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393236370",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer 4, N-Tech Systems Engineering",
     "company": "Netflix",
     "location": "",
@@ -264,25 +242,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "Kforce Inc",
-    "location": "Marlborough, MA",
+    "title": "Software Engineer",
+    "company": "Traba",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393222509",
+    "job_url": "https://www.linkedin.com/jobs/view/4392108710",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Traba",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer - Platform",
+    "company": "Aurora",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392994703",
+    "job_url": "https://www.linkedin.com/jobs/view/4395160701",
     "date_posted": null,
-    "keyword_score": 23,
+    "keyword_score": 22,
     "site": "linkedin"
   },
   {
@@ -297,6 +275,50 @@
     "site": "linkedin"
   },
   {
+    "title": "Systems Software Developer",
+    "company": "IDEXX",
+    "location": "Westbrook, ME",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393214142",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Mobile Software Engineer, iOS",
+    "company": "Brivo",
+    "location": "Bethesda, MD",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395164396",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer in Test",
+    "company": "Motion Recruitment",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393221785",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (React.js, TypeScript)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392599158",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
     "title": "Full Stack Engineer (Backend-Focused)",
     "company": "Curio Interactive",
     "location": "",
@@ -305,17 +327,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4391878958",
     "date_posted": null,
     "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Full-Stack Software Engineer",
-    "company": "GovWell",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392114403",
-    "date_posted": null,
-    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -330,34 +341,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Teamcenter Software Engineer",
-    "company": "Apex Systems",
-    "location": "Dearborn, MI",
-    "level": "Entry",
+    "title": "Software Engineer II",
+    "company": "Jobs via Dice",
+    "location": "Redmond, WA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393218439",
+    "job_url": "https://www.linkedin.com/jobs/view/4392136782",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
+    "title": "Jr. Software Developer",
+    "company": "Lensa",
     "location": "",
     "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392108755",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Sightline Software Engineer (Sightline Information Technology)",
-    "company": "Inside Higher Ed",
-    "location": "Baltimore, MD",
-    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393230805",
+    "job_url": "https://www.linkedin.com/jobs/view/4393258105",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -376,23 +376,23 @@
   {
     "title": "Software Engineer II, Backend (Marketplace Performance)",
     "company": "Affirm",
-    "location": "Boston, MA",
+    "location": "Denver, CO",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392142420",
+    "job_url": "https://www.linkedin.com/jobs/view/4392142423",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II/ Software Developer (US)",
-    "company": "TD Securities",
-    "location": "Mount Laurel, NJ",
-    "level": "Mid",
-    "min_exp": 5.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393206292",
+    "title": "Frontend Software Engineer",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392583616",
     "date_posted": null,
-    "keyword_score": 15,
+    "keyword_score": 16,
     "site": "linkedin"
   },
   {
@@ -407,12 +407,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "EPITEC",
-    "location": "Menlo Park, CA",
+    "title": "Software Engineering - Software Engineer III",
+    "company": "Apex Systems",
+    "location": "California, United States",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392986887",
+    "job_url": "https://www.linkedin.com/jobs/view/4393226272",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "junior Java software developer/data engineer",
+    "company": "SynergisticIT",
+    "location": "San Jose, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392149040",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II/ Software Developer (US)",
+    "company": "TD Securities",
+    "location": "Mount Laurel, NJ",
+    "level": "Mid",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393206292",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
