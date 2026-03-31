@@ -9796,5 +9796,29 @@
       "Brightpath Associates LLC"
     ],
     "snapshot_file": "2026-03-31T13-11-14Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T13:23:44Z",
+    "run_at": "2026-03-31T13:23:44.131429+00:00",
+    "pipeline": "important",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -74.6,
+      "max": 67,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Microsoft",
+      "Benchling",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-03-31T13-23-44Z_important.json"
   }
 ]
