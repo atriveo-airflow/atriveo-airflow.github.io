@@ -9639,5 +9639,25 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-03-31T09-37-32Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T09:47:58Z",
+    "run_at": "2026-03-31T09:47:58.374293+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 35,
+    "levels": {
+      "Entry": 20,
+      "Mid": 14,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "JPMorganChase",
+      "Alignerr",
+      "Jobot",
+      "New Lantern",
+      "Ensemble Health Partners"
+    ],
+    "snapshot_file": "2026-03-31T09-47-58Z_keywords.json"
   }
 ]
