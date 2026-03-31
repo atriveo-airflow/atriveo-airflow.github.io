@@ -13,29 +13,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer I - Java - Bay Area (W2 Only)",
-    "company": "Flexton Inc.",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
+    "title": "Software Engineering AMTS (College Grad)",
+    "company": "Salesforce",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391154624",
+    "job_url": "https://www.linkedin.com/jobs/view/4393219831",
     "date_posted": null,
-    "priority_score": 75,
-    "score_pct": 58,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Full Stack, Payments",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392116831",
-    "date_posted": null,
-    "priority_score": 33,
-    "score_pct": 25,
+    "priority_score": 31,
+    "score_pct": 24,
     "site": "linkedin"
   },
   {
