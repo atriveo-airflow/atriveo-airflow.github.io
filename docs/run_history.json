@@ -9983,5 +9983,25 @@
       "EPITEC"
     ],
     "snapshot_file": "2026-03-31T15-51-16Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T16:04:04Z",
+    "run_at": "2026-03-31T16:04:04.837050+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 49,
+    "levels": {
+      "Entry": 40,
+      "Mid": 7,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "OpenAI",
+      "BeaconFire Inc.",
+      "Stripe",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-03-31T16-04-04Z_keywords.json"
   }
 ]
