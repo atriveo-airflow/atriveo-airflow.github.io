@@ -9199,5 +9199,25 @@
       "Emory University"
     ],
     "snapshot_file": "2026-03-31T02-40-10Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T02:50:21Z",
+    "run_at": "2026-03-31T02:50:21.689589+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 29,
+    "levels": {
+      "Entry": 26,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Altisource",
+      "JPMorganChase",
+      "Twilio"
+    ],
+    "snapshot_file": "2026-03-31T02-50-21Z_keywords.json"
   }
 ]
