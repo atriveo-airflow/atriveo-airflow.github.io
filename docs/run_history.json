@@ -9911,5 +9911,29 @@
       "Lockheed Martin"
     ],
     "snapshot_file": "2026-03-31T15-11-39Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T15:24:22Z",
+    "run_at": "2026-03-31T15:24:22.214824+00:00",
+    "pipeline": "important",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 19,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -242.9,
+      "max": 67,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "Stripe",
+      "Benchling"
+    ],
+    "snapshot_file": "2026-03-31T15-24-22Z_important.json"
   }
 ]
