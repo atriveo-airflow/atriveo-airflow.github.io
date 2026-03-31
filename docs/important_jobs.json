@@ -1,62 +1,54 @@
 [
   {
-    "title": "Software Engineer, Behavior Planning ML Platform",
-    "company": "Aurora",
-    "location": "Pittsburgh, PA",
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4392466798",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
     "date_posted": null,
-    "priority_score": 8,
+    "priority_score": 42,
+    "score_pct": 32,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
-    "company": "Google",
-    "location": "Sunnyvale, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=53c5a19b297254c2",
-    "date_posted": 1774915200000,
-    "priority_score": 7,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer, Gemini Enterprise Mobile, Android",
-    "company": "Google",
-    "location": "Sunnyvale, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=68c1a1195b090223",
-    "date_posted": 1774915200000,
-    "priority_score": 7,
-    "site": "indeed"
-  },
-  {
-    "title": "Research Software Engineer, Gen AI/LLM Development",
-    "company": "Google",
-    "location": "Mountain View, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=2a40434cd6e0abb5",
-    "date_posted": 1774915200000,
-    "priority_score": 5,
-    "site": "indeed"
-  },
-  {
-    "title": "Software Engineer, Infrastructure, Google Cloud",
-    "company": "Google",
-    "location": "Sunnyvale, CA, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=a4c78579ef777f7c",
-    "date_posted": 1774915200000,
-    "priority_score": 5,
-    "site": "indeed"
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396148998",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
   },
   {
     "title": "Software Engineer, Agentic AI Platform - Moveworks",
     "company": "ServiceNow",
     "location": "Mountain View, CA",
     "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4391906537",
     "date_posted": null,
-    "priority_score": 2,
+    "priority_score": 28,
+    "score_pct": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "level": "New Grad",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4343327745",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
     "site": "linkedin"
   }
 ]
