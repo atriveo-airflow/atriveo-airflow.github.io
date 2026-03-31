@@ -1,18 +1,5 @@
 [
   {
-    "title": "Software Engineer",
-    "company": "EPITEC",
-    "location": "Dearborn, MI",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392415753",
-    "date_posted": null,
-    "priority_score": 63,
-    "score_pct": 48,
-    "site": "linkedin"
-  },
-  {
     "title": "Fullstack Software Engineer",
     "company": "Docusign",
     "location": "Seattle, WA",
@@ -23,19 +10,6 @@
     "date_posted": null,
     "priority_score": 53,
     "score_pct": 41,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer, Core Technology",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
-    "date_posted": null,
-    "priority_score": 42,
-    "score_pct": 32,
     "site": "linkedin"
   },
   {
@@ -54,27 +28,14 @@
   {
     "title": "Full Stack Software Engineer, DX",
     "company": "Atlassian",
-    "location": "Washington, DC",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393572940",
+    "job_url": "https://www.linkedin.com/jobs/view/4393595082",
     "date_posted": null,
     "priority_score": 40,
     "score_pct": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer Intern (AI Model Optimization) - 2026 Summer (BS/MS)",
-    "company": "TikTok",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392432360",
-    "date_posted": null,
-    "priority_score": 39,
-    "score_pct": 30,
     "site": "linkedin"
   },
   {
@@ -91,16 +52,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "Collabera",
-    "location": "Tampa, FL",
+    "title": "Software Engineer",
+    "company": "EPITEC",
+    "location": "Dearborn, MI",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392429612",
+    "job_url": "https://www.linkedin.com/jobs/view/4393911431",
     "date_posted": null,
-    "priority_score": 33,
-    "score_pct": 25,
+    "priority_score": 35,
+    "score_pct": 27,
     "site": "linkedin"
   },
   {
@@ -117,6 +78,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "MSR Technology Group",
+    "location": "Hamilton, NJ",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392423722",
+    "date_posted": null,
+    "priority_score": 16,
+    "score_pct": 12,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer & Computer Science - Recent Grad/Full Time",
     "company": "Honeywell",
     "location": "",
@@ -124,71 +98,6 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4292999956",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, ML, Google Ads",
-    "company": "Google",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392404663",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Kernel Software Engineer",
-    "company": "Google",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392405651",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer in Test",
-    "company": "Tata Consultancy Services",
-    "location": "Hamilton, NJ",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392428516",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend/API Engineer, Money as a Service",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "level": "New Grad",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4343327745",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, AI Security",
-    "company": "Google",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392415508",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
