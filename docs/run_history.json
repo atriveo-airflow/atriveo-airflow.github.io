@@ -8925,5 +8925,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-03-31T00-19-18Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T00:29:14Z",
+    "run_at": "2026-03-31T00:29:14.124288+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 7,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -213.4,
+      "max": 74,
+      "high": 6
+    },
+    "top_companies": [
+      "Veeva Systems",
+      "Chime",
+      "Netflix",
+      "Garmin",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-31T00-29-14Z_top500.json"
   }
 ]
