@@ -9773,5 +9773,28 @@
       "NTT DATA North America"
     ],
     "snapshot_file": "2026-03-31T12-58-48Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T13:11:14Z",
+    "run_at": "2026-03-31T13:11:14.120100+00:00",
+    "pipeline": "standard",
+    "total_jobs": 36,
+    "levels": {
+      "Entry": 27,
+      "Mid": 9
+    },
+    "scores": {
+      "avg": -102.8,
+      "max": 67,
+      "high": 31
+    },
+    "top_companies": [
+      "JPMorganChase",
+      "Google",
+      "NTT DATA North America",
+      "Turing",
+      "Brightpath Associates LLC"
+    ],
+    "snapshot_file": "2026-03-31T13-11-14Z_standard.json"
   }
 ]
