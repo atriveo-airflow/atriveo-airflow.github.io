@@ -9266,5 +9266,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-31T03-18-59Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T03:29:26Z",
+    "run_at": "2026-03-31T03:29:26.029591+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -248.9,
+      "max": 86,
+      "high": 5
+    },
+    "top_companies": [
+      "Twilio",
+      "Netflix",
+      "Garmin",
+      "Reddit, Inc.",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-03-31T03-29-26Z_top500.json"
   }
 ]
