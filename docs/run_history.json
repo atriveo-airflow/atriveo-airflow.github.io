@@ -10254,5 +10254,27 @@
       "Realm"
     ],
     "snapshot_file": "2026-03-31T21-13-08Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T21:27:12Z",
+    "run_at": "2026-03-31T21:27:12.818397+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -223.2,
+      "max": 42,
+      "high": 3
+    },
+    "top_companies": [
+      "Stripe",
+      "IBM",
+      "ServiceNow"
+    ],
+    "snapshot_file": "2026-03-31T21-27-12Z_important.json"
   }
 ]
