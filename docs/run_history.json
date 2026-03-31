@@ -9422,5 +9422,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-31T04-38-38Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-03-31T04:50:01Z",
+    "run_at": "2026-03-31T04:50:01.947875+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 27,
+    "levels": {
+      "Entry": 19,
+      "Mid": 7,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Lensa",
+      "Jobs via Dice",
+      "Inside Higher Ed",
+      "JPMorganChase",
+      "Twilio"
+    ],
+    "snapshot_file": "2026-03-31T04-50-01Z_keywords.json"
   }
 ]
