@@ -9593,5 +9593,27 @@
       "Salesforce"
     ],
     "snapshot_file": "2026-03-31T09-16-59Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T09:26:58Z",
+    "run_at": "2026-03-31T09:26:58.253075+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 46.5,
+      "max": 58,
+      "high": 4
+    },
+    "top_companies": [
+      "Uber",
+      "Siemens",
+      "ByteDance",
+      "Meta"
+    ],
+    "snapshot_file": "2026-03-31T09-26-58Z_top500.json"
   }
 ]
