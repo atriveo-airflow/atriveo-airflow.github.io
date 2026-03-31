@@ -9038,5 +9038,29 @@
       "Affirm"
     ],
     "snapshot_file": "2026-03-31T01-17-44Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T01:27:19Z",
+    "run_at": "2026-03-31T01:27:19.659994+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 6,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -157.7,
+      "max": 86,
+      "high": 8
+    },
+    "top_companies": [
+      "Salesforce",
+      "Google",
+      "Twilio",
+      "Veeva Systems",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-03-31T01-27-19Z_top500.json"
   }
 ]
