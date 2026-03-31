@@ -10276,5 +10276,29 @@
       "ServiceNow"
     ],
     "snapshot_file": "2026-03-31T21-27-12Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T21:40:05Z",
+    "run_at": "2026-03-31T21:40:05.245829+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -218.9,
+      "max": 50,
+      "high": 6
+    },
+    "top_companies": [
+      "Stripe",
+      "TikTok",
+      "Klaviyo",
+      "Goldman Sachs",
+      "IBM"
+    ],
+    "snapshot_file": "2026-03-31T21-40-05Z_top500.json"
   }
 ]
