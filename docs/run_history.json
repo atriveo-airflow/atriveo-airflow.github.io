@@ -10003,5 +10003,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-03-31T16-04-04Z_keywords.json"
+  },
+  {
+    "session_id": "2026-03-31T17:13:04Z",
+    "run_at": "2026-03-31T17:13:04.464765+00:00",
+    "pipeline": "standard",
+    "total_jobs": 43,
+    "levels": {
+      "Entry": 34,
+      "Mid": 9
+    },
+    "scores": {
+      "avg": -153.6,
+      "max": 75,
+      "high": 35
+    },
+    "top_companies": [
+      "Jobs via eFinancialCareers",
+      "Google",
+      "Apex Systems",
+      "TwinSpires",
+      "Kashable"
+    ],
+    "snapshot_file": "2026-03-31T17-13-04Z_standard.json"
   }
 ]
