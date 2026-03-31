@@ -9014,5 +9014,29 @@
       "BNY"
     ],
     "snapshot_file": "2026-03-31T01-08-37Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T01:17:44Z",
+    "run_at": "2026-03-31T01:17:44.791051+00:00",
+    "pipeline": "important",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 6,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -147.1,
+      "max": 74,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "Veeva Systems",
+      "Netflix",
+      "Aurora",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-03-31T01-17-44Z_important.json"
   }
 ]
