@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer, (L2) Audiences & Journeys",
+    "company": "Twilio",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393241661",
+    "date_posted": null,
+    "priority_score": 86,
+    "score_pct": 66,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer I - Java - Bay Area (W2 Only)",
     "company": "Flexton Inc.",
     "location": "Sunnyvale, CA",
@@ -13,55 +26,42 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Java",
+    "title": "Software Engineer - Full Stack",
     "company": "Veeva Systems",
+    "location": "San Luis Obispo, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386803504",
+    "date_posted": null,
+    "priority_score": 66,
+    "score_pct": 51,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Marlborough, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393222509",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Digital Manufacturing Software Engineer (Ignition/Web Stack)",
+    "company": "Pacer Group",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385971334",
+    "job_url": "https://www.linkedin.com/jobs/view/4392124073",
     "date_posted": null,
-    "priority_score": 74,
-    "score_pct": 57,
-    "site": "linkedin"
-  },
-  {
-    "title": "Python Software Engineer with React & GCP (Only on W2)",
-    "company": "Miracle Software Systems, Inc",
-    "location": "Dearborn, MI",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392104767",
-    "date_posted": null,
-    "priority_score": 58,
-    "score_pct": 45,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer \u2013 HashiCorp Secure Products",
-    "company": "IBM",
-    "location": "Tucson, AZ",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395163294",
-    "date_posted": null,
-    "priority_score": 42,
-    "score_pct": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Virtusa",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4390554132",
-    "date_posted": null,
-    "priority_score": 37,
-    "score_pct": 28,
+    "priority_score": 44,
+    "score_pct": 34,
     "site": "linkedin"
   },
   {
@@ -75,6 +75,19 @@
     "date_posted": null,
     "priority_score": 33,
     "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineering AMTS (College Grad)",
+    "company": "Salesforce",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393219831",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
     "site": "linkedin"
   },
   {
@@ -104,19 +117,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "EPITEC",
-    "location": "Menlo Park, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392986887",
-    "date_posted": null,
-    "priority_score": 31,
-    "score_pct": 24,
-    "site": "linkedin"
-  },
-  {
     "title": "Fellow, Software Engineering- Infrastructure",
     "company": "LinkedIn",
     "location": "Mountain View, CA",
@@ -124,6 +124,32 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4393214814",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Site Reliability Development",
+    "company": "Google",
+    "location": "San Bruno, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392119777",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392114662",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
