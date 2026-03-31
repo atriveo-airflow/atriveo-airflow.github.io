@@ -9959,5 +9959,29 @@
       "Lockheed Martin"
     ],
     "snapshot_file": "2026-03-31T15-37-32Z_top500.json"
+  },
+  {
+    "session_id": "2026-03-31T15:51:16Z",
+    "run_at": "2026-03-31T15:51:16.263816+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -163.9,
+      "max": 111,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "Stripe",
+      "Synechron",
+      "EPITEC"
+    ],
+    "snapshot_file": "2026-03-31T15-51-16Z_h1b2026.json"
   }
 ]
