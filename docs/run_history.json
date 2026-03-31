@@ -9466,5 +9466,24 @@
       "Hewlett Packard Enterprise"
     ],
     "snapshot_file": "2026-03-31T05-09-24Z_standard.json"
+  },
+  {
+    "session_id": "2026-03-31T05:20:22Z",
+    "run_at": "2026-03-31T05:20:22.130396+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -472.0,
+      "max": 55,
+      "high": 1
+    },
+    "top_companies": [
+      "Tesla",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-31T05-20-22Z_important.json"
   }
 ]
