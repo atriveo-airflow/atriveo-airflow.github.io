@@ -9485,5 +9485,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-03-31T05-20-22Z_important.json"
+  },
+  {
+    "session_id": "2026-03-31T05:31:21Z",
+    "run_at": "2026-03-31T05:31:21.789113+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -303.5,
+      "max": 55,
+      "high": 4
+    },
+    "top_companies": [
+      "Hewlett Packard Enterprise",
+      "Tesla",
+      "Siemens",
+      "Reddit, Inc.",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-03-31T05-31-21Z_top500.json"
   }
 ]
