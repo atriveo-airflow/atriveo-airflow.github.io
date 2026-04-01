@@ -10529,5 +10529,28 @@
       "Trimble Inc."
     ],
     "snapshot_file": "2026-04-01T01-29-24Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T01:40:49Z",
+    "run_at": "2026-04-01T01:40:49.845405+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 8,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -137.8,
+      "max": 48,
+      "high": 10
+    },
+    "top_companies": [
+      "Uber",
+      "Microsoft",
+      "Roblox",
+      "TikTok",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-01T01-40-49Z_h1b2026.json"
   }
 ]
