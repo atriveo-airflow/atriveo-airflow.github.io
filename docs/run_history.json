@@ -2740,5 +2740,24 @@
       "The Walt Disney Company"
     ],
     "snapshot_file": "2026-04-01T18-01-45Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T18:04:15Z",
+    "run_at": "2026-04-01T18:04:15.941013+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 5.5,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Netflix",
+      "Intel Corporation"
+    ],
+    "snapshot_file": "2026-04-01T18-04-15Z_important.json"
   }
 ]
