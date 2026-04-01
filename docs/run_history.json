@@ -11868,5 +11868,27 @@
       "Docusign"
     ],
     "snapshot_file": "2026-04-01T18-34-25Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T18:45:44Z",
+    "run_at": "2026-04-01T18:45:44.998189+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 10
+    },
+    "scores": {
+      "avg": -258.9,
+      "max": 90,
+      "high": 7
+    },
+    "top_companies": [
+      "Stripe",
+      "Docusign",
+      "Randstad Digital Americas",
+      "Optum",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-01T18-45-44Z_h1b2026.json"
   }
 ]
