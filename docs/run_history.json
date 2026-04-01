@@ -11978,5 +11978,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-01T19-32-46Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T19:44:22Z",
+    "run_at": "2026-04-01T19:44:22.821863+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 10,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -385.6,
+      "max": 90,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Docusign",
+      "Microsoft",
+      "Stripe",
+      "NetApp"
+    ],
+    "snapshot_file": "2026-04-01T19-44-22Z_h1b2026.json"
   }
 ]
