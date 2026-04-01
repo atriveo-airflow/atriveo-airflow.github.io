@@ -11955,5 +11955,28 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-04-01T19-21-25Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T19:32:46Z",
+    "run_at": "2026-04-01T19:32:46.287711+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 8,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -300.4,
+      "max": 90,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Docusign",
+      "Microsoft",
+      "Goldman Sachs",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-01T19-32-46Z_top500.json"
   }
 ]
