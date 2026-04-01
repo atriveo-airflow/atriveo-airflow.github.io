@@ -12452,5 +12452,25 @@
       "Bright Vision Technologies"
     ],
     "snapshot_file": "2026-04-01T23-45-44Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T23:57:15Z",
+    "run_at": "2026-04-01T23:57:15.171228+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 46,
+    "levels": {
+      "Entry": 29,
+      "Mid": 14,
+      "New Grad": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "Chalk",
+      "BeaconFire Inc.",
+      "Stripe",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-01T23-57-15Z_keywords.json"
   }
 ]
