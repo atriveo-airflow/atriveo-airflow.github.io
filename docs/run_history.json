@@ -10552,5 +10552,25 @@
       "Google"
     ],
     "snapshot_file": "2026-04-01T01-40-49Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T01:52:21Z",
+    "run_at": "2026-04-01T01:52:21.639507+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 35,
+    "levels": {
+      "Entry": 30,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Jobs via Dice",
+      "FANTOM CORPORATION",
+      "RemoteHunter",
+      "Alight Solutions"
+    ],
+    "snapshot_file": "2026-04-01T01-52-21Z_keywords.json"
   }
 ]
