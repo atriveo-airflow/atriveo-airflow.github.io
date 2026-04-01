@@ -11574,5 +11574,29 @@
       "Walmart"
     ],
     "snapshot_file": "2026-04-01T15-58-34Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T16:11:06Z",
+    "run_at": "2026-04-01T16:11:06.519987+00:00",
+    "pipeline": "standard",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 30,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -444.9,
+      "max": 91,
+      "high": 17
+    },
+    "top_companies": [
+      "Profound",
+      "Turing",
+      "Qualcomm",
+      "VBeyond Corporation",
+      "PTR Global"
+    ],
+    "snapshot_file": "2026-04-01T16-11-06Z_standard.json"
   }
 ]
