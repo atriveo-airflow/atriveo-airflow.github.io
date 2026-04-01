@@ -11111,5 +11111,23 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-01T09-28-52Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T09:37:14Z",
+    "run_at": "2026-04-01T09:37:14.896286+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 15
+    },
+    "scores": {},
+    "top_companies": [
+      "Mission, a CDW Company",
+      "Prudential Financial",
+      "Progress Residential\u00ae",
+      "JPMorganChase",
+      "NPAworldwide"
+    ],
+    "snapshot_file": "2026-04-01T09-37-14Z_keywords.json"
   }
 ]
