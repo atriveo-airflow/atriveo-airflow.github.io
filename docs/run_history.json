@@ -11890,5 +11890,25 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T18-45-44Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T18:57:04Z",
+    "run_at": "2026-04-01T18:57:04.688451+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 60,
+    "levels": {
+      "Entry": 54,
+      "Mid": 3,
+      "New Grad": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Anthropic",
+      "Profound",
+      "BeaconFire Inc.",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-04-01T18-57-04Z_keywords.json"
   }
 ]
