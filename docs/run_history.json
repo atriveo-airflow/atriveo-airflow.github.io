@@ -11398,5 +11398,28 @@
       "Figma"
     ],
     "snapshot_file": "2026-04-01T14-22-17Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T14:33:58Z",
+    "run_at": "2026-04-01T14:33:58.278285+00:00",
+    "pipeline": "top500",
+    "total_jobs": 26,
+    "levels": {
+      "Entry": 19,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -114.7,
+      "max": 81,
+      "high": 22
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Uber",
+      "Pure Storage",
+      "Equifax"
+    ],
+    "snapshot_file": "2026-04-01T14-33-58Z_top500.json"
   }
 ]
