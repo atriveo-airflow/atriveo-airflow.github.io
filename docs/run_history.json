@@ -3058,5 +3058,27 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-01T21-06-24Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T21:09:07Z",
+    "run_at": "2026-04-01T21:09:07.409552+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 5,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": 5.6,
+      "max": 15,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Equifax",
+      "Broadcom",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-01T21-09-07Z_top500.json"
   }
 ]
