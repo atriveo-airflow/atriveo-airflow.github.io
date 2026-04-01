@@ -12407,5 +12407,27 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-01T23-22-48Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T23:34:12Z",
+    "run_at": "2026-04-01T23:34:12.519615+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 4,
+      "Entry": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -256.7,
+      "max": 43,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Lockheed Martin"
+    ],
+    "snapshot_file": "2026-04-01T23-34-12Z_top500.json"
   }
 ]
