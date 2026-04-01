@@ -10483,5 +10483,27 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T01-09-14Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T01:19:19Z",
+    "run_at": "2026-04-01T01:19:19.933526+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Mid": 3,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -375.8,
+      "max": 48,
+      "high": 3
+    },
+    "top_companies": [
+      "Uber",
+      "Microsoft",
+      "Roblox",
+      "Broadcom"
+    ],
+    "snapshot_file": "2026-04-01T01-19-19Z_important.json"
   }
 ]
