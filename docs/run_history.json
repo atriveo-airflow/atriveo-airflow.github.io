@@ -10979,5 +10979,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-01T05-26-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T05:35:30Z",
+    "run_at": "2026-04-01T05:35:30.629644+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -95.6,
+      "max": 89,
+      "high": 6
+    },
+    "top_companies": [
+      "Stripe",
+      "Cognizant",
+      "Hewlett Packard Enterprise",
+      "Roblox",
+      "Alibaba Cloud"
+    ],
+    "snapshot_file": "2026-04-01T05-35-30Z_h1b2026.json"
   }
 ]
