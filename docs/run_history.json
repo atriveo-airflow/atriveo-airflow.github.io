@@ -12228,5 +12228,25 @@
       "Bright Vision Technologies"
     ],
     "snapshot_file": "2026-04-01T21-45-25Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T21:56:49Z",
+    "run_at": "2026-04-01T21:56:49.341297+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 57,
+    "levels": {
+      "Entry": 44,
+      "Mid": 10,
+      "New Grad": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "BeaconFire Inc.",
+      "Jobs via Dice",
+      "Chalk",
+      "Al Warren Oil"
+    ],
+    "snapshot_file": "2026-04-01T21-56-49Z_keywords.json"
   }
 ]
