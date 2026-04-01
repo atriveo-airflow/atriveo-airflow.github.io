@@ -10821,5 +10821,28 @@
       "Cleveland Clinic"
     ],
     "snapshot_file": "2026-04-01T04-09-35Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T04:20:07Z",
+    "run_at": "2026-04-01T04:20:07.648499+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -303.5,
+      "max": 66,
+      "high": 4
+    },
+    "top_companies": [
+      "Stripe",
+      "Microsoft",
+      "IBM",
+      "Twitch",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-01T04-20-07Z_important.json"
   }
 ]
