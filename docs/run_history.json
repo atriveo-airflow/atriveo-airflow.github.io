@@ -10956,5 +10956,28 @@
       "Twitch"
     ],
     "snapshot_file": "2026-04-01T05-17-33Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T05:26:29Z",
+    "run_at": "2026-04-01T05:26:29.785149+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -210.2,
+      "max": 89,
+      "high": 6
+    },
+    "top_companies": [
+      "Stripe",
+      "Cognizant",
+      "Hewlett Packard Enterprise",
+      "Roblox",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-01T05-26-29Z_top500.json"
   }
 ]
