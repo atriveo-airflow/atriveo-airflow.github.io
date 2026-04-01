@@ -10505,5 +10505,29 @@
       "Broadcom"
     ],
     "snapshot_file": "2026-04-01T01-19-19Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T01:29:24Z",
+    "run_at": "2026-04-01T01:29:24.668167+00:00",
+    "pipeline": "top500",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 9,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -162.5,
+      "max": 97,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Alight Solutions",
+      "Equifax",
+      "Trimble Inc."
+    ],
+    "snapshot_file": "2026-04-01T01-29-24Z_top500.json"
   }
 ]
