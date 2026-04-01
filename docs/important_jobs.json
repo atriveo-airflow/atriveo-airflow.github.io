@@ -26,6 +26,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III, Cloud Learning Services",
+    "company": "Google",
+    "location": "Chicago, IL",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392470849",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II - Earner Incentive",
     "company": "Uber",
     "location": "Sunnyvale, CA",
@@ -59,6 +72,19 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4372856572",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392490100",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
