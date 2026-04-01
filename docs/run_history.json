@@ -2861,5 +2861,24 @@
       "MongoDB"
     ],
     "snapshot_file": "2026-04-01T19-04-34Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T19:07:16Z",
+    "run_at": "2026-04-01T19:07:16.958931+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 6.5,
+      "max": 10,
+      "high": 1
+    },
+    "top_companies": [
+      "MongoDB",
+      "Broadcom"
+    ],
+    "snapshot_file": "2026-04-01T19-07-16Z_top500.json"
   }
 ]
