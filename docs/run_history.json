@@ -3013,5 +3013,29 @@
       "Google"
     ],
     "snapshot_file": "2026-04-01T20-59-24Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T21:03:46Z",
+    "run_at": "2026-04-01T21:03:46.579359+00:00",
+    "pipeline": "standard",
+    "total_jobs": 39,
+    "levels": {
+      "Entry": 28,
+      "Mid": 8,
+      "New Grad": 3
+    },
+    "scores": {
+      "avg": 9.8,
+      "max": 29,
+      "high": 25
+    },
+    "top_companies": [
+      "Google",
+      "Al Warren Oil",
+      "Gardner Resources Consulting, LLC",
+      "Al Warren Oil Company, Inc.",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-04-01T21-03-46Z_standard.json"
   }
 ]
