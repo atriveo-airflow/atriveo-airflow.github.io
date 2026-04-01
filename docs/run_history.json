@@ -10911,5 +10911,28 @@
       "CGI"
     ],
     "snapshot_file": "2026-04-01T04-50-00Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T05:08:20Z",
+    "run_at": "2026-04-01T05:08:20.143614+00:00",
+    "pipeline": "standard",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 21,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -169.1,
+      "max": 89,
+      "high": 19
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Cognizant",
+      "Hewlett Packard Enterprise",
+      "Sixth Street",
+      "Canonical"
+    ],
+    "snapshot_file": "2026-04-01T05-08-20Z_standard.json"
   }
 ]
