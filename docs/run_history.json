@@ -11687,5 +11687,29 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-04-01T16-58-08Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T17:11:00Z",
+    "run_at": "2026-04-01T17:11:00.108908+00:00",
+    "pipeline": "standard",
+    "total_jobs": 35,
+    "levels": {
+      "Entry": 29,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -226.6,
+      "max": 106,
+      "high": 26
+    },
+    "top_companies": [
+      "Recruiting from Scratch",
+      "DataAnnotation",
+      "DetaPent",
+      "TwinSpires",
+      "Altom Transport"
+    ],
+    "snapshot_file": "2026-04-01T17-11-00Z_standard.json"
   }
 ]
