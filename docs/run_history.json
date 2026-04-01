@@ -11240,5 +11240,29 @@
       "Air Apps"
     ],
     "snapshot_file": "2026-04-01T12-52-33Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T13:10:15Z",
+    "run_at": "2026-04-01T13:10:15.271911+00:00",
+    "pipeline": "standard",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 21,
+      "Mid": 12,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -136.8,
+      "max": 129,
+      "high": 28
+    },
+    "top_companies": [
+      "JPMorganChase",
+      "Walmart",
+      "Microsoft",
+      "Google",
+      "Air Apps"
+    ],
+    "snapshot_file": "2026-04-01T13-10-15Z_standard.json"
   }
 ]
