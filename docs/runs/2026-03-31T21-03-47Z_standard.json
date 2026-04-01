@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Software Engineer 1 (Java Spring boot, Kafka, Redis)",
+    "company": "U.S. Bank",
+    "location": "Hopkins, MN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393944090",
+    "date_posted": null,
+    "score": 29,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Data Automation",
+    "company": "Klaviyo",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392453980",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Realm",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393920397",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Rain",
+    "location": "Portland, Oregon Metropolitan Area",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392461515",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "RISINGSUN TECHNOLOGIES",
+    "location": "Wilmington, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396156176",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer in Test (JavaScript/Cypress)",
+    "company": "Fidelity TalentSource",
+    "location": "Durham, NC, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=d64e682e7269d712",
+    "date_posted": "2025-05-22T00:00:00.000",
+    "score": 10,
+    "competition_score": 4,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer II, SRE",
+    "company": "Etsy",
+    "location": "Brooklyn, NY",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4339270305",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Poughkeepsie, AR",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4396151789",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineering Intern",
+    "company": "Resilience",
+    "location": "California City, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=eccd4e49dc67637a",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 6,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Robotics Software Engineer III - Infrastructure",
+    "company": "ABF Freight",
+    "location": "Fort Smith, AR",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4396147932",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392469378",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392476059",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Intern, Robotics Software Engineer",
+    "company": "ABF Freight",
+    "location": "Fort Smith, AR",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396167101",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Deep Learning)",
+    "company": "Barrow Wise Consulting, LLC",
+    "location": "Rockville, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393941053",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Application Software Engineer",
+    "company": "Super Micro Computer, Inc.",
+    "location": "San Jose, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=89d9c31851ce0248",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "PrePass",
+    "location": "Phoenix, AZ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393928754",
+    "date_posted": null,
+    "score": 3,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III- Informatica Developer",
+    "company": "Truist",
+    "location": "Raleigh, NC, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=510f96ce066fcde0",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Developer",
+    "company": "COLSA",
+    "location": "Shalimar, FL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393925664",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Embedded Software Engineer",
+    "company": "3M",
+    "location": "Monroe, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396165182",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, IT Manufacturing Ops",
+    "company": "Hikma",
+    "location": "Columbus, OH, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=bb1ab701b80e2c78",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 0,
+    "competition_score": 1,
+    "site": "indeed"
+  }
+]
