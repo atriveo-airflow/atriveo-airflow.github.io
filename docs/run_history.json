@@ -12180,5 +12180,29 @@
       "Netflix"
     ],
     "snapshot_file": "2026-04-01T21-22-19Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T21:33:57Z",
+    "run_at": "2026-04-01T21:33:57.026264+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -297.1,
+      "max": 90,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Docusign",
+      "Equifax",
+      "Lenovo"
+    ],
+    "snapshot_file": "2026-04-01T21-33-57Z_top500.json"
   }
 ]
