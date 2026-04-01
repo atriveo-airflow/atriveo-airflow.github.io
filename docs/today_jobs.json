@@ -36,6 +36,18 @@
     "batch_time": "2026-04-01T18:01:45Z"
   },
   {
+    "title": "Software Engineer",
+    "company": "SquareTrade",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4364547482",
+    "date_posted": null,
+    "score": 29,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Java Software Engineer",
     "company": "VBeyond Corporation",
     "location": "Tampa, FL",
@@ -84,6 +96,18 @@
     "batch_time": "2026-04-01T15:25:33Z"
   },
   {
+    "title": "Fircosoft Software Engineer \u2013 Fircosoft- Columbus, OH",
+    "company": "RSHARMA",
+    "location": "Columbus, OH, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=899c9d3d2b76e187",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 23,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Software Engineer IV",
     "company": "Randstad Digital Americas",
     "location": "Charlotte, NC",
@@ -130,6 +154,30 @@
     "competition_score": 1,
     "site": "indeed",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Software Developer - Career",
+    "company": "Equifax",
+    "location": "Alpharetta, GA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a6786be8f8c217b8",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 22,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Sr Software Engineer - Full Stack Finance",
+    "company": "ConstructConnect",
+    "location": "Atlanta, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382048683",
+    "date_posted": null,
+    "score": 22,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Software Engineer (Oracle/Angular/Java)",
@@ -181,6 +229,18 @@
   },
   {
     "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
+    "company": "Al Warren Oil",
+    "location": "Bensenville, IL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394953377",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 0,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
     "company": "Altom Transport, Inc.",
     "location": "Houston, TX, US",
     "level": "Entry",
@@ -190,6 +250,30 @@
     "competition_score": 0,
     "site": "indeed",
     "batch_time": "2026-04-01T19:01:45Z"
+  },
+  {
+    "title": "SDE (Backend Clinical Insights Engine)",
+    "company": "Gardner Resources Consulting, LLC",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394949744",
+    "date_posted": null,
+    "score": 18,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
+    "company": "Al Warren Oil Company, Inc.",
+    "location": "Bensenville, IL, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=ce538e24964a3f07",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 18,
+    "competition_score": 0,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Software Engineer - Salesforce",
@@ -264,6 +348,30 @@
     "batch_time": "2026-04-01T20:03:11Z"
   },
   {
+    "title": "Software Engineer (Hybrid Work Model)",
+    "company": "Sentry",
+    "location": "Nashville, TN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392991703",
+    "date_posted": null,
+    "score": 17,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Developer, Officer",
+    "company": "State Street",
+    "location": "Quincy, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4388567492",
+    "date_posted": null,
+    "score": 17,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Backend Go Engineer",
     "company": "Stand8 Technology Consulting",
     "location": "New York, NY",
@@ -322,6 +430,30 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T17:19:20Z"
+  },
+  {
+    "title": "Blockchain Software Engineer",
+    "company": "Craftner INC",
+    "location": "Charlotte, NC, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=92dcddd5dbd14355",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 16,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "SDE (Backend)",
+    "company": "Gardner Resources Consulting, LLC",
+    "location": "Massachusetts, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394941949",
+    "date_posted": null,
+    "score": 16,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Full Stack Software Engineer",
@@ -456,6 +588,30 @@
     "batch_time": "2026-04-01T20:03:11Z"
   },
   {
+    "title": "Software Developer III -",
+    "company": "AccuWeather",
+    "location": "State College, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394937903",
+    "date_posted": null,
+    "score": 14,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Developer (Back End) - My Account",
+    "company": "KellyMitchell Group",
+    "location": "Irvine, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390697446",
+    "date_posted": null,
+    "score": 14,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Software Developer and IT Support",
     "company": "Newbury Residential, Inc.",
     "location": "Lynnfield, MA",
@@ -514,6 +670,18 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Full-Stack Software Developer",
+    "company": "FullSteam LLC",
+    "location": "Remote, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=b648d5e1d4d303d0",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 13,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
@@ -586,6 +754,30 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Sr. Software Engineer II - Backend",
+    "company": "Allocate",
+    "location": "Palo Alto, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=6034c47f625b3ced",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 12,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Developer - Summer Internship 2026",
+    "company": "Al Warren Oil",
+    "location": "Bensenville, IL",
+    "level": "New Grad",
+    "job_url": "https://www.linkedin.com/jobs/view/4394940978",
+    "date_posted": null,
+    "score": 12,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Software Engineer",
@@ -672,6 +864,30 @@
     "batch_time": "2026-04-01T20:03:11Z"
   },
   {
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393055114",
+    "date_posted": null,
+    "score": 11,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Developer - Summer Internship 2026",
+    "company": "Al Warren Oil Company, Inc.",
+    "location": "Bensenville, IL, US",
+    "level": "New Grad",
+    "job_url": "https://www.indeed.com/viewjob?jk=4f90403b20dc33c2",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 11,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Software Engineer II - Core Platform",
     "company": "Sumo Logic",
     "location": "",
@@ -742,6 +958,18 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Web Software Engineer",
+    "company": "Nabsys",
+    "location": "Providence, RI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394977048",
+    "date_posted": null,
+    "score": 10,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Python Software Developer \u2013 Remote",
@@ -874,6 +1102,18 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "1 Click Logistics",
+    "location": "Sparks, NV, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8a9acb7c3555bfbb",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 9,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Remote Software Developer",
@@ -1104,6 +1344,30 @@
     "batch_time": "2026-04-01T20:03:11Z"
   },
   {
+    "title": "Software Engineer III (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "location": "Menlo Park, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4379463243",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer - Front-Office Trading (API, ETL tool usage, Java and/or C# programming) Investment Trading Software Fixed Income and Equities - Charles River Development",
+    "company": "Charles River Development",
+    "location": "Boston, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4388129107",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Software Developer Junior",
     "company": "Crossfire Consulting",
     "location": "",
@@ -1186,6 +1450,42 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Software Engineer III, Full Stack",
+    "company": "Google",
+    "location": "New York, NY, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=f41779fe732608f7",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 6,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "R&D Software Engineer",
+    "company": "Broadcom",
+    "location": "Lisle, IL, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=5f551d7a60dc86f3",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 6,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "Weill Cornell Medicine",
+    "location": "New York, NY, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=d1e17e33a0eec4e3",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 6,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Full-Stack Software Engineer",
@@ -1308,6 +1608,42 @@
     "batch_time": "2026-04-01T19:01:45Z"
   },
   {
+    "title": ".NET Software Engineer",
+    "company": "Bright Vision Technologies",
+    "location": "Trenton, SC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394951434",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Google",
+    "location": "New York, NY, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=dd4e98793b865489",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 4,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "GitKraken",
+    "location": "Scottsdale, AZ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4378687782",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "PDK Runset Development Software Engineer Intern",
     "company": "Intel Corporation",
     "location": "Hillsboro, OR, US",
@@ -1332,6 +1668,54 @@
     "batch_time": "2026-04-01T19:01:45Z"
   },
   {
+    "title": "ML Software Engineer",
+    "company": null,
+    "location": "San Diego, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=5676e57861737eee",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 3,
+    "competition_score": 0,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, Geo",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=1513e3e719a8d1c5",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 3,
+    "competition_score": 3,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer, Cloud HPC and Accelerator Networking",
+    "company": "Google",
+    "location": "Seattle, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=7c8efce124d78945",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 3,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer, Chrome AI Test Infrastructure",
+    "company": "Google",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=c00f1c1b3b2cb987",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 3,
+    "competition_score": 3,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Mobile Software Engineer",
     "company": "Hyphen Connect",
     "location": "",
@@ -1354,6 +1738,18 @@
     "competition_score": 1,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "MeeBoss",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394966494",
+    "date_posted": null,
+    "score": 2,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
   },
   {
     "title": "Founding Software Engineer",
@@ -1512,6 +1908,42 @@
     "batch_time": "2026-04-01T20:03:11Z"
   },
   {
+    "title": "software engineer",
+    "company": "hackajob",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4374970867",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394959194",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "zOS Software Developer",
+    "company": "IBM",
+    "location": "Lowell, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4396763294",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Software Engineer",
     "company": "Koala Health",
     "location": "Remote, US",
@@ -1524,6 +1956,30 @@
     "batch_time": "2026-04-01T19:01:45Z"
   },
   {
+    "title": "Software Engineer III, Site Reliability Engineering",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=db76432a9bcd9651",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 0,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Emerson",
+    "location": "Austin, TX, US",
+    "level": "New Grad",
+    "job_url": "https://www.indeed.com/viewjob?jk=1050ddfaacdb6175",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": 0,
+    "competition_score": 1,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
+  },
+  {
     "title": "Research Software Engineer, Health AI, Google Research",
     "company": "Google",
     "location": "Mountain View, CA",
@@ -1534,5 +1990,17 @@
     "competition_score": 4,
     "site": "linkedin",
     "batch_time": "2026-04-01T20:03:11Z"
+  },
+  {
+    "title": "Research Software Engineer, Health AI, Google Research",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=e4cdbb3fb8a55c20",
+    "date_posted": "2026-04-01T00:00:00.000",
+    "score": -2,
+    "competition_score": 4,
+    "site": "indeed",
+    "batch_time": "2026-04-01T21:03:46Z"
   }
 ]
