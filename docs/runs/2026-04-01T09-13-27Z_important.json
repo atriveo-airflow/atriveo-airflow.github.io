@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Software Engineer, User Sharing",
+    "company": "Roblox",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392487592",
+    "date_posted": null,
+    "priority_score": 44,
+    "score_pct": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 5 - Research Data Products",
+    "company": "Netflix",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396267330",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Earner Incentive",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394359539",
+    "date_posted": null,
+    "priority_score": 27,
+    "score_pct": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
