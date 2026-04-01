@@ -10439,5 +10439,25 @@
       "Roblox"
     ],
     "snapshot_file": "2026-03-31T23-51-21Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T00:03:00Z",
+    "run_at": "2026-04-01T00:03:00.973547+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 41,
+    "levels": {
+      "Entry": 36,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "RemoteHunter",
+      "FANTOM CORPORATION",
+      "Sundayy",
+      "Stripe",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-01T00-03-00Z_keywords.json"
   }
 ]
