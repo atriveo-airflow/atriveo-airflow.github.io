@@ -11129,5 +11129,28 @@
       "NPAworldwide"
     ],
     "snapshot_file": "2026-04-01T09-37-14Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T12:09:30Z",
+    "run_at": "2026-04-01T12:09:30.285074+00:00",
+    "pipeline": "standard",
+    "total_jobs": 55,
+    "levels": {
+      "Entry": 47,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": -185.3,
+      "max": 81,
+      "high": 43
+    },
+    "top_companies": [
+      "Sundayy",
+      "Netflix",
+      "Google",
+      "hackajob",
+      "Stealth Startup"
+    ],
+    "snapshot_file": "2026-04-01T12-09-30Z_standard.json"
   }
 ]
