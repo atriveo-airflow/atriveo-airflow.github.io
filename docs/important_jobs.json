@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer 4 - Ads CRM",
+    "company": "Netflix",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396464758",
+    "date_posted": null,
+    "priority_score": 81,
+    "score_pct": 62,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Delivery / CD",
     "company": "OpenAI",
     "location": "San Francisco, CA",
@@ -13,26 +26,39 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Database Systems",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4268364964",
+    "date_posted": null,
+    "priority_score": 61,
+    "score_pct": 47,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II, Backend (Credit Decisioning)",
     "company": "Affirm",
-    "location": "Raleigh, NC",
+    "location": "Philadelphia, PA",
     "level": "Mid",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4321442878",
+    "job_url": "https://www.linkedin.com/jobs/view/4321492714",
     "date_posted": null,
     "priority_score": 60,
     "score_pct": 46,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Google Cloud Web3",
+    "title": "Software Engineer, Storage Everywhere, Google Cloud",
     "company": "Google",
     "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": 1.0,
     "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4372559175",
+    "job_url": "https://www.linkedin.com/jobs/view/4392890394",
     "date_posted": null,
     "priority_score": 58,
     "score_pct": 45,
@@ -52,6 +78,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394631514",
+    "date_posted": null,
+    "priority_score": 55,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II - Flows Platform",
     "company": "Klaviyo",
     "location": "Boston, MA",
@@ -65,16 +104,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394620932",
+    "title": "Software Engineer, TPU Inference, AI/ML",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392850762",
     "date_posted": null,
-    "priority_score": 48,
-    "score_pct": 37,
+    "priority_score": 45,
+    "score_pct": 35,
     "site": "linkedin"
   },
   {
@@ -88,19 +127,6 @@
     "date_posted": null,
     "priority_score": 39,
     "score_pct": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer, Feeds Experience",
-    "company": "Reddit, Inc.",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4365912532",
-    "date_posted": null,
-    "priority_score": 36,
-    "score_pct": 28,
     "site": "linkedin"
   },
   {
@@ -143,28 +169,15 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 5 - Forecasting & Simulation",
-    "company": "Netflix",
-    "location": "Los Gatos, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4309998943",
-    "date_posted": null,
-    "priority_score": 32,
-    "score_pct": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, AI/ML, YouTube",
+    "title": "Software Engineer III, Google Cloud Platforms",
     "company": "Google",
-    "location": "Mountain View, CA",
+    "location": "Sunnyvale, CA",
     "level": "Mid",
-    "min_exp": 1.0,
+    "min_exp": 2.0,
     "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4372507767",
+    "job_url": "https://www.linkedin.com/jobs/view/4382848937",
     "date_posted": null,
-    "priority_score": 32,
+    "priority_score": 33,
     "score_pct": 25,
     "site": "linkedin"
   },
@@ -182,19 +195,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Android Software Engineer 4 \u2013 Foundations Teams",
-    "company": "Netflix",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4301418250",
-    "date_posted": null,
-    "priority_score": 29,
-    "score_pct": 22,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Full Stack",
     "company": "Figma",
     "location": "",
@@ -205,19 +205,6 @@
     "date_posted": null,
     "priority_score": 26,
     "score_pct": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Google Cloud Platform",
-    "company": "Google",
-    "location": "New York, NY",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4382402462",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   },
   {
@@ -234,6 +221,32 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, AI Product",
+    "company": "Figma",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4239979655",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Billing Platform",
+    "company": "Anthropic",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4382464301",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
     "title": "#Software Engineer",
     "company": "Qualcomm",
     "location": "Santa Clara, CA",
@@ -241,6 +254,19 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4382411726",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Broadcom",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372856572",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
