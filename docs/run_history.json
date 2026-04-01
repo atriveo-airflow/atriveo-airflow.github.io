@@ -10844,5 +10844,29 @@
       "Google"
     ],
     "snapshot_file": "2026-04-01T04-20-07Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T04:30:51Z",
+    "run_at": "2026-04-01T04:30:51.254261+00:00",
+    "pipeline": "top500",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -235.4,
+      "max": 89,
+      "high": 8
+    },
+    "top_companies": [
+      "Stripe",
+      "Cognizant",
+      "Equifax",
+      "Microsoft",
+      "TikTok"
+    ],
+    "snapshot_file": "2026-04-01T04-30-51Z_top500.json"
   }
 ]
