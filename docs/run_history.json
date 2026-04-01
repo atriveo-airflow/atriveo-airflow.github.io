@@ -11352,5 +11352,28 @@
       "Walmart"
     ],
     "snapshot_file": "2026-04-01T13-56-31Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T14:10:33Z",
+    "run_at": "2026-04-01T14:10:33.674921+00:00",
+    "pipeline": "standard",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 28,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -150.9,
+      "max": 106,
+      "high": 26
+    },
+    "top_companies": [
+      "Walmart",
+      "OpenAI",
+      "Pure Storage",
+      "Figma",
+      "Skydio"
+    ],
+    "snapshot_file": "2026-04-01T14-10-33Z_standard.json"
   }
 ]
