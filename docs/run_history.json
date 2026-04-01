@@ -12429,5 +12429,28 @@
       "Lockheed Martin"
     ],
     "snapshot_file": "2026-04-01T23-34-12Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T23:45:44Z",
+    "run_at": "2026-04-01T23:45:44.715545+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -399.6,
+      "max": 78,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Kforce Inc",
+      "Bright Vision Technologies"
+    ],
+    "snapshot_file": "2026-04-01T23-45-44Z_h1b2026.json"
   }
 ]
