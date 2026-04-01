@@ -1,12 +1,67 @@
 [
   {
-    "title": "Software Engineer 3, Atlas Data Federation Customer Experience",
-    "company": "MongoDB",
+    "title": "Software Engineer 2 - AI",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394920612",
+    "date_posted": null,
+    "priority_score": 65,
+    "score_pct": 50,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372940686",
+    "date_posted": null,
+    "priority_score": 42,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Broadcom",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372856572",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (L6) - Technical Catalog",
+    "company": "Netflix",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396660991",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Safeguards",
+    "company": "Anthropic",
     "location": "New York, NY",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4366273330",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4330542800",
     "date_posted": null,
-    "priority_score": 10,
+    "priority_score": -999,
+    "score_pct": 0,
     "site": "linkedin"
   }
 ]
