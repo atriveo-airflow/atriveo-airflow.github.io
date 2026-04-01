@@ -2843,5 +2843,23 @@
       "Sundayy"
     ],
     "snapshot_file": "2026-04-01T19-01-45Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T19:04:34Z",
+    "run_at": "2026-04-01T19:04:34.318017+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 10.0,
+      "max": 10,
+      "high": 1
+    },
+    "top_companies": [
+      "MongoDB"
+    ],
+    "snapshot_file": "2026-04-01T19-04-34Z_important.json"
   }
 ]
