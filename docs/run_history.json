@@ -12362,5 +12362,28 @@
       "Al Warren Oil"
     ],
     "snapshot_file": "2026-04-01T22-57-07Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T23:11:01Z",
+    "run_at": "2026-04-01T23:11:01.149571+00:00",
+    "pipeline": "standard",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 20,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": -250.2,
+      "max": 110,
+      "high": 20
+    },
+    "top_companies": [
+      "Walmart",
+      "Google",
+      "Jobs via Dice",
+      "Citi",
+      "Kforce Inc"
+    ],
+    "snapshot_file": "2026-04-01T23-11-01Z_standard.json"
   }
 ]
