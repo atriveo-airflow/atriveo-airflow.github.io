@@ -12342,5 +12342,25 @@
       "Arista Networks"
     ],
     "snapshot_file": "2026-04-01T22-45-40Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T22:57:07Z",
+    "run_at": "2026-04-01T22:57:07.861357+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 57,
+    "levels": {
+      "Entry": 43,
+      "Mid": 11,
+      "New Grad": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "BeaconFire Inc.",
+      "Chalk",
+      "Quik Hire Staffing",
+      "Al Warren Oil"
+    ],
+    "snapshot_file": "2026-04-01T22-57-07Z_keywords.json"
   }
 ]
