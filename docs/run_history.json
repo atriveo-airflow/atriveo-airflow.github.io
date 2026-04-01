@@ -12271,5 +12271,28 @@
       "Turing"
     ],
     "snapshot_file": "2026-04-01T22-10-52Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T22:22:28Z",
+    "run_at": "2026-04-01T22:22:28.085213+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 3,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -401.4,
+      "max": 65,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Microsoft",
+      "Broadcom"
+    ],
+    "snapshot_file": "2026-04-01T22-22-28Z_important.json"
   }
 ]
