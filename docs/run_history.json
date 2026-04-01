@@ -11667,5 +11667,25 @@
       "NetApp"
     ],
     "snapshot_file": "2026-04-01T16-46-10Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T16:58:08Z",
+    "run_at": "2026-04-01T16:58:08.630714+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 49,
+    "levels": {
+      "Entry": 41,
+      "Mid": 7,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "Profound",
+      "BeaconFire Inc.",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-04-01T16-58-08Z_keywords.json"
   }
 ]
