@@ -12114,5 +12114,25 @@
       "NetApp"
     ],
     "snapshot_file": "2026-04-01T20-45-49Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T20:57:23Z",
+    "run_at": "2026-04-01T20:57:23.408285+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 65,
+    "levels": {
+      "Entry": 50,
+      "Mid": 11,
+      "New Grad": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "Sundayy",
+      "Chalk",
+      "BeaconFire Inc.",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-01T20-57-23Z_keywords.json"
   }
 ]
