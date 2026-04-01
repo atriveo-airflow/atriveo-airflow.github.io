@@ -11621,5 +11621,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T16-22-54Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T16:34:43Z",
+    "run_at": "2026-04-01T16:34:43.295279+00:00",
+    "pipeline": "top500",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 11,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -357.8,
+      "max": 53,
+      "high": 8
+    },
+    "top_companies": [
+      "OpenAI",
+      "Microsoft",
+      "Anthropic",
+      "Intuit",
+      "Pure Storage"
+    ],
+    "snapshot_file": "2026-04-01T16-34-43Z_top500.json"
   }
 ]
