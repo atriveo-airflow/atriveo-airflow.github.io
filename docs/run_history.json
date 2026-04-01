@@ -11221,5 +11221,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T12-41-40Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T12:52:33Z",
+    "run_at": "2026-04-01T12:52:33.366464+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 48,
+    "levels": {
+      "Entry": 39,
+      "Mid": 9
+    },
+    "scores": {},
+    "top_companies": [
+      "Klaviyo",
+      "Sundayy",
+      "Mission, a CDW Company",
+      "Uber",
+      "Air Apps"
+    ],
+    "snapshot_file": "2026-04-01T12-52-33Z_keywords.json"
   }
 ]
