@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Software Developer Internship",
+    "company": "HP",
+    "location": "Corvallis, OR",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382920418",
+    "date_posted": null,
+    "priority_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Cloud Learning Services",
+    "company": "Google",
+    "location": "Boulder, CO",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392483238",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Sensor/Imaging",
+    "company": "Waymo",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4368937705",
+    "date_posted": null,
+    "priority_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineer, DX",
+    "company": "Atlassian",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393947910",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
+  }
+]
