@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Software Engineer, Robotics & Autonomous Systems",
+    "company": "Scale AI",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4313494074",
+    "date_posted": null,
+    "priority_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Habitat (Online Data)",
+    "company": "OpenAI",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4208842500",
+    "date_posted": null,
+    "priority_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Billing Platform",
+    "company": "Anthropic",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382458697",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration",
+    "company": "Amazon Web Services",
+    "location": "Cupertino, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=9211eb60daef540d",
+    "date_posted": "2026-01-05T00:00:00.000",
+    "priority_score": 6,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392883775",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "#Software Engineer \u2013 Platform Test",
+    "company": "Qualcomm",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392889591",
+    "date_posted": null,
+    "priority_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Accelerators",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4255879060",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr Software Engineer - BIOS, AWS Hardware Engineering, Firmware Development",
+    "company": "Amazon Web Services",
+    "location": "Seattle, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=6ce7c445735c4ad0",
+    "date_posted": "2026-01-15T00:00:00.000",
+    "priority_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "C/C++ Hardware / Software Co-Design SDE, Machine Learning Acceleration Systems",
+    "company": "Amazon Web Services",
+    "location": "Cupertino, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=2a27f4372d6b4d0e",
+    "date_posted": "2025-11-17T00:00:00.000",
+    "priority_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Sr. SDE C/C++ Hardware/Software Co-Design, Machine Learning Acceleration Systems",
+    "company": "Amazon Web Services",
+    "location": "Cupertino, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=f604a8f727c90e4b",
+    "date_posted": "2025-07-21T00:00:00.000",
+    "priority_score": 3,
+    "site": "indeed"
+  }
+]
