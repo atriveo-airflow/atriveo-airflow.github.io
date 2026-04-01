@@ -11152,5 +11152,28 @@
       "Stealth Startup"
     ],
     "snapshot_file": "2026-04-01T12-09-30Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T12:19:50Z",
+    "run_at": "2026-04-01T12:19:50.328178+00:00",
+    "pipeline": "important",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 11,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -281.4,
+      "max": 73,
+      "high": 11
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "OpenAI",
+      "Affirm",
+      "Uber"
+    ],
+    "snapshot_file": "2026-04-01T12-19-50Z_important.json"
   }
 ]
