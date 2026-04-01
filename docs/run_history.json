@@ -11375,5 +11375,28 @@
       "Skydio"
     ],
     "snapshot_file": "2026-04-01T14-10-33Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T14:22:17Z",
+    "run_at": "2026-04-01T14:22:17.921012+00:00",
+    "pipeline": "important",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 14,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -201.0,
+      "max": 81,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "OpenAI",
+      "Klaviyo",
+      "Figma"
+    ],
+    "snapshot_file": "2026-04-01T14-22-17Z_important.json"
   }
 ]
