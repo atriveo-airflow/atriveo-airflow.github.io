@@ -10934,5 +10934,27 @@
       "Canonical"
     ],
     "snapshot_file": "2026-04-01T05-08-20Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T05:17:33Z",
+    "run_at": "2026-04-01T05:17:33.579384+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -165.2,
+      "max": 66,
+      "high": 4
+    },
+    "top_companies": [
+      "Stripe",
+      "Roblox",
+      "IBM",
+      "Twitch"
+    ],
+    "snapshot_file": "2026-04-01T05-17-33Z_important.json"
   }
 ]
