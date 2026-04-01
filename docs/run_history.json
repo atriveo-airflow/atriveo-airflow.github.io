@@ -12067,5 +12067,28 @@
       "Broadcom"
     ],
     "snapshot_file": "2026-04-01T20-22-24Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T20:34:03Z",
+    "run_at": "2026-04-01T20:34:03.740560+00:00",
+    "pipeline": "top500",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 9,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -44.6,
+      "max": 90,
+      "high": 10
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Docusign",
+      "Equifax",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-01T20-34-03Z_top500.json"
   }
 ]
