@@ -2880,5 +2880,23 @@
       "Broadcom"
     ],
     "snapshot_file": "2026-04-01T19-07-16Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T19:10:20Z",
+    "run_at": "2026-04-01T19:10:20.616533+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 6.0,
+      "max": 6,
+      "high": 1
+    },
+    "top_companies": [
+      "ALTEN Technology USA"
+    ],
+    "snapshot_file": "2026-04-01T19-10-20Z_h1b2026.json"
   }
 ]
