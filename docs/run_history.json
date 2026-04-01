@@ -11175,5 +11175,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-01T12-19-50Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T12:30:19Z",
+    "run_at": "2026-04-01T12:30:19.965078+00:00",
+    "pipeline": "top500",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 16,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -190.9,
+      "max": 81,
+      "high": 17
+    },
+    "top_companies": [
+      "Netflix",
+      "Google",
+      "Klaviyo",
+      "OpenAI",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-04-01T12-30-19Z_top500.json"
   }
 ]
