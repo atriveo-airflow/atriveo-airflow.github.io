@@ -10595,5 +10595,28 @@
       "TENEX.AI"
     ],
     "snapshot_file": "2026-04-01T02-11-10Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T02:22:34Z",
+    "run_at": "2026-04-01T02:22:34.170587+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 5,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -405.9,
+      "max": 48,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Microsoft",
+      "Roblox",
+      "Broadcom"
+    ],
+    "snapshot_file": "2026-04-01T02-22-34Z_important.json"
   }
 ]
