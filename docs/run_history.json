@@ -2898,5 +2898,23 @@
       "ALTEN Technology USA"
     ],
     "snapshot_file": "2026-04-01T19-10-20Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T19:13:36Z",
+    "run_at": "2026-04-01T19:13:36.980283+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 13
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "ConstructConnect",
+      "Altom Transport, Inc.",
+      "Federal Reserve Bank of Boston",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-01T19-13-36Z_keywords.json"
   }
 ]
