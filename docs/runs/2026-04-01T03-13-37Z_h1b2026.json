@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Cognizant",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392815322",
+    "date_posted": null,
+    "priority_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Cloud Learning Services",
+    "company": "Google",
+    "location": "Chicago, IL, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=f8a596435cb7be90",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4396148998",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Performance",
+    "company": "Google",
+    "location": "New York, NY, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=984eea110a1cf900",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 2,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Ads, Conversational and Agentic AI",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=194f04fa91395636",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 2,
+    "site": "indeed"
+  }
+]
