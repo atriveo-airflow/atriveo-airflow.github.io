@@ -12204,5 +12204,29 @@
       "Lenovo"
     ],
     "snapshot_file": "2026-04-01T21-33-57Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T21:45:25Z",
+    "run_at": "2026-04-01T21:45:25.498346+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 4,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -342.2,
+      "max": 90,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Docusign",
+      "Alibaba Cloud",
+      "Bright Vision Technologies"
+    ],
+    "snapshot_file": "2026-04-01T21-45-25Z_h1b2026.json"
   }
 ]
