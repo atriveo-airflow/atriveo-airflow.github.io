@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Sr Software Engineer",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394352864",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, User Sharing",
+    "company": "Roblox",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392487592",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 5 - Research Data Products",
+    "company": "Netflix",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396267330",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Robotics Software Engineer - Manufacturing Automation",
+    "company": "Intrinsic",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396223949",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Counsel Health",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394346288",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Robotics Software Engineer (Perception & Localization)",
+    "company": "Orchard",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396277133",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Python (Advanced)",
+    "company": "Alignerr",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394342810",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
