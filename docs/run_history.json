@@ -10891,5 +10891,25 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-01T04-40-04Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T04:50:00Z",
+    "run_at": "2026-04-01T04:50:00.399715+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 30,
+    "levels": {
+      "Entry": 24,
+      "Mid": 4,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Roku",
+      "Cognizant",
+      "PNC",
+      "CGI"
+    ],
+    "snapshot_file": "2026-04-01T04-50-00Z_keywords.json"
   }
 ]
