@@ -11310,5 +11310,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-01T13-32-49Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T13:44:35Z",
+    "run_at": "2026-04-01T13:44:35.651255+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 11,
+    "levels": {
+      "Mid": 7,
+      "Entry": 4
+    },
+    "scores": {
+      "avg": -333.3,
+      "max": 58,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Klaviyo",
+      "Uber",
+      "Microsoft",
+      "Intuit"
+    ],
+    "snapshot_file": "2026-04-01T13-44-35Z_h1b2026.json"
   }
 ]
