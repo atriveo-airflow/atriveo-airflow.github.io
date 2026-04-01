@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Roanoke, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394997059",
+    "date_posted": null,
+    "priority_score": 78,
+    "score_pct": 60,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack",
+    "company": "Google",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393044035",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "date_posted": null,
+    "priority_score": 42,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Google",
+    "location": "Cambridge, MA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393037567",
+    "date_posted": null,
+    "priority_score": 37,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineer (Java)",
+    "company": "Bright Vision Technologies",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394941646",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Site Reliability Engineering",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393040447",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "New York, United States",
+    "level": "New Grad",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
