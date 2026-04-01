@@ -11198,5 +11198,28 @@
       "Affirm"
     ],
     "snapshot_file": "2026-04-01T12-30-19Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T12:41:40Z",
+    "run_at": "2026-04-01T12:41:40.805591+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 12,
+    "levels": {
+      "Mid": 7,
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -301.6,
+      "max": 58,
+      "high": 8
+    },
+    "top_companies": [
+      "Uber",
+      "Google",
+      "Klaviyo",
+      "Intuit",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-01T12-41-40Z_h1b2026.json"
   }
 ]
