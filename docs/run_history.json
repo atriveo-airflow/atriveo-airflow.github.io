@@ -12248,5 +12248,28 @@
       "Al Warren Oil"
     ],
     "snapshot_file": "2026-04-01T21-56-49Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T22:10:52Z",
+    "run_at": "2026-04-01T22:10:52.630665+00:00",
+    "pipeline": "standard",
+    "total_jobs": 36,
+    "levels": {
+      "Entry": 25,
+      "Mid": 11
+    },
+    "scores": {
+      "avg": -303.6,
+      "max": 99,
+      "high": 24
+    },
+    "top_companies": [
+      "Walmart",
+      "Google",
+      "BeaconFire Inc.",
+      "Mercor",
+      "Turing"
+    ],
+    "snapshot_file": "2026-04-01T22-10-52Z_standard.json"
   }
 ]
