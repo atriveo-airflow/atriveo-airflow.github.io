@@ -2759,5 +2759,26 @@
       "Intel Corporation"
     ],
     "snapshot_file": "2026-04-01T18-04-15Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T18:06:41Z",
+    "run_at": "2026-04-01T18:06:41.119075+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": 10.0,
+      "max": 15,
+      "high": 3
+    },
+    "top_companies": [
+      "Docusign",
+      "Salesforce",
+      "Netflix",
+      "Intel Corporation"
+    ],
+    "snapshot_file": "2026-04-01T18-06-41Z_top500.json"
   }
 ]
