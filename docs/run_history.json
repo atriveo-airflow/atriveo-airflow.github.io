@@ -12385,5 +12385,27 @@
       "Kforce Inc"
     ],
     "snapshot_file": "2026-04-01T23-11-01Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T23:22:48Z",
+    "run_at": "2026-04-01T23:22:48.450643+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 5,
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -405.0,
+      "max": 43,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-01T23-22-48Z_important.json"
   }
 ]
