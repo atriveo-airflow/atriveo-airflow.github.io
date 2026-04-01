@@ -1,0 +1,211 @@
+[
+  {
+    "title": "Sr. Software Engineer",
+    "company": "Illumio",
+    "location": "San Jose, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4289023313",
+    "date_posted": null,
+    "score": 26,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Frontend Software Engineer II",
+    "company": "Yahoo",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392443456",
+    "date_posted": null,
+    "score": 24,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "New Grad- Software Engineer",
+    "company": "Symbotic",
+    "location": "Wilmington, MA",
+    "level": "New Grad",
+    "job_url": "https://www.linkedin.com/jobs/view/4393584876",
+    "date_posted": null,
+    "score": 19,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Kashable",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392437698",
+    "date_posted": null,
+    "score": 18,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Fullstack Software Engineer",
+    "company": "Docusign",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4379648546",
+    "date_posted": null,
+    "score": 13,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry Level Software Engineer",
+    "company": "Emonics LLC",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392431676",
+    "date_posted": null,
+    "score": 10,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "GDG Santo Domingo",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393900485",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer \u2013 Remote",
+    "company": "Quik Hire Staffing",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393596247",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Frontend (Media SDK)",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393903375",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 3",
+    "company": "Oracle",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395875352",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full-Stack Product Software Engineer, Simplify Sharing",
+    "company": "Dropbox",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4373543304",
+    "date_posted": null,
+    "score": 7,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Lenovo",
+    "location": "North Carolina, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382264430",
+    "date_posted": null,
+    "score": 5,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Infrastructure, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392432634",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Blue Yonder",
+    "location": "Dallas, TX, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=bf3ec257b14d2ae8",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Workday (Integrations)",
+    "company": "Insperity",
+    "location": "TX, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=262ec5d9fb14814f",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "score": 3,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Amazech Solutions",
+    "location": "Carrollton, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395880047",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (EVM)",
+    "company": "Hyphen Connect",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4382415544",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "KGS Technology Group, Inc",
+    "location": "Alpharetta, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392434501",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, AI/ML, Search",
+    "company": "Google",
+    "location": "Cambridge, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392439522",
+    "date_posted": null,
+    "score": -1,
+    "competition_score": 3,
+    "site": "linkedin"
+  }
+]
