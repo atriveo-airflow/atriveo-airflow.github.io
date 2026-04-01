@@ -13,6 +13,32 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III, Full Stack",
+    "company": "Google",
+    "location": "San Bruno, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393043162",
+    "date_posted": null,
+    "priority_score": 49,
+    "score_pct": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393042270",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Engineer, Core Technology",
     "company": "Stripe",
     "location": "",
@@ -23,6 +49,19 @@
     "date_posted": null,
     "priority_score": 42,
     "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 3, Atlas Data Federation Customer Experience",
+    "company": "MongoDB",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366273330",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
     "site": "linkedin"
   },
   {
@@ -46,19 +85,6 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4396660991",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Safeguards",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4330542800",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
