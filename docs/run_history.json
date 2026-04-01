@@ -11067,5 +11067,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-01T09-13-27Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T09:20:52Z",
+    "run_at": "2026-04-01T09:20:52.618522+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -172.6,
+      "max": 44,
+      "high": 4
+    },
+    "top_companies": [
+      "Roblox",
+      "Netflix",
+      "Trimble Inc.",
+      "Uber",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-01T09-20-52Z_top500.json"
   }
 ]
