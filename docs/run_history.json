@@ -10572,5 +10572,28 @@
       "Alight Solutions"
     ],
     "snapshot_file": "2026-04-01T01-52-21Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-01T02:11:10Z",
+    "run_at": "2026-04-01T02:11:10.811951+00:00",
+    "pipeline": "standard",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 19,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -320.3,
+      "max": 76,
+      "high": 15
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Google",
+      "Haystack",
+      "Sixth Street",
+      "TENEX.AI"
+    ],
+    "snapshot_file": "2026-04-01T02-11-10Z_standard.json"
   }
 ]
