@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Cognizant",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392810437",
+    "date_posted": null,
+    "priority_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III - Contributory Network",
+    "company": "ZoomInfo",
+    "location": "Waltham, MA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4394311304",
+    "date_posted": null,
+    "priority_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": 4,
+    "site": "linkedin"
+  }
+]
