@@ -10,54 +10,54 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Developer",
-    "company": "Analogic",
-    "location": "Salem, NH",
+    "title": "Sr Software Engineer - Full Stack Finance",
+    "company": "ConstructConnect",
+    "location": "Atlanta, GA",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4393031894",
+    "job_url": "https://www.linkedin.com/jobs/view/4382048683",
     "date_posted": null,
-    "keyword_score": 24,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4375908197",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer - Career",
-    "company": "Equifax",
-    "location": "Alpharetta, GA, US",
+    "title": "Software Engineer - Solutions",
+    "company": "Archetype AI",
+    "location": "Palo Alto, CA",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=a6786be8f8c217b8",
-    "date_posted": 1775001600000,
-    "keyword_score": 22,
-    "site": "indeed"
+    "job_url": "https://www.linkedin.com/jobs/view/4320570045",
+    "date_posted": null,
+    "keyword_score": 20,
+    "site": "linkedin"
   },
   {
     "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
     "company": "Al Warren Oil",
-    "location": "Chicago, IL",
+    "location": "Bensenville, IL",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4394943810",
+    "job_url": "https://www.linkedin.com/jobs/view/4394953377",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Blockchain Software Engineer",
-    "company": "Craftner INC",
-    "location": "Charlotte, NC, US",
+    "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
+    "company": "Al Warren Oil Company, Inc.",
+    "location": "Bensenville, IL, US",
     "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=92dcddd5dbd14355",
+    "job_url": "https://www.indeed.com/viewjob?jk=ce538e24964a3f07",
     "date_posted": 1775001600000,
-    "keyword_score": 16,
+    "keyword_score": 18,
     "site": "indeed"
+  },
+  {
+    "title": "Software Engineer (Hybrid Work Model)",
+    "company": "Sentry",
+    "location": "Nashville, TN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392991703",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
   },
   {
     "title": "Software Developer, Officer",
@@ -67,26 +67,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4388567492",
     "date_posted": null,
     "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III - Backend",
-    "company": "Walmart",
-    "location": "Reston, VA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4337350345",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer",
-    "company": "Hyra",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4394941250",
-    "date_posted": null,
-    "keyword_score": 14,
     "site": "linkedin"
   },
   {
@@ -100,21 +80,21 @@
     "site": "linkedin"
   },
   {
-    "title": "Full-Stack Software Developer",
-    "company": "FullSteam LLC",
-    "location": "Remote, US",
-    "level": "Entry",
-    "job_url": "https://www.indeed.com/viewjob?jk=b648d5e1d4d303d0",
+    "title": "Sr. Software Engineer II - Backend",
+    "company": "Allocate",
+    "location": "Palo Alto, CA, US",
+    "level": "Mid",
+    "job_url": "https://www.indeed.com/viewjob?jk=6034c47f625b3ced",
     "date_posted": 1775001600000,
-    "keyword_score": 13,
+    "keyword_score": 12,
     "site": "indeed"
   },
   {
-    "title": "Software Engineer III- Web",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4386833870",
+    "title": "Backend - Software Data Engineer",
+    "company": "Gardner Resources Consulting, LLC",
+    "location": "Massachusetts, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394941949",
     "date_posted": null,
     "keyword_score": 12,
     "site": "linkedin"
@@ -130,173 +110,113 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Frontend / ReactJS / Node / GQL",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4383032691",
-    "date_posted": null,
-    "keyword_score": 10,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III - Mobile (iOS)",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4393350417",
-    "date_posted": null,
-    "keyword_score": 10,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer 0",
-    "company": "Reflexive Concepts",
-    "location": "Annapolis Junction, MD",
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4394948190",
+    "job_url": "https://www.linkedin.com/jobs/view/4393055114",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Web Software Engineer",
+    "company": "Nabsys",
+    "location": "Providence, RI",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394977048",
     "date_posted": null,
     "keyword_score": 9,
     "site": "linkedin"
   },
   {
-    "title": "Frontend Software Engineer",
-    "company": "Chalk",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4290778501",
-    "date_posted": null,
-    "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer III, Full Stack",
     "company": "Google",
-    "location": "New York, NY",
+    "location": "New York, NY, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4393044035",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=f41779fe732608f7",
+    "date_posted": 1775001600000,
     "keyword_score": 8,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Full Stack Software Engineer",
-    "company": "Chalk",
-    "location": "San Francisco, CA",
+    "title": "R&D Software Engineer",
+    "company": "Broadcom",
+    "location": "Lisle, IL, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4290774655",
-    "date_posted": null,
-    "keyword_score": 8,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Honey Homes",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4393053037",
-    "date_posted": null,
-    "keyword_score": 7,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Android",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4337370275",
-    "date_posted": null,
-    "keyword_score": 7,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III - iOS",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4368938904",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=5f551d7a60dc86f3",
+    "date_posted": 1775001600000,
     "keyword_score": 6,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Web for Warfighters",
-    "company": "Lockheed Martin",
-    "location": "Orlando, FL",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4394947415",
-    "date_posted": null,
-    "keyword_score": 6,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
     "title": "Software Engineer III",
     "company": "Google",
-    "location": "New York, NY",
+    "location": "New York, NY, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4393025895",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=dd4e98793b865489",
+    "date_posted": 1775001600000,
     "keyword_score": 6,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Software Developer 2",
-    "company": "V-Soft Consulting Group, Inc.",
-    "location": "Austin, TX",
+    "title": "Full Stack Software Engineer",
+    "company": "Weill Cornell Medicine",
+    "location": "New York, NY, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4393036588",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=d1e17e33a0eec4e3",
+    "date_posted": 1775001600000,
     "keyword_score": 6,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Software Developer Junior",
-    "company": "Crossfire Consulting",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4393001087",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - NY",
-    "company": "Chalk",
-    "location": "",
-    "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4361812866",
-    "date_posted": null,
-    "keyword_score": 5,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III - SAP Payroll Systems",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
+    "title": "Software Engineer III, Infrastructure, Geo",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
     "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4348580263",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=1513e3e719a8d1c5",
+    "date_posted": 1775001600000,
     "keyword_score": 5,
-    "site": "linkedin"
+    "site": "indeed"
   },
   {
-    "title": "Software Engineer II, Officer",
-    "company": "State Street",
-    "location": "Burlington, MA",
-    "level": "Mid",
-    "job_url": "https://www.linkedin.com/jobs/view/4394666232",
+    "title": "Software Engineer, Cloud HPC and Accelerator Networking",
+    "company": "Google",
+    "location": "Seattle, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=7c8efce124d78945",
+    "date_posted": 1775001600000,
+    "keyword_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Chrome AI Test Infrastructure",
+    "company": "Google",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=c00f1c1b3b2cb987",
+    "date_posted": 1775001600000,
+    "keyword_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "GitKraken",
+    "location": "Scottsdale, AZ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4378687782",
     "date_posted": null,
     "keyword_score": 3,
     "site": "linkedin"
   },
   {
-    "title": "PLM Software Engineer",
-    "company": "Stefanini Group",
-    "location": "Dearborn, MI",
+    "title": "ML Software Engineer",
+    "company": null,
+    "location": "San Diego, CA, US",
     "level": "Entry",
-    "job_url": "https://www.linkedin.com/jobs/view/4394941378",
-    "date_posted": null,
+    "job_url": "https://www.indeed.com/viewjob?jk=5676e57861737eee",
+    "date_posted": 1775001600000,
     "keyword_score": 3,
-    "site": "linkedin"
+    "site": "indeed"
   }
 ]
