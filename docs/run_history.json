@@ -11045,5 +11045,27 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-04-01T09-06-09Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T09:13:27Z",
+    "run_at": "2026-04-01T09:13:27.031944+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -223.5,
+      "max": 44,
+      "high": 3
+    },
+    "top_companies": [
+      "Roblox",
+      "Netflix",
+      "Uber",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-01T09-13-27Z_important.json"
   }
 ]
