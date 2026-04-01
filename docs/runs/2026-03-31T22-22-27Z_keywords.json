@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Software Engineer (API, SQL)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393528309",
+    "date_posted": null,
+    "keyword_score": 21,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Developer II",
+    "company": "Nickerson Talent Solutions",
+    "location": "Austin, Texas Metropolitan Area",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393957298",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "National Vision Inc.",
+    "location": "Duluth, GA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396169035",
+    "date_posted": null,
+    "keyword_score": 13,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Full Stack Developer (AI Focus)",
+    "company": "Hibu",
+    "location": "Columbus, OH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393957215",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Cisive",
+    "location": "Jefferson City, MO, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=2fab2a485cb0131e",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 12,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392452972",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Generative AI",
+    "company": "C3 AI",
+    "location": "Redwood City, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=60cc7f4f3cac43eb",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 9,
+    "site": "indeed"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4377764199",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4392469609",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Graduate Software Engineer, Developer Platforms & AI Services",
+    "company": "Arm",
+    "location": "Seattle, WA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=42cfb3c2db07e8b8",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 8,
+    "site": "indeed"
+  },
+  {
+    "title": "Jr. Software Developer",
+    "company": "ECLARO",
+    "location": "Brooklyn, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396160556",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr. Engineer, Software Engineer (Contact Center Technology)",
+    "company": "Nationwide",
+    "location": "Columbus, OH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396141607",
+    "date_posted": null,
+    "keyword_score": 6,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393522548",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer Intern (Summer Internship Program)",
+    "company": "CGI",
+    "location": "Hartford, CT",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393950463",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Infrastructure, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a4c78579ef777f7c",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer (React, SQL)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393902248",
+    "date_posted": null,
+    "keyword_score": 4,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Python)",
+    "company": "Intone Networks",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=8cd28801487d167c",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Research Software Engineer, Gen AI/LLM Development",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=2a40434cd6e0abb5",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Gemini Enterprise Mobile, Android",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=68c1a1195b090223",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=53c5a19b297254c2",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "keyword_score": 3,
+    "site": "indeed"
+  }
+]
