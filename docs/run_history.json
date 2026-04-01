@@ -10665,5 +10665,25 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T02-46-44Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T02:57:47Z",
+    "run_at": "2026-04-01T02:57:47.873348+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 38,
+    "levels": {
+      "Entry": 33,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "Jobs via Dice",
+      "FANTOM CORPORATION",
+      "JPMorganChase",
+      "RemoteHunter"
+    ],
+    "snapshot_file": "2026-04-01T02-57-47Z_keywords.json"
   }
 ]
