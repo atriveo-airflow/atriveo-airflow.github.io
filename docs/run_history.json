@@ -11264,5 +11264,28 @@
       "Air Apps"
     ],
     "snapshot_file": "2026-04-01T13-10-15Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T13:21:44Z",
+    "run_at": "2026-04-01T13:21:44.792809+00:00",
+    "pipeline": "important",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 11,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": -122.2,
+      "max": 73,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Klaviyo",
+      "OpenAI",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-04-01T13-21-44Z_important.json"
   }
 ]
