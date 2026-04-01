@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer, Behavior Planning ML Platform",
+    "company": "Aurora",
+    "location": "Pittsburgh, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392466798",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Gemini Enterprise Mobile, iOS",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=53c5a19b297254c2",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 7,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Gemini Enterprise Mobile, Android",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=68c1a1195b090223",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 7,
+    "site": "indeed"
+  },
+  {
+    "title": "Research Software Engineer, Gen AI/LLM Development",
+    "company": "Google",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=2a40434cd6e0abb5",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Infrastructure, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a4c78579ef777f7c",
+    "date_posted": "2026-03-31T00:00:00.000",
+    "priority_score": 5,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer, Agentic AI Platform - Moveworks",
+    "company": "ServiceNow",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4391906537",
+    "date_posted": null,
+    "priority_score": 2,
+    "site": "linkedin"
+  }
+]
