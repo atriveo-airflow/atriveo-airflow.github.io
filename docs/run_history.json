@@ -10868,5 +10868,28 @@
       "TikTok"
     ],
     "snapshot_file": "2026-04-01T04-30-51Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T04:40:04Z",
+    "run_at": "2026-04-01T04:40:04.647527+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -266.5,
+      "max": 89,
+      "high": 7
+    },
+    "top_companies": [
+      "Stripe",
+      "Cognizant",
+      "Alibaba Cloud",
+      "TikTok",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-01T04-40-04Z_h1b2026.json"
   }
 ]
