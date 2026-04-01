@@ -2388,5 +2388,24 @@
       "C3 AI"
     ],
     "snapshot_file": "2026-04-01T00-05-35Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T01:06:33Z",
+    "run_at": "2026-04-01T01:06:33.549045+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 19,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "ClientServer Technology Solutions LLC",
+      "Equifax",
+      "Genius Sports",
+      "Emory University",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-01T01-06-33Z_keywords.json"
   }
 ]
