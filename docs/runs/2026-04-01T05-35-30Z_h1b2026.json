@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Full Stack Software Developer",
+    "company": "Cognizant",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392815322",
+    "date_posted": null,
+    "priority_score": 89,
+    "score_pct": 68,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product Security Data Platforms",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394311834",
+    "date_posted": null,
+    "priority_score": 66,
+    "score_pct": 51,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 2 (Networking, Python, C/C++)",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394329982",
+    "date_posted": null,
+    "priority_score": 54,
+    "score_pct": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, User Sharing",
+    "company": "Roblox",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "max_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4392487592",
+    "date_posted": null,
+    "priority_score": 44,
+    "score_pct": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer-Seattle",
+    "company": "Alibaba Cloud",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396270156",
+    "date_posted": null,
+    "priority_score": 41,
+    "score_pct": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
+    "company": "IBM",
+    "location": "Tucson, AZ",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396165230",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Bridge",
+    "company": "Stripe",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
