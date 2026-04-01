@@ -2939,5 +2939,23 @@
       "TheIncLab"
     ],
     "snapshot_file": "2026-04-01T20-03-11Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-01T20:07:12Z",
+    "run_at": "2026-04-01T20:07:12.484627+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 3
+    },
+    "scores": {
+      "avg": 6.0,
+      "max": 8,
+      "high": 2
+    },
+    "top_companies": [
+      "Google"
+    ],
+    "snapshot_file": "2026-04-01T20-07-12Z_important.json"
   }
 ]
