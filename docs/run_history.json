@@ -12001,5 +12001,25 @@
       "NetApp"
     ],
     "snapshot_file": "2026-04-01T19-44-22Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T19:56:15Z",
+    "run_at": "2026-04-01T19:56:15.158740+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 59,
+    "levels": {
+      "Entry": 45,
+      "Mid": 13,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "BeaconFire Inc.",
+      "Sam's Club",
+      "Sundayy",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-04-01T19-56-15Z_keywords.json"
   }
 ]
