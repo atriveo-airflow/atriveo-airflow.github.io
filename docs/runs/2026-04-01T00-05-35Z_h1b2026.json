@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer II - Earner Incentive",
+    "company": "Uber",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393977354",
+    "date_posted": null,
+    "priority_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr Software Engineer",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393963850",
+    "date_posted": null,
+    "priority_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "system software engineer",
+    "company": "Cloud Software Group",
+    "location": "New York, United States",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392488526",
+    "date_posted": null,
+    "priority_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, User Sharing",
+    "company": "Roblox",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4392487592",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Generative AI",
+    "company": "C3 AI",
+    "location": "Redwood City, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4396180065",
+    "date_posted": null,
+    "priority_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Uber",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393985069",
+    "date_posted": null,
+    "priority_score": 0,
+    "site": "linkedin"
+  }
+]
