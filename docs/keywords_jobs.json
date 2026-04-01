@@ -1,24 +1,13 @@
 [
   {
-    "title": "Software Engineer III: DevOps",
-    "company": "hackajob",
-    "location": "New York, NY",
-    "level": "Mid",
+    "title": "Golang Backend Developer",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393000440",
+    "job_url": "https://www.linkedin.com/jobs/view/4393039579",
     "date_posted": null,
-    "keyword_score": 89,
-    "site": "linkedin"
-  },
-  {
-    "title": "Entry-Level Software Engineer",
-    "company": "DetaPent",
-    "location": "Pennsylvania, United States",
-    "level": "New Grad",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393005742",
-    "date_posted": null,
-    "keyword_score": 68,
+    "keyword_score": 70,
     "site": "linkedin"
   },
   {
@@ -33,12 +22,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Infrastructure",
-    "company": "Profound",
-    "location": "",
+    "title": "Software Engineer (Cloud, Cross-Platform & .NET Systems)",
+    "company": "Altom Transport",
+    "location": "Houston, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396663414",
+    "job_url": "https://www.linkedin.com/jobs/view/4394915566",
+    "date_posted": null,
+    "keyword_score": 52,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III- Java",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4390539815",
+    "date_posted": null,
+    "keyword_score": 49,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer - Career",
+    "company": "Equifax",
+    "location": "Alpharetta, GA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393037133",
     "date_posted": null,
     "keyword_score": 47,
     "site": "linkedin"
@@ -66,14 +77,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Backend",
-    "company": "Profound",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer III - Full Stack",
+    "company": "Sam's Club",
+    "location": "Bentonville, AR",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396667218",
+    "job_url": "https://www.linkedin.com/jobs/view/4385716293",
     "date_posted": null,
-    "keyword_score": 44,
+    "keyword_score": 45,
     "site": "linkedin"
   },
   {
@@ -99,36 +110,47 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Security",
-    "company": "Glean",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer III - Backend",
+    "company": "Walmart",
+    "location": "Reston, VA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4195256513",
+    "job_url": "https://www.linkedin.com/jobs/view/4337350345",
     "date_posted": null,
     "keyword_score": 41,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer IV",
-    "company": "Randstad Digital Americas",
-    "location": "Charlotte, NC",
+    "title": "Software Engineer - Salesforce",
+    "company": "Sysco",
+    "location": "Houston, TX",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394691272",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "Golang Software Engineer (with C# Migration Exposure)",
+    "company": "HireOn Tech",
+    "location": "Irving, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4390898615",
+    "job_url": "https://www.linkedin.com/jobs/view/4393015194",
     "date_posted": null,
     "keyword_score": 39,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Test",
-    "company": "Cboe Global Markets",
-    "location": "Chicago, IL",
-    "level": "Entry",
+    "title": "Software Engineer III",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4383816823",
+    "job_url": "https://www.linkedin.com/jobs/view/4382543468",
     "date_posted": null,
-    "keyword_score": 38,
+    "keyword_score": 39,
     "site": "linkedin"
   },
   {
@@ -140,6 +162,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4396657523",
     "date_posted": null,
     "keyword_score": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer IV",
+    "company": "Grainger",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394694027",
+    "date_posted": null,
+    "keyword_score": 37,
+    "site": "linkedin"
+  },
+  {
+    "title": "Distinguished, Software Engineer",
+    "company": "Walmart",
+    "location": "Bellevue, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4347326718",
+    "date_posted": null,
+    "keyword_score": 36,
     "site": "linkedin"
   },
   {
@@ -165,17 +209,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Engineer",
-    "company": "MORSE Corp",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4350292823",
-    "date_posted": null,
-    "keyword_score": 35,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Optum",
     "location": "Eden Prairie, MN",
@@ -198,12 +231,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer and IT Support",
-    "company": "Newbury Residential, Inc.",
-    "location": "Lynnfield, MA",
-    "level": "New Grad",
+    "title": "Full-Stack / Backend Engineer",
+    "company": "Qualitest",
+    "location": "California, United States",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394651894",
+    "job_url": "https://www.linkedin.com/jobs/view/4393027785",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Software Engineer III",
+    "company": "Sam's Club",
+    "location": "Bentonville, AR",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4372434527",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Memberships",
+    "company": "Crunchyroll",
+    "location": "San Francisco, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4382483854",
     "date_posted": null,
     "keyword_score": 34,
     "site": "linkedin"
@@ -220,25 +275,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Backend Developer",
-    "company": "IPolarity",
-    "location": "North Carolina, United States",
+    "title": "Software Engineer",
+    "company": "ITMC Systems, Inc",
+    "location": "Mount Juliet, TN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392895340",
+    "job_url": "https://www.linkedin.com/jobs/view/4396673047",
     "date_posted": null,
     "keyword_score": 32,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Core Platform",
-    "company": "Sumo Logic",
-    "location": "",
+    "title": "Software Engineer III",
+    "company": "TheIncLab",
+    "location": "Tampa, FL",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4346289359",
+    "job_url": "https://www.linkedin.com/jobs/view/4394932668",
     "date_posted": null,
-    "keyword_score": 31,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -253,12 +308,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "ProSearch",
-    "location": "",
+    "title": "Software Engineer, Infrastructure",
+    "company": "Suno",
+    "location": "Boston, MA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393017678",
+    "job_url": "https://www.linkedin.com/jobs/view/4396661607",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Machine Learning - LLMs)",
+    "company": "Lendbuzz",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4384309566",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
@@ -275,25 +341,14 @@
     "site": "linkedin"
   },
   {
-    "title": "AMD Public-Salt Lake City-Associate-Software Engineering",
-    "company": "Goldman Sachs",
-    "location": "Salt Lake City, UT",
+    "title": "Software Developer",
+    "company": "Hyra",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393014596",
+    "job_url": "https://www.linkedin.com/jobs/view/4394941250",
     "date_posted": null,
     "keyword_score": 29,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Software Engineer, GTM Innovation",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4249798671",
-    "date_posted": null,
-    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -308,34 +363,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Associate Software Engineer",
-    "company": "The Doctors Company",
-    "location": "East Lansing, MI",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394908279",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Billing Platform",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382458697",
-    "date_posted": null,
-    "keyword_score": 27,
-    "site": "linkedin"
-  },
-  {
     "title": "Java Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "California, United States",
+    "location": "Atlanta, GA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4377777994",
+    "job_url": "https://www.linkedin.com/jobs/view/4385744352",
     "date_posted": null,
     "keyword_score": 27,
     "site": "linkedin"
@@ -352,14 +385,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Accelerators",
-    "company": "OpenAI",
-    "location": "San Francisco, CA",
+    "title": "Java/Javascript Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "North Carolina, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4255879060",
+    "job_url": "https://www.linkedin.com/jobs/view/4391084073",
     "date_posted": null,
     "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Mastech Digital",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396657924",
+    "date_posted": null,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -385,34 +429,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer for Quantum-Centric Supercomputing",
-    "company": "IBM",
-    "location": "Yorktown Heights, NY",
-    "level": "Entry",
+    "title": "Software Engineer III- Web",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396656452",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Developer",
-    "company": "AppCard, Inc.",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396143803",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Node.js, TypeScript)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394616413",
+    "job_url": "https://www.linkedin.com/jobs/view/4386833870",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
@@ -429,23 +451,23 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Engineer, Forward Deployed",
+    "company": "Foxglove",
+    "location": "Austin, Texas Metropolitan Area",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396735911",
+    "date_posted": null,
+    "keyword_score": 23,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (L6) - Technical Catalog",
     "company": "Netflix",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4396660991",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer (f/m/d) (part-/fulltime)",
-    "company": "European Energy Exchange AG",
-    "location": "Clearing, IL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394668159",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
@@ -462,25 +484,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Associate Software Engineer",
-    "company": "Tyler Technologies",
-    "location": "Plano, TX",
-    "level": "Entry",
+    "title": "(USA) Software Engineer III",
+    "company": "Walmart",
+    "location": "Bentonville, AR",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382478989",
+    "job_url": "https://www.linkedin.com/jobs/view/4381774206",
     "date_posted": null,
     "keyword_score": 22,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Corporate Functions) - Chicago, IL",
-    "company": "Lenovo",
-    "location": "Chicago, IL",
+    "title": "Software Engineer &ndash",
+    "company": "SIDRAM TECHNOLOGIES",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344018814",
+    "job_url": "https://www.linkedin.com/jobs/view/4394670565",
     "date_posted": null,
-    "keyword_score": 22,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -506,67 +528,12 @@
     "site": "linkedin"
   },
   {
-    "title": "#Software Engineer \u2013 Platform Test",
-    "company": "Qualcomm",
-    "location": "San Diego, CA",
+    "title": "Software Engineer - Android",
+    "company": "Walmart",
+    "location": "Bentonville, AR",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392889591",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer &ndash",
-    "company": "SIDRAM TECHNOLOGIES",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394670565",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Qualcomm",
-    "location": "San Diego, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4392883775",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Bridge",
-    "company": "Stripe",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4366978046",
-    "date_posted": null,
-    "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Data",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394618206",
-    "date_posted": null,
-    "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Constellation Space (YC W26)",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394694263",
+    "job_url": "https://www.linkedin.com/jobs/view/4337350302",
     "date_posted": null,
     "keyword_score": 19,
     "site": "linkedin"
@@ -583,67 +550,67 @@
     "site": "linkedin"
   },
   {
-    "title": "Debt Solutions - Software Engineer (React/C#/.NET)",
-    "company": "CoStar Group",
-    "location": "San Diego, CA",
-    "level": "Entry",
+    "title": "Software Engineer III, Frontend / ReactJS / Node / GQL",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4383842853",
+    "job_url": "https://www.linkedin.com/jobs/view/4383032691",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Python Software Engineer",
-    "company": "Vaco by Highspring",
-    "location": "Nashville, TN",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394923052",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4392896103",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Autonomy Systems Software Engineer",
-    "company": "Kodiak",
+    "title": "Full Stack Software Engineer",
+    "company": "Chalk",
     "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394689116",
+    "job_url": "https://www.linkedin.com/jobs/view/4290774655",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Backend.NET Engineer",
+    "company": "Metrc",
+    "location": "Lakeland, FL",
+    "level": "Entry",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4389821967",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 0",
+    "company": "Reflexive Concepts",
+    "location": "Annapolis Junction, MD",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394948190",
     "date_posted": null,
     "keyword_score": 16,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Solomon Page",
-    "location": "New York, NY",
+    "title": "College Software Engineer",
+    "company": "AfterQuery Experts",
+    "location": "",
     "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4382504672",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396670694",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
   },
   {
-    "title": "Python Software Developer \u2013 Remote",
-    "company": "Quik Hire Staffing",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394662637",
+    "title": "Software Engineer III, Full Stack",
+    "company": "Google",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393034662",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
@@ -651,10 +618,32 @@
   {
     "title": "Remote Software Developer",
     "company": "Turing",
-    "location": "Austin, TX",
+    "location": "Washington, DC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394660508",
+    "job_url": "https://www.linkedin.com/jobs/view/4394677225",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer \u2013 Remote",
+    "company": "Quik Hire Staffing",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394904955",
+    "date_posted": null,
+    "keyword_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393044039",
     "date_posted": null,
     "keyword_score": 15,
     "site": "linkedin"
