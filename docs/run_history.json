@@ -11333,5 +11333,24 @@
       "Intuit"
     ],
     "snapshot_file": "2026-04-01T13-44-35Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T13:56:31Z",
+    "run_at": "2026-04-01T13:56:31.340955+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 51,
+    "levels": {
+      "Entry": 40,
+      "Mid": 11
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "JPMorganChase",
+      "hackajob",
+      "RemoteHunter",
+      "Walmart"
+    ],
+    "snapshot_file": "2026-04-01T13-56-31Z_keywords.json"
   }
 ]
