@@ -2697,5 +2697,25 @@
       "Cloud Software Group"
     ],
     "snapshot_file": "2026-04-01T17-50-31Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T17:53:37Z",
+    "run_at": "2026-04-01T17:53:37.397265+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 26,
+    "levels": {
+      "Entry": 21,
+      "Mid": 3,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "DataAnnotation",
+      "DetaPent",
+      "Perpay Inc.",
+      "Docusign",
+      "Electronic Arts (EA)"
+    ],
+    "snapshot_file": "2026-04-01T17-53-37Z_keywords.json"
   }
 ]
