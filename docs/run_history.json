@@ -11421,5 +11421,28 @@
       "Equifax"
     ],
     "snapshot_file": "2026-04-01T14-33-58Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T14:45:59Z",
+    "run_at": "2026-04-01T14:45:59.964692+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 10,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -146.8,
+      "max": 86,
+      "high": 13
+    },
+    "top_companies": [
+      "Uber",
+      "Google",
+      "Microsoft",
+      "Pure Storage",
+      "Precision Technologies"
+    ],
+    "snapshot_file": "2026-04-01T14-45-59Z_h1b2026.json"
   }
 ]
