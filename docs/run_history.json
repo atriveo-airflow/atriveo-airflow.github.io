@@ -11002,5 +11002,25 @@
       "Alibaba Cloud"
     ],
     "snapshot_file": "2026-04-01T05-35-30Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-01T05:44:39Z",
+    "run_at": "2026-04-01T05:44:39.611187+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 27,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "JPMorganChase",
+      "Counsel Health",
+      "Stripe",
+      "PNC"
+    ],
+    "snapshot_file": "2026-04-01T05-44-39Z_keywords.json"
   }
 ]
