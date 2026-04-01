@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Docusign",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4324492205",
+    "date_posted": null,
+    "priority_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390266472",
+    "date_posted": null,
+    "priority_score": 15,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Search Infrastructure - Slack",
+    "company": "Salesforce",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4394684591",
+    "date_posted": null,
+    "priority_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Sr Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Merrimack, NH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4390757716",
+    "date_posted": null,
+    "priority_score": 10,
+    "site": "linkedin"
+  }
+]
