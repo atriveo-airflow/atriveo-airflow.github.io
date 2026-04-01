@@ -11287,5 +11287,28 @@
       "Affirm"
     ],
     "snapshot_file": "2026-04-01T13-21-44Z_important.json"
+  },
+  {
+    "session_id": "2026-04-01T13:32:49Z",
+    "run_at": "2026-04-01T13:32:49.264284+00:00",
+    "pipeline": "top500",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 13,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -114.5,
+      "max": 72,
+      "high": 17
+    },
+    "top_companies": [
+      "Klaviyo",
+      "Netflix",
+      "Nokia",
+      "Affirm",
+      "Uber"
+    ],
+    "snapshot_file": "2026-04-01T13-32-49Z_top500.json"
   }
 ]
