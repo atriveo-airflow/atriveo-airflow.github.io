@@ -11532,5 +11532,28 @@
       "Netflix"
     ],
     "snapshot_file": "2026-04-01T15-34-54Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T15:47:00Z",
+    "run_at": "2026-04-01T15:47:00.655376+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 9,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -47.2,
+      "max": 58,
+      "high": 10
+    },
+    "top_companies": [
+      "Google",
+      "Pure Storage",
+      "Microsoft",
+      "Scale AI",
+      "Intuit"
+    ],
+    "snapshot_file": "2026-04-01T15-47-00Z_h1b2026.json"
   }
 ]
