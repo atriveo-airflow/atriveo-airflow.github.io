@@ -10642,5 +10642,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-01T02-34-24Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-01T02:46:44Z",
+    "run_at": "2026-04-01T02:46:44.068302+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 9,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -253.4,
+      "max": 89,
+      "high": 10
+    },
+    "top_companies": [
+      "Stripe",
+      "Google",
+      "Uber",
+      "Cognizant",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-01T02-46-44Z_h1b2026.json"
   }
 ]
