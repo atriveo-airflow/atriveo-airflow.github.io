@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Backend Software Engineer",
+    "company": "Slang AI",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393808597",
+    "date_posted": null,
+    "score": 21,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Seesaw Learning",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393956744",
+    "date_posted": null,
+    "score": 15,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Enterprise - Full-Stack Software Engineer - Java, SQL, AWS",
+    "company": "Erias Ventures",
+    "location": "Chantilly, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395398137",
+    "date_posted": null,
+    "score": 13,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Front End",
+    "company": "U.S. Bank",
+    "location": "Irving, TX",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4395391590",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer \u2013 App",
+    "company": "Canapii",
+    "location": "Portland, OR",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395391371",
+    "date_posted": null,
+    "score": 9,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend",
+    "company": "Robinhood",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397138756",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "HPC - Software Engineer - Linux, Bash, Python",
+    "company": "Erias Ventures",
+    "location": "Annapolis Junction, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395386596",
+    "date_posted": null,
+    "score": 8,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer-OpenShift",
+    "company": "Jobs via Dice",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393807653",
+    "date_posted": null,
+    "score": 6,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "True Manufacturing",
+    "location": "O'Fallon, MO",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393811312",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Elwyn",
+    "location": "Elwyn, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397133945",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineering SMTS, Salesforce",
+    "company": "Salesforce",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=78dd086dbd42d2e5",
+    "date_posted": "2026-04-02T00:00:00.000",
+    "score": 4,
+    "competition_score": 1,
+    "site": "indeed"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395388601",
+    "date_posted": null,
+    "score": 4,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product",
+    "company": "Numeric",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4366251464",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Remote Software Developer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395384684",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, Cloud AI",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4362505482",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Entegee",
+    "location": "Plantation, FL",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393816019",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395393261",
+    "date_posted": null,
+    "score": 1,
+    "competition_score": 1,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Switch Design",
+    "company": "Super Micro Computer, Inc.",
+    "location": "San Jose, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=a79c4289cd8e5399",
+    "date_posted": "2026-04-02T00:00:00.000",
+    "score": 0,
+    "competition_score": 1,
+    "site": "indeed"
+  }
+]
