@@ -13045,5 +13045,23 @@
       "Whatnot"
     ],
     "snapshot_file": "2026-04-02T09-09-05Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T09:20:08Z",
+    "run_at": "2026-04-02T09:20:08.931099+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 36.0,
+      "max": 36,
+      "high": 1
+    },
+    "top_companies": [
+      "Uber"
+    ],
+    "snapshot_file": "2026-04-02T09-20-08Z_important.json"
   }
 ]
