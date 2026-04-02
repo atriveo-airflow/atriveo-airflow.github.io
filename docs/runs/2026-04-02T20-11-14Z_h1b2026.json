@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Software Engineer III, Speech Production, Infrastructure",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393815067",
+    "date_posted": null,
+    "priority_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Database Internals, AlloyDB, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393808512",
+    "date_posted": null,
+    "priority_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineering SMTS, Salesforce",
+    "company": "Salesforce",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=78dd086dbd42d2e5",
+    "date_posted": "2026-04-02T00:00:00.000",
+    "priority_score": 0,
+    "site": "indeed"
+  }
+]
