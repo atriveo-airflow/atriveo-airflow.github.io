@@ -13686,5 +13686,28 @@
       "Exert Infotech LLC"
     ],
     "snapshot_file": "2026-04-02T21-21-24Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T22:16:47Z",
+    "run_at": "2026-04-02T22:16:47.570316+00:00",
+    "pipeline": "standard",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 27,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -181.0,
+      "max": 95,
+      "high": 25
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Google",
+      "AgileGrid Solutions",
+      "Turing",
+      "HiringAgents.ai"
+    ],
+    "snapshot_file": "2026-04-02T22-16-47Z_standard.json"
   }
 ]
