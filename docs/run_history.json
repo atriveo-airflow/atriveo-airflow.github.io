@@ -13261,5 +13261,28 @@
       "hackajob"
     ],
     "snapshot_file": "2026-04-02T14-16-36Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T14:34:57Z",
+    "run_at": "2026-04-02T14:34:57.645296+00:00",
+    "pipeline": "important",
+    "total_jobs": 22,
+    "levels": {
+      "Entry": 13,
+      "Mid": 9
+    },
+    "scores": {
+      "avg": -98.3,
+      "max": 63,
+      "high": 19
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "Affirm",
+      "Figma"
+    ],
+    "snapshot_file": "2026-04-02T14-34-57Z_important.json"
   }
 ]
