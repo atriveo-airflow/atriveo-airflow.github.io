@@ -12732,5 +12732,23 @@
       "Rippling"
     ],
     "snapshot_file": "2026-04-02T02-20-28Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T02:31:24Z",
+    "run_at": "2026-04-02T02:31:24.010786+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 67.0,
+      "max": 67,
+      "high": 1
+    },
+    "top_companies": [
+      "Goldman Sachs"
+    ],
+    "snapshot_file": "2026-04-02T02-31-24Z_top500.json"
   }
 ]
