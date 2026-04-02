@@ -12606,5 +12606,25 @@
       "Microsoft AI"
     ],
     "snapshot_file": "2026-04-02T01-09-14Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T01:19:13Z",
+    "run_at": "2026-04-02T01:19:13.231999+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 36.0,
+      "max": 38,
+      "high": 2
+    },
+    "top_companies": [
+      "Benchling",
+      "Rippling"
+    ],
+    "snapshot_file": "2026-04-02T01-19-13Z_important.json"
   }
 ]
