@@ -13461,5 +13461,28 @@
       "Otter"
     ],
     "snapshot_file": "2026-04-02T17-23-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T18:15:48Z",
+    "run_at": "2026-04-02T18:15:48.538948+00:00",
+    "pipeline": "standard",
+    "total_jobs": 58,
+    "levels": {
+      "Entry": 48,
+      "Mid": 10
+    },
+    "scores": {
+      "avg": -151.9,
+      "max": 123,
+      "high": 47
+    },
+    "top_companies": [
+      "Perplexity",
+      "DataAnnotation",
+      "Turing",
+      "Google",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-02T18-15-48Z_standard.json"
   }
 ]
