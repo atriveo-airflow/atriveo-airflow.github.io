@@ -13085,5 +13085,26 @@
       "AMD"
     ],
     "snapshot_file": "2026-04-02T09-30-55Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T09:42:34Z",
+    "run_at": "2026-04-02T09:42:34.568300+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 42.7,
+      "max": 64,
+      "high": 3
+    },
+    "top_companies": [
+      "Docusign",
+      "Uber",
+      "Susquehanna International Group"
+    ],
+    "snapshot_file": "2026-04-02T09-42-34Z_h1b2026.json"
   }
 ]
