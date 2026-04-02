@@ -13022,5 +13022,28 @@
       "Fanatics"
     ],
     "snapshot_file": "2026-04-02T05-04-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T09:09:05Z",
+    "run_at": "2026-04-02T09:09:05.635631+00:00",
+    "pipeline": "standard",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 27,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -248.3,
+      "max": 117,
+      "high": 23
+    },
+    "top_companies": [
+      "hackajob",
+      "Jobs via Dice",
+      "JPMorganChase",
+      "Acceler8 Talent",
+      "Whatnot"
+    ],
+    "snapshot_file": "2026-04-02T09-09-05Z_standard.json"
   }
 ]
