@@ -12817,5 +12817,29 @@
       "The New York Times"
     ],
     "snapshot_file": "2026-04-02T03-08-14Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T03:18:12Z",
+    "run_at": "2026-04-02T03:18:12.020397+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 4,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -223.5,
+      "max": 45,
+      "high": 6
+    },
+    "top_companies": [
+      "Stripe",
+      "NVIDIA",
+      "Mixpanel",
+      "Rippling",
+      "Aurora"
+    ],
+    "snapshot_file": "2026-04-02T03-18-12Z_important.json"
   }
 ]
