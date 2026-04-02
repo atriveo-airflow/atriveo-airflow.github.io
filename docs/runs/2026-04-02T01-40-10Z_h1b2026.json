@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Kforce Inc",
+    "location": "Roanoke, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394997059",
+    "date_posted": null,
+    "priority_score": 78,
+    "score_pct": 60,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Roanoke, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393047534",
+    "date_posted": null,
+    "priority_score": 70,
+    "score_pct": 54,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer in Test II",
+    "company": "Brain Corp",
+    "location": "San Diego, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393061323",
+    "date_posted": null,
+    "priority_score": 50,
+    "score_pct": 38,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Hardware Tools and Infrastructure)",
+    "company": "Arista Networks",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396665595",
+    "date_posted": null,
+    "priority_score": 38,
+    "score_pct": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, GCS Object Context and Retrieval",
+    "company": "Google",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393069667",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
