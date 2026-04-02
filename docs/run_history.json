@@ -13553,5 +13553,25 @@
       "Spotify"
     ],
     "snapshot_file": "2026-04-02T19-04-47Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T19:21:15Z",
+    "run_at": "2026-04-02T19:21:15.402292+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 44,
+    "levels": {
+      "Entry": 37,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Perplexity",
+      "Equifax",
+      "IBM",
+      "Turing",
+      "Exert Infotech LLC"
+    ],
+    "snapshot_file": "2026-04-02T19-21-15Z_keywords.json"
   }
 ]
