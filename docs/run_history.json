@@ -13218,5 +13218,24 @@
       "Kforce Inc"
     ],
     "snapshot_file": "2026-04-02T12-59-38Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T13:15:31Z",
+    "run_at": "2026-04-02T13:15:31.918995+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 65,
+    "levels": {
+      "Entry": 54,
+      "Mid": 11
+    },
+    "scores": {},
+    "top_companies": [
+      "Alignerr",
+      "Netflix",
+      "Quik Hire Staffing",
+      "Sundayy",
+      "ModMed"
+    ],
+    "snapshot_file": "2026-04-02T13-15-31Z_keywords.json"
   }
 ]
