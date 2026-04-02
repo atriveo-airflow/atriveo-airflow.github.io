@@ -13307,5 +13307,29 @@
       "Together AI"
     ],
     "snapshot_file": "2026-04-02T14-53-23Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T15:11:49Z",
+    "run_at": "2026-04-02T15:11:49.696420+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 12,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -77.1,
+      "max": 81,
+      "high": 15
+    },
+    "top_companies": [
+      "Google",
+      "Intuit",
+      "Microsoft",
+      "Euclid Innovations",
+      "Precision Technologies"
+    ],
+    "snapshot_file": "2026-04-02T15-11-49Z_h1b2026.json"
   }
 ]
