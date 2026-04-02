@@ -13666,5 +13666,25 @@
       "Spotify"
     ],
     "snapshot_file": "2026-04-02T21-05-01Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T21:21:24Z",
+    "run_at": "2026-04-02T21:21:24.155366+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 40,
+    "levels": {
+      "Entry": 33,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Perplexity",
+      "Erias Ventures",
+      "Google",
+      "Exert Infotech LLC"
+    ],
+    "snapshot_file": "2026-04-02T21-21-24Z_keywords.json"
   }
 ]
