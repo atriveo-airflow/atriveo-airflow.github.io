@@ -13755,5 +13755,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-02T22-51-19Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T23:07:11Z",
+    "run_at": "2026-04-02T23:07:11.581668+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 15,
+    "levels": {
+      "Mid": 10,
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -87.5,
+      "max": 88,
+      "high": 13
+    },
+    "top_companies": [
+      "Google",
+      "HCL Global Systems Inc",
+      "First Street",
+      "Uber",
+      "mroads"
+    ],
+    "snapshot_file": "2026-04-02T23-07-11Z_h1b2026.json"
   }
 ]
