@@ -13063,5 +13063,27 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-02T09-20-08Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T09:30:55Z",
+    "run_at": "2026-04-02T09:30:55.522084+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Mid": 2,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 59.8,
+      "max": 110,
+      "high": 4
+    },
+    "top_companies": [
+      "Zuora",
+      "Docusign",
+      "Uber",
+      "AMD"
+    ],
+    "snapshot_file": "2026-04-02T09-30-55Z_top500.json"
   }
 ]
