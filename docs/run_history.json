@@ -12841,5 +12841,28 @@
       "Aurora"
     ],
     "snapshot_file": "2026-04-02T03-18-12Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T03:27:49Z",
+    "run_at": "2026-04-02T03:27:49.827039+00:00",
+    "pipeline": "top500",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 3,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -481.8,
+      "max": 42,
+      "high": 3
+    },
+    "top_companies": [
+      "Stripe",
+      "NVIDIA",
+      "IBM",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-02T03-27-49Z_top500.json"
   }
 ]
