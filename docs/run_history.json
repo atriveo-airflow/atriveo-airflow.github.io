@@ -13373,5 +13373,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-02T16-16-12Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T16:33:26Z",
+    "run_at": "2026-04-02T16:33:26.998042+00:00",
+    "pipeline": "important",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 16,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -61.0,
+      "max": 63,
+      "high": 18
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "Figma",
+      "NVIDIA"
+    ],
+    "snapshot_file": "2026-04-02T16-33-26Z_important.json"
   }
 ]
