@@ -1,13 +1,13 @@
 [
   {
-    "title": "Software Engineer III - Full Stack Cloud (Java, React, AWS, GraphQL)",
+    "title": "Software Engineer III - Full Stack Engineer",
     "company": "JPMorganChase",
-    "location": "Palo Alto, CA",
+    "location": "Seattle, WA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395220680",
+    "job_url": "https://www.linkedin.com/jobs/view/4395223480",
     "date_posted": null,
-    "keyword_score": 69,
+    "keyword_score": 89,
     "site": "linkedin"
   },
   {
@@ -18,29 +18,62 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4396843254",
     "date_posted": null,
-    "keyword_score": 66,
+    "keyword_score": 75,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III - Machine Learning Platform",
+    "title": "Software Engineer III - Full Stack Cloud (Java, React, AWS, GraphQL)",
     "company": "JPMorganChase",
-    "location": "New York, NY",
+    "location": "Palo Alto, CA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395230021",
+    "job_url": "https://www.linkedin.com/jobs/view/4395220680",
     "date_posted": null,
-    "keyword_score": 54,
+    "keyword_score": 73,
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
-    "company": "HAN Staffing",
-    "location": "Charlotte, NC",
+    "title": "Java/Python Engineer- AZ",
+    "company": "Jobs via Dice",
+    "location": "Phoenix, AZ",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396834768",
+    "job_url": "https://www.linkedin.com/jobs/view/4393085193",
     "date_posted": null,
-    "keyword_score": 40,
+    "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer with AI",
+    "company": "Jobs via Dice",
+    "location": "Plano, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393084226",
+    "date_posted": null,
+    "keyword_score": 57,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Fort Collins, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395229845",
+    "date_posted": null,
+    "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software/Python Developer role in Columbus, Ohio",
+    "company": "Jobs via Dice",
+    "location": "Columbus, OH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393065957",
+    "date_posted": null,
+    "keyword_score": 48,
     "site": "linkedin"
   },
   {
@@ -51,18 +84,29 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4395214677",
     "date_posted": null,
-    "keyword_score": 35,
+    "keyword_score": 43,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Developer Experience)",
+    "title": "Product Software Engineer",
     "company": "Jobs via Dice",
-    "location": "",
+    "location": "McLean, VA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393086182",
+    "job_url": "https://www.linkedin.com/jobs/view/4393088022",
     "date_posted": null,
-    "keyword_score": 34,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 2 (Networking, Python, C/C++)",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394329982",
+    "date_posted": null,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -73,18 +117,7 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4344917131",
     "date_posted": null,
-    "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "BetterEngineer",
-    "location": "Austin, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4378131959",
-    "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -95,7 +128,95 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4395231049",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Python Engineer",
+    "company": "Canonical",
+    "location": "Cleveland, OH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395238770",
+    "date_posted": null,
+    "keyword_score": 37,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "BetterEngineer",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4378131959",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Distinguished, Software Engineer",
+    "company": "Walmart Data Ventures",
+    "location": "Bentonville, AR",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396855597",
+    "date_posted": null,
+    "keyword_score": 33,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Software Engineer (Onsite role in Fremont, CA) Direct Face to Face",
+    "company": "Jobs via Dice",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393074498",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Python Developer with SQL Server",
+    "company": "Akkodis",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393071738",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Bare Metal Platform Software Engineer Full Stack",
+    "company": "Rackdog",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393092211",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Growth",
+    "company": "Mixpanel",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394996994",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Python Engineer, Truework",
+    "company": "Checkr, Inc.",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395217713",
+    "date_posted": null,
+    "keyword_score": 31,
     "site": "linkedin"
   },
   {
@@ -106,7 +227,40 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4393061323",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Quantitative Python Engineer, Model Risk & AI Platform (Databricks / Agentic AI)",
+    "company": "BIP US",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392765583",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Randstad Digital Americas",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393080752",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - AI Platforms and Products",
+    "company": "The New York Times",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395232435",
+    "date_posted": null,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
@@ -117,7 +271,84 @@
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4393080446",
     "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Bilingual Mandarin Backend Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393084188",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393083220",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III- Informatica Developer",
+    "company": "TalentAlly",
+    "location": "Raleigh, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393074928",
+    "date_posted": null,
     "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "SambaNova",
+    "location": "Palo Alto, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4380557590",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III- Informatica Developer",
+    "company": "Truist",
+    "location": "Raleigh, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393909661",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Data Platform",
+    "company": "Retool",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395176187",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Data Classification",
+    "company": "Booking.com",
+    "location": "Washington, DC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395218897",
+    "date_posted": null,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -132,6 +363,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Simulation - Robotics",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395247047",
+    "date_posted": null,
+    "keyword_score": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Specialist Software Engineer (C)",
+    "company": "Metropolitan Transportation Authority",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393097179",
+    "date_posted": null,
+    "keyword_score": 25,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, Ecosystem",
     "company": "Postman",
     "location": "San Francisco, CA",
@@ -143,78 +396,45 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "SambaNova",
-    "location": "Palo Alto, CA",
+    "title": "Full Stack Software Engineer",
+    "company": "Weill Cornell Medicine",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380557590",
+    "job_url": "https://www.linkedin.com/jobs/view/4396768393",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Data Classification",
-    "company": "Booking.com",
-    "location": "Washington, DC",
+    "title": "Software Engineer, Perception Evaluation",
+    "company": "Waymo",
+    "location": "Mountain View, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395218897",
+    "job_url": "https://www.linkedin.com/jobs/view/4368989222",
     "date_posted": null,
-    "keyword_score": 23,
+    "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III- Informatica Developer",
-    "company": "Truist",
-    "location": "Raleigh, NC",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393909661",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - AI Platforms and Products",
-    "company": "The New York Times",
+    "title": "Founding Software Engineer",
+    "company": "Loula (YC W23)",
     "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395232435",
+    "job_url": "https://www.linkedin.com/jobs/view/4393074367",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Growth",
-    "company": "Mixpanel",
-    "location": "San Francisco, CA",
+    "title": "Full Stack Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Dearborn, MI",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394996994",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Fullstack Engineer / Typescript Backend",
-    "company": "Oscar",
-    "location": "San Francisco County, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396770321",
-    "date_posted": null,
-    "keyword_score": 22,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Simulation - Robotics",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395247047",
+    "job_url": "https://www.linkedin.com/jobs/view/4393069766",
     "date_posted": null,
     "keyword_score": 22,
     "site": "linkedin"
@@ -231,6 +451,39 @@
     "site": "linkedin"
   },
   {
+    "title": "Application Software Developer",
+    "company": "Auxilior Capital Partners, Inc.",
+    "location": "Philadelphia, PA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395228800",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer in Test - Infrastructure",
+    "company": "Snorkel AI",
+    "location": "Redwood City, CA",
+    "level": "Entry",
+    "min_exp": 5.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4396857425",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer I",
+    "company": "Blue Yonder",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393088817",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
     "title": "Web Software Engineer, Member",
     "company": "SoFi",
     "location": "New York, NY",
@@ -242,69 +495,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Founding Software Engineer",
-    "company": "Loula (YC W23)",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393074367",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Perception Evaluation",
-    "company": "Waymo",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4368989222",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Full Stack Software Engineer",
+    "title": "Python Developer",
     "company": "Jobs via Dice",
-    "location": "Dearborn, MI",
+    "location": "California City, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393069766",
+    "job_url": "https://www.linkedin.com/jobs/view/4393065967",
     "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - RQL",
-    "company": "Rippling",
-    "location": "Seattle, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395200114",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Microsoft AI",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394988686",
-    "date_posted": null,
-    "keyword_score": 16,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (React / TypeScript)",
-    "company": "Jobs via Dice",
-    "location": "Columbus, OH",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393082266",
-    "date_posted": null,
-    "keyword_score": 16,
+    "keyword_score": 17,
     "site": "linkedin"
   }
 ]
