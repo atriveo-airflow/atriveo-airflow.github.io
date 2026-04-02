@@ -12954,5 +12954,29 @@
       "SoFi"
     ],
     "snapshot_file": "2026-04-02T04-25-07Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T04:38:39Z",
+    "run_at": "2026-04-02T04:38:39.416063+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 5,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -259.3,
+      "max": 42,
+      "high": 5
+    },
+    "top_companies": [
+      "Stripe",
+      "NVIDIA",
+      "Waymo",
+      "Uber",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-02T04-38-39Z_top500.json"
   }
 ]
