@@ -13709,5 +13709,28 @@
       "HiringAgents.ai"
     ],
     "snapshot_file": "2026-04-02T22-16-47Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T22:33:59Z",
+    "run_at": "2026-04-02T22:33:59.176483+00:00",
+    "pipeline": "important",
+    "total_jobs": 11,
+    "levels": {
+      "Mid": 8,
+      "Entry": 3
+    },
+    "scores": {
+      "avg": -45.7,
+      "max": 67,
+      "high": 10
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Robinhood",
+      "Microsoft",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-02T22-33-59Z_important.json"
   }
 ]
