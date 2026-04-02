@@ -12540,5 +12540,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-02T00-29-43Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T00:39:56Z",
+    "run_at": "2026-04-02T00:39:56.859439+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -245.7,
+      "max": 78,
+      "high": 5
+    },
+    "top_companies": [
+      "Stripe",
+      "Kforce Inc",
+      "Randstad Digital Americas",
+      "Brain Corp",
+      "Arista Networks"
+    ],
+    "snapshot_file": "2026-04-02T00-39-56Z_h1b2026.json"
   }
 ]
