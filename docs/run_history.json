@@ -12495,5 +12495,27 @@
       "Nabsys"
     ],
     "snapshot_file": "2026-04-02T00-09-31Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T00:19:16Z",
+    "run_at": "2026-04-02T00:19:16.789215+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -479.5,
+      "max": 42,
+      "high": 2
+    },
+    "top_companies": [
+      "Stripe",
+      "Benchling",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-02T00-19-16Z_important.json"
   }
 ]
