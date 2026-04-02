@@ -12472,5 +12472,28 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-04-01T23-57-15Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T00:09:31Z",
+    "run_at": "2026-04-02T00:09:31.292361+00:00",
+    "pipeline": "standard",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 10,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -76.1,
+      "max": 90,
+      "high": 15
+    },
+    "top_companies": [
+      "Walmart",
+      "hackajob",
+      "Sam's Club",
+      "Al Warren Oil",
+      "Nabsys"
+    ],
+    "snapshot_file": "2026-04-02T00-09-31Z_standard.json"
   }
 ]
