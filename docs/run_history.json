@@ -12687,5 +12687,28 @@
       "Grainger"
     ],
     "snapshot_file": "2026-04-02T01-51-08Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T02:09:50Z",
+    "run_at": "2026-04-02T02:09:50.375625+00:00",
+    "pipeline": "standard",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 15,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": 48.2,
+      "max": 117,
+      "high": 19
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Walmart",
+      "JPMorganChase",
+      "Best Egg",
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-04-02T02-09-50Z_standard.json"
   }
 ]
