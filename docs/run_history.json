@@ -12887,5 +12887,25 @@
       "Google"
     ],
     "snapshot_file": "2026-04-02T03-37-12Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T03:46:37Z",
+    "run_at": "2026-04-02T03:46:37.456018+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 22,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "JPMorganChase",
+      "Stripe",
+      "Fanatics",
+      "HAN Staffing"
+    ],
+    "snapshot_file": "2026-04-02T03-46-37Z_keywords.json"
   }
 ]
