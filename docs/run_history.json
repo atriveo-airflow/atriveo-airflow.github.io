@@ -13002,5 +13002,25 @@
       "Randstad Digital Americas"
     ],
     "snapshot_file": "2026-04-02T04-51-48Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T05:04:51Z",
+    "run_at": "2026-04-02T05:04:51.919805+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 46,
+    "levels": {
+      "Entry": 39,
+      "Mid": 6,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "JPMorganChase",
+      "Hewlett Packard Enterprise",
+      "Stripe",
+      "Fanatics"
+    ],
+    "snapshot_file": "2026-04-02T05-04-51Z_keywords.json"
   }
 ]
