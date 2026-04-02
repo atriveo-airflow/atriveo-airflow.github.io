@@ -13237,5 +13237,29 @@
       "ModMed"
     ],
     "snapshot_file": "2026-04-02T13-15-31Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T14:16:36Z",
+    "run_at": "2026-04-02T14:16:36.051243+00:00",
+    "pipeline": "standard",
+    "total_jobs": 78,
+    "levels": {
+      "Entry": 65,
+      "Mid": 12,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -89.6,
+      "max": 124,
+      "high": 68
+    },
+    "top_companies": [
+      "Alignerr",
+      "Google",
+      "BeaconFire Inc.",
+      "Microsoft",
+      "hackajob"
+    ],
+    "snapshot_file": "2026-04-02T14-16-36Z_standard.json"
   }
 ]
