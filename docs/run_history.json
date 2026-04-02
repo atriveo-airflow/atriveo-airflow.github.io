@@ -13530,5 +13530,28 @@
       "Google"
     ],
     "snapshot_file": "2026-04-02T18-48-21Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T19:04:47Z",
+    "run_at": "2026-04-02T19:04:47.916483+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 8,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -240.7,
+      "max": 68,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "NetApp",
+      "Compunnel Inc.",
+      "Microsoft",
+      "Spotify"
+    ],
+    "snapshot_file": "2026-04-02T19-04-47Z_h1b2026.json"
   }
 ]
