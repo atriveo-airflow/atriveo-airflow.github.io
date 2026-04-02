@@ -12583,5 +12583,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-02T00-50-21Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T01:09:14Z",
+    "run_at": "2026-04-02T01:09:14.939912+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 9,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -304.6,
+      "max": 70,
+      "high": 8
+    },
+    "top_companies": [
+      "Walmart",
+      "Randstad Digital Americas",
+      "Mixpanel",
+      "Postman",
+      "Microsoft AI"
+    ],
+    "snapshot_file": "2026-04-02T01-09-14Z_standard.json"
   }
 ]
