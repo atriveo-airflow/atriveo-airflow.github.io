@@ -13778,5 +13778,24 @@
       "mroads"
     ],
     "snapshot_file": "2026-04-02T23-07-11Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T23:23:19Z",
+    "run_at": "2026-04-02T23:23:19.218243+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 50,
+    "levels": {
+      "Entry": 42,
+      "Mid": 8
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Google",
+      "Erias Ventures",
+      "Jobright.ai",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-04-02T23-23-19Z_keywords.json"
   }
 ]
