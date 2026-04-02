@@ -13507,5 +13507,28 @@
       "NVIDIA"
     ],
     "snapshot_file": "2026-04-02T18-32-03Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T18:48:21Z",
+    "run_at": "2026-04-02T18:48:21.951309+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -187.9,
+      "max": 81,
+      "high": 7
+    },
+    "top_companies": [
+      "Equifax",
+      "Deepgram",
+      "Character.AI",
+      "IBM",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-02T18-48-21Z_top500.json"
   }
 ]
