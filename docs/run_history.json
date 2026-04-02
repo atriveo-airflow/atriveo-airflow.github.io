@@ -13484,5 +13484,28 @@
       "Sundayy"
     ],
     "snapshot_file": "2026-04-02T18-15-48Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T18:32:03Z",
+    "run_at": "2026-04-02T18:32:03.381825+00:00",
+    "pipeline": "important",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 10,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -391.8,
+      "max": 70,
+      "high": 7
+    },
+    "top_companies": [
+      "IBM",
+      "Google",
+      "Amazon",
+      "Cohere",
+      "NVIDIA"
+    ],
+    "snapshot_file": "2026-04-02T18-32-03Z_important.json"
   }
 ]
