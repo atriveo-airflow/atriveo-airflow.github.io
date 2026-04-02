@@ -3165,5 +3165,24 @@
       "Salesforce"
     ],
     "snapshot_file": "2026-04-02T20-05-12Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T20:08:15Z",
+    "run_at": "2026-04-02T20:08:15.840932+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 4.0,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Robinhood",
+      "Salesforce"
+    ],
+    "snapshot_file": "2026-04-02T20-08-15Z_top500.json"
   }
 ]
