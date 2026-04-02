@@ -12667,5 +12667,25 @@
       "Google"
     ],
     "snapshot_file": "2026-04-02T01-40-10Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T01:51:08Z",
+    "run_at": "2026-04-02T01:51:08.632661+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 43,
+    "levels": {
+      "Entry": 29,
+      "Mid": 13,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "BeaconFire Inc.",
+      "Jobs via Dice",
+      "Sam's Club",
+      "Grainger"
+    ],
+    "snapshot_file": "2026-04-02T01-51-08Z_keywords.json"
   }
 ]
