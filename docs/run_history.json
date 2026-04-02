@@ -12517,5 +12517,28 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-02T00-19-16Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T00:29:43Z",
+    "run_at": "2026-04-02T00:29:43.415320+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 2,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -369.8,
+      "max": 67,
+      "high": 3
+    },
+    "top_companies": [
+      "Stripe",
+      "Goldman Sachs",
+      "Google",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-02T00-29-43Z_top500.json"
   }
 ]
