@@ -13419,5 +13419,28 @@
       "Intuit"
     ],
     "snapshot_file": "2026-04-02T16-50-24Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T17:07:18Z",
+    "run_at": "2026-04-02T17:07:18.351162+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 19,
+    "levels": {
+      "Entry": 13,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -64.9,
+      "max": 81,
+      "high": 17
+    },
+    "top_companies": [
+      "Google",
+      "Euclid Innovations",
+      "Precision Technologies",
+      "Intuit",
+      "NetApp"
+    ],
+    "snapshot_file": "2026-04-02T17-07-18Z_h1b2026.json"
   }
 ]
