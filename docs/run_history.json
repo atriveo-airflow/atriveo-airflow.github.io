@@ -12644,5 +12644,28 @@
       "Goldman Sachs"
     ],
     "snapshot_file": "2026-04-02T01-29-18Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T01:40:10Z",
+    "run_at": "2026-04-02T01:40:10.628308+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -152.6,
+      "max": 78,
+      "high": 4
+    },
+    "top_companies": [
+      "Kforce Inc",
+      "Randstad Digital Americas",
+      "Brain Corp",
+      "Arista Networks",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-02T01-40-10Z_h1b2026.json"
   }
 ]
