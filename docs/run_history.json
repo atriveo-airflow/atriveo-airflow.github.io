@@ -12750,5 +12750,29 @@
       "Goldman Sachs"
     ],
     "snapshot_file": "2026-04-02T02-31-24Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T02:42:27Z",
+    "run_at": "2026-04-02T02:42:27.373168+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -124.2,
+      "max": 78,
+      "high": 5
+    },
+    "top_companies": [
+      "Stripe",
+      "Kforce Inc",
+      "HAN Staffing",
+      "Google",
+      "Arista Networks"
+    ],
+    "snapshot_file": "2026-04-02T02-42-27Z_h1b2026.json"
   }
 ]
