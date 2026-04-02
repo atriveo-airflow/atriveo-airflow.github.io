@@ -13172,5 +13172,28 @@
       "Cloudflare"
     ],
     "snapshot_file": "2026-04-02T12-28-45Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T12:43:49Z",
+    "run_at": "2026-04-02T12:43:49.560228+00:00",
+    "pipeline": "top500",
+    "total_jobs": 21,
+    "levels": {
+      "Entry": 14,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -101.6,
+      "max": 110,
+      "high": 18
+    },
+    "top_companies": [
+      "Netflix",
+      "Google",
+      "Intuit",
+      "Zoox",
+      "Zuora"
+    ],
+    "snapshot_file": "2026-04-02T12-43-49Z_top500.json"
   }
 ]
