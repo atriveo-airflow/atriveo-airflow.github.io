@@ -3184,5 +3184,25 @@
       "Salesforce"
     ],
     "snapshot_file": "2026-04-02T20-08-15Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T20:11:14Z",
+    "run_at": "2026-04-02T20:11:14.554874+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 4.0,
+      "max": 7,
+      "high": 2
+    },
+    "top_companies": [
+      "Google",
+      "Salesforce"
+    ],
+    "snapshot_file": "2026-04-02T20-11-14Z_h1b2026.json"
   }
 ]
