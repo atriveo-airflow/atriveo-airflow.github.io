@@ -12794,5 +12794,28 @@
       "Fanatics"
     ],
     "snapshot_file": "2026-04-02T02-53-04Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T03:08:14Z",
+    "run_at": "2026-04-02T03:08:14.368461+00:00",
+    "pipeline": "standard",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 11,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -246.6,
+      "max": 108,
+      "high": 10
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Fanatics",
+      "JPMorganChase",
+      "Avive Solutions Inc.",
+      "The New York Times"
+    ],
+    "snapshot_file": "2026-04-02T03-08-14Z_standard.json"
   }
 ]
