@@ -12978,5 +12978,29 @@
       "IBM"
     ],
     "snapshot_file": "2026-04-02T04-38-39Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T04:51:48Z",
+    "run_at": "2026-04-02T04:51:48.376584+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 8,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -266.4,
+      "max": 69,
+      "high": 7
+    },
+    "top_companies": [
+      "Stripe",
+      "Hewlett Packard Enterprise",
+      "Brain Corp",
+      "Akkodis",
+      "Randstad Digital Americas"
+    ],
+    "snapshot_file": "2026-04-02T04-51-48Z_h1b2026.json"
   }
 ]
