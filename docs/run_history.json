@@ -13620,5 +13620,28 @@
       "Snap Inc."
     ],
     "snapshot_file": "2026-04-02T20-32-26Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T20:48:48Z",
+    "run_at": "2026-04-02T20:48:48.577340+00:00",
+    "pipeline": "top500",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 14,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -2.6,
+      "max": 88,
+      "high": 19
+    },
+    "top_companies": [
+      "Google",
+      "Equifax",
+      "Goldman Sachs",
+      "HCL Global Systems Inc",
+      "Robinhood"
+    ],
+    "snapshot_file": "2026-04-02T20-48-48Z_top500.json"
   }
 ]
