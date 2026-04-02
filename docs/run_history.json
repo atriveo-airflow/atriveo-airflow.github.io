@@ -12774,5 +12774,25 @@
       "Arista Networks"
     ],
     "snapshot_file": "2026-04-02T02-42-27Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T02:53:04Z",
+    "run_at": "2026-04-02T02:53:04.195743+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 40,
+    "levels": {
+      "Entry": 23,
+      "Mid": 15,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Walmart",
+      "Jobs via Dice",
+      "Sam's Club",
+      "Stripe",
+      "Fanatics"
+    ],
+    "snapshot_file": "2026-04-02T02-53-04Z_keywords.json"
   }
 ]
