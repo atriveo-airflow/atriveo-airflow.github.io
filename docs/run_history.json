@@ -12710,5 +12710,27 @@
       "Insight Global"
     ],
     "snapshot_file": "2026-04-02T02-09-50Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T02:20:28Z",
+    "run_at": "2026-04-02T02:20:28.018172+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Mid": 3,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -168.4,
+      "max": 45,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Mixpanel",
+      "Benchling",
+      "Rippling"
+    ],
+    "snapshot_file": "2026-04-02T02-20-28Z_important.json"
   }
 ]
