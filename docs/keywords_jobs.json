@@ -11,17 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Digital Software Engineer, VP",
-    "company": "Citi",
-    "location": "Irving, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393053484",
-    "date_posted": null,
-    "keyword_score": 68,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II",
     "company": "Fanatics",
     "location": "",
@@ -33,25 +22,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Java AWS Lambda Developer (100% onsite)",
+    "title": "Full Stack Software Engineer",
     "company": "Jobs via Dice",
-    "location": "Moline, IL",
+    "location": "McLean, VA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393078403",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4393080356",
     "date_posted": null,
-    "keyword_score": 65,
-    "site": "linkedin"
-  },
-  {
-    "title": "Associate Software Developer",
-    "company": "Venerable",
-    "location": "West Chester, PA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393053382",
-    "date_posted": null,
-    "keyword_score": 53,
+    "keyword_score": 50,
     "site": "linkedin"
   },
   {
@@ -88,23 +66,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Data Software Engineer III- ML",
+    "company": "JPMorganChase",
+    "location": "Houston, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395220683",
+    "date_posted": null,
+    "keyword_score": 45,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III - Full Stack",
+    "company": "Sam's Club",
+    "location": "Bentonville, AR",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4385716293",
+    "date_posted": null,
+    "keyword_score": 45,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Kforce Inc",
     "location": "Roanoke, TX",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4394997059",
-    "date_posted": null,
-    "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Randstad Digital Americas",
-    "location": "Roanoke, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393047534",
     "date_posted": null,
     "keyword_score": 44,
     "site": "linkedin"
@@ -121,25 +110,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Java Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "New Jersey, United States",
+    "title": "Java Software Engineer",
+    "company": "HAN Staffing",
+    "location": "Charlotte, NC",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396657523",
+    "job_url": "https://www.linkedin.com/jobs/view/4396834768",
     "date_posted": null,
-    "keyword_score": 38,
+    "keyword_score": 40,
     "site": "linkedin"
   },
   {
-    "title": "2026 Summer Internship - Backend Software Engineering Intern",
-    "company": "Best Egg",
-    "location": "New Castle County, DE",
+    "title": "Product Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "McLean, VA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395214677",
+    "job_url": "https://www.linkedin.com/jobs/view/4393088022",
     "date_posted": null,
-    "keyword_score": 35,
+    "keyword_score": 38,
     "site": "linkedin"
   },
   {
@@ -154,14 +143,25 @@
     "site": "linkedin"
   },
   {
-    "title": "(USA) Software Engineer III",
-    "company": "Sam's Club",
-    "location": "Bentonville, AR",
+    "title": "Backend/API Engineer, Money as a Service",
+    "company": "Stripe",
+    "location": "New York, United States",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "(USA) Software Engineer III, Information Security",
+    "company": "Walmart",
+    "location": "Herndon, VA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4372434527",
+    "job_url": "https://www.linkedin.com/jobs/view/4396749986",
     "date_posted": null,
-    "keyword_score": 34,
+    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -176,14 +176,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Software Engineer (Onsite role in Fremont, CA) Direct Face to Face",
-    "company": "Jobs via Dice",
-    "location": "Fremont, CA",
-    "level": "Entry",
+    "title": "Software Engineer II- Enrichment",
+    "company": "RevSpring",
+    "location": "Atlanta, GA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393074498",
+    "job_url": "https://www.linkedin.com/jobs/view/4385796668",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -198,34 +198,45 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Developer in Test II",
-    "company": "Brain Corp",
-    "location": "San Diego, CA",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Illinois, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393061323",
+    "job_url": "https://www.linkedin.com/jobs/view/4385733983",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer IV",
-    "company": "Grainger",
-    "location": "Lake Forest, IL",
+    "title": "Backend Engineer, Business Systems",
+    "company": "Avive Solutions Inc.",
+    "location": "Brisbane, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394988438",
+    "job_url": "https://www.linkedin.com/jobs/view/4393080446",
     "date_posted": null,
-    "keyword_score": 24,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III- Web",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
+    "title": "Backend Engineer, Core Technology",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386833870",
+    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "Weill Cornell Medicine",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396768393",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
@@ -242,45 +253,45 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Engineer",
-    "company": "Weill Cornell Medicine",
-    "location": "New York, NY",
-    "level": "Entry",
+    "title": "Software Engineer III (Mobile - Android)",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396768393",
+    "job_url": "https://www.linkedin.com/jobs/view/4379330646",
     "date_posted": null,
     "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "External Integrations Software Engineer",
-    "company": "Enact Mortgage Insurance",
-    "location": "Raleigh, NC",
+    "title": "Software Engineer",
+    "company": "SambaNova",
+    "location": "Palo Alto, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4380462399",
+    "job_url": "https://www.linkedin.com/jobs/view/4380557590",
     "date_posted": null,
-    "keyword_score": 23,
+    "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "AI Software Developer Intern (Remote Opportunity)",
-    "company": "VetsEZ",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393064267",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III- Informatica Developer",
-    "company": "Leadership Triangle",
-    "location": "Raleigh, NC",
+    "title": "Software Engineer III- Web",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393046630",
+    "job_url": "https://www.linkedin.com/jobs/view/4386833870",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Growth",
+    "company": "Mixpanel",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394996994",
     "date_posted": null,
     "keyword_score": 23,
     "site": "linkedin"
@@ -297,14 +308,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Bilingual Mandarin Backend Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Palo Alto, CA",
+    "title": "Software Engineer (Hardware Tools and Infrastructure)",
+    "company": "Arista Networks",
+    "location": "Santa Clara, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393084188",
+    "job_url": "https://www.linkedin.com/jobs/view/4396665595",
+    "date_posted": null,
+    "keyword_score": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Backend",
+    "company": "MotherDuck",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395225418",
     "date_posted": null,
     "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Software Engineer",
+    "company": "Loula (YC W23)",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393074367",
+    "date_posted": null,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
@@ -319,36 +352,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "Walmart",
-    "location": "Sunnyvale, CA",
+    "title": "Software Engineer II - RQL",
+    "company": "Rippling",
+    "location": "San Francisco, CA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382757222",
+    "job_url": "https://www.linkedin.com/jobs/view/4394999193",
     "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Distinguished, Software Engineer",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4382489234",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Founding Software Engineer",
-    "company": "Loula (YC W23)",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393074367",
-    "date_posted": null,
-    "keyword_score": 19,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
@@ -374,78 +385,12 @@
     "site": "linkedin"
   },
   {
-    "title": "(USA) Distinguished, Software Engineer",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4378129955",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "TELERIK SOFTWARE DEVELOPER",
-    "company": "Wells",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396763453",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobright.ai",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 1.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393051422",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "California, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396754757",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II",
     "company": "Sony Interactive Entertainment",
     "location": "San Mateo, CA",
     "level": "Mid",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4396754964",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Entry Level- Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "New Jersey, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396751880",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "California, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4391097130",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
@@ -470,6 +415,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4394993153",
     "date_posted": null,
     "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (React / TypeScript)",
+    "company": "Jobs via Dice",
+    "location": "Columbus, OH",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393082266",
+    "date_posted": null,
+    "keyword_score": 16,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full Stack Software Engineers for AI Training",
+    "company": "ChatGPT Jobs",
+    "location": "Austin, Texas Metropolitan Area",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396755915",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
