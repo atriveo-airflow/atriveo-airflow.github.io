@@ -13350,5 +13350,28 @@
       "Sundayy"
     ],
     "snapshot_file": "2026-04-02T15-29-34Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-02T16:16:12Z",
+    "run_at": "2026-04-02T16:16:12.689012+00:00",
+    "pipeline": "standard",
+    "total_jobs": 66,
+    "levels": {
+      "Entry": 63,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -143.0,
+      "max": 134,
+      "high": 54
+    },
+    "top_companies": [
+      "Alignerr",
+      "DataAnnotation",
+      "Google",
+      "OpenAI",
+      "IBM"
+    ],
+    "snapshot_file": "2026-04-02T16-16-12Z_standard.json"
   }
 ]
