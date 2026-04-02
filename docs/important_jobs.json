@@ -1,18 +1,5 @@
 [
   {
-    "title": "Backend Engineer, Core Technology",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4190706249",
-    "date_posted": null,
-    "priority_score": 42,
-    "score_pct": 32,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer, Full Stack (Registry and Inventory)",
     "company": "Benchling",
     "location": "San Francisco, CA",
@@ -26,29 +13,16 @@
     "site": "linkedin"
   },
   {
-    "title": "zOS Software Developer",
-    "company": "IBM",
-    "location": "Paramus, NJ",
+    "title": "Software Engineer II - RQL",
+    "company": "Rippling",
+    "location": "Seattle, WA",
     "level": "Mid",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396746849",
+    "job_url": "https://www.linkedin.com/jobs/view/4395200114",
     "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend/API Engineer, Money as a Service",
-    "company": "Stripe",
-    "location": "New York, United States",
-    "level": "New Grad",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344917131",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
+    "priority_score": 34,
+    "score_pct": 26,
     "site": "linkedin"
   }
 ]
