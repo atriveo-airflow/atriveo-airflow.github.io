@@ -12864,5 +12864,28 @@
       "Google"
     ],
     "snapshot_file": "2026-04-02T03-27-49Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T03:37:12Z",
+    "run_at": "2026-04-02T03:37:12.623159+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 3,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -379.2,
+      "max": 42,
+      "high": 3
+    },
+    "top_companies": [
+      "Stripe",
+      "Waymo",
+      "Randstad Digital Americas",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-02T03-37-12Z_h1b2026.json"
   }
 ]
