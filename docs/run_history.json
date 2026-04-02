@@ -13442,5 +13442,24 @@
       "NetApp"
     ],
     "snapshot_file": "2026-04-02T17-07-18Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T17:23:51Z",
+    "run_at": "2026-04-02T17:23:51.273480+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 46,
+    "levels": {
+      "Entry": 41,
+      "Mid": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "OpenAI",
+      "Euclid Innovations",
+      "Turing",
+      "Otter"
+    ],
+    "snapshot_file": "2026-04-02T17-23-51Z_keywords.json"
   }
 ]
