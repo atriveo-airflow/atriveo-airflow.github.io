@@ -13331,5 +13331,24 @@
       "Precision Technologies"
     ],
     "snapshot_file": "2026-04-02T15-11-49Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-02T15:29:34Z",
+    "run_at": "2026-04-02T15:29:34.073241+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 67,
+    "levels": {
+      "Entry": 61,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Alignerr",
+      "BeaconFire Inc.",
+      "Google",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-02T15-29-34Z_keywords.json"
   }
 ]
