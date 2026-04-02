@@ -13643,5 +13643,28 @@
       "Robinhood"
     ],
     "snapshot_file": "2026-04-02T20-48-48Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-02T21:05:01Z",
+    "run_at": "2026-04-02T21:05:01.709377+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -77.4,
+      "max": 88,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "HCL Global Systems Inc",
+      "First Street",
+      "Compunnel Inc.",
+      "Spotify"
+    ],
+    "snapshot_file": "2026-04-02T21-05-01Z_h1b2026.json"
   }
 ]
