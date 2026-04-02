@@ -3144,5 +3144,26 @@
       "U.S. Bank"
     ],
     "snapshot_file": "2026-04-02T20-02-19Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T20:05:12Z",
+    "run_at": "2026-04-02T20:05:12.753590+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 3.3,
+      "max": 8,
+      "high": 1
+    },
+    "top_companies": [
+      "Robinhood",
+      "Google",
+      "Salesforce"
+    ],
+    "snapshot_file": "2026-04-02T20-05-12Z_important.json"
   }
 ]
