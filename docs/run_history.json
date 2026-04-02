@@ -13149,5 +13149,28 @@
       "JPMorganChase"
     ],
     "snapshot_file": "2026-04-02T12-13-58Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T12:28:45Z",
+    "run_at": "2026-04-02T12:28:45.374342+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 9,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -104.9,
+      "max": 69,
+      "high": 12
+    },
+    "top_companies": [
+      "Netflix",
+      "Google",
+      "CrowdStrike",
+      "Affirm",
+      "Cloudflare"
+    ],
+    "snapshot_file": "2026-04-02T12-28-45Z_important.json"
   }
 ]
