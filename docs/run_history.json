@@ -13284,5 +13284,28 @@
       "Figma"
     ],
     "snapshot_file": "2026-04-02T14-34-57Z_important.json"
+  },
+  {
+    "session_id": "2026-04-02T14:53:23Z",
+    "run_at": "2026-04-02T14:53:23.574686+00:00",
+    "pipeline": "top500",
+    "total_jobs": 25,
+    "levels": {
+      "Entry": 19,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -79.2,
+      "max": 76,
+      "high": 22
+    },
+    "top_companies": [
+      "OpenAI",
+      "Google",
+      "Microsoft",
+      "Intuit",
+      "Together AI"
+    ],
+    "snapshot_file": "2026-04-02T14-53-23Z_top500.json"
   }
 ]
