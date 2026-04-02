@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Backend Software Engineer",
+    "company": "Slang AI",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393808597",
+    "date_posted": null,
+    "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "First Street",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395714190",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Fullstack/ Backend Engineer",
+    "company": "Qualitest",
+    "location": "Mountain View, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=95fcf1ca05b0ecb2",
+    "date_posted": "2026-04-02T00:00:00.000",
+    "keyword_score": 16,
+    "site": "indeed"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Seesaw Learning",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393956744",
+    "date_posted": null,
+    "keyword_score": 14,
+    "site": "linkedin"
+  },
+  {
+    "title": "Enterprise - Full-Stack Software Engineer - Java, SQL, AWS",
+    "company": "Erias Ventures",
+    "location": "Chantilly, VA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395398137",
+    "date_posted": null,
+    "keyword_score": 12,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Front End (Angular / React / Next.js)",
+    "company": "Jobs via Dice",
+    "location": "Mount Juliet, TN",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393802823",
+    "date_posted": null,
+    "keyword_score": 10,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Intern (Summer 2026)",
+    "company": "Cloudflare",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397133899",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer Intern (Container)",
+    "company": "Snyk",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397145924",
+    "date_posted": null,
+    "keyword_score": 9,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Front End",
+    "company": "U.S. Bank",
+    "location": "Irving, TX",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4395391590",
+    "date_posted": null,
+    "keyword_score": 8,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Siemens Digital Industries Software",
+    "location": "Cincinnati, OH",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393477630",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend",
+    "company": "Robinhood",
+    "location": "New York, NY",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397138756",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Database Internals, AlloyDB, Google Cloud",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "job_url": "https://www.linkedin.com/jobs/view/4393808512",
+    "date_posted": null,
+    "keyword_score": 7,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer (Networking)",
+    "company": "RAVE Aerospace",
+    "location": "Brea, CA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4393817159",
+    "date_posted": null,
+    "keyword_score": 5,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineering SMTS, Salesforce",
+    "company": "Salesforce",
+    "location": "San Francisco, CA, US",
+    "level": "Entry",
+    "job_url": "https://www.indeed.com/viewjob?jk=78dd086dbd42d2e5",
+    "date_posted": "2026-04-02T00:00:00.000",
+    "keyword_score": 4,
+    "site": "indeed"
+  },
+  {
+    "title": "Full Stack Software Engineer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395388601",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Robotics Software Engineer",
+    "company": "HCLTech",
+    "location": "East Brunswick, NJ",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4387094172",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "CNO - Embedded Software Engineer - Linux, C/C++, Python",
+    "company": "Erias Ventures",
+    "location": "Annapolis Junction, MD",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4395382666",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "Elwyn",
+    "location": "Elwyn, PA",
+    "level": "Entry",
+    "job_url": "https://www.linkedin.com/jobs/view/4397133945",
+    "date_posted": null,
+    "keyword_score": 3,
+    "site": "linkedin"
+  }
+]
