@@ -12930,5 +12930,29 @@
       "RevSpring"
     ],
     "snapshot_file": "2026-04-02T04-12-15Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-02T04:25:07Z",
+    "run_at": "2026-04-02T04:25:07.061274+00:00",
+    "pipeline": "important",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -240.8,
+      "max": 66,
+      "high": 8
+    },
+    "top_companies": [
+      "Stripe",
+      "NVIDIA",
+      "Mixpanel",
+      "Checkr, Inc.",
+      "SoFi"
+    ],
+    "snapshot_file": "2026-04-02T04-25-07Z_important.json"
   }
 ]
