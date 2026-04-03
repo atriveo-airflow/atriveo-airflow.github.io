@@ -14435,5 +14435,24 @@
       "ByteDance"
     ],
     "snapshot_file": "2026-04-03T15-01-58Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T15:17:41Z",
+    "run_at": "2026-04-03T15:17:41.616930+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 57,
+    "levels": {
+      "Entry": 51,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Sundayy",
+      "IBM",
+      "Microsoft",
+      "S&P Global",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-04-03T15-17-41Z_keywords.json"
   }
 ]
