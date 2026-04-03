@@ -13978,5 +13978,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-03T02-44-06Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T02:59:18Z",
+    "run_at": "2026-04-03T02:59:18.390613+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 24,
+    "levels": {
+      "Mid": 13,
+      "Entry": 11
+    },
+    "scores": {
+      "avg": -342.7,
+      "max": 125,
+      "high": 15
+    },
+    "top_companies": [
+      "Google",
+      "Capgemini",
+      "Ameriprise Financial Services, LLC",
+      "Uber",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T02-59-18Z_h1b2026.json"
   }
 ]
