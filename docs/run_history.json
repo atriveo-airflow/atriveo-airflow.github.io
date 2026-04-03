@@ -14191,5 +14191,26 @@
       "Deloitte"
     ],
     "snapshot_file": "2026-04-03T09-32-10Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T09:44:50Z",
+    "run_at": "2026-04-03T09:44:50.362626+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 7
+    },
+    "scores": {
+      "avg": -245.7,
+      "max": 91,
+      "high": 5
+    },
+    "top_companies": [
+      "DoorDash",
+      "Stripe",
+      "Deloitte",
+      "Virtusa"
+    ],
+    "snapshot_file": "2026-04-03T09-44-50Z_h1b2026.json"
   }
 ]
