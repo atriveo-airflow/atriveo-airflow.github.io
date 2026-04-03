@@ -14086,5 +14086,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-03T04-41-18Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T04:55:28Z",
+    "run_at": "2026-04-03T04:55:28.547743+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 8,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -544.4,
+      "max": 80,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "NTT DATA North America",
+      "Ameriprise Financial Services, LLC",
+      "Hewlett Packard Enterprise",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T04-55-28Z_h1b2026.json"
   }
 ]
