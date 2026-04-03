@@ -14454,5 +14454,28 @@
       "OpenAI"
     ],
     "snapshot_file": "2026-04-03T15-17-41Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T16:15:20Z",
+    "run_at": "2026-04-03T16:15:20.650014+00:00",
+    "pipeline": "standard",
+    "total_jobs": 61,
+    "levels": {
+      "Entry": 55,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -89.1,
+      "max": 100,
+      "high": 53
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "DataAnnotation",
+      "IBM",
+      "TEKsystems",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T16-15-20Z_standard.json"
   }
 ]
