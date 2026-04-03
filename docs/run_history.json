@@ -14323,5 +14323,24 @@
       "TEKsystems"
     ],
     "snapshot_file": "2026-04-03T12-57-24Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T13:11:38Z",
+    "run_at": "2026-04-03T13:11:38.702491+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 62,
+    "levels": {
+      "Entry": 53,
+      "Mid": 9
+    },
+    "scores": {},
+    "top_companies": [
+      "Google",
+      "Stealth Startup",
+      "JPMorganChase",
+      "ByteDance",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T13-11-38Z_keywords.json"
   }
 ]
