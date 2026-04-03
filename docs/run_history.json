@@ -13908,5 +13908,29 @@
       "hackajob"
     ],
     "snapshot_file": "2026-04-03T01-09-20Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T02:14:00Z",
+    "run_at": "2026-04-03T02:14:00.814891+00:00",
+    "pipeline": "standard",
+    "total_jobs": 34,
+    "levels": {
+      "Entry": 28,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -67.9,
+      "max": 124,
+      "high": 30
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Google",
+      "Equifax",
+      "Airtable",
+      "Profound"
+    ],
+    "snapshot_file": "2026-04-03T02-14-00Z_standard.json"
   }
 ]
