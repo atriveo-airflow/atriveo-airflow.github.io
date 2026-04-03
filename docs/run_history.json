@@ -13797,5 +13797,29 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-04-02T23-23-19Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T00:13:23Z",
+    "run_at": "2026-04-03T00:13:23.479125+00:00",
+    "pipeline": "standard",
+    "total_jobs": 43,
+    "levels": {
+      "Entry": 30,
+      "Mid": 12,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -193.0,
+      "max": 125,
+      "high": 33
+    },
+    "top_companies": [
+      "Google",
+      "Amazon Web Services (AWS)",
+      "Hewlett Packard Enterprise",
+      "Capgemini",
+      "Distyl"
+    ],
+    "snapshot_file": "2026-04-03T00-13-23Z_standard.json"
   }
 ]
