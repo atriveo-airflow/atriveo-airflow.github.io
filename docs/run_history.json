@@ -14254,5 +14254,28 @@
       "Brightpath Associates LLC"
     ],
     "snapshot_file": "2026-04-03T12-13-27Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T12:27:53Z",
+    "run_at": "2026-04-03T12:27:53.343768+00:00",
+    "pipeline": "important",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 16,
+      "Mid": 7
+    },
+    "scores": {
+      "avg": -181.4,
+      "max": 64,
+      "high": 18
+    },
+    "top_companies": [
+      "Google",
+      "DoorDash",
+      "NVIDIA",
+      "Netflix",
+      "Affirm"
+    ],
+    "snapshot_file": "2026-04-03T12-27-53Z_important.json"
   }
 ]
