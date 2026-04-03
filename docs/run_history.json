@@ -13843,5 +13843,28 @@
       "LinkedIn"
     ],
     "snapshot_file": "2026-04-03T00-27-04Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T00:41:29Z",
+    "run_at": "2026-04-03T00:41:29.368130+00:00",
+    "pipeline": "top500",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 9,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -97.6,
+      "max": 125,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "Capgemini",
+      "Uber",
+      "BAE Systems, Inc.",
+      "Discord"
+    ],
+    "snapshot_file": "2026-04-03T00-41-29Z_top500.json"
   }
 ]
