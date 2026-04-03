@@ -14151,5 +14151,24 @@
       "Optiver"
     ],
     "snapshot_file": "2026-04-03T09-09-37Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T09:20:43Z",
+    "run_at": "2026-04-03T09:20:43.598704+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": -162.4,
+      "max": 56,
+      "high": 4
+    },
+    "top_companies": [
+      "DoorDash",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-03T09-20-43Z_important.json"
   }
 ]
