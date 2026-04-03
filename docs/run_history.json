@@ -14500,5 +14500,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T16-31-19Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T16:47:51Z",
+    "run_at": "2026-04-03T16:47:51.958792+00:00",
+    "pipeline": "top500",
+    "total_jobs": 26,
+    "levels": {
+      "Entry": 23,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -77.2,
+      "max": 70,
+      "high": 23
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Palantir Technologies",
+      "IBM",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T16-47-51Z_top500.json"
   }
 ]
