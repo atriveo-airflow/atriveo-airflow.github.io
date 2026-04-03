@@ -14676,5 +14676,28 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-04-03T19-19-18Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T20:14:59Z",
+    "run_at": "2026-04-03T20:14:59.201704+00:00",
+    "pipeline": "standard",
+    "total_jobs": 51,
+    "levels": {
+      "Entry": 45,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -182.6,
+      "max": 104,
+      "high": 40
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Google",
+      "Lucid Services Group",
+      "Haystack",
+      "Erias Ventures"
+    ],
+    "snapshot_file": "2026-04-03T20-14-59Z_standard.json"
   }
 ]
