@@ -14744,5 +14744,28 @@
       "Unisys"
     ],
     "snapshot_file": "2026-04-03T20-46-43Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T21:02:20Z",
+    "run_at": "2026-04-03T21:02:20.373219+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 12,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -411.7,
+      "max": 67,
+      "high": 9
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Slalom",
+      "Microsoft",
+      "Aura"
+    ],
+    "snapshot_file": "2026-04-03T21-02-20Z_h1b2026.json"
   }
 ]
