@@ -13821,5 +13821,27 @@
       "Distyl"
     ],
     "snapshot_file": "2026-04-03T00-13-23Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T00:27:04Z",
+    "run_at": "2026-04-03T00:27:04.199277+00:00",
+    "pipeline": "important",
+    "total_jobs": 6,
+    "levels": {
+      "Mid": 5,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": -126.0,
+      "max": 67,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Box",
+      "LinkedIn"
+    ],
+    "snapshot_file": "2026-04-03T00-27-04Z_important.json"
   }
 ]
