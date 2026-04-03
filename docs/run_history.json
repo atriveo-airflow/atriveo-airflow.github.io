@@ -14001,5 +14001,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T02-59-18Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T03:14:05Z",
+    "run_at": "2026-04-03T03:14:05.212091+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 33,
+    "levels": {
+      "Entry": 28,
+      "Mid": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Equifax",
+      "Amazon Web Services (AWS)",
+      "Google",
+      "Capgemini"
+    ],
+    "snapshot_file": "2026-04-03T03-14-05Z_keywords.json"
   }
 ]
