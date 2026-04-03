@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Software Engineer II - AI Security & Governance",
+    "company": "Uber",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397170449",
+    "date_posted": null,
+    "priority_score": 67,
+    "score_pct": 52,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Reliability",
+    "company": "Box",
+    "location": "Redwood City, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395720769",
+    "date_posted": null,
+    "priority_score": 64,
+    "score_pct": 49,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Machine Learning",
+    "company": "LinkedIn",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397172445",
+    "date_posted": null,
+    "priority_score": 40,
+    "score_pct": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Google Ads",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4362633122",
+    "date_posted": null,
+    "priority_score": 39,
+    "score_pct": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Full Stack, Commerce",
+    "company": "Google",
+    "location": "Pittsburgh, PA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4397169414",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Google Ads",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4363393146",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
