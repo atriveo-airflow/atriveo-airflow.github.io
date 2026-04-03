@@ -14020,5 +14020,28 @@
       "Capgemini"
     ],
     "snapshot_file": "2026-04-03T03-14-05Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T04:13:19Z",
+    "run_at": "2026-04-03T04:13:19.182017+00:00",
+    "pipeline": "standard",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 16,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": -387.0,
+      "max": 165,
+      "high": 14
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Google",
+      "Upstart",
+      "Walmart",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-03T04-13-19Z_standard.json"
   }
 ]
