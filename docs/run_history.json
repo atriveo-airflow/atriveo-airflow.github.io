@@ -14128,5 +14128,28 @@
       "NTT DATA North America"
     ],
     "snapshot_file": "2026-04-03T05-09-00Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T09:09:37Z",
+    "run_at": "2026-04-03T09:09:37.981473+00:00",
+    "pipeline": "standard",
+    "total_jobs": 27,
+    "levels": {
+      "Entry": 24,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -304.0,
+      "max": 95,
+      "high": 18
+    },
+    "top_companies": [
+      "Alignerr",
+      "Equifax",
+      "DoorDash",
+      "Stripe",
+      "Optiver"
+    ],
+    "snapshot_file": "2026-04-03T09-09-37Z_standard.json"
   }
 ]
