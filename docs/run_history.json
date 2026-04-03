@@ -14767,5 +14767,24 @@
       "Aura"
     ],
     "snapshot_file": "2026-04-03T21-02-20Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T21:17:57Z",
+    "run_at": "2026-04-03T21:17:57.877575+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 53,
+    "levels": {
+      "Entry": 42,
+      "Mid": 11
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Google",
+      "Microsoft",
+      "Jobs via Dice",
+      "Docusign"
+    ],
+    "snapshot_file": "2026-04-03T21-17-57Z_keywords.json"
   }
 ]
