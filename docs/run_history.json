@@ -14170,5 +14170,26 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-03T09-20-43Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T09:32:10Z",
+    "run_at": "2026-04-03T09:32:10.780181+00:00",
+    "pipeline": "top500",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -71.0,
+      "max": 91,
+      "high": 7
+    },
+    "top_companies": [
+      "DoorDash",
+      "Equifax",
+      "Stripe",
+      "Deloitte"
+    ],
+    "snapshot_file": "2026-04-03T09-32-10Z_top500.json"
   }
 ]
