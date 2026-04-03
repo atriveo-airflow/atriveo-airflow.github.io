@@ -14064,5 +14064,27 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-03T04-27-19Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T04:41:18Z",
+    "run_at": "2026-04-03T04:41:18.577715+00:00",
+    "pipeline": "top500",
+    "total_jobs": 10,
+    "levels": {
+      "Mid": 6,
+      "Entry": 4
+    },
+    "scores": {
+      "avg": -366.6,
+      "max": 81,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Equifax",
+      "Microsoft",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-03T04-41-18Z_top500.json"
   }
 ]
