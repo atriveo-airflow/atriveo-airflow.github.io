@@ -14634,5 +14634,28 @@
       "Equifax"
     ],
     "snapshot_file": "2026-04-03T18-47-38Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T19:03:29Z",
+    "run_at": "2026-04-03T19:03:29.209027+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 12,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -32.4,
+      "max": 70,
+      "high": 12
+    },
+    "top_companies": [
+      "Palantir Technologies",
+      "Docusign",
+      "Google",
+      "IBM",
+      "Slalom"
+    ],
+    "snapshot_file": "2026-04-03T19-03-29Z_h1b2026.json"
   }
 ]
