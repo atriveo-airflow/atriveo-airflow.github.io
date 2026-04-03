@@ -14699,5 +14699,27 @@
       "Erias Ventures"
     ],
     "snapshot_file": "2026-04-03T20-14-59Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T20:31:00Z",
+    "run_at": "2026-04-03T20:31:00.697687+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 5,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -480.9,
+      "max": 40,
+      "high": 4
+    },
+    "top_companies": [
+      "Google",
+      "Netflix",
+      "Snap Inc.",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-03T20-31-00Z_important.json"
   }
 ]
