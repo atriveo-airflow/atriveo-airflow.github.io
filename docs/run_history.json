@@ -14342,5 +14342,29 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T13-11-38Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T14:14:30Z",
+    "run_at": "2026-04-03T14:14:30.234278+00:00",
+    "pipeline": "standard",
+    "total_jobs": 63,
+    "levels": {
+      "Entry": 57,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -170.2,
+      "max": 124,
+      "high": 50
+    },
+    "top_companies": [
+      "Google",
+      "BeaconFire Inc.",
+      "OpenAI",
+      "Profound",
+      "AgileGrid Solutions"
+    ],
+    "snapshot_file": "2026-04-03T14-14-30Z_standard.json"
   }
 ]
