@@ -14277,5 +14277,28 @@
       "Affirm"
     ],
     "snapshot_file": "2026-04-03T12-27-53Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T12:42:50Z",
+    "run_at": "2026-04-03T12:42:50.670869+00:00",
+    "pipeline": "top500",
+    "total_jobs": 29,
+    "levels": {
+      "Entry": 20,
+      "Mid": 9
+    },
+    "scores": {
+      "avg": -132.8,
+      "max": 108,
+      "high": 24
+    },
+    "top_companies": [
+      "Google",
+      "S&P Global",
+      "DoorDash",
+      "Stripe",
+      "Meta"
+    ],
+    "snapshot_file": "2026-04-03T12-42-50Z_top500.json"
   }
 ]
