@@ -14412,5 +14412,28 @@
       "Meta"
     ],
     "snapshot_file": "2026-04-03T14-46-13Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T15:01:58Z",
+    "run_at": "2026-04-03T15:01:58.335617+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 14,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -185.6,
+      "max": 70,
+      "high": 14
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "IBM",
+      "TEKsystems",
+      "ByteDance"
+    ],
+    "snapshot_file": "2026-04-03T15-01-58Z_h1b2026.json"
   }
 ]
