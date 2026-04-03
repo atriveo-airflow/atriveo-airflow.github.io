@@ -14389,5 +14389,28 @@
       "Netflix"
     ],
     "snapshot_file": "2026-04-03T14-30-04Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T14:46:13Z",
+    "run_at": "2026-04-03T14:46:13.671444+00:00",
+    "pipeline": "top500",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 22,
+      "Mid": 10
+    },
+    "scores": {
+      "avg": -84.4,
+      "max": 108,
+      "high": 28
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "Microsoft",
+      "S&P Global",
+      "Meta"
+    ],
+    "snapshot_file": "2026-04-03T14-46-13Z_top500.json"
   }
 ]
