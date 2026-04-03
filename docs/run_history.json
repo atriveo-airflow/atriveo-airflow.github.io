@@ -14588,5 +14588,28 @@
       "Palantir Technologies"
     ],
     "snapshot_file": "2026-04-03T18-15-33Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T18:31:18Z",
+    "run_at": "2026-04-03T18:31:18.945363+00:00",
+    "pipeline": "important",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 6,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -302.3,
+      "max": 70,
+      "high": 6
+    },
+    "top_companies": [
+      "Google",
+      "Palantir Technologies",
+      "Netflix",
+      "Microsoft",
+      "Snap Inc."
+    ],
+    "snapshot_file": "2026-04-03T18-31-18Z_important.json"
   }
 ]
