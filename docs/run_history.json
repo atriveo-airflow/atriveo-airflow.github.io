@@ -13955,5 +13955,28 @@
       "LinkedIn"
     ],
     "snapshot_file": "2026-04-03T02-29-17Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T02:44:06Z",
+    "run_at": "2026-04-03T02:44:06.052402+00:00",
+    "pipeline": "top500",
+    "total_jobs": 20,
+    "levels": {
+      "Mid": 11,
+      "Entry": 9
+    },
+    "scores": {
+      "avg": -158.3,
+      "max": 125,
+      "high": 16
+    },
+    "top_companies": [
+      "Google",
+      "Equifax",
+      "Hewlett Packard Enterprise",
+      "Capgemini",
+      "Uber"
+    ],
+    "snapshot_file": "2026-04-03T02-44-06Z_top500.json"
   }
 ]
