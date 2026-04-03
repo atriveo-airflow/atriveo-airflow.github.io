@@ -14231,5 +14231,28 @@
       "Deloitte"
     ],
     "snapshot_file": "2026-04-03T09-57-49Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T12:13:27Z",
+    "run_at": "2026-04-03T12:13:27.893143+00:00",
+    "pipeline": "standard",
+    "total_jobs": 73,
+    "levels": {
+      "Entry": 56,
+      "Mid": 17
+    },
+    "scores": {
+      "avg": -107.6,
+      "max": 110,
+      "high": 62
+    },
+    "top_companies": [
+      "Google",
+      "Stealth Startup",
+      "JPMorganChase",
+      "Sundayy",
+      "Brightpath Associates LLC"
+    ],
+    "snapshot_file": "2026-04-03T12-13-27Z_standard.json"
   }
 ]
