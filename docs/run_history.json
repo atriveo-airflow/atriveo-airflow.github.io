@@ -13932,5 +13932,28 @@
       "Profound"
     ],
     "snapshot_file": "2026-04-03T02-14-00Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T02:29:17Z",
+    "run_at": "2026-04-03T02:29:17.041865+00:00",
+    "pipeline": "important",
+    "total_jobs": 9,
+    "levels": {
+      "Mid": 8,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": -67.4,
+      "max": 67,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Box",
+      "Microsoft",
+      "LinkedIn"
+    ],
+    "snapshot_file": "2026-04-03T02-29-17Z_important.json"
   }
 ]
