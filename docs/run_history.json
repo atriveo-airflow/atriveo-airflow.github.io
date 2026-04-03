@@ -14366,5 +14366,28 @@
       "AgileGrid Solutions"
     ],
     "snapshot_file": "2026-04-03T14-14-30Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T14:30:04Z",
+    "run_at": "2026-04-03T14:30:04.722931+00:00",
+    "pipeline": "important",
+    "total_jobs": 26,
+    "levels": {
+      "Entry": 18,
+      "Mid": 8
+    },
+    "scores": {
+      "avg": -76.3,
+      "max": 70,
+      "high": 23
+    },
+    "top_companies": [
+      "Google",
+      "OpenAI",
+      "IBM",
+      "Microsoft",
+      "Netflix"
+    ],
+    "snapshot_file": "2026-04-03T14-30-04Z_important.json"
   }
 ]
