@@ -14546,5 +14546,24 @@
       "Slalom"
     ],
     "snapshot_file": "2026-04-03T17-03-46Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T17:19:28Z",
+    "run_at": "2026-04-03T17:19:28.307761+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 38,
+    "levels": {
+      "Entry": 34,
+      "Mid": 4
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Google",
+      "OpenAI",
+      "Quantum World Technologies Inc.",
+      "Paychex"
+    ],
+    "snapshot_file": "2026-04-03T17-19-28Z_keywords.json"
   }
 ]
