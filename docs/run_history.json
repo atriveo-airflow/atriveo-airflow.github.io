@@ -13866,5 +13866,28 @@
       "Discord"
     ],
     "snapshot_file": "2026-04-03T00-41-29Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T00:55:33Z",
+    "run_at": "2026-04-03T00:55:33.979119+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 15,
+    "levels": {
+      "Mid": 8,
+      "Entry": 7
+    },
+    "scores": {
+      "avg": -162.7,
+      "max": 86,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "First Street",
+      "Uber",
+      "ALTEN Technology USA",
+      "Arista Networks"
+    ],
+    "snapshot_file": "2026-04-03T00-55-33Z_h1b2026.json"
   }
 ]
