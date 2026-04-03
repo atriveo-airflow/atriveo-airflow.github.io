@@ -1,35 +1,13 @@
 [
   {
-    "title": "Software Engineer Java",
+    "title": "Junior Software Engineer",
     "company": "Jobs via Dice",
-    "location": "Durham, NC",
+    "location": "",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397184988",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4397502329",
     "date_posted": null,
-    "keyword_score": 77,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Python Full Stack Developer Associate Software Engineer",
-    "company": "Capgemini",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4388743371",
-    "date_posted": null,
-    "keyword_score": 75,
-    "site": "linkedin"
-  },
-  {
-    "title": "Full Stack Software Engineer",
-    "company": "V2X Inc",
-    "location": "Harvard, MA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395724703",
-    "date_posted": null,
-    "keyword_score": 65,
+    "keyword_score": 101,
     "site": "linkedin"
   },
   {
@@ -44,6 +22,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Full Stack Software Engineer",
+    "company": "Ameriprise Financial Services, LLC",
+    "location": "Minneapolis, MN",
+    "level": "Entry",
+    "min_exp": 6.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4396017629",
+    "date_posted": null,
+    "keyword_score": 59,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer 2 (Full Stack - AI, SQL, React, Python)",
     "company": "Jobs via Dice",
     "location": "Hopkins, MN",
@@ -55,14 +44,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Equifax",
-    "location": "Alpharetta, GA",
+    "title": "Java Backend Engineer - Hybrid / Partially Client Onsite",
+    "company": "NTT DATA North America",
+    "location": "Westlake, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396015409",
+    "job_url": "https://www.linkedin.com/jobs/view/4397191984",
     "date_posted": null,
-    "keyword_score": 55,
+    "keyword_score": 54,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 5",
+    "company": "Oracle",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397524328",
+    "date_posted": null,
+    "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Fort Collins, CO",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395229845",
+    "date_posted": null,
+    "keyword_score": 53,
     "site": "linkedin"
   },
   {
@@ -99,36 +110,47 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II",
+    "company": "Hewlett Packard Enterprise",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396065585",
+    "date_posted": null,
+    "keyword_score": 47,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "GEICO",
+    "location": "Palo Alto, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396011852",
+    "date_posted": null,
+    "keyword_score": 43,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Intermediate",
     "company": "Equifax",
     "location": "Alpharetta, GA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396030563",
-    "date_posted": null,
-    "keyword_score": 46,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Applied Systems",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395733091",
-    "date_posted": null,
-    "keyword_score": 45,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineering IC4",
-    "company": "Microsoft AI",
-    "location": "Redmond, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397179415",
+    "job_url": "https://www.linkedin.com/jobs/view/4396012723",
     "date_posted": null,
     "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "Walmart",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4396053914",
+    "date_posted": null,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -143,14 +165,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Development Engineer, AWS SDE Centralized Team",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Cupertino, CA",
+    "title": "Python Engineer",
+    "company": "Canonical",
+    "location": "Sacramento, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397175530",
+    "job_url": "https://www.linkedin.com/jobs/view/4397526083",
     "date_posted": null,
-    "keyword_score": 33,
+    "keyword_score": 37,
     "site": "linkedin"
   },
   {
@@ -187,36 +209,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Full Stack Software Engineer (medical devices)",
-    "company": "ALTEN Technology USA",
-    "location": "Denver, CO",
+    "title": "Backend Engineer, Business Systems",
+    "company": "Avive Solutions Inc.",
+    "location": "Brisbane, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395736814",
+    "job_url": "https://www.linkedin.com/jobs/view/4397524235",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Manifest Delivery",
-    "company": "The Walt Disney Company",
-    "location": "New York, NY",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4389578329",
-    "date_posted": null,
-    "keyword_score": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Electric Utility Grid, Hadron",
-    "company": "Amazon Web Services (AWS)",
-    "location": "Seattle, WA",
+    "title": "Software Engineer, Test Infrastructure",
+    "company": "FieldAI",
+    "location": "Irvine, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397182077",
+    "job_url": "https://www.linkedin.com/jobs/view/4395727033",
     "date_posted": null,
-    "keyword_score": 26,
+    "keyword_score": 27,
     "site": "linkedin"
   },
   {
@@ -231,28 +242,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Python Developer",
-    "company": "Akkodis Group Nordics",
-    "location": "Jersey City, NJ",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395776078",
-    "date_posted": null,
-    "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "AI Software Engineer-Reliability (hybrid)",
-    "company": "Ziosk",
-    "location": "Plano, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397173519",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Authorium",
     "location": "San Francisco, CA",
@@ -261,28 +250,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397175724",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Phoenix, AZ",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397184971",
-    "date_posted": null,
-    "keyword_score": 23,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Edge Data & Telemetry)",
-    "company": "Freeform",
-    "location": "Los Angeles, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4395738775",
-    "date_posted": null,
-    "keyword_score": 23,
     "site": "linkedin"
   },
   {
@@ -297,23 +264,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 1 (Data Integration & ETL/ELT Development)",
-    "company": "U.S. Bank",
-    "location": "Hopkins, MN",
+    "title": "AI-Native Platform Software Engineer - Full Stack",
+    "company": "Jobs via Dice",
+    "location": "Englewood, CO",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396017767",
+    "job_url": "https://www.linkedin.com/jobs/view/4397194632",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 19,
     "site": "linkedin"
   },
   {
-    "title": "Remote Software Engineer (US)",
-    "company": "Jobs via Dice",
+    "title": "Founding Software Engineer",
+    "company": "American Legal Technologies",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396057671",
+    "date_posted": null,
+    "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Product Frontend (2-8 YOE)",
+    "company": "Airtable",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397198538",
+    "job_url": "https://www.linkedin.com/jobs/view/4396028101",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
@@ -330,34 +308,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Product Frontend (2-8 YOE)",
-    "company": "Airtable",
-    "location": "",
+    "title": "Software Developer",
+    "company": "Kawasaki Motors Manufacturing Corp., U.S.A.",
+    "location": "Lincoln, NE",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396028101",
+    "job_url": "https://www.linkedin.com/jobs/view/4397505822",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Junior Software Engineer",
-    "company": "ITRAC",
+    "title": "Remote Software Engineer (US)",
+    "company": "Jobs via Dice",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397178400",
+    "job_url": "https://www.linkedin.com/jobs/view/4397198538",
     "date_posted": null,
-    "keyword_score": 17,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Performance, AI and Infrastructure",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4397188682",
+    "title": "Software Engineer (Fullstack)",
+    "company": "Counsel Health",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394349168",
     "date_posted": null,
     "keyword_score": 17,
     "site": "linkedin"
