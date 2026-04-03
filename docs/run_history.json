@@ -14109,5 +14109,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T04-55-28Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T05:09:00Z",
+    "run_at": "2026-04-03T05:09:00.965799+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 31,
+    "levels": {
+      "Entry": 25,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Hewlett Packard Enterprise",
+      "Artie",
+      "Ameriprise Financial Services, LLC",
+      "NTT DATA North America"
+    ],
+    "snapshot_file": "2026-04-03T05-09-00Z_keywords.json"
   }
 ]
