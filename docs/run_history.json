@@ -14853,5 +14853,28 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-03T22-45-18Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T23:01:08Z",
+    "run_at": "2026-04-03T23:01:08.844729+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 10,
+      "Mid": 6
+    },
+    "scores": {
+      "avg": -210.2,
+      "max": 72,
+      "high": 12
+    },
+    "top_companies": [
+      "Google",
+      "Kforce Inc",
+      "Stripe",
+      "BayOne Solutions",
+      "Slalom"
+    ],
+    "snapshot_file": "2026-04-03T23-01-08Z_h1b2026.json"
   }
 ]
