@@ -14043,5 +14043,26 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T04-13-19Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-03T04:27:19Z",
+    "run_at": "2026-04-03T04:27:19.447475+00:00",
+    "pipeline": "important",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 5,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -550.0,
+      "max": 51,
+      "high": 3
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-03T04-27-19Z_important.json"
   }
 ]
