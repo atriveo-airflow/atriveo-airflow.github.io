@@ -14523,5 +14523,28 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-03T16-47-51Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-03T17:03:46Z",
+    "run_at": "2026-04-03T17:03:46.018250+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 24,
+    "levels": {
+      "Entry": 19,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -85.7,
+      "max": 70,
+      "high": 21
+    },
+    "top_companies": [
+      "Google",
+      "Microsoft",
+      "Palantir Technologies",
+      "IBM",
+      "Slalom"
+    ],
+    "snapshot_file": "2026-04-03T17-03-46Z_h1b2026.json"
   }
 ]
