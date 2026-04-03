@@ -14565,5 +14565,28 @@
       "Paychex"
     ],
     "snapshot_file": "2026-04-03T17-19-28Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T18:15:33Z",
+    "run_at": "2026-04-03T18:15:33.546052+00:00",
+    "pipeline": "standard",
+    "total_jobs": 39,
+    "levels": {
+      "Entry": 34,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -195.6,
+      "max": 103,
+      "high": 30
+    },
+    "top_companies": [
+      "Google",
+      "Docusign",
+      "Maxonic Inc.",
+      "Gray Swan",
+      "Palantir Technologies"
+    ],
+    "snapshot_file": "2026-04-03T18-15-33Z_standard.json"
   }
 ]
