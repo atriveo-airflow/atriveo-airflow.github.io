@@ -14786,5 +14786,29 @@
       "Docusign"
     ],
     "snapshot_file": "2026-04-03T21-17-57Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-03T22:14:30Z",
+    "run_at": "2026-04-03T22:14:30.327829+00:00",
+    "pipeline": "standard",
+    "total_jobs": 41,
+    "levels": {
+      "Entry": 32,
+      "Mid": 7,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -238.7,
+      "max": 81,
+      "high": 30
+    },
+    "top_companies": [
+      "RemoteHunter",
+      "Jobs via Dice",
+      "BeaconFire Inc.",
+      "Google",
+      "Mercor"
+    ],
+    "snapshot_file": "2026-04-03T22-14-30Z_standard.json"
   }
 ]
