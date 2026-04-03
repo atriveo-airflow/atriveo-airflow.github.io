@@ -14212,5 +14212,24 @@
       "Virtusa"
     ],
     "snapshot_file": "2026-04-03T09-44-50Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-03T09:57:49Z",
+    "run_at": "2026-04-03T09:57:49.851134+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 23,
+    "levels": {
+      "Entry": 16,
+      "Mid": 7
+    },
+    "scores": {},
+    "top_companies": [
+      "JPMorganChase",
+      "DoorDash",
+      "Equifax",
+      "Stripe",
+      "Deloitte"
+    ],
+    "snapshot_file": "2026-04-03T09-57-49Z_keywords.json"
   }
 ]
