@@ -14611,5 +14611,28 @@
       "Snap Inc."
     ],
     "snapshot_file": "2026-04-03T18-31-18Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T18:47:38Z",
+    "run_at": "2026-04-03T18:47:38.359714+00:00",
+    "pipeline": "top500",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 15,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -259.8,
+      "max": 81,
+      "high": 12
+    },
+    "top_companies": [
+      "Palantir Technologies",
+      "Google",
+      "Snap Inc.",
+      "Anthropic",
+      "Equifax"
+    ],
+    "snapshot_file": "2026-04-03T18-47-38Z_top500.json"
   }
 ]
