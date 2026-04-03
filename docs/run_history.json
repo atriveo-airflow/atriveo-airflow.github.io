@@ -14830,5 +14830,28 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-03T22-29-56Z_important.json"
+  },
+  {
+    "session_id": "2026-04-03T22:45:18Z",
+    "run_at": "2026-04-03T22:45:18.211307+00:00",
+    "pipeline": "top500",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 6,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -329.7,
+      "max": 81,
+      "high": 7
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "Equifax",
+      "Unisys",
+      "Uber"
+    ],
+    "snapshot_file": "2026-04-03T22-45-18Z_top500.json"
   }
 ]
