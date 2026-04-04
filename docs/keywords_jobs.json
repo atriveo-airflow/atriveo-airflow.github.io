@@ -1,16 +1,5 @@
 [
   {
-    "title": "Software Engineer (Js, TypeScript)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397435906",
-    "date_posted": null,
-    "keyword_score": 68,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer",
     "company": "PCI Services, LLC",
     "location": "Norman, OK",
@@ -44,23 +33,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Python Developer -SQL",
-    "company": "Netrolynx AI",
-    "location": "",
+    "title": "Software Engineer, Fabric Management",
+    "company": "Cornelis Networks",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397461920",
+    "job_url": "https://www.linkedin.com/jobs/view/4397474588",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer \u2013 AI Core Team",
     "company": "DTN",
-    "location": "Texas, United States",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397839707",
+    "job_url": "https://www.linkedin.com/jobs/view/4397852046",
     "date_posted": null,
     "keyword_score": 37,
     "site": "linkedin"
@@ -77,6 +66,17 @@
     "site": "linkedin"
   },
   {
+    "title": "FedNow Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Boston, MA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393471290",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Developer 2",
     "company": "Jobs via Dice",
     "location": "Seattle, WA",
@@ -85,17 +85,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4393465478",
     "date_posted": null,
     "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Zions Bancorporation",
-    "location": "Midvale, UT",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394261995",
-    "date_posted": null,
-    "keyword_score": 31,
     "site": "linkedin"
   },
   {
@@ -110,12 +99,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Typescript/NodeJS",
-    "company": "Commerce",
-    "location": "Atlanta, GA",
-    "level": "Mid",
-    "min_exp": 4.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4373423352",
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393078356",
     "date_posted": null,
     "keyword_score": 26,
     "site": "linkedin"
@@ -140,17 +129,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4394283126",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Netrolynx AI",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397466825",
-    "date_posted": null,
-    "keyword_score": 22,
     "site": "linkedin"
   },
   {
