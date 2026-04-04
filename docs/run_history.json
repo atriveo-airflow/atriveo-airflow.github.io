@@ -15099,5 +15099,25 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-04T03-09-09Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T03:26:09Z",
+    "run_at": "2026-04-04T03:26:09.600957+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 17,
+    "levels": {
+      "Entry": 11,
+      "Mid": 4,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "NVIDIA",
+      "American Express",
+      "FORSHAW Inc",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-04T03-26-09Z_keywords.json"
   }
 ]
