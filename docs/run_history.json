@@ -15468,5 +15468,28 @@
       "Applied Intuition"
     ],
     "snapshot_file": "2026-04-04T14-13-18Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T14:27:02Z",
+    "run_at": "2026-04-04T14:27:02.619582+00:00",
+    "pipeline": "important",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 12,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -89.8,
+      "max": 87,
+      "high": 13
+    },
+    "top_companies": [
+      "OpenAI",
+      "Verkada",
+      "Microsoft",
+      "Google",
+      "Nuro"
+    ],
+    "snapshot_file": "2026-04-04T14-27-02Z_important.json"
   }
 ]
