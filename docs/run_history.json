@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T05:03:06Z",
-    "run_at": "2026-03-26T05:03:06.639933+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 14.0,
-      "max": 14,
-      "high": 1
-    },
-    "top_companies": [
-      "TikTok"
-    ],
-    "snapshot_file": "2026-03-26T05-03-06Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T05:05:15Z",
     "run_at": "2026-03-26T05:05:15.392409+00:00",
     "pipeline": "keywords",
@@ -15563,5 +15545,28 @@
       "Twitch"
     ],
     "snapshot_file": "2026-04-04T16-28-32Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T16:43:32Z",
+    "run_at": "2026-04-04T16:43:32.668527+00:00",
+    "pipeline": "top500",
+    "total_jobs": 18,
+    "levels": {
+      "Entry": 17,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -239.0,
+      "max": 81,
+      "high": 13
+    },
+    "top_companies": [
+      "OpenAI",
+      "S&P Global",
+      "Microsoft",
+      "Twitch",
+      "Coinbase"
+    ],
+    "snapshot_file": "2026-04-04T16-43-32Z_top500.json"
   }
 ]
