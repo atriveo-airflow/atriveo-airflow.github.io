@@ -13,6 +13,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, DevSec",
+    "company": "Coinbase",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 2.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4375411892",
+    "date_posted": null,
+    "priority_score": 71,
+    "score_pct": 55,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Platform InfraCore | USA | Remote",
     "company": "Grafana Labs",
     "location": "",
@@ -65,6 +78,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer \u2013 Travel & Expense (T&E) Applications (SAP Concur)",
+    "company": "S&P Global",
+    "location": "Centreville, VA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4374037265",
+    "date_posted": null,
+    "priority_score": 57,
+    "score_pct": 44,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer, GPU Infrastructure - HPC",
     "company": "OpenAI",
     "location": "San Francisco, CA",
@@ -75,6 +101,19 @@
     "date_posted": null,
     "priority_score": 53,
     "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Monetization Product & Platform",
+    "company": "OpenAI",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4356792233",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
     "site": "linkedin"
   },
   {
@@ -91,32 +130,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Associate Software Engineer - Seeking 2025 & 2026 Grads",
-    "company": "Veeva Systems",
-    "location": "Columbus, OH",
-    "level": "New Grad",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384623601",
-    "date_posted": null,
-    "priority_score": 39,
-    "score_pct": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Media Encoding Pipelines (L4)",
-    "company": "Netflix",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373435862",
-    "date_posted": null,
-    "priority_score": 38,
-    "score_pct": 29,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Microsoft",
     "location": "",
@@ -127,19 +140,6 @@
     "date_posted": null,
     "priority_score": 37,
     "score_pct": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - HR (Workday personnel) - Mobility",
-    "company": "S&P Global",
-    "location": "Columbia, MO",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374028335",
-    "date_posted": null,
-    "priority_score": 35,
-    "score_pct": 27,
     "site": "linkedin"
   },
   {
@@ -156,26 +156,52 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Infrastructure, Google Ads",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4384261167",
+    "title": "Quantum Calibration Software Developer",
+    "company": "IBM",
+    "location": "New York, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4383177118",
+    "date_posted": null,
+    "priority_score": 29,
+    "score_pct": 22,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Creator Sponsorships",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4344847178",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer - RISCV",
-    "company": "NVIDIA",
-    "location": "Santa Clara, CA",
+    "title": "Embedded SDE, Ring Device Software & Systems",
+    "company": "Amazon",
+    "location": "North Reading, MA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385822116",
+    "job_url": "https://www.linkedin.com/jobs/view/4367387589",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Alteryx",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394254737",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
@@ -195,13 +221,13 @@
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer, Ring",
-    "company": "Amazon",
-    "location": "North Reading, MA",
+    "title": "Software Engineer I - Ads Demand Enablement",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367379653",
+    "job_url": "https://www.linkedin.com/jobs/view/4332201577",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
