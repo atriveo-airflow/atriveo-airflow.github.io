@@ -15380,5 +15380,29 @@
       "Verkada"
     ],
     "snapshot_file": "2026-04-04T12-26-19Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T12:39:59Z",
+    "run_at": "2026-04-04T12:39:59.589149+00:00",
+    "pipeline": "top500",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -207.1,
+      "max": 95,
+      "high": 12
+    },
+    "top_companies": [
+      "DoorDash",
+      "Netflix",
+      "S&P Global",
+      "Adobe",
+      "Grafana Labs"
+    ],
+    "snapshot_file": "2026-04-04T12-39-59Z_top500.json"
   }
 ]
