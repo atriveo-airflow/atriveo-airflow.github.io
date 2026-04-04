@@ -15030,5 +15030,26 @@
       "Walmart"
     ],
     "snapshot_file": "2026-04-04T02-16-37Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T02:34:03Z",
+    "run_at": "2026-04-04T02:34:03.153106+00:00",
+    "pipeline": "important",
+    "total_jobs": 5,
+    "levels": {
+      "Mid": 3,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 41.4,
+      "max": 47,
+      "high": 5
+    },
+    "top_companies": [
+      "Google",
+      "Uber",
+      "Airbnb"
+    ],
+    "snapshot_file": "2026-04-04T02-34-03Z_important.json"
   }
 ]
