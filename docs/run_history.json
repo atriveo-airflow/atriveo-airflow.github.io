@@ -14939,5 +14939,29 @@
       "Uber"
     ],
     "snapshot_file": "2026-04-04T00-24-28Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T00:36:48Z",
+    "run_at": "2026-04-04T00:36:48.721038+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 6,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -297.2,
+      "max": 130,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "Stripe",
+      "IXL Learning",
+      "Uber",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-04T00-36-48Z_top500.json"
   }
 ]
