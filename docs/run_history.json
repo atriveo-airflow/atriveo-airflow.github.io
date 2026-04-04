@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T09:07:19Z",
-    "run_at": "2026-03-26T09:07:19.820926+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 10,
-    "levels": {
-      "Entry": 9,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Tivity Health",
-      "Voxel",
-      "Pivotor AI",
-      "Airlock Digital",
-      "Craftner INC"
-    ],
-    "snapshot_file": "2026-03-26T09-07-19Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T12:02:43Z",
     "run_at": "2026-03-26T12:02:43.654969+00:00",
     "pipeline": "standard",
@@ -15575,5 +15556,28 @@
       "Roblox"
     ],
     "snapshot_file": "2026-04-04T18-43-53Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T18:58:54Z",
+    "run_at": "2026-04-04T18:58:54.060686+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -102.9,
+      "max": 76,
+      "high": 6
+    },
+    "top_companies": [
+      "IBM",
+      "Docusign",
+      "Coinbase",
+      "Roblox",
+      "Intuit"
+    ],
+    "snapshot_file": "2026-04-04T18-58-54Z_h1b2026.json"
   }
 ]
