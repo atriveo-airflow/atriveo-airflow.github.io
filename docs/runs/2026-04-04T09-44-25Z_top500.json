@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Software Engineer, Backend - SevenRooms, In-Store Experience",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4278861146",
+    "date_posted": null,
+    "priority_score": 79,
+    "score_pct": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend (All Teams)",
+    "company": "DoorDash",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999827067",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, iOS (All Teams)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999826220",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  }
+]
