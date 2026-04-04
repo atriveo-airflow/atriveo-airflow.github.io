@@ -15356,5 +15356,29 @@
       "Crossing Hurdles"
     ],
     "snapshot_file": "2026-04-04T12-12-58Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T12:26:19Z",
+    "run_at": "2026-04-04T12:26:19.701131+00:00",
+    "pipeline": "important",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 13,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -85.0,
+      "max": 95,
+      "high": 13
+    },
+    "top_companies": [
+      "DoorDash",
+      "Netflix",
+      "Nuro",
+      "Adobe",
+      "Verkada"
+    ],
+    "snapshot_file": "2026-04-04T12-26-19Z_important.json"
   }
 ]
