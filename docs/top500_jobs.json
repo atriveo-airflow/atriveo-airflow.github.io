@@ -13,32 +13,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
-    "company": "Google",
-    "location": "Cambridge, MA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4365586124",
-    "date_posted": null,
-    "priority_score": 59,
-    "score_pct": 45,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Infrastructure, Google Cloud Storage",
-    "company": "Google",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4365576565",
-    "date_posted": null,
-    "priority_score": 47,
-    "score_pct": 36,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Uber",
     "location": "San Francisco, CA",
@@ -91,6 +65,32 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer, Payments",
+    "company": "Airbnb",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397410197",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "IBM",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397809209",
+    "date_posted": null,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Engineer, Music",
     "company": "Spotify",
     "location": "New York, NY",
@@ -101,19 +101,6 @@
     "date_posted": null,
     "priority_score": 27,
     "score_pct": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Bridge",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397373047",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
     "site": "linkedin"
   },
   {
@@ -130,19 +117,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Machine Learning Infrastructure",
-    "company": "Stripe",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397359518",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "American Express",
     "location": "Phoenix, AZ",
@@ -150,6 +124,32 @@
     "min_exp": null,
     "max_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4397381407",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer lll- Java - Digital Pymts",
+    "company": "American Express",
+    "location": "Phoenix, AZ",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397368976",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
