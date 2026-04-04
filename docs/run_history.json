@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T09:05:38Z",
-    "run_at": "2026-03-26T09:05:38.644867+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 5.0,
-      "max": 8,
-      "high": 1
-    },
-    "top_companies": [
-      "Oracle",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T09-05-38Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T09:07:19Z",
     "run_at": "2026-03-26T09:07:19.820926+00:00",
     "pipeline": "keywords",
@@ -15573,5 +15553,27 @@
       "Roblox"
     ],
     "snapshot_file": "2026-04-04T18-28-40Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T18:43:53Z",
+    "run_at": "2026-04-04T18:43:53.620568+00:00",
+    "pipeline": "top500",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 9
+    },
+    "scores": {
+      "avg": -531.7,
+      "max": 76,
+      "high": 4
+    },
+    "top_companies": [
+      "Twitch",
+      "Amazon",
+      "Docusign",
+      "Coinbase",
+      "Roblox"
+    ],
+    "snapshot_file": "2026-04-04T18-43-53Z_top500.json"
   }
 ]
