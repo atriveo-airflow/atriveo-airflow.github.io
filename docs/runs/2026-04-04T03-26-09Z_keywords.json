@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Python Developer Intern",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394234175",
+    "date_posted": null,
+    "keyword_score": 83,
+    "site": "linkedin"
+  },
+  {
+    "title": "Junior Python Developer",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394244102",
+    "date_posted": null,
+    "keyword_score": 80,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "American Express",
+    "location": "Phoenix, AZ",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397381407",
+    "date_posted": null,
+    "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "FORSHAW Inc",
+    "location": "Charlotte, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397406633",
+    "date_posted": null,
+    "keyword_score": 48,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
+    "date_posted": null,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "Chicago, IL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396589561",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "PNC",
+    "location": "Farmers Branch, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394240274",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
+    "company": "Google",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4365585138",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397398423",
+    "date_posted": null,
+    "keyword_score": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - medi USA",
+    "company": "medi USA",
+    "location": "Whitsett, NC",
+    "level": "Entry",
+    "min_exp": 1.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394242192",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Payments",
+    "company": "Airbnb",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397410197",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Entry level software developer",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394236169",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend & Data",
+    "company": "Epic for Kids",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4386537855",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Deep Learning Software Engineer, LLM Performance - New College Grad 2026",
+    "company": "NVIDIA",
+    "location": "California, United States",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397414560",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2026",
+    "company": "NVIDIA",
+    "location": "Santa Clara, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397410632",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, New Grad",
+    "company": "IXL Learning",
+    "location": "Raleigh, NC",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394216858",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer",
+    "company": "IBM",
+    "location": "Austin, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397809209",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  }
+]
