@@ -15257,5 +15257,23 @@
       "Turing"
     ],
     "snapshot_file": "2026-04-04T09-13-59Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T09:29:03Z",
+    "run_at": "2026-04-04T09:29:03.445517+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 3
+    },
+    "scores": {
+      "avg": 55.7,
+      "max": 79,
+      "high": 3
+    },
+    "top_companies": [
+      "DoorDash"
+    ],
+    "snapshot_file": "2026-04-04T09-29-03Z_important.json"
   }
 ]
