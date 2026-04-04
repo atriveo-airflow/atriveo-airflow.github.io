@@ -14986,5 +14986,25 @@
       "Spotify"
     ],
     "snapshot_file": "2026-04-04T00-54-15Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T01:11:11Z",
+    "run_at": "2026-04-04T01:11:11.320751+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 25,
+    "levels": {
+      "Entry": 18,
+      "Mid": 5,
+      "New Grad": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "BeaconFire Inc.",
+      "Kforce Inc",
+      "Walmart",
+      "Apetan Consulting LLC",
+      "Teradata"
+    ],
+    "snapshot_file": "2026-04-04T01-11-11Z_keywords.json"
   }
 ]
