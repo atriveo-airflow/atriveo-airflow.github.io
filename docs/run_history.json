@@ -15234,5 +15234,28 @@
       "FORSHAW Inc"
     ],
     "snapshot_file": "2026-04-04T05-16-51Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T09:13:59Z",
+    "run_at": "2026-04-04T09:13:59.077656+00:00",
+    "pipeline": "standard",
+    "total_jobs": 38,
+    "levels": {
+      "Entry": 33,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -10.8,
+      "max": 109,
+      "high": 36
+    },
+    "top_companies": [
+      "Alignerr",
+      "DataAnnotation",
+      "JPMorganChase",
+      "DoorDash",
+      "Turing"
+    ],
+    "snapshot_file": "2026-04-04T09-13-59Z_standard.json"
   }
 ]
