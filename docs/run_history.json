@@ -15332,5 +15332,29 @@
       "Live Nation Entertainment"
     ],
     "snapshot_file": "2026-04-04T10-15-54Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T12:12:58Z",
+    "run_at": "2026-04-04T12:12:58.984159+00:00",
+    "pipeline": "standard",
+    "total_jobs": 42,
+    "levels": {
+      "Entry": 36,
+      "Mid": 5,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -202.3,
+      "max": 95,
+      "high": 32
+    },
+    "top_companies": [
+      "Sundayy",
+      "Netflix",
+      "JPMorganChase",
+      "Nuro",
+      "Crossing Hurdles"
+    ],
+    "snapshot_file": "2026-04-04T12-12-58Z_standard.json"
   }
 ]
