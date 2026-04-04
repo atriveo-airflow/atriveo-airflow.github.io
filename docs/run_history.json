@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T12:11:50Z",
-    "run_at": "2026-03-26T12:11:50.336152+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 5,
-    "levels": {
-      "Mid": 3,
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 5.8,
-      "max": 8,
-      "high": 4
-    },
-    "top_companies": [
-      "Google",
-      "Akraya, Inc.",
-      "Applied Intuition"
-    ],
-    "snapshot_file": "2026-03-26T12-11-50Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T12:14:53Z",
     "run_at": "2026-03-26T12:14:53.308765+00:00",
     "pipeline": "keywords",
@@ -15574,5 +15553,24 @@
       "SoFi"
     ],
     "snapshot_file": "2026-04-04T20-26-24Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T20:39:50Z",
+    "run_at": "2026-04-04T20:39:50.683849+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 52.5,
+      "max": 76,
+      "high": 2
+    },
+    "top_companies": [
+      "Docusign",
+      "Intuit"
+    ],
+    "snapshot_file": "2026-04-04T20-39-50Z_top500.json"
   }
 ]
