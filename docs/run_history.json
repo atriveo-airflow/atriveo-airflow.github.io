@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T12:05:47Z",
-    "run_at": "2026-03-26T12:05:47.147493+00:00",
-    "pipeline": "important",
-    "total_jobs": 7,
-    "levels": {
-      "Entry": 5,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 2.7,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Meta",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T12-05-47Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T12:08:52Z",
     "run_at": "2026-03-26T12:08:52.773290+00:00",
     "pipeline": "top500",
@@ -15575,5 +15555,28 @@
       "Cape"
     ],
     "snapshot_file": "2026-04-04T19-12-55Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T20:13:01Z",
+    "run_at": "2026-04-04T20:13:01.713261+00:00",
+    "pipeline": "standard",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 18,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -159.2,
+      "max": 94,
+      "high": 16
+    },
+    "top_companies": [
+      "Sundayy",
+      "Netrolynx AI",
+      "YO IT Consulting",
+      "Etched",
+      "Docusign"
+    ],
+    "snapshot_file": "2026-04-04T20-13-01Z_standard.json"
   }
 ]
