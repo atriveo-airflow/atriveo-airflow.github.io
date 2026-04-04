@@ -15075,5 +15075,29 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-04T02-51-41Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T03:09:09Z",
+    "run_at": "2026-04-04T03:09:09.519696+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 11,
+    "levels": {
+      "Entry": 6,
+      "Mid": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -147.2,
+      "max": 60,
+      "high": 9
+    },
+    "top_companies": [
+      "Kforce Inc",
+      "Google",
+      "Uber",
+      "IBM",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-04T03-09-09Z_h1b2026.json"
   }
 ]
