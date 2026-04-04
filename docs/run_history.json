@@ -15538,5 +15538,24 @@
       "Verkada"
     ],
     "snapshot_file": "2026-04-04T14-55-43Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T15:09:53Z",
+    "run_at": "2026-04-04T15:09:53.564336+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 61,
+    "levels": {
+      "Entry": 56,
+      "Mid": 5
+    },
+    "scores": {},
+    "top_companies": [
+      "Applied Intuition",
+      "OpenAI",
+      "Verkada",
+      "Microsoft",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-04-04T15-09-53Z_keywords.json"
   }
 ]
