@@ -15515,5 +15515,28 @@
       "Veeva Systems"
     ],
     "snapshot_file": "2026-04-04T14-41-15Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T14:55:43Z",
+    "run_at": "2026-04-04T14:55:43.867910+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 13,
+    "levels": {
+      "Entry": 10,
+      "Mid": 3
+    },
+    "scores": {
+      "avg": -113.2,
+      "max": 71,
+      "high": 11
+    },
+    "top_companies": [
+      "Applied Intuition",
+      "Nuro",
+      "Microsoft",
+      "Coinbase",
+      "Verkada"
+    ],
+    "snapshot_file": "2026-04-04T14-55-43Z_h1b2026.json"
   }
 ]
