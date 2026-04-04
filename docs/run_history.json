@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T09:01:20Z",
-    "run_at": "2026-03-26T09:01:20.843097+00:00",
-    "pipeline": "standard",
-    "total_jobs": 11,
-    "levels": {
-      "Entry": 8,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 9.6,
-      "max": 20,
-      "high": 7
-    },
-    "top_companies": [
-      "Voxel",
-      "Airlock Digital",
-      "Craftner INC",
-      "Confidential Jobs",
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-26T09-01-20Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T09:02:47Z",
     "run_at": "2026-03-26T09:02:47.479593+00:00",
     "pipeline": "important",
@@ -15572,5 +15549,24 @@
       "Verkada"
     ],
     "snapshot_file": "2026-04-04T16-58-03Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T17:12:14Z",
+    "run_at": "2026-04-04T17:12:14.764658+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 47,
+    "levels": {
+      "Entry": 44,
+      "Mid": 3
+    },
+    "scores": {},
+    "top_companies": [
+      "OpenAI",
+      "Whatnot",
+      "Clear Street",
+      "BeaconFire Inc.",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-04T17-12-14Z_keywords.json"
   }
 ]
