@@ -1,16 +1,5 @@
 [
   {
-    "title": "Software Engineer, SSSE Developer",
-    "company": "Professional Search Group",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394216101",
-    "date_posted": null,
-    "keyword_score": 69,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II",
     "company": "Walmart",
     "location": "Bentonville, AR",
@@ -22,34 +11,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Python Developer",
-    "company": "Unisys",
-    "location": "Rockville, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397577526",
-    "date_posted": null,
-    "keyword_score": 59,
-    "site": "linkedin"
-  },
-  {
     "title": "Ld Software Engineer, AI & Data Applications/Remote",
     "company": "Apetan Consulting LLC",
     "location": "",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4397371349",
-    "date_posted": null,
-    "keyword_score": 55,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer, Systems",
-    "company": "HIGH BRIDGE & CO.",
-    "location": "Paramus, NJ",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397349540",
     "date_posted": null,
     "keyword_score": 55,
     "site": "linkedin"
@@ -66,58 +33,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Edge Cloud Database",
-    "company": "Walmart",
-    "location": "Bentonville, AR",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397581692",
-    "date_posted": null,
-    "keyword_score": 46,
-    "site": "linkedin"
-  },
-  {
-    "title": "Elixir / Phoenix Backend Developer",
-    "company": "MBO Partners",
-    "location": "",
+    "title": "Software Engineer, Full-Stack",
+    "company": "Loop",
+    "location": "Chicago, IL",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394204376",
+    "job_url": "https://www.linkedin.com/jobs/view/4396589561",
     "date_posted": null,
-    "keyword_score": 45,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Eleven Recruiting",
-    "location": "El Segundo, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397354230",
-    "date_posted": null,
-    "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Data",
-    "company": "Whatnot",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393892454",
-    "date_posted": null,
-    "keyword_score": 42,
-    "site": "linkedin"
-  },
-  {
-    "title": "Python Developer",
-    "company": "Jobs via Dice",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393887583",
-    "date_posted": null,
-    "keyword_score": 38,
+    "keyword_score": 39,
     "site": "linkedin"
   },
   {
@@ -132,36 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Mid-Level) \u2013 Building the Future of HR Tech (Workforce Transformation)",
-    "company": "Onwards HR",
-    "location": "Atlanta, GA",
+    "title": "Software Engineer II \u2013 Video Platform",
+    "company": "SimpliSafe",
+    "location": "Boston, MA",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397346983",
+    "job_url": "https://www.linkedin.com/jobs/view/4377769900",
     "date_posted": null,
-    "keyword_score": 36,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer",
-    "company": "Piper Companies",
-    "location": "Durham, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393890478",
-    "date_posted": null,
-    "keyword_score": 34,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Autonomy Behavior Validation",
-    "company": "General Motors",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397372345",
-    "date_posted": null,
-    "keyword_score": 32,
+    "keyword_score": 33,
     "site": "linkedin"
   },
   {
@@ -176,12 +77,34 @@
     "site": "linkedin"
   },
   {
-    "title": "Java Software Engineer",
+    "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
+    "company": "Google",
+    "location": "Cambridge, MA",
+    "level": "Mid",
+    "min_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4365586124",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java/Javascript Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "Georgia, United States",
+    "location": "North Carolina, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397569831",
+    "job_url": "https://www.linkedin.com/jobs/view/4397575453",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Texas, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397569846",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
@@ -198,34 +121,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III",
-    "company": "TalentBurst, an Inc 5000 company",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397590314",
-    "date_posted": null,
-    "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Haystack",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393882537",
-    "date_posted": null,
-    "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Uber",
-    "location": "Seattle, WA",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4397376471",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397380262",
+    "date_posted": null,
+    "keyword_score": 27,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Benchmark",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397360480",
     "date_posted": null,
     "keyword_score": 26,
     "site": "linkedin"
@@ -242,23 +154,34 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "RK Infotech LLC - E-Verified Company",
+    "location": "Florida, United States",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4374000978",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III",
+    "company": "TalentBurst, an Inc 5000 company",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397590314",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Developer",
     "company": "Kforce Inc",
     "location": "Boston, MA",
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4397366831",
-    "date_posted": null,
-    "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Benchmark",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397360480",
     "date_posted": null,
     "keyword_score": 26,
     "site": "linkedin"
@@ -286,50 +209,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Infrastructure, Google Cloud Performance",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393899487",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Enterprise - Software Engineer - Terraform, AWS, C++",
-    "company": "Erias Ventures",
-    "location": "Annapolis Junction, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397344567",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Enterprise - Software Engineer - Java, Python, Map Reduce",
-    "company": "Erias Ventures",
-    "location": "Annapolis Junction, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397343613",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "FCS Financial",
-    "location": "Jefferson City, MO",
-    "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4393898646",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II",
     "company": "CharterUP",
     "location": "Austin, TX",
@@ -338,17 +217,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4379067798",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java/GraphQL Software Developer",
-    "company": "Jobs via Dice",
-    "location": "Greenwood Village, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393883608",
-    "date_posted": null,
-    "keyword_score": 21,
     "site": "linkedin"
   },
   {
@@ -363,28 +231,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer- C++",
-    "company": "Akkodis",
-    "location": "Rochester, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4364474430",
-    "date_posted": null,
-    "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Enterprise - Cloud Software Engineer - MongoDB, Scala, Java",
-    "company": "Erias Ventures",
-    "location": "Annapolis Junction, MD",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397336869",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Lucidoc Corporation",
     "location": "Redmond, WA",
@@ -396,25 +242,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Exchange",
-    "company": "Figure",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer, New Grad",
+    "company": "IXL Learning",
+    "location": "Raleigh, NC",
+    "level": "New Grad",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397344758",
+    "job_url": "https://www.linkedin.com/jobs/view/4394216858",
     "date_posted": null,
     "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Entry Level- Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "New Jersey, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396751880",
-    "date_posted": null,
-    "keyword_score": 17,
     "site": "linkedin"
   },
   {
@@ -429,14 +264,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Technology Core \u2013 Software Engineer",
-    "company": "Jobs via Dice",
-    "location": "Charlotte, NC",
+    "title": "Entry Level- Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "New Jersey, United States",
     "level": "Entry",
-    "min_exp": 3.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4394202471",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4396751880",
     "date_posted": null,
-    "keyword_score": 16,
+    "keyword_score": 17,
     "site": "linkedin"
   }
 ]
