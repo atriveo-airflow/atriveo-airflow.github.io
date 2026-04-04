@@ -15426,5 +15426,24 @@
       "TEKsystems"
     ],
     "snapshot_file": "2026-04-04T12-54-08Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T13:08:13Z",
+    "run_at": "2026-04-04T13:08:13.861418+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 54,
+    "levels": {
+      "Entry": 48,
+      "Mid": 6
+    },
+    "scores": {},
+    "top_companies": [
+      "Applied Intuition",
+      "DoorDash",
+      "S&P Global",
+      "Netflix",
+      "FieldAI"
+    ],
+    "snapshot_file": "2026-04-04T13-08-13Z_keywords.json"
   }
 ]
