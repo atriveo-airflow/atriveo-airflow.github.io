@@ -15191,5 +15191,28 @@
       "Airbnb"
     ],
     "snapshot_file": "2026-04-04T04-52-08Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T05:05:36Z",
+    "run_at": "2026-04-04T05:05:36.298494+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -222.0,
+      "max": 43,
+      "high": 3
+    },
+    "top_companies": [
+      "Microsoft",
+      "IBM",
+      "EPITEC",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-04T05-05-36Z_h1b2026.json"
   }
 ]
