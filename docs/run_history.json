@@ -1,27 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T12:08:52Z",
-    "run_at": "2026-03-26T12:08:52.773290+00:00",
-    "pipeline": "top500",
-    "total_jobs": 10,
-    "levels": {
-      "Entry": 7,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 3.5,
-      "max": 8,
-      "high": 4
-    },
-    "top_companies": [
-      "Meta",
-      "Google",
-      "Spring Health",
-      "Nokia"
-    ],
-    "snapshot_file": "2026-03-26T12-08-52Z_top500.json"
-  },
-  {
     "session_id": "2026-03-26T12:11:50Z",
     "run_at": "2026-03-26T12:11:50.336152+00:00",
     "pipeline": "h1b2026",
@@ -15578,5 +15556,23 @@
       "Docusign"
     ],
     "snapshot_file": "2026-04-04T20-13-01Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T20:26:24Z",
+    "run_at": "2026-04-04T20:26:24.959262+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 107.0,
+      "max": 107,
+      "high": 1
+    },
+    "top_companies": [
+      "SoFi"
+    ],
+    "snapshot_file": "2026-04-04T20-26-24Z_important.json"
   }
 ]
