@@ -15167,5 +15167,29 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-04T04-34-39Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T04:52:08Z",
+    "run_at": "2026-04-04T04:52:08.742268+00:00",
+    "pipeline": "top500",
+    "total_jobs": 7,
+    "levels": {
+      "Mid": 3,
+      "New Grad": 2,
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -97.6,
+      "max": 130,
+      "high": 6
+    },
+    "top_companies": [
+      "NVIDIA",
+      "IXL Learning",
+      "Microsoft",
+      "IBM",
+      "Airbnb"
+    ],
+    "snapshot_file": "2026-04-04T04-52-08Z_top500.json"
   }
 ]
