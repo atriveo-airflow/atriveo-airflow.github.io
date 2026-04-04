@@ -22,14 +22,58 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "American Express",
-    "location": "Phoenix, AZ",
+    "title": "Associate Software Engineer \u2013 IAM Automation",
+    "company": "U.S. Bank",
+    "location": "Minneapolis, MN",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397381407",
+    "job_url": "https://www.linkedin.com/jobs/view/4397400781",
+    "date_posted": null,
+    "keyword_score": 63,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full stack software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Mountain View, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394232193",
     "date_posted": null,
     "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Backend Developer",
+    "company": "Jobs via Dice",
+    "location": "Des Moines, IA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394246088",
+    "date_posted": null,
+    "keyword_score": 60,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394242133",
+    "date_posted": null,
+    "keyword_score": 53,
+    "site": "linkedin"
+  },
+  {
+    "title": "Data Software Engineer III - ML",
+    "company": "JPMorganChase",
+    "location": "Houston, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397401778",
+    "date_posted": null,
+    "keyword_score": 52,
     "site": "linkedin"
   },
   {
@@ -55,14 +99,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Full-Stack",
-    "company": "Loop",
-    "location": "Chicago, IL",
+    "title": "Python Developer",
+    "company": "Jobs via Dice",
+    "location": "Fremont, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4396589561",
+    "job_url": "https://www.linkedin.com/jobs/view/4394251035",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
+    "title": "Data Software Engineer II",
+    "company": "JPMorganChase",
+    "location": "New York, NY",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397410265",
+    "date_posted": null,
+    "keyword_score": 38,
     "site": "linkedin"
   },
   {
@@ -88,12 +143,23 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
+    "title": "Backend Developer",
+    "company": "Jobs via Dice",
+    "location": "Boston, MA",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397398423",
+    "job_url": "https://www.linkedin.com/jobs/view/4394239123",
+    "date_posted": null,
+    "keyword_score": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Specialist Software Engineer - Full Stack",
+    "company": "Metropolitan Transportation Authority",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": 3.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394250385",
     "date_posted": null,
     "keyword_score": 25,
     "site": "linkedin"
@@ -110,36 +176,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Payments",
-    "company": "Airbnb",
-    "location": "",
+    "title": "Software Developer",
+    "company": "IBM",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397410197",
+    "job_url": "https://www.linkedin.com/jobs/view/4397809210",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 23,
     "site": "linkedin"
   },
   {
-    "title": "Entry level software developer",
-    "company": "Jobs via Dice",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer III- Mainframe Developer",
+    "company": "JPMorganChase",
+    "location": "Westerville, OH",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394236169",
+    "job_url": "https://www.linkedin.com/jobs/view/4397409373",
     "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Backend & Data",
-    "company": "Epic for Kids",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386537855",
-    "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 20,
     "site": "linkedin"
   },
   {
@@ -165,25 +220,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, New Grad",
-    "company": "IXL Learning",
-    "location": "Raleigh, NC",
-    "level": "New Grad",
+    "title": "Software Engineer, Backend & Data",
+    "company": "Epic for Kids",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394216858",
+    "job_url": "https://www.linkedin.com/jobs/view/4386537855",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
   },
   {
-    "title": "Software Developer",
-    "company": "IBM",
-    "location": "Austin, TX",
+    "title": "Entry level software developer",
+    "company": "Jobs via Dice",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397809209",
+    "job_url": "https://www.linkedin.com/jobs/view/4394236169",
     "date_posted": null,
-    "keyword_score": 17,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Payments",
+    "company": "Airbnb",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397410197",
+    "date_posted": null,
+    "keyword_score": 18,
     "site": "linkedin"
   }
 ]
