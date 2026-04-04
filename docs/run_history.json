@@ -15404,5 +15404,27 @@
       "Grafana Labs"
     ],
     "snapshot_file": "2026-04-04T12-39-59Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T12:54:08Z",
+    "run_at": "2026-04-04T12:54:08.259536+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 15,
+    "levels": {
+      "Entry": 15
+    },
+    "scores": {
+      "avg": 51.0,
+      "max": 87,
+      "high": 15
+    },
+    "top_companies": [
+      "Applied Intuition",
+      "DoorDash",
+      "Nuro",
+      "Verkada",
+      "TEKsystems"
+    ],
+    "snapshot_file": "2026-04-04T12-54-08Z_h1b2026.json"
   }
 ]
