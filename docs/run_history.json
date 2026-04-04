@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T13:10:54Z",
-    "run_at": "2026-03-26T13:10:54.609711+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 6.5,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T13-10-54Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T13:13:51Z",
     "run_at": "2026-03-26T13:13:51.869421+00:00",
     "pipeline": "keywords",
@@ -15568,5 +15549,27 @@
       "PCI Services, LLC"
     ],
     "snapshot_file": "2026-04-04T22-48-30Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T23:07:42Z",
+    "run_at": "2026-04-04T23:07:42.820449+00:00",
+    "pipeline": "standard",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -85.4,
+      "max": 60,
+      "high": 7
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "RemoteHunter",
+      "Aeroflow Health",
+      "AJPD-BF"
+    ],
+    "snapshot_file": "2026-04-04T23-07-42Z_standard.json"
   }
 ]
