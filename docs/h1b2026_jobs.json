@@ -1,28 +1,15 @@
 [
   {
-    "title": "Software Engineer, DevSec",
-    "company": "Coinbase",
-    "location": "",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4375411892",
-    "date_posted": null,
-    "priority_score": 71,
-    "score_pct": 55,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Cloud Infrastructure",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
+    "title": "Software Engineer",
+    "company": "Optum",
+    "location": "Addison, TX",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3686164268",
+    "job_url": "https://www.linkedin.com/jobs/view/4397479027",
     "date_posted": null,
-    "priority_score": 64,
-    "score_pct": 49,
+    "priority_score": 65,
+    "score_pct": 50,
     "site": "linkedin"
   },
   {
@@ -39,6 +26,32 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - Cloud Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3686164268",
+    "date_posted": null,
+    "priority_score": 64,
+    "score_pct": 49,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
+    "company": "Microsoft",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397453584",
+    "date_posted": null,
+    "priority_score": 57,
+    "score_pct": 44,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Validation Toolset",
     "company": "Applied Intuition",
     "location": "Sunnyvale, CA",
@@ -49,6 +62,19 @@
     "date_posted": null,
     "priority_score": 53,
     "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer 2",
+    "company": "TEKsystems",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4395309111",
+    "date_posted": null,
+    "priority_score": 48,
+    "score_pct": 37,
     "site": "linkedin"
   },
   {
@@ -78,32 +104,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - HashiCorp Vault, Radar, Boundary",
-    "company": "IBM",
-    "location": "San Jose, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373199640",
-    "date_posted": null,
-    "priority_score": 40,
-    "score_pct": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Offboard Infrastructure",
-    "company": "Nuro",
-    "location": "Mountain View, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374313687",
-    "date_posted": null,
-    "priority_score": 37,
-    "score_pct": 28,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer",
     "company": "Microsoft",
     "location": "",
@@ -117,55 +117,29 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Onboard Infrastructure",
-    "company": "Nuro",
+    "title": "Software Engineer, User Co-Experience",
+    "company": "Roblox",
+    "location": "San Mateo, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4384605090",
+    "date_posted": null,
+    "priority_score": 34,
+    "score_pct": 26,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 2, AI Builder",
+    "company": "Intuit",
     "location": "Mountain View, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374304769",
+    "job_url": "https://www.linkedin.com/jobs/view/4397474276",
     "date_posted": null,
-    "priority_score": 37,
-    "score_pct": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II",
-    "company": "Microsoft",
-    "location": "Redmond, WA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397451658",
-    "date_posted": null,
-    "priority_score": 37,
-    "score_pct": 28,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer III, Infrastructure, Google Ads",
-    "company": "Google",
-    "location": "Los Angeles, CA",
-    "level": "Mid",
-    "min_exp": 2.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4384261167",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer, Mid",
-    "company": "Kforce Inc",
-    "location": "Huntsville, AL",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4344088920",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
+    "priority_score": 29,
+    "score_pct": 22,
     "site": "linkedin"
   }
 ]
