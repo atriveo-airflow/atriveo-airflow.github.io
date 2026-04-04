@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T05:02:11Z",
-    "run_at": "2026-03-26T05:02:11.002610+00:00",
-    "pipeline": "top500",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 14.0,
-      "max": 14,
-      "high": 1
-    },
-    "top_companies": [
-      "TikTok"
-    ],
-    "snapshot_file": "2026-03-26T05-02-11Z_top500.json"
-  },
-  {
     "session_id": "2026-03-26T05:03:06Z",
     "run_at": "2026-03-26T05:03:06.639933+00:00",
     "pipeline": "h1b2026",
@@ -15558,5 +15540,28 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-04-04T16-13-53Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-04T16:28:32Z",
+    "run_at": "2026-04-04T16:28:32.179427+00:00",
+    "pipeline": "important",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 14,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -210.0,
+      "max": 87,
+      "high": 12
+    },
+    "top_companies": [
+      "OpenAI",
+      "Verkada",
+      "Microsoft",
+      "IBM",
+      "Twitch"
+    ],
+    "snapshot_file": "2026-04-04T16-28-32Z_important.json"
   }
 ]
