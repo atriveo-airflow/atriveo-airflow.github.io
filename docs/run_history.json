@@ -15445,5 +15445,28 @@
       "FieldAI"
     ],
     "snapshot_file": "2026-04-04T13-08-13Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T14:13:18Z",
+    "run_at": "2026-04-04T14:13:18.505673+00:00",
+    "pipeline": "standard",
+    "total_jobs": 52,
+    "levels": {
+      "Entry": 48,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -56.5,
+      "max": 87,
+      "high": 47
+    },
+    "top_companies": [
+      "OpenAI",
+      "Anduril Industries",
+      "Netrolynx AI",
+      "Verkada",
+      "Applied Intuition"
+    ],
+    "snapshot_file": "2026-04-04T14-13-18Z_standard.json"
   }
 ]
