@@ -15491,5 +15491,29 @@
       "Nuro"
     ],
     "snapshot_file": "2026-04-04T14-27-02Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T14:41:15Z",
+    "run_at": "2026-04-04T14:41:15.968167+00:00",
+    "pipeline": "top500",
+    "total_jobs": 16,
+    "levels": {
+      "Entry": 13,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -211.9,
+      "max": 81,
+      "high": 12
+    },
+    "top_companies": [
+      "OpenAI",
+      "S&P Global",
+      "Microsoft",
+      "Grafana Labs",
+      "Veeva Systems"
+    ],
+    "snapshot_file": "2026-04-04T14-41-15Z_top500.json"
   }
 ]
