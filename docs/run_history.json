@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T12:14:53Z",
-    "run_at": "2026-03-26T12:14:53.308765+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 17,
-    "levels": {
-      "Entry": 15,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "Meta",
-      "Turing",
-      "Wiraa",
-      "Moody's Corporation",
-      "Qualcomm"
-    ],
-    "snapshot_file": "2026-03-26T12-14-53Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T13:02:34Z",
     "run_at": "2026-03-26T13:02:34.165979+00:00",
     "pipeline": "standard",
@@ -15572,5 +15553,24 @@
       "Intuit"
     ],
     "snapshot_file": "2026-04-04T20-39-50Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-04T20:53:40Z",
+    "run_at": "2026-04-04T20:53:40.202272+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": 52.5,
+      "max": 76,
+      "high": 2
+    },
+    "top_companies": [
+      "Docusign",
+      "Intuit"
+    ],
+    "snapshot_file": "2026-04-04T20-53-40Z_h1b2026.json"
   }
 ]
