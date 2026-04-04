@@ -1,27 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T05:00:50Z",
-    "run_at": "2026-03-26T05:00:50.850261+00:00",
-    "pipeline": "standard",
-    "total_jobs": 8,
-    "levels": {
-      "Entry": 8
-    },
-    "scores": {
-      "avg": 7.6,
-      "max": 16,
-      "high": 7
-    },
-    "top_companies": [
-      "Authly",
-      "TikTok",
-      "Mercor",
-      "Tubi",
-      "Intersect"
-    ],
-    "snapshot_file": "2026-03-26T05-00-50Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T05:02:11Z",
     "run_at": "2026-03-26T05:02:11.002610+00:00",
     "pipeline": "top500",
@@ -15557,5 +15535,28 @@
       "BeaconFire Inc."
     ],
     "snapshot_file": "2026-04-04T15-09-53Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-04T16:13:53Z",
+    "run_at": "2026-04-04T16:13:53.610532+00:00",
+    "pipeline": "standard",
+    "total_jobs": 48,
+    "levels": {
+      "Entry": 44,
+      "Mid": 4
+    },
+    "scores": {
+      "avg": -170.4,
+      "max": 118,
+      "high": 38
+    },
+    "top_companies": [
+      "Anduril Industries",
+      "Whatnot",
+      "Clear Street",
+      "Suno",
+      "BeaconFire Inc."
+    ],
+    "snapshot_file": "2026-04-04T16-13-53Z_standard.json"
   }
 ]
