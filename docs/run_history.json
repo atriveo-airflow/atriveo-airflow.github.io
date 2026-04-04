@@ -15313,5 +15313,24 @@
       "Kforce Inc"
     ],
     "snapshot_file": "2026-04-04T10-00-21Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-04T10:15:54Z",
+    "run_at": "2026-04-04T10:15:54.401752+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 20,
+    "levels": {
+      "Entry": 18,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "DoorDash",
+      "JPMorganChase",
+      "Turing",
+      "AKC Webtech Private Limited",
+      "Live Nation Entertainment"
+    ],
+    "snapshot_file": "2026-04-04T10-15-54Z_keywords.json"
   }
 ]
