@@ -15051,5 +15051,29 @@
       "Airbnb"
     ],
     "snapshot_file": "2026-04-04T02-34-03Z_important.json"
+  },
+  {
+    "session_id": "2026-04-04T02:51:41Z",
+    "run_at": "2026-04-04T02:51:41.005141+00:00",
+    "pipeline": "top500",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 7,
+      "Mid": 3,
+      "New Grad": 2
+    },
+    "scores": {
+      "avg": -300.2,
+      "max": 130,
+      "high": 8
+    },
+    "top_companies": [
+      "Google",
+      "American Express",
+      "IXL Learning",
+      "Uber",
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-04T02-51-41Z_top500.json"
   }
 ]
