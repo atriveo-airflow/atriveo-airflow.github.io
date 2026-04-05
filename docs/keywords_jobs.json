@@ -11,6 +11,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Engineer \u2013 AI Systems Intern",
+    "company": "Pivotor AI",
+    "location": "Fremont, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4392425861",
+    "date_posted": null,
+    "keyword_score": 61,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Engineer, Payments and Risk",
     "company": "Stripe",
     "location": "San Francisco, CA",
@@ -33,14 +44,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Python Developer -SQL",
-    "company": "Netrolynx AI",
-    "location": "",
-    "level": "Entry",
+    "title": "Software Engineer II - Tester",
+    "company": "Truist",
+    "location": "Raleigh, NC",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397461920",
+    "job_url": "https://www.linkedin.com/jobs/view/4397494207",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 36,
     "site": "linkedin"
   },
   {
@@ -107,6 +118,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4393036697",
     "date_posted": null,
     "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1 (Database Automation",
+    "company": "Jobs via Dice",
+    "location": "Hopkins, MN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394288727",
+    "date_posted": null,
+    "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Alarm & Accessories - Embedded SDE , Ring",
+    "company": "myGwork - LGBTQ+ Business Community",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397862537",
+    "date_posted": null,
+    "keyword_score": 19,
     "site": "linkedin"
   }
 ]
