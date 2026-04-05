@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T20:09:48Z",
-    "run_at": "2026-03-26T20:09:48.334929+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 4,
-    "levels": {
-      "Entry": 3,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 8.5,
-      "max": 16,
-      "high": 4
-    },
-    "top_companies": [
-      "Oracle",
-      "Pyramid Consulting, Inc",
-      "Tyler Technologies"
-    ],
-    "snapshot_file": "2026-03-26T20-09-48Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T20:12:41Z",
     "run_at": "2026-03-26T20:12:41.701346+00:00",
     "pipeline": "keywords",
@@ -15541,5 +15520,28 @@
       "Trimble Inc."
     ],
     "snapshot_file": "2026-04-05T09-31-10Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T12:10:55Z",
+    "run_at": "2026-04-05T12:10:55.267545+00:00",
+    "pipeline": "standard",
+    "total_jobs": 32,
+    "levels": {
+      "Entry": 30,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -117.3,
+      "max": 79,
+      "high": 27
+    },
+    "top_companies": [
+      "DoorDash",
+      "Netflix",
+      "Cloudflare",
+      "Sundayy",
+      "Applied Intuition"
+    ],
+    "snapshot_file": "2026-04-05T12-10-55Z_standard.json"
   }
 ]
