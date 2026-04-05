@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T23:14:57Z",
-    "run_at": "2026-03-26T23:14:57.498948+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 23,
-    "levels": {
-      "Entry": 21,
-      "New Grad": 1,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Jobs via Dice",
-      "Ellipsis Labs",
-      "U.S. Bank",
-      "Scion Staffing",
-      "Alteryx"
-    ],
-    "snapshot_file": "2026-03-26T23-14-57Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-27T00:02:06Z",
     "run_at": "2026-03-27T00:02:06.742255+00:00",
     "pipeline": "standard",
@@ -15559,5 +15539,28 @@
       "Sundayy"
     ],
     "snapshot_file": "2026-04-05T14-56-18Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T15:10:23Z",
+    "run_at": "2026-04-05T15:10:23.849884+00:00",
+    "pipeline": "standard",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 13,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -177.0,
+      "max": 95,
+      "high": 11
+    },
+    "top_companies": [
+      "BeaconFire Inc.",
+      "HiringAgents.ai",
+      "Insurance Advisor, LLC",
+      "RemoteHunter",
+      "Deepgram"
+    ],
+    "snapshot_file": "2026-04-05T15-10-23Z_standard.json"
   }
 ]
