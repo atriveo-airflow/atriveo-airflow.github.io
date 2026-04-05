@@ -11,17 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Devices",
-    "company": "EnergyHub",
-    "location": "",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374613698",
-    "date_posted": null,
-    "keyword_score": 50,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II, EV",
     "company": "EnergyHub",
     "location": "",
@@ -77,6 +66,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II - Tester",
+    "company": "Leadership Triangle",
+    "location": "Raleigh, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394433111",
+    "date_posted": null,
+    "keyword_score": 36,
+    "site": "linkedin"
+  },
+  {
     "title": "Full-Stack Software Engineer",
     "company": "GovWell",
     "location": "New York, NY",
@@ -99,6 +99,28 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer II",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394437042",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "FetchJobs.co",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394439027",
+    "date_posted": null,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (React.js, API)",
     "company": "Sundayy",
     "location": "",
@@ -110,14 +132,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Haystack",
-    "location": "Atlanta, GA",
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "company": "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394423837",
+    "job_url": "https://www.linkedin.com/jobs/view/4397739689",
     "date_posted": null,
-    "keyword_score": 19,
+    "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Remote",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393036697",
+    "date_posted": null,
+    "keyword_score": 20,
     "site": "linkedin"
   }
 ]
