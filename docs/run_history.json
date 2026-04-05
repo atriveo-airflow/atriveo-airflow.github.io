@@ -1,27 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T00:07:27Z",
-    "run_at": "2026-03-27T00:07:27.702157+00:00",
-    "pipeline": "top500",
-    "total_jobs": 6,
-    "levels": {
-      "Mid": 3,
-      "Entry": 3
-    },
-    "scores": {
-      "avg": 6.0,
-      "max": 8,
-      "high": 5
-    },
-    "top_companies": [
-      "Google",
-      "Instructure",
-      "IBM",
-      "AMD"
-    ],
-    "snapshot_file": "2026-03-27T00-07-27Z_top500.json"
-  },
-  {
     "session_id": "2026-03-27T00:10:06Z",
     "run_at": "2026-03-27T00:10:06.529513+00:00",
     "pipeline": "h1b2026",
@@ -15567,5 +15545,27 @@
       "Google"
     ],
     "snapshot_file": "2026-04-05T15-32-14Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T15:43:24Z",
+    "run_at": "2026-04-05T15:43:24.052774+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -86.6,
+      "max": 79,
+      "high": 7
+    },
+    "top_companies": [
+      "Applied Intuition",
+      "Stripe",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-05T15-43-24Z_h1b2026.json"
   }
 ]
