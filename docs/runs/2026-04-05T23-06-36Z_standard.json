@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "FetchJobs.co",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394439027",
+    "date_posted": null,
+    "batch_time": "2026-04-05T23:06:35Z",
+    "score": 44,
+    "score_pct": 34,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer",
+    "company": "Insight Global",
+    "location": "Austin, Texas Metropolitan Area",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394424933",
+    "date_posted": null,
+    "batch_time": "2026-04-05T23:06:35Z",
+    "score": 37,
+    "score_pct": 28,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393025944",
+    "date_posted": null,
+    "batch_time": "2026-04-05T23:06:35Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "Raleigh, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394432006",
+    "date_posted": null,
+    "batch_time": "2026-04-05T23:06:35Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
