@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T04:08:36Z",
-    "run_at": "2026-03-27T04:08:36.612533+00:00",
-    "pipeline": "top500",
-    "total_jobs": 8,
-    "levels": {
-      "Entry": 6,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": -83.2,
-      "max": 59,
-      "high": 7
-    },
-    "top_companies": [
-      "OpenAI",
-      "Instructure",
-      "Uber",
-      "Netflix",
-      "Cognizant"
-    ],
-    "snapshot_file": "2026-03-27T04-08-36Z_top500.json"
-  },
-  {
     "session_id": "2026-03-27T04:11:43Z",
     "run_at": "2026-03-27T04:11:43.347139+00:00",
     "pipeline": "h1b2026",
@@ -15571,5 +15548,23 @@
       "Sundayy"
     ],
     "snapshot_file": "2026-04-05T20-08-19Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T20:17:20Z",
+    "run_at": "2026-04-05T20:17:20.095971+00:00",
+    "pipeline": "important",
+    "total_jobs": 1,
+    "levels": {
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 56.0,
+      "max": 56,
+      "high": 1
+    },
+    "top_companies": [
+      "GitHub"
+    ],
+    "snapshot_file": "2026-04-05T20-17-20Z_important.json"
   }
 ]
