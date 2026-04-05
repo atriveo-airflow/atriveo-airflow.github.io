@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T04:14:53Z",
-    "run_at": "2026-03-27T04:14:53.205879+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 11,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "Optum",
-      "hackajob",
-      "Instructure",
-      "Flitch",
-      "Twilio"
-    ],
-    "snapshot_file": "2026-03-27T04-14-53Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-27T05:02:58Z",
     "run_at": "2026-03-27T05:02:58.992742+00:00",
     "pipeline": "standard",
@@ -15562,5 +15543,26 @@
       "Inside Higher Ed"
     ],
     "snapshot_file": "2026-04-05T20-43-09Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T21:07:24Z",
+    "run_at": "2026-04-05T21:07:24.245581+00:00",
+    "pipeline": "standard",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 5
+    },
+    "scores": {
+      "avg": 46.8,
+      "max": 66,
+      "high": 5
+    },
+    "top_companies": [
+      "GovWell",
+      "CGI",
+      "DataAnnotation",
+      "Metropolitan Government of Nashville and Davidson County"
+    ],
+    "snapshot_file": "2026-04-05T21-07-24Z_standard.json"
   }
 ]
