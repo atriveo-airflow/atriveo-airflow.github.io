@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T19:06:59Z",
-    "run_at": "2026-03-26T19:06:59.182894+00:00",
-    "pipeline": "important",
-    "total_jobs": 2,
-    "levels": {
-      "Entry": 1,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 14.0,
-      "max": 23,
-      "high": 2
-    },
-    "top_companies": [
-      "MongoDB",
-      "GitHub"
-    ],
-    "snapshot_file": "2026-03-26T19-06-59Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T19:10:34Z",
     "run_at": "2026-03-26T19:10:34.254130+00:00",
     "pipeline": "top500",
@@ -15539,5 +15519,23 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T05-28-00Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-05T05:35:22Z",
+    "run_at": "2026-04-05T05:35:22.145393+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 8,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Canonical",
+      "Stripe",
+      "myGwork - LGBTQ+ Business Community"
+    ],
+    "snapshot_file": "2026-04-05T05-35-22Z_keywords.json"
   }
 ]
