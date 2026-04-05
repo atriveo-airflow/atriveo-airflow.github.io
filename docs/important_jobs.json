@@ -26,19 +26,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer III, Infrastructure, AI/ML Storage",
-    "company": "Google",
-    "location": "Kirkland, WA",
-    "level": "Mid",
-    "min_exp": 1.0,
-    "max_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4374613975",
-    "date_posted": null,
-    "priority_score": 51,
-    "score_pct": 39,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend / API Engineer, Privacy Products",
     "company": "Stripe",
     "location": "San Francisco, CA",
@@ -52,42 +39,16 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Financial Platform",
-    "company": "Chime",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer, Intern (Summer)",
+    "company": "Stripe",
+    "location": "New York, United States",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337884276",
+    "job_url": "https://www.linkedin.com/jobs/view/4369001494",
     "date_posted": null,
-    "priority_score": 41,
-    "score_pct": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Qualcomm Advanced Robotics Team - Multiple levels",
-    "company": "Qualcomm",
-    "location": "Santa Clara, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384671263",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Cybersecurity Products",
-    "company": "Anthropic",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4331598330",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
+    "priority_score": 27,
+    "score_pct": 21,
     "site": "linkedin"
   },
   {
