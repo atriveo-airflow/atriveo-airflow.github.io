@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer - Telematics",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4254152788",
+    "date_posted": null,
+    "priority_score": 102,
+    "score_pct": 78,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Developer Infrastructure",
     "company": "Applied Intuition",
     "location": "Sunnyvale, CA",
@@ -10,19 +23,6 @@
     "date_posted": null,
     "priority_score": 79,
     "score_pct": 61,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II, Data Engineering",
-    "company": "DoorDash",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4092898866",
-    "date_posted": null,
-    "priority_score": 68,
-    "score_pct": 52,
     "site": "linkedin"
   },
   {
@@ -52,26 +52,39 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend / API Engineer, Privacy Products",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer - Maps Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
+    "job_url": "https://www.linkedin.com/jobs/view/3686163275",
     "date_posted": null,
-    "priority_score": 43,
-    "score_pct": 33,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "ML Perception Software Engineer",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
     "site": "linkedin"
   },
   {
     "title": "Software Engineer, Android (All Teams)",
     "company": "DoorDash",
-    "location": "Seattle, WA",
+    "location": "New York, NY",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999827066",
+    "job_url": "https://www.linkedin.com/jobs/view/3999823821",
     "date_posted": null,
     "priority_score": 35,
     "score_pct": 27,
