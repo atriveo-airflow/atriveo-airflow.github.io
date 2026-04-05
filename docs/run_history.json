@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T22:11:41Z",
-    "run_at": "2026-03-26T22:11:41.337780+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 2.0,
-      "max": 2,
-      "high": 0
-    },
-    "top_companies": [
-      "Insight Global"
-    ],
-    "snapshot_file": "2026-03-26T22-11-41Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T22:14:58Z",
     "run_at": "2026-03-26T22:14:58.041365+00:00",
     "pipeline": "keywords",
@@ -15554,5 +15536,24 @@
       "Google"
     ],
     "snapshot_file": "2026-04-05T13-47-04Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-05T13:59:17Z",
+    "run_at": "2026-04-05T13:59:17.678623+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 29,
+    "levels": {
+      "Entry": 28,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Applied Intuition",
+      "Cloudflare",
+      "General Motors",
+      "DoorDash",
+      "Electrify America"
+    ],
+    "snapshot_file": "2026-04-05T13-59-17Z_keywords.json"
   }
 ]
