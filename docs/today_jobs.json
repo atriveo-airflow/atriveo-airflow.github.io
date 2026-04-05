@@ -3405,6 +3405,21 @@
     "site": "linkedin"
   },
   {
+    "title": "LATAM - Backend Developer",
+    "company": "Playsaurus Inc.",
+    "location": "Alameda, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397879097",
+    "date_posted": null,
+    "batch_time": "2026-04-05T00:05:24Z",
+    "score": 22,
+    "score_pct": 17,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Rillet",
     "location": "New York, NY",
@@ -4104,6 +4119,21 @@
     "job_url": "https://www.linkedin.com/jobs/view/4393471290",
     "date_posted": null,
     "batch_time": "2026-04-04T23:07:42Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Developer, AI",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394280391",
+    "date_posted": null,
+    "batch_time": "2026-04-05T00:05:24Z",
     "score": -999,
     "score_pct": 0,
     "competition_score": 0,
