@@ -1,27 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T04:05:40Z",
-    "run_at": "2026-03-27T04:05:40.968558+00:00",
-    "pipeline": "important",
-    "total_jobs": 6,
-    "levels": {
-      "Entry": 3,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 46.2,
-      "max": 59,
-      "high": 6
-    },
-    "top_companies": [
-      "OpenAI",
-      "Google",
-      "Uber",
-      "Netflix"
-    ],
-    "snapshot_file": "2026-03-27T04-05-40Z_important.json"
-  },
-  {
     "session_id": "2026-03-27T04:08:36Z",
     "run_at": "2026-03-27T04:08:36.612533+00:00",
     "pipeline": "top500",
@@ -15571,5 +15549,27 @@
       "CGI"
     ],
     "snapshot_file": "2026-04-05T19-42-44Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T20:08:19Z",
+    "run_at": "2026-04-05T20:08:19.628396+00:00",
+    "pipeline": "standard",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 6
+    },
+    "scores": {
+      "avg": -119.7,
+      "max": 111,
+      "high": 5
+    },
+    "top_companies": [
+      "AgileGrid Solutions",
+      "Quadric",
+      "Hyra",
+      "Haystack",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-05T20-08-19Z_standard.json"
   }
 ]
