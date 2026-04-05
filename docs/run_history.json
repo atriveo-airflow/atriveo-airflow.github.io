@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T18:02:47Z",
-    "run_at": "2026-03-26T18:02:47.378845+00:00",
-    "pipeline": "standard",
-    "total_jobs": 23,
-    "levels": {
-      "Entry": 19,
-      "Mid": 4
-    },
-    "scores": {
-      "avg": 9.4,
-      "max": 25,
-      "high": 19
-    },
-    "top_companies": [
-      "DataAnnotation",
-      "Early Warning\u00ae",
-      "Kodiak",
-      "Goldman Sachs",
-      "Clipbook"
-    ],
-    "snapshot_file": "2026-03-26T18-02-47Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T18:06:07Z",
     "run_at": "2026-03-26T18:06:07.245167+00:00",
     "pipeline": "important",
@@ -15544,5 +15521,26 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T04-19-11Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T04:25:49Z",
+    "run_at": "2026-04-05T04:25:49.344431+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -216.5,
+      "max": 63,
+      "high": 3
+    },
+    "top_companies": [
+      "Microsoft",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T04-25-49Z_h1b2026.json"
   }
 ]
