@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T21:15:35Z",
-    "run_at": "2026-03-26T21:15:35.209866+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 20,
-    "levels": {
-      "Entry": 16,
-      "Mid": 4
-    },
-    "scores": {},
-    "top_companies": [
-      "Garmin",
-      "Google",
-      "Mercor",
-      "Esri",
-      "Pariveda"
-    ],
-    "snapshot_file": "2026-03-26T21-15-35Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T22:02:42Z",
     "run_at": "2026-03-26T22:02:42.885572+00:00",
     "pipeline": "standard",
@@ -15549,5 +15530,28 @@
       "JPMorganChase"
     ],
     "snapshot_file": "2026-04-05T13-10-59Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T13:22:44Z",
+    "run_at": "2026-04-05T13:22:44.577811+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 12,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -102.1,
+      "max": 77,
+      "high": 12
+    },
+    "top_companies": [
+      "DoorDash",
+      "Netflix",
+      "Cloudflare",
+      "Zoom",
+      "OpenAI"
+    ],
+    "snapshot_file": "2026-04-05T13-22-44Z_important.json"
   }
 ]
