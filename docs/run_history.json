@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T14:07:52Z",
-    "run_at": "2026-03-26T14:07:52.418486+00:00",
-    "pipeline": "top500",
-    "total_jobs": 3,
-    "levels": {
-      "Entry": 2,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 9.7,
-      "max": 15,
-      "high": 3
-    },
-    "top_companies": [
-      "HCL Global Systems Inc",
-      "Uber",
-      "Meta"
-    ],
-    "snapshot_file": "2026-03-26T14-07-52Z_top500.json"
-  },
-  {
     "session_id": "2026-03-26T14:10:46Z",
     "run_at": "2026-03-26T14:10:46.458581+00:00",
     "pipeline": "h1b2026",
@@ -15565,5 +15544,25 @@
       "Baltimore County"
     ],
     "snapshot_file": "2026-04-05T00-27-02Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T01:05:12Z",
+    "run_at": "2026-04-05T01:05:12.671059+00:00",
+    "pipeline": "standard",
+    "total_jobs": 3,
+    "levels": {
+      "Mid": 2,
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 52.7,
+      "max": 63,
+      "high": 3
+    },
+    "top_companies": [
+      "Microsoft",
+      "Truist"
+    ],
+    "snapshot_file": "2026-04-05T01-05-12Z_standard.json"
   }
 ]
