@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T23:02:30Z",
-    "run_at": "2026-03-26T23:02:30.859961+00:00",
-    "pipeline": "standard",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 18,
-      "Mid": 2,
-      "New Grad": 1
-    },
-    "scores": {
-      "avg": 9.0,
-      "max": 22,
-      "high": 14
-    },
-    "top_companies": [
-      "Ellipsis Labs",
-      "Jobs via Dice",
-      "hackajob",
-      "Scion Staffing",
-      "Persistent Systems"
-    ],
-    "snapshot_file": "2026-03-26T23-02-30Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T23:05:34Z",
     "run_at": "2026-03-26T23:05:34.863684+00:00",
     "pipeline": "important",
@@ -15559,5 +15535,27 @@
       "Nissan Motor Corporation"
     ],
     "snapshot_file": "2026-04-05T14-10-31Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T14:21:42Z",
+    "run_at": "2026-04-05T14:21:42.482364+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 8
+    },
+    "scores": {
+      "avg": -210.8,
+      "max": 65,
+      "high": 6
+    },
+    "top_companies": [
+      "Netflix",
+      "Cloudflare",
+      "Zoom",
+      "OpenAI",
+      "Chime"
+    ],
+    "snapshot_file": "2026-04-05T14-21-42Z_important.json"
   }
 ]
