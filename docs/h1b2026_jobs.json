@@ -1,28 +1,15 @@
 [
   {
-    "title": "Backend / API Engineer, Privacy Products",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
+    "title": "Embedded Software Engineer",
+    "company": "Insight Global",
+    "location": "Austin, Texas Metropolitan Area",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
+    "job_url": "https://www.linkedin.com/jobs/view/4394424933",
     "date_posted": null,
-    "priority_score": 43,
-    "score_pct": 33,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Engineer, Payments and Risk",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "New Grad",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
-    "date_posted": null,
-    "priority_score": -999,
-    "score_pct": 0,
+    "priority_score": 37,
+    "score_pct": 28,
     "site": "linkedin"
   }
 ]
