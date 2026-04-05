@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T02:03:29Z",
-    "run_at": "2026-03-27T02:03:29.675560+00:00",
-    "pipeline": "important",
-    "total_jobs": 4,
-    "levels": {
-      "Entry": 3,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 5.5,
-      "max": 12,
-      "high": 2
-    },
-    "top_companies": [
-      "Oracle",
-      "Uber",
-      "OpenAI"
-    ],
-    "snapshot_file": "2026-03-27T02-03-29Z_important.json"
-  },
-  {
     "session_id": "2026-03-27T02:05:22Z",
     "run_at": "2026-03-27T02:05:22.531197+00:00",
     "pipeline": "top500",
@@ -15574,5 +15553,26 @@
       "Anthropic"
     ],
     "snapshot_file": "2026-04-05T17-20-02Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T17:30:33Z",
+    "run_at": "2026-04-05T17:30:33.681791+00:00",
+    "pipeline": "top500",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -169.2,
+      "max": 52,
+      "high": 4
+    },
+    "top_companies": [
+      "Stripe",
+      "Deepgram",
+      "Anyscale"
+    ],
+    "snapshot_file": "2026-04-05T17-30-33Z_top500.json"
   }
 ]
