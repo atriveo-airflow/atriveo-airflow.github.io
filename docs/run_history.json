@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T21:05:25Z",
-    "run_at": "2026-03-26T21:05:25.352738+00:00",
-    "pipeline": "important",
-    "total_jobs": 6,
-    "levels": {
-      "Mid": 5,
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 4.0,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "Rippling"
-    ],
-    "snapshot_file": "2026-03-26T21-05-25Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T21:08:49Z",
     "run_at": "2026-03-26T21:08:49.624625+00:00",
     "pipeline": "top500",
@@ -15547,5 +15527,27 @@
       "Zoox"
     ],
     "snapshot_file": "2026-04-05T12-33-41Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T12:45:06Z",
+    "run_at": "2026-04-05T12:45:06.132838+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 54.8,
+      "max": 79,
+      "high": 6
+    },
+    "top_companies": [
+      "DoorDash",
+      "Applied Intuition",
+      "Google",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T12-45-06Z_h1b2026.json"
   }
 ]
