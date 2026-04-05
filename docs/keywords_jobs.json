@@ -55,6 +55,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer - OIPA",
+    "company": "CGI",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367630143",
+    "date_posted": null,
+    "keyword_score": 40,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Developer Entry",
     "company": "Inside Higher Ed",
     "location": "Atlanta, GA",
@@ -63,28 +74,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397734408",
     "date_posted": null,
     "keyword_score": 37,
-    "site": "linkedin"
-  },
-  {
-    "title": "Associate Software Engineer",
-    "company": "Gensten",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394419929",
-    "date_posted": null,
-    "keyword_score": 35,
-    "site": "linkedin"
-  },
-  {
-    "title": "Crypto Software Engineer - Rust",
-    "company": "Career Renew",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397735274",
-    "date_posted": null,
-    "keyword_score": 32,
     "site": "linkedin"
   },
   {
@@ -110,25 +99,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Identity Core",
-    "company": "GitHub",
-    "location": "",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374694494",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "Verona Economia",
+    "title": "Software Engineer (React.js, API)",
+    "company": "Sundayy",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397900504",
+    "job_url": "https://www.linkedin.com/jobs/view/4397713666",
     "date_posted": null,
-    "keyword_score": 20,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
