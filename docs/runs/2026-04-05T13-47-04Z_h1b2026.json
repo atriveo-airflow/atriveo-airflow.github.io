@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Software Engineer - Telematics",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4254152788",
+    "date_posted": null,
+    "priority_score": 102,
+    "score_pct": 78,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Developer Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
+    "date_posted": null,
+    "priority_score": 79,
+    "score_pct": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend (All Teams)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999823822",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, AI/ML Storage",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4374613975",
+    "date_posted": null,
+    "priority_score": 51,
+    "score_pct": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Maps Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3686163275",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "ML Perception Software Engineer",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Android (All Teams)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999823821",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  }
+]
