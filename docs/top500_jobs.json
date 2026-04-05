@@ -1,28 +1,15 @@
 [
   {
-    "title": "Software Engineer, Workers Deploy & Config",
+    "title": "Software Engineer - Traffic Management",
     "company": "Cloudflare",
     "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337794545",
+    "job_url": "https://www.linkedin.com/jobs/view/4350331711",
     "date_posted": null,
-    "priority_score": 77,
-    "score_pct": 59,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II, Data Engineering",
-    "company": "DoorDash",
-    "location": "Sunnyvale, CA",
-    "level": "Mid",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4092898866",
-    "date_posted": null,
-    "priority_score": 68,
-    "score_pct": 52,
+    "priority_score": 65,
+    "score_pct": 50,
     "site": "linkedin"
   },
   {
@@ -36,32 +23,6 @@
     "date_posted": null,
     "priority_score": 60,
     "score_pct": 46,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Backend (All Teams)",
-    "company": "DoorDash",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999823822",
-    "date_posted": null,
-    "priority_score": 53,
-    "score_pct": 41,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Trimble Inc.",
-    "location": "Westminster, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4345533121",
-    "date_posted": null,
-    "priority_score": 53,
-    "score_pct": 41,
     "site": "linkedin"
   },
   {
@@ -117,16 +78,42 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Android (All Teams)",
-    "company": "DoorDash",
-    "location": "New York, NY",
+    "title": "Software Engineer, Forward Deployed",
+    "company": "Ramp",
+    "location": "San Francisco, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999823821",
+    "job_url": "https://www.linkedin.com/jobs/view/4314815691",
     "date_posted": null,
-    "priority_score": 35,
-    "score_pct": 27,
+    "priority_score": 33,
+    "score_pct": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Ray Data)",
+    "company": "Anyscale",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4338010742",
+    "date_posted": null,
+    "priority_score": 31,
+    "score_pct": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Embedded Software Engineer 1",
+    "company": "Garmin",
+    "location": "Cary, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4359729221",
+    "date_posted": null,
+    "priority_score": 28,
+    "score_pct": 22,
     "site": "linkedin"
   },
   {
@@ -156,19 +143,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer 5 - Ads Campaign Management",
-    "company": "Netflix",
-    "location": "New York, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4352323965",
-    "date_posted": null,
-    "priority_score": 24,
-    "score_pct": 18,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineering - Summer 2026 Internships",
     "company": "Rivian",
     "location": "Palo Alto, CA",
@@ -184,11 +158,11 @@
   {
     "title": "Software Engineer - Qualcomm Advanced Robotics Team - Multiple levels",
     "company": "Qualcomm",
-    "location": "San Diego, CA",
+    "location": "Santa Clara, CA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384676116",
+    "job_url": "https://www.linkedin.com/jobs/view/4384671263",
     "date_posted": null,
     "priority_score": -999,
     "score_pct": 0,
