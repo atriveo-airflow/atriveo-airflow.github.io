@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T00:10:06Z",
-    "run_at": "2026-03-27T00:10:06.529513+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 4,
-    "levels": {
-      "Mid": 3,
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 7.0,
-      "max": 8,
-      "high": 4
-    },
-    "top_companies": [
-      "Google",
-      "IBM"
-    ],
-    "snapshot_file": "2026-03-27T00-10-06Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-27T00:12:40Z",
     "run_at": "2026-03-27T00:12:40.267889+00:00",
     "pipeline": "keywords",
@@ -15567,5 +15547,25 @@
       "Google"
     ],
     "snapshot_file": "2026-04-05T15-43-24Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-05T15:54:18Z",
+    "run_at": "2026-04-05T15:54:18.083855+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 35,
+    "levels": {
+      "Entry": 33,
+      "New Grad": 1,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Applied Intuition",
+      "Sundayy",
+      "Whatnot",
+      "Stripe",
+      "General Motors"
+    ],
+    "snapshot_file": "2026-04-05T15-54-18Z_keywords.json"
   }
 ]
