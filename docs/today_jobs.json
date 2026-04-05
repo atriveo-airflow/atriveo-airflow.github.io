@@ -270,6 +270,21 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "California, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394294709",
+    "date_posted": null,
+    "batch_time": "2026-04-05T03:06:09Z",
+    "score": 78,
+    "score_pct": 60,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - AI Agentic Product Dev Team (US)",
     "company": "Eightfold AI",
     "location": "Santa Clara, CA",
@@ -4329,6 +4344,21 @@
     "job_url": "https://www.linkedin.com/jobs/view/4394297694",
     "date_posted": null,
     "batch_time": "2026-04-05T02:06:31Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 2 (Power Platform Developer)",
+    "company": "Jobs via Dice",
+    "location": "Irving, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394298704",
+    "date_posted": null,
+    "batch_time": "2026-04-05T03:06:09Z",
     "score": -999,
     "score_pct": 0,
     "competition_score": 0,
