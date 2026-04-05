@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T05:10:03Z",
-    "run_at": "2026-03-27T05:10:03.099787+00:00",
-    "pipeline": "top500",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 6,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": -74.6,
-      "max": 57,
-      "high": 8
-    },
-    "top_companies": [
-      "Instructure",
-      "Google",
-      "Netflix",
-      "Snowflake",
-      "athenahealth"
-    ],
-    "snapshot_file": "2026-03-27T05-10-03Z_top500.json"
-  },
-  {
     "session_id": "2026-03-27T05:13:51Z",
     "run_at": "2026-03-27T05:13:51.017698+00:00",
     "pipeline": "h1b2026",
@@ -15555,5 +15532,27 @@
       "CGI"
     ],
     "snapshot_file": "2026-04-05T21-39-14Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T22:06:51Z",
+    "run_at": "2026-04-05T22:06:51.894657+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -469.0,
+      "max": 70,
+      "high": 2
+    },
+    "top_companies": [
+      "Jobs via Dice",
+      "Leadership Triangle",
+      "Eliassen Group",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-05T22-06-51Z_standard.json"
   }
 ]
