@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T15:12:53Z",
-    "run_at": "2026-03-26T15:12:53.058856+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 17,
-    "levels": {
-      "Entry": 17
-    },
-    "scores": {},
-    "top_companies": [
-      "Intellibus",
-      "Tyler Technologies",
-      "Wiraa",
-      "Otter.ai",
-      "Visa"
-    ],
-    "snapshot_file": "2026-03-26T15-12-53Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T16:02:46Z",
     "run_at": "2026-03-26T16:02:46.450239+00:00",
     "pipeline": "standard",
@@ -15546,5 +15528,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-05T02-13-47Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T02:21:16Z",
+    "run_at": "2026-04-05T02:21:16.826140+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 53.0,
+      "max": 63,
+      "high": 2
+    },
+    "top_companies": [
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-05T02-21-16Z_top500.json"
   }
 ]
