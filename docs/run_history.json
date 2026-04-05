@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T14:10:46Z",
-    "run_at": "2026-03-26T14:10:46.458581+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 5,
-    "levels": {
-      "Entry": 3,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 9.8,
-      "max": 15,
-      "high": 5
-    },
-    "top_companies": [
-      "Optum",
-      "Verkada",
-      "Kforce Inc",
-      "Uber",
-      "Google"
-    ],
-    "snapshot_file": "2026-03-26T14-10-46Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T14:13:32Z",
     "run_at": "2026-03-26T14:13:32.629045+00:00",
     "pipeline": "keywords",
@@ -15564,5 +15541,24 @@
       "Truist"
     ],
     "snapshot_file": "2026-04-05T01-05-12Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T01:11:16Z",
+    "run_at": "2026-04-05T01:11:16.036086+00:00",
+    "pipeline": "important",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 53.0,
+      "max": 63,
+      "high": 2
+    },
+    "top_companies": [
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-05T01-11-16Z_important.json"
   }
 ]
