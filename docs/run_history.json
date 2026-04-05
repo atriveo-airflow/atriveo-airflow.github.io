@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T19:17:22Z",
-    "run_at": "2026-03-26T19:17:22.044341+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 8,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "MongoDB",
-      "Nasdaq",
-      "Tanium",
-      "Akkodis",
-      "Merge"
-    ],
-    "snapshot_file": "2026-03-26T19-17-22Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T20:01:49Z",
     "run_at": "2026-03-26T20:01:49.511267+00:00",
     "pipeline": "standard",
@@ -15541,5 +15522,25 @@
       "Voltify"
     ],
     "snapshot_file": "2026-04-05T09-04-10Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T09:10:24Z",
+    "run_at": "2026-04-05T09:10:24.147846+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 49.8,
+      "max": 68,
+      "high": 4
+    },
+    "top_companies": [
+      "DoorDash",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T09-10-24Z_important.json"
   }
 ]
