@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T20:04:33Z",
-    "run_at": "2026-03-26T20:04:33.348747+00:00",
-    "pipeline": "important",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 6.0,
-      "max": 6,
-      "high": 1
-    },
-    "top_companies": [
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-26T20-04-33Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T20:07:05Z",
     "run_at": "2026-03-26T20:07:05.430527+00:00",
     "pipeline": "top500",
@@ -15539,5 +15521,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T09-16-47Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T09:23:45Z",
+    "run_at": "2026-04-05T09:23:45.659242+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 3,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 49.8,
+      "max": 68,
+      "high": 4
+    },
+    "top_companies": [
+      "DoorDash",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T09-23-45Z_h1b2026.json"
   }
 ]
