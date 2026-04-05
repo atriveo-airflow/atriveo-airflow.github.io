@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T14:13:32Z",
-    "run_at": "2026-03-26T14:13:32.629045+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 19,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "BeaconFire Inc.",
-      "Winaxis LLC",
-      "BioSpace",
-      "Tential Solutions",
-      "UBS"
-    ],
-    "snapshot_file": "2026-03-26T14-13-32Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T15:02:11Z",
     "run_at": "2026-03-26T15:02:11.224525+00:00",
     "pipeline": "standard",
@@ -15560,5 +15541,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-05T01-11-16Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T01:17:35Z",
+    "run_at": "2026-04-05T01:17:35.524876+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 53.0,
+      "max": 63,
+      "high": 2
+    },
+    "top_companies": [
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-05T01-17-35Z_top500.json"
   }
 ]
