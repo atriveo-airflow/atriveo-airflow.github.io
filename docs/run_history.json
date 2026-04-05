@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T21:01:56Z",
-    "run_at": "2026-03-26T21:01:56.724859+00:00",
-    "pipeline": "standard",
-    "total_jobs": 25,
-    "levels": {
-      "Entry": 24,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 8.4,
-      "max": 20,
-      "high": 18
-    },
-    "top_companies": [
-      "Mercor",
-      "S Cube Soft",
-      "Tesla",
-      "RemoteHunter",
-      "Garmin"
-    ],
-    "snapshot_file": "2026-03-26T21-01-56Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T21:05:25Z",
     "run_at": "2026-03-26T21:05:25.352738+00:00",
     "pipeline": "important",
@@ -15547,5 +15524,28 @@
       "Google"
     ],
     "snapshot_file": "2026-04-05T12-22-11Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T12:33:41Z",
+    "run_at": "2026-04-05T12:33:41.242219+00:00",
+    "pipeline": "top500",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 13,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -102.5,
+      "max": 68,
+      "high": 12
+    },
+    "top_companies": [
+      "DoorDash",
+      "Cloudflare",
+      "Netflix",
+      "OpenAI",
+      "Zoox"
+    ],
+    "snapshot_file": "2026-04-05T12-33-41Z_top500.json"
   }
 ]
