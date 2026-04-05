@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T15:02:11Z",
-    "run_at": "2026-03-26T15:02:11.224525+00:00",
-    "pipeline": "standard",
-    "total_jobs": 20,
-    "levels": {
-      "Entry": 18,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 11.1,
-      "max": 25,
-      "high": 14
-    },
-    "top_companies": [
-      "Wiraa",
-      "Intellibus",
-      "Western Governors University",
-      "Craftner INC",
-      "Otter.ai"
-    ],
-    "snapshot_file": "2026-03-26T15-02-11Z_standard.json"
-  },
-  {
     "session_id": "2026-03-26T15:04:48Z",
     "run_at": "2026-03-26T15:04:48.787501+00:00",
     "pipeline": "important",
@@ -15560,5 +15537,24 @@
       "Microsoft"
     ],
     "snapshot_file": "2026-04-05T01-17-35Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T01:23:50Z",
+    "run_at": "2026-04-05T01:23:50.552787+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": 53.0,
+      "max": 63,
+      "high": 2
+    },
+    "top_companies": [
+      "Microsoft"
+    ],
+    "snapshot_file": "2026-04-05T01-23-50Z_h1b2026.json"
   }
 ]
