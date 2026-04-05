@@ -1,23 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T17:05:39Z",
-    "run_at": "2026-03-26T17:05:39.994104+00:00",
-    "pipeline": "important",
-    "total_jobs": 1,
-    "levels": {
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 10.0,
-      "max": 10,
-      "high": 1
-    },
-    "top_companies": [
-      "MongoDB"
-    ],
-    "snapshot_file": "2026-03-26T17-05-39Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T17:08:54Z",
     "run_at": "2026-03-26T17:08:54.384063+00:00",
     "pipeline": "top500",
@@ -15535,5 +15517,24 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T03-26-06Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-05T03:32:30Z",
+    "run_at": "2026-04-05T03:32:30.766855+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 10,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Jobs via Dice",
+      "Microsoft",
+      "Stripe",
+      "Netrolynx AI"
+    ],
+    "snapshot_file": "2026-04-05T03-32-30Z_keywords.json"
   }
 ]
