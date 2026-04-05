@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T01:05:42Z",
-    "run_at": "2026-03-27T01:05:42.013683+00:00",
-    "pipeline": "top500",
-    "total_jobs": 4,
-    "levels": {
-      "Entry": 3,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 4.8,
-      "max": 7,
-      "high": 2
-    },
-    "top_companies": [
-      "Garmin",
-      "OpenAI",
-      "Procore Technologies"
-    ],
-    "snapshot_file": "2026-03-27T01-05-42Z_top500.json"
-  },
-  {
     "session_id": "2026-03-27T01:07:50Z",
     "run_at": "2026-03-27T01:07:50.711727+00:00",
     "pipeline": "h1b2026",
@@ -15573,5 +15552,25 @@
       "Amazon"
     ],
     "snapshot_file": "2026-04-05T16-30-33Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-05T16:41:14Z",
+    "run_at": "2026-04-05T16:41:14.648050+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -95.6,
+      "max": 102,
+      "high": 6
+    },
+    "top_companies": [
+      "Applied Intuition",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T16-41-14Z_h1b2026.json"
   }
 ]
