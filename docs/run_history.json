@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T18:16:38Z",
-    "run_at": "2026-03-26T18:16:38.910367+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 19,
-    "levels": {
-      "Entry": 18,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "DataAnnotation",
-      "SoFi",
-      "Early Warning\u00ae",
-      "Kodiak",
-      "Tyler Technologies"
-    ],
-    "snapshot_file": "2026-03-26T18-16-38Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T19:03:03Z",
     "run_at": "2026-03-26T19:03:03.313239+00:00",
     "pipeline": "standard",
@@ -15543,5 +15524,24 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T05-13-41Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T05:20:51Z",
+    "run_at": "2026-04-05T05:20:51.478163+00:00",
+    "pipeline": "top500",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -486.0,
+      "max": 27,
+      "high": 1
+    },
+    "top_companies": [
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T05-20-51Z_top500.json"
   }
 ]
