@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T09:01:40Z",
-    "run_at": "2026-03-27T09:01:40.999785+00:00",
-    "pipeline": "standard",
-    "total_jobs": 14,
-    "levels": {
-      "Entry": 12,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": -175.3,
-      "max": 84,
-      "high": 11
-    },
-    "top_companies": [
-      "SPREEAI",
-      "TikTok",
-      "Chewy",
-      "Evolent",
-      "Humana"
-    ],
-    "snapshot_file": "2026-03-27T09-01-40Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T09:04:00Z",
     "run_at": "2026-03-27T09:04:00.881666+00:00",
     "pipeline": "important",
@@ -15552,5 +15529,23 @@
       "Haystack"
     ],
     "snapshot_file": "2026-04-05T23-06-36Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T23:26:39Z",
+    "run_at": "2026-04-05T23:26:39.536364+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 37.0,
+      "max": 37,
+      "high": 1
+    },
+    "top_companies": [
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-04-05T23-26-39Z_h1b2026.json"
   }
 ]
