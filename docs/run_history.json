@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T16:09:14Z",
-    "run_at": "2026-03-26T16:09:14.522117+00:00",
-    "pipeline": "top500",
-    "total_jobs": 5,
-    "levels": {
-      "Entry": 3,
-      "Mid": 2
-    },
-    "scores": {
-      "avg": 10.8,
-      "max": 23,
-      "high": 4
-    },
-    "top_companies": [
-      "MongoDB",
-      "Microsoft",
-      "Vercel",
-      "Uber",
-      "Meta"
-    ],
-    "snapshot_file": "2026-03-26T16-09-14Z_top500.json"
-  },
-  {
     "session_id": "2026-03-26T16:12:33Z",
     "run_at": "2026-03-26T16:12:33.430417+00:00",
     "pipeline": "h1b2026",
@@ -15541,5 +15518,23 @@
       "Netrolynx AI"
     ],
     "snapshot_file": "2026-04-05T02-36-05Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T03:06:09Z",
+    "run_at": "2026-04-05T03:06:09.034572+00:00",
+    "pipeline": "standard",
+    "total_jobs": 2,
+    "levels": {
+      "Entry": 2
+    },
+    "scores": {
+      "avg": -460.5,
+      "max": 78,
+      "high": 1
+    },
+    "top_companies": [
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-05T03-06-09Z_standard.json"
   }
 ]
