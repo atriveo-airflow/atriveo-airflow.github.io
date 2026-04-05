@@ -11,23 +11,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Developer Infrastructure",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
+    "title": "Junior Backend Software Engineer",
+    "company": "HiringAgents.ai",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
-    "date_posted": null,
-    "keyword_score": 63,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer II - Backend",
-    "company": "Electrify America",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373490095",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
     "date_posted": null,
     "keyword_score": 59,
     "site": "linkedin"
@@ -35,23 +24,12 @@
   {
     "title": "Software Engineer, Search & Discovery Platform",
     "company": "Whatnot",
-    "location": "New York, NY",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4324889003",
+    "job_url": "https://www.linkedin.com/jobs/view/4324629611",
     "date_posted": null,
     "keyword_score": 57,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Tooling (Internship)",
-    "company": "Woven by Toyota",
-    "location": "Ann Arbor, MI",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4352453009",
-    "date_posted": null,
-    "keyword_score": 52,
     "site": "linkedin"
   },
   {
@@ -88,14 +66,14 @@
     "site": "linkedin"
   },
   {
-    "title": "2026006- Software Engineer",
-    "company": "John Deere",
-    "location": "Moline, IL",
-    "level": "Entry",
-    "min_exp": 2.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4384673434",
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
     "date_posted": null,
-    "keyword_score": 42,
+    "keyword_score": 41,
     "site": "linkedin"
   },
   {
@@ -110,28 +88,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Trimble Inc.",
-    "location": "Westminster, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4345533121",
-    "date_posted": null,
-    "keyword_score": 37,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer IV",
-    "company": "Spectrum",
-    "location": "Greenwood Village, CO",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4386005381",
-    "date_posted": null,
-    "keyword_score": 37,
-    "site": "linkedin"
-  },
-  {
     "title": "Part-Time Software Engineer (6-month Contract)",
     "company": "Zoox",
     "location": "Foster City, CA",
@@ -140,17 +96,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4316017986",
     "date_posted": null,
     "keyword_score": 36,
-    "site": "linkedin"
-  },
-  {
-    "title": "Oracle Fusion Software Developer",
-    "company": "Anduril Industries",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4375879472",
-    "date_posted": null,
-    "keyword_score": 35,
     "site": "linkedin"
   },
   {
@@ -176,17 +121,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer Backend - Kohler Ventures",
-    "company": "Kohler Ventures",
-    "location": "New York, NY",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4256089283",
-    "date_posted": null,
-    "keyword_score": 33,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer (Js, Python)",
     "company": "Sundayy",
     "location": "",
@@ -198,14 +132,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Security Platform",
-    "company": "Cloudflare",
-    "location": "Austin, TX",
+    "title": "Java Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "Georgia, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373486577",
+    "job_url": "https://www.linkedin.com/jobs/view/4397576458",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Java/Javascript Software Engineer",
+    "company": "BeaconFire Inc.",
+    "location": "North Carolina, United States",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397575453",
+    "date_posted": null,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
@@ -220,14 +165,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Backend (All Teams)",
-    "company": "DoorDash",
-    "location": "New York, NY",
+    "title": "Software Engineer - Security Platform",
+    "company": "Cloudflare",
+    "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999823822",
+    "job_url": "https://www.linkedin.com/jobs/view/4373486577",
     "date_posted": null,
-    "keyword_score": 27,
+    "keyword_score": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Financial Platform",
+    "company": "Chime",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4337884276",
+    "date_posted": null,
+    "keyword_score": 25,
     "site": "linkedin"
   },
   {
@@ -242,14 +198,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Financial Platform",
-    "company": "Chime",
-    "location": "San Francisco, CA",
+    "title": "Junior Software Engineer",
+    "company": "Tech Consulting",
+    "location": "Florida, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337884276",
+    "job_url": "https://www.linkedin.com/jobs/view/4394418479",
     "date_posted": null,
-    "keyword_score": 25,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Frontend Software Engineer",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397721343",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "ML Perception Software Engineer",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
+    "date_posted": null,
+    "keyword_score": 20,
     "site": "linkedin"
   },
   {
@@ -275,17 +253,6 @@
     "site": "linkedin"
   },
   {
-    "title": "ML Perception Software Engineer",
-    "company": "Applied Intuition",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
-    "date_posted": null,
-    "keyword_score": 20,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Developer",
     "company": "AgileGrid Solutions",
     "location": "",
@@ -297,14 +264,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Android (All Teams)",
-    "company": "DoorDash",
-    "location": "New York, NY",
+    "title": "Android Software Engineer - Applications",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999823821",
+    "job_url": "https://www.linkedin.com/jobs/view/4262188964",
     "date_posted": null,
-    "keyword_score": 19,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
@@ -316,6 +283,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4314815691",
     "date_posted": null,
     "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend / API Engineer, Privacy Products",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
+    "date_posted": null,
+    "keyword_score": 17,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Ray Data)",
+    "company": "Anyscale",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4338010742",
+    "date_posted": null,
+    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
