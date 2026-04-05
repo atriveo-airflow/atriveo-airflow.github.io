@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T22:14:58Z",
-    "run_at": "2026-03-26T22:14:58.041365+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 12,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Candescent",
-      "Wiraa",
-      "Leidos",
-      "Fanatics",
-      "Syndicatebleu"
-    ],
-    "snapshot_file": "2026-03-26T22-14-58Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T23:02:30Z",
     "run_at": "2026-03-26T23:02:30.859961+00:00",
     "pipeline": "standard",
@@ -15555,5 +15536,28 @@
       "Electrify America"
     ],
     "snapshot_file": "2026-04-05T13-59-17Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T14:10:31Z",
+    "run_at": "2026-04-05T14:10:31.869477+00:00",
+    "pipeline": "standard",
+    "total_jobs": 12,
+    "levels": {
+      "Entry": 11,
+      "Mid": 1
+    },
+    "scores": {
+      "avg": -307.5,
+      "max": 68,
+      "high": 8
+    },
+    "top_companies": [
+      "Anduril Industries",
+      "AgileGrid Solutions",
+      "Woven by Toyota",
+      "Haystack",
+      "Nissan Motor Corporation"
+    ],
+    "snapshot_file": "2026-04-05T14-10-31Z_standard.json"
   }
 ]
