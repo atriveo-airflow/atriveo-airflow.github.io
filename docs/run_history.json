@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T23:11:40Z",
-    "run_at": "2026-03-26T23:11:40.219627+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 3,
-    "levels": {
-      "Entry": 2,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 7.0,
-      "max": 8,
-      "high": 3
-    },
-    "top_companies": [
-      "Google",
-      "NetApp",
-      "Capgemini"
-    ],
-    "snapshot_file": "2026-03-26T23-11-40Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T23:14:57Z",
     "run_at": "2026-03-26T23:14:57.498948+00:00",
     "pipeline": "keywords",
@@ -15560,5 +15539,25 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T14-44-35Z_h1b2026.json"
+  },
+  {
+    "session_id": "2026-04-05T14:56:18Z",
+    "run_at": "2026-04-05T14:56:18.908453+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 28,
+    "levels": {
+      "Entry": 26,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Applied Intuition",
+      "Cloudflare",
+      "Stripe",
+      "General Motors",
+      "Sundayy"
+    ],
+    "snapshot_file": "2026-04-05T14-56-18Z_keywords.json"
   }
 ]
