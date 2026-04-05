@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Software Engineer - Developer Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
+    "date_posted": null,
+    "priority_score": 79,
+    "score_pct": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II, Data Engineering",
+    "company": "DoorDash",
+    "location": "Sunnyvale, CA",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4092898866",
+    "date_posted": null,
+    "priority_score": 68,
+    "score_pct": 52,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Backend (All Teams)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999823822",
+    "date_posted": null,
+    "priority_score": 53,
+    "score_pct": 41,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer III, Infrastructure, AI/ML Storage",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4374613975",
+    "date_posted": null,
+    "priority_score": 51,
+    "score_pct": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend / API Engineer, Privacy Products",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Android (All Teams)",
+    "company": "DoorDash",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3999827066",
+    "date_posted": null,
+    "priority_score": 35,
+    "score_pct": 27,
+    "site": "linkedin"
+  }
+]
