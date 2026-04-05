@@ -1,5 +1,16 @@
 [
   {
+    "title": "Asset & Wealth Management-Software Engineering-Associate-Dallas",
+    "company": "Goldman Sachs",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367537626",
+    "date_posted": null,
+    "keyword_score": 78,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer - Telematics",
     "company": "Applied Intuition",
     "location": "Sunnyvale, CA",
@@ -8,6 +19,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4254152788",
     "date_posted": null,
     "keyword_score": 66,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (Python, SQL)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397719462",
+    "date_posted": null,
+    "keyword_score": 64,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Developer Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
+    "date_posted": null,
+    "keyword_score": 63,
     "site": "linkedin"
   },
   {
@@ -22,36 +55,58 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Search & Discovery Platform",
-    "company": "Whatnot",
-    "location": "Seattle, WA",
+    "title": "Software Developer II - Backend",
+    "company": "Electrify America",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4324629611",
+    "job_url": "https://www.linkedin.com/jobs/view/4373490095",
+    "date_posted": null,
+    "keyword_score": 59,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Search & Discovery Platform",
+    "company": "Whatnot",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4324889003",
     "date_posted": null,
     "keyword_score": 57,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, Data Platform",
-    "company": "Sony Interactive Entertainment",
-    "location": "San Diego, CA",
-    "level": "Mid",
+    "title": "Backend Software Engineer (Python, Node.js)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397886360",
+    "job_url": "https://www.linkedin.com/jobs/view/4397706928",
     "date_posted": null,
-    "keyword_score": 52,
+    "keyword_score": 56,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Workers Deploy & Config",
+    "title": "Software Engineer - Traffic Management",
     "company": "Cloudflare",
     "location": "Austin, TX",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337794545",
+    "job_url": "https://www.linkedin.com/jobs/view/4350331711",
     "date_posted": null,
-    "keyword_score": 51,
+    "keyword_score": 49,
+    "site": "linkedin"
+  },
+  {
+    "title": "AI Software Engineer",
+    "company": "Zoom",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367645139",
+    "date_posted": null,
+    "keyword_score": 48,
     "site": "linkedin"
   },
   {
@@ -63,6 +118,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4385929259",
     "date_posted": null,
     "keyword_score": 44,
+    "site": "linkedin"
+  },
+  {
+    "title": "Looking for API expert software Developer",
+    "company": "Insurance Advisor, LLC",
+    "location": "Orlando, FL",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397725597",
+    "date_posted": null,
+    "keyword_score": 42,
     "site": "linkedin"
   },
   {
@@ -88,14 +154,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Part-Time Software Engineer (6-month Contract)",
-    "company": "Zoox",
-    "location": "Foster City, CA",
+    "title": "Oracle Fusion Software Developer",
+    "company": "Anduril Industries",
+    "location": "Costa Mesa, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4316017986",
+    "job_url": "https://www.linkedin.com/jobs/view/4375873734",
     "date_posted": null,
-    "keyword_score": 36,
+    "keyword_score": 35,
     "site": "linkedin"
   },
   {
@@ -137,7 +203,7 @@
     "location": "Georgia, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397576458",
+    "job_url": "https://www.linkedin.com/jobs/view/4397569831",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
@@ -154,25 +220,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Java)",
-    "company": "Sonar",
+    "title": "Software Engineer II",
+    "company": "Alarm.com",
     "location": "Austin, TX",
-    "level": "Entry",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4309050478",
+    "job_url": "https://www.linkedin.com/jobs/view/4356791896",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 29,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Security Platform",
-    "company": "Cloudflare",
-    "location": "Austin, TX",
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373486577",
+    "job_url": "https://www.linkedin.com/jobs/view/4394416508",
     "date_posted": null,
-    "keyword_score": 28,
+    "keyword_score": 26,
     "site": "linkedin"
   },
   {
@@ -187,14 +253,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineering - Summer 2026 Internships",
-    "company": "Rivian",
-    "location": "Palo Alto, CA",
+    "title": "Frontend Software Engineer",
+    "company": "Sundayy",
+    "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4323338353",
+    "job_url": "https://www.linkedin.com/jobs/view/4397721343",
     "date_posted": null,
-    "keyword_score": 25,
+    "keyword_score": 24,
     "site": "linkedin"
   },
   {
@@ -209,23 +275,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Frontend Software Engineer",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397721343",
-    "date_posted": null,
-    "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "ML Perception Software Engineer",
-    "company": "Applied Intuition",
+    "title": "Software Engineer",
+    "company": "General Motors",
     "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
+    "job_url": "https://www.linkedin.com/jobs/view/4345265687",
     "date_posted": null,
     "keyword_score": 20,
     "site": "linkedin"
@@ -242,12 +297,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "General Motors",
+    "title": "ML Perception Software Engineer",
+    "company": "Applied Intuition",
     "location": "Sunnyvale, CA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4345265687",
+    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
     "date_posted": null,
     "keyword_score": 20,
     "site": "linkedin"
@@ -261,6 +316,28 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397720647",
     "date_posted": null,
     "keyword_score": 19,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer, Merchant Tooling",
+    "company": "Whatnot",
+    "location": "Seattle, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4324940862",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "z/OS Software Developer",
+    "company": "Jobs via Dice",
+    "location": "Durham, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394419472",
+    "date_posted": null,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
