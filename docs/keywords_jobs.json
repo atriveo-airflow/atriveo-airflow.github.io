@@ -1,5 +1,16 @@
 [
   {
+    "title": "Backend Developer",
+    "company": "AgileGrid Solutions",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397748056",
+    "date_posted": null,
+    "keyword_score": 75,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer (Python, SQL)",
     "company": "Sundayy",
     "location": "",
@@ -8,17 +19,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397719462",
     "date_posted": null,
     "keyword_score": 64,
-    "site": "linkedin"
-  },
-  {
-    "title": "Asset & Wealth Management-Software Engineering- Margin- Associate-Dallas",
-    "company": "Goldman Sachs",
-    "location": "Dallas, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367256173",
-    "date_posted": null,
-    "keyword_score": 56,
     "site": "linkedin"
   },
   {
@@ -55,14 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer, Payments and Risk",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "New Grad",
+    "title": "Full-Stack Software Engineer",
+    "company": "Quadric",
+    "location": "Burlingame, CA",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
+    "job_url": "https://www.linkedin.com/jobs/view/4397743290",
     "date_posted": null,
-    "keyword_score": 41,
+    "keyword_score": 44,
     "site": "linkedin"
   },
   {
@@ -88,47 +88,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Crypto Software Engineer - Rust",
-    "company": "Career Renew",
-    "location": "New York, NY",
+    "title": "Software Engineer",
+    "company": "Hyra",
+    "location": "New York, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397735274",
+    "job_url": "https://www.linkedin.com/jobs/view/4397746134",
     "date_posted": null,
-    "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "Georgia, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397576458",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Java/Javascript Software Engineer",
-    "company": "BeaconFire Inc.",
-    "location": "North Carolina, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397575453",
-    "date_posted": null,
-    "keyword_score": 30,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II, Identity Core",
-    "company": "GitHub",
-    "location": "",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4374694494",
-    "date_posted": null,
-    "keyword_score": 30,
+    "keyword_score": 31,
     "site": "linkedin"
   },
   {
@@ -143,25 +110,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Backend Engineer- Inference Services",
-    "company": "Deepgram",
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "company": "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384668753",
+    "job_url": "https://www.linkedin.com/jobs/view/4397727829",
     "date_posted": null,
-    "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Junior Software Engineer",
-    "company": "Tech Consulting",
-    "location": "Florida, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394418479",
-    "date_posted": null,
-    "keyword_score": 24,
+    "keyword_score": 20,
     "site": "linkedin"
   },
   {
@@ -173,28 +129,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4324940862",
     "date_posted": null,
     "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend / API Engineer, Privacy Products",
-    "company": "Stripe",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
-    "date_posted": null,
-    "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Ray Data)",
-    "company": "Anyscale",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4338010742",
-    "date_posted": null,
-    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
