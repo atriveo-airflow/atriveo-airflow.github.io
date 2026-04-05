@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T14:05:11Z",
-    "run_at": "2026-03-26T14:05:11.528346+00:00",
-    "pipeline": "important",
-    "total_jobs": 3,
-    "levels": {
-      "Entry": 2,
-      "Mid": 1
-    },
-    "scores": {
-      "avg": 8.3,
-      "max": 11,
-      "high": 3
-    },
-    "top_companies": [
-      "Verkada",
-      "Uber",
-      "Meta"
-    ],
-    "snapshot_file": "2026-03-26T14-05-11Z_important.json"
-  },
-  {
     "session_id": "2026-03-26T14:07:52Z",
     "run_at": "2026-03-26T14:07:52.418486+00:00",
     "pipeline": "top500",
@@ -15567,5 +15546,24 @@
       "RemoteHunter"
     ],
     "snapshot_file": "2026-04-05T00-05-24Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T00:27:02Z",
+    "run_at": "2026-04-05T00:27:02.707297+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 5,
+    "levels": {
+      "Entry": 4,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "Aeroflow Health",
+      "Truist",
+      "PNC",
+      "CUSPP",
+      "Baltimore County"
+    ],
+    "snapshot_file": "2026-04-05T00-27-02Z_keywords.json"
   }
 ]
