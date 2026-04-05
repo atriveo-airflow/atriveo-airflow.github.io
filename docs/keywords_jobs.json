@@ -44,17 +44,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Junior Backend Software Engineer",
-    "company": "HiringAgents.ai",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": 0.0,
-    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
-    "date_posted": null,
-    "keyword_score": 59,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Developer II - Backend",
     "company": "Electrify America",
     "location": "",
@@ -66,14 +55,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Search & Discovery Platform",
-    "company": "Whatnot",
-    "location": "New York, NY",
+    "title": "Junior Backend Software Engineer",
+    "company": "HiringAgents.ai",
+    "location": "San Francisco, CA",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4324889003",
+    "min_exp": 0.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4344366681",
     "date_posted": null,
-    "keyword_score": 57,
+    "keyword_score": 59,
     "site": "linkedin"
   },
   {
@@ -88,17 +77,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer - Traffic Management",
-    "company": "Cloudflare",
-    "location": "Austin, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4350331711",
-    "date_posted": null,
-    "keyword_score": 49,
-    "site": "linkedin"
-  },
-  {
     "title": "AI Software Engineer",
     "company": "Zoom",
     "location": "Seattle, WA",
@@ -110,28 +88,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Python, AWS)",
-    "company": "Confidential Jobs",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4385929259",
-    "date_posted": null,
-    "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Looking for API expert software Developer",
-    "company": "Insurance Advisor, LLC",
-    "location": "Orlando, FL",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397725597",
-    "date_posted": null,
-    "keyword_score": 42,
-    "site": "linkedin"
-  },
-  {
     "title": "Backend Engineer, Payments and Risk",
     "company": "Stripe",
     "location": "San Francisco, CA",
@@ -140,17 +96,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4368842196",
     "date_posted": null,
     "keyword_score": 41,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Qualcomm Advanced Robotics Team - Multiple levels",
-    "company": "Qualcomm",
-    "location": "San Diego, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4384676116",
-    "date_posted": null,
-    "keyword_score": 38,
     "site": "linkedin"
   },
   {
@@ -187,23 +132,12 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Js, Python)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397728004",
-    "date_posted": null,
-    "keyword_score": 32,
-    "site": "linkedin"
-  },
-  {
     "title": "Java Software Engineer",
     "company": "BeaconFire Inc.",
-    "location": "Georgia, United States",
+    "location": "Illinois, United States",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397569831",
+    "job_url": "https://www.linkedin.com/jobs/view/4397588032",
     "date_posted": null,
     "keyword_score": 30,
     "site": "linkedin"
@@ -221,6 +155,17 @@
   },
   {
     "title": "Software Engineer II",
+    "company": "RemoteHunter",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394420390",
+    "date_posted": null,
+    "keyword_score": 30,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II",
     "company": "Alarm.com",
     "location": "Austin, TX",
     "level": "Mid",
@@ -231,36 +176,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Haystack",
+    "title": "Backend Engineer- Inference Services",
+    "company": "Deepgram",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394416508",
+    "job_url": "https://www.linkedin.com/jobs/view/4384668753",
     "date_posted": null,
     "keyword_score": 26,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Financial Platform",
-    "company": "Chime",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4337884276",
-    "date_posted": null,
-    "keyword_score": 25,
-    "site": "linkedin"
-  },
-  {
-    "title": "Frontend Software Engineer",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397721343",
-    "date_posted": null,
-    "keyword_score": 24,
     "site": "linkedin"
   },
   {
@@ -272,17 +195,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4394418479",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "General Motors",
-    "location": "Sunnyvale, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4345265687",
-    "date_posted": null,
-    "keyword_score": 20,
     "site": "linkedin"
   },
   {
@@ -308,6 +220,17 @@
     "site": "linkedin"
   },
   {
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "company": "Twenty Seven Marketing",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397897307",
+    "date_posted": null,
+    "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend Developer",
     "company": "AgileGrid Solutions",
     "location": "",
@@ -316,28 +239,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397720647",
     "date_posted": null,
     "keyword_score": 19,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer, Merchant Tooling",
-    "company": "Whatnot",
-    "location": "Seattle, WA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4324940862",
-    "date_posted": null,
-    "keyword_score": 18,
-    "site": "linkedin"
-  },
-  {
-    "title": "z/OS Software Developer",
-    "company": "Jobs via Dice",
-    "location": "Durham, NC",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394419472",
-    "date_posted": null,
-    "keyword_score": 18,
     "site": "linkedin"
   },
   {
@@ -352,14 +253,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Forward Deployed",
-    "company": "Ramp",
-    "location": "San Francisco, CA",
+    "title": "Software Engineer, Merchant Tooling",
+    "company": "Whatnot",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4314815691",
+    "job_url": "https://www.linkedin.com/jobs/view/4324940862",
     "date_posted": null,
-    "keyword_score": 17,
+    "keyword_score": 18,
     "site": "linkedin"
   },
   {
@@ -371,17 +272,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4367631160",
     "date_posted": null,
     "keyword_score": 17,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer (Ray Data)",
-    "company": "Anyscale",
-    "location": "San Francisco, CA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4338010742",
-    "date_posted": null,
-    "keyword_score": 15,
     "site": "linkedin"
   }
 ]
