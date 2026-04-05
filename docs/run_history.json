@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T03:02:11Z",
-    "run_at": "2026-03-27T03:02:11.552444+00:00",
-    "pipeline": "standard",
-    "total_jobs": 21,
-    "levels": {
-      "Entry": 13,
-      "Mid": 8
-    },
-    "scores": {
-      "avg": 5.0,
-      "max": 19,
-      "high": 8
-    },
-    "top_companies": [
-      "Google",
-      "OpenAI",
-      "Flitch",
-      "AdvancedMD",
-      "Craftner INC"
-    ],
-    "snapshot_file": "2026-03-27T03-02-11Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T03:04:18Z",
     "run_at": "2026-03-27T03:04:18.516241+00:00",
     "pipeline": "important",
@@ -15576,5 +15553,27 @@
       "Metas Solutions"
     ],
     "snapshot_file": "2026-04-05T18-09-20Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T18:19:43Z",
+    "run_at": "2026-04-05T18:19:43.863326+00:00",
+    "pipeline": "important",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -474.8,
+      "max": 56,
+      "high": 2
+    },
+    "top_companies": [
+      "Stripe",
+      "GitHub",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-04-05T18-19-43Z_important.json"
   }
 ]
