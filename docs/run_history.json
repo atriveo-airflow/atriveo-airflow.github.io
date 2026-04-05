@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T16:15:44Z",
-    "run_at": "2026-03-26T16:15:44.363451+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 22,
-    "levels": {
-      "Entry": 16,
-      "Mid": 4,
-      "New Grad": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "Ultra Electronics Group",
-      "Mastercard",
-      "MongoDB",
-      "Vercel",
-      "BigHat Biosciences"
-    ],
-    "snapshot_file": "2026-03-26T16-15-44Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T17:02:35Z",
     "run_at": "2026-03-26T17:02:35.632814+00:00",
     "pipeline": "standard",
@@ -15536,5 +15516,26 @@
       "Stripe"
     ],
     "snapshot_file": "2026-04-05T03-12-50Z_important.json"
+  },
+  {
+    "session_id": "2026-04-05T03:19:20Z",
+    "run_at": "2026-04-05T03:19:20.714186+00:00",
+    "pipeline": "top500",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 2,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -216.5,
+      "max": 63,
+      "high": 3
+    },
+    "top_companies": [
+      "Microsoft",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T03-19-20Z_top500.json"
   }
 ]
