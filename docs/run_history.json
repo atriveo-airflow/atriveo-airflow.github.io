@@ -1,25 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T21:12:07Z",
-    "run_at": "2026-03-26T21:12:07.853993+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 6,
-    "levels": {
-      "Mid": 4,
-      "Entry": 2
-    },
-    "scores": {
-      "avg": 4.0,
-      "max": 8,
-      "high": 2
-    },
-    "top_companies": [
-      "Google",
-      "ServiceNow"
-    ],
-    "snapshot_file": "2026-03-26T21-12-07Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T21:15:35Z",
     "run_at": "2026-03-26T21:15:35.209866+00:00",
     "pipeline": "keywords",
@@ -15546,5 +15526,28 @@
       "Electrify America"
     ],
     "snapshot_file": "2026-04-05T12-57-01Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T13:10:59Z",
+    "run_at": "2026-04-05T13:10:59.564009+00:00",
+    "pipeline": "standard",
+    "total_jobs": 25,
+    "levels": {
+      "Entry": 20,
+      "Mid": 5
+    },
+    "scores": {
+      "avg": -71.6,
+      "max": 102,
+      "high": 22
+    },
+    "top_companies": [
+      "Applied Intuition",
+      "General Motors",
+      "Cloudflare",
+      "DoorDash",
+      "JPMorganChase"
+    ],
+    "snapshot_file": "2026-04-05T13-10-59Z_standard.json"
   }
 ]
