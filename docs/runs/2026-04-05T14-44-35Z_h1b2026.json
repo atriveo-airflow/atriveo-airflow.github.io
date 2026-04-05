@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Software Engineer - Telematics",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4254152788",
+    "date_posted": null,
+    "priority_score": 102,
+    "score_pct": 78,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Developer Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
+    "date_posted": null,
+    "priority_score": 79,
+    "score_pct": 61,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend / API Engineer, Privacy Products",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4367631160",
+    "date_posted": null,
+    "priority_score": 43,
+    "score_pct": 33,
+    "site": "linkedin"
+  },
+  {
+    "title": "ML Perception Software Engineer",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4019926250",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Maps Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/3686163275",
+    "date_posted": null,
+    "priority_score": 36,
+    "score_pct": 28,
+    "site": "linkedin"
+  },
+  {
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
+    "date_posted": null,
+    "priority_score": -999,
+    "score_pct": 0,
+    "site": "linkedin"
+  }
+]
