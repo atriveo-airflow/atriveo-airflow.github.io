@@ -11,6 +11,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Backend Engineer, Payments and Risk",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "level": "New Grad",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4368842196",
+    "date_posted": null,
+    "keyword_score": 41,
+    "site": "linkedin"
+  },
+  {
     "title": "Python Developer -SQL",
     "company": "Netrolynx AI",
     "location": "",
@@ -44,14 +55,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "RemoteHunter",
-    "location": "",
+    "title": "Software Engineer Stf - Level 4",
+    "company": "Jobs via Dice",
+    "location": "Fort Worth, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394297694",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "PYTHON DEVELOPER-Object-oriented, REST, Rest API-W2 -ONSITE role",
+    "company": "Jobs via Dice",
+    "location": "Dallas, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394297701",
+    "date_posted": null,
+    "keyword_score": 29,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Level 2",
+    "company": "Jobs via Dice",
+    "location": "Fort Worth, TX",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394293154",
+    "job_url": "https://www.linkedin.com/jobs/view/4394298705",
     "date_posted": null,
-    "keyword_score": 30,
+    "keyword_score": 28,
     "site": "linkedin"
   },
   {
@@ -63,6 +96,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397487474",
     "date_posted": null,
     "keyword_score": 25,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer - Remote",
+    "company": "Jobs via Dice",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393036697",
+    "date_posted": null,
+    "keyword_score": 20,
     "site": "linkedin"
   }
 ]
