@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T20:12:41Z",
-    "run_at": "2026-03-26T20:12:41.701346+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 13,
-    "levels": {
-      "Entry": 12,
-      "Mid": 1
-    },
-    "scores": {},
-    "top_companies": [
-      "Wiraa",
-      "Axiom Space",
-      "Torque Technologies LLC",
-      "BeaconFire Inc.",
-      "ProService Hawaii"
-    ],
-    "snapshot_file": "2026-03-26T20-12-41Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-26T21:01:56Z",
     "run_at": "2026-03-26T21:01:56.724859+00:00",
     "pipeline": "standard",
@@ -15543,5 +15524,28 @@
       "Applied Intuition"
     ],
     "snapshot_file": "2026-04-05T12-10-55Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T12:22:11Z",
+    "run_at": "2026-04-05T12:22:11.405355+00:00",
+    "pipeline": "important",
+    "total_jobs": 14,
+    "levels": {
+      "Entry": 12,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -102.3,
+      "max": 68,
+      "high": 12
+    },
+    "top_companies": [
+      "DoorDash",
+      "Netflix",
+      "Cloudflare",
+      "OpenAI",
+      "Google"
+    ],
+    "snapshot_file": "2026-04-05T12-22-11Z_important.json"
   }
 ]
