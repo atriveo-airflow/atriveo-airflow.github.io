@@ -11,28 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (Python, SQL)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397719462",
-    "date_posted": null,
-    "keyword_score": 64,
-    "site": "linkedin"
-  },
-  {
-    "title": "Backend Software Engineer (Python, Node.js)",
-    "company": "Sundayy",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397706928",
-    "date_posted": null,
-    "keyword_score": 56,
-    "site": "linkedin"
-  },
-  {
     "title": "Software Engineer II, Devices",
     "company": "EnergyHub",
     "location": "",
@@ -55,6 +33,17 @@
     "site": "linkedin"
   },
   {
+    "title": "Founding Software Engineer, Platform",
+    "company": "GovWell",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394418912",
+    "date_posted": null,
+    "keyword_score": 46,
+    "site": "linkedin"
+  },
+  {
     "title": "Full-Stack Software Engineer",
     "company": "Quadric",
     "location": "Burlingame, CA",
@@ -63,17 +52,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397743290",
     "date_posted": null,
     "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - OIPA",
-    "company": "CGI",
-    "location": "Dallas, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367630143",
-    "date_posted": null,
-    "keyword_score": 40,
     "site": "linkedin"
   },
   {
@@ -88,6 +66,39 @@
     "site": "linkedin"
   },
   {
+    "title": "Associate Software Engineer",
+    "company": "Gensten",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394419929",
+    "date_posted": null,
+    "keyword_score": 35,
+    "site": "linkedin"
+  },
+  {
+    "title": "Crypto Software Engineer - Rust",
+    "company": "Career Renew",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397735274",
+    "date_posted": null,
+    "keyword_score": 32,
+    "site": "linkedin"
+  },
+  {
+    "title": "Full-Stack Software Engineer",
+    "company": "GovWell",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394421870",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer",
     "company": "Hyra",
     "location": "New York, United States",
@@ -99,36 +110,36 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II",
-    "company": "Alarm.com",
-    "location": "Austin, TX",
+    "title": "Software Engineer II, Identity Core",
+    "company": "GitHub",
+    "location": "",
     "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4356791896",
+    "job_url": "https://www.linkedin.com/jobs/view/4374694494",
     "date_posted": null,
-    "keyword_score": 29,
+    "keyword_score": 30,
     "site": "linkedin"
   },
   {
     "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
+    "company": "Verona Economia",
     "location": "",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397727829",
+    "job_url": "https://www.linkedin.com/jobs/view/4397900504",
     "date_posted": null,
     "keyword_score": 20,
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer, Merchant Tooling",
-    "company": "Whatnot",
-    "location": "Seattle, WA",
+    "title": "Software Engineer",
+    "company": "Haystack",
+    "location": "Atlanta, GA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4324940862",
+    "job_url": "https://www.linkedin.com/jobs/view/4394423837",
     "date_posted": null,
-    "keyword_score": 18,
+    "keyword_score": 19,
     "site": "linkedin"
   }
 ]
