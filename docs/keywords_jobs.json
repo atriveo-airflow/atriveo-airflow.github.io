@@ -11,17 +11,6 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II, EV",
-    "company": "EnergyHub",
-    "location": "",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4373706013",
-    "date_posted": null,
-    "keyword_score": 47,
-    "site": "linkedin"
-  },
-  {
     "title": "Founding Software Engineer, Platform",
     "company": "GovWell",
     "location": "New York, NY",
@@ -41,28 +30,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4397743290",
     "date_posted": null,
     "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - OIPA",
-    "company": "CGI",
-    "location": "Dallas, TX",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4367630143",
-    "date_posted": null,
-    "keyword_score": 40,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Developer Entry",
-    "company": "Inside Higher Ed",
-    "location": "Atlanta, GA",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397734408",
-    "date_posted": null,
-    "keyword_score": 37,
     "site": "linkedin"
   },
   {
@@ -94,6 +61,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4397746134",
+    "date_posted": null,
+    "keyword_score": 31,
+    "site": "linkedin"
+  },
+  {
+    "title": "Associate Software Engineer",
+    "company": "Brooksource",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394440090",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -132,14 +110,14 @@
     "site": "linkedin"
   },
   {
-    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
-    "company": "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
-    "location": "",
+    "title": "Embedded Software Engineer",
+    "company": "Insight Global",
+    "location": "Austin, Texas Metropolitan Area",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397739689",
+    "job_url": "https://www.linkedin.com/jobs/view/4394424933",
     "date_posted": null,
-    "keyword_score": 20,
+    "keyword_score": 21,
     "site": "linkedin"
   },
   {
