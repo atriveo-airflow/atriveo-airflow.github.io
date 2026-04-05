@@ -1,26 +1,5 @@
 [
   {
-    "session_id": "2026-03-26T16:12:33Z",
-    "run_at": "2026-03-26T16:12:33.430417+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 3,
-    "levels": {
-      "Mid": 2,
-      "Entry": 1
-    },
-    "scores": {
-      "avg": 9.7,
-      "max": 12,
-      "high": 3
-    },
-    "top_companies": [
-      "Randstad Digital Americas",
-      "Microsoft",
-      "Uber"
-    ],
-    "snapshot_file": "2026-03-26T16-12-33Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-26T16:15:44Z",
     "run_at": "2026-03-26T16:15:44.363451+00:00",
     "pipeline": "keywords",
@@ -15536,5 +15515,26 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-04-05T03-06-09Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T03:12:50Z",
+    "run_at": "2026-04-05T03:12:50.016975+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 1,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -297.7,
+      "max": 63,
+      "high": 2
+    },
+    "top_companies": [
+      "Microsoft",
+      "Stripe"
+    ],
+    "snapshot_file": "2026-04-05T03-12-50Z_important.json"
   }
 ]
