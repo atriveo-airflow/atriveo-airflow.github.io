@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "Westlake, TX",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393025943",
+    "date_posted": null,
+    "batch_time": "2026-04-05T22:06:51Z",
+    "score": 70,
+    "score_pct": 54,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Tester",
+    "company": "Leadership Triangle",
+    "location": "Raleigh, NC",
+    "level": "Mid",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394433111",
+    "date_posted": null,
+    "batch_time": "2026-04-05T22:06:51Z",
+    "score": 52,
+    "score_pct": 40,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer \u2013 Cryptography / Digital Asset Security",
+    "company": "Eliassen Group",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394422842",
+    "date_posted": null,
+    "batch_time": "2026-04-05T22:06:51Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer (React.js, API)",
+    "company": "Sundayy",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397713666",
+    "date_posted": null,
+    "batch_time": "2026-04-05T22:06:51Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
