@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T02:01:30Z",
-    "run_at": "2026-03-27T02:01:30.210225+00:00",
-    "pipeline": "standard",
-    "total_jobs": 16,
-    "levels": {
-      "Entry": 13,
-      "Mid": 3
-    },
-    "scores": {
-      "avg": 3.1,
-      "max": 11,
-      "high": 5
-    },
-    "top_companies": [
-      "Truist",
-      "HELO Solutions",
-      "Uber",
-      "V2X Inc",
-      "Planet"
-    ],
-    "snapshot_file": "2026-03-27T02-01-30Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T02:03:29Z",
     "run_at": "2026-03-27T02:03:29.675560+00:00",
     "pipeline": "important",
@@ -15577,5 +15554,25 @@
       "Anduril Industries"
     ],
     "snapshot_file": "2026-04-05T17-09-47Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T17:20:02Z",
+    "run_at": "2026-04-05T17:20:02.698228+00:00",
+    "pipeline": "important",
+    "total_jobs": 3,
+    "levels": {
+      "Entry": 2,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -651.7,
+      "max": 43,
+      "high": 1
+    },
+    "top_companies": [
+      "Stripe",
+      "Anthropic"
+    ],
+    "snapshot_file": "2026-04-05T17-20-02Z_important.json"
   }
 ]
