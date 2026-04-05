@@ -1,5 +1,18 @@
 [
   {
+    "title": "Software Engineer - Developer Infrastructure",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4258378544",
+    "date_posted": null,
+    "priority_score": 79,
+    "score_pct": 61,
+    "site": "linkedin"
+  },
+  {
     "title": "Software Engineer II, Data Engineering",
     "company": "DoorDash",
     "location": "Sunnyvale, CA",
@@ -26,6 +39,19 @@
     "site": "linkedin"
   },
   {
+    "title": "Software Engineer III, Infrastructure, AI/ML Storage",
+    "company": "Google",
+    "location": "Kirkland, WA",
+    "level": "Mid",
+    "min_exp": 1.0,
+    "max_exp": 2.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4374613975",
+    "date_posted": null,
+    "priority_score": 51,
+    "score_pct": 39,
+    "site": "linkedin"
+  },
+  {
     "title": "Backend / API Engineer, Privacy Products",
     "company": "Stripe",
     "location": "San Francisco, CA",
@@ -41,11 +67,11 @@
   {
     "title": "Software Engineer, Android (All Teams)",
     "company": "DoorDash",
-    "location": "New York, NY",
+    "location": "Seattle, WA",
     "level": "Entry",
     "min_exp": null,
     "max_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/3999823821",
+    "job_url": "https://www.linkedin.com/jobs/view/3999827066",
     "date_posted": null,
     "priority_score": 35,
     "score_pct": 27,
