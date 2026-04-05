@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T02:09:28Z",
-    "run_at": "2026-03-27T02:09:28.919567+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 7,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "Uber",
-      "OpenAI",
-      "V2X Inc",
-      "OnTrac",
-      "Keysight Technologies"
-    ],
-    "snapshot_file": "2026-03-27T02-09-28Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-27T03:02:11Z",
     "run_at": "2026-03-27T03:02:11.552444+00:00",
     "pipeline": "standard",
@@ -15572,5 +15553,28 @@
       "Insurance Advisor, LLC"
     ],
     "snapshot_file": "2026-04-05T17-52-49Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-05T18:09:20Z",
+    "run_at": "2026-04-05T18:09:20.591417+00:00",
+    "pipeline": "standard",
+    "total_jobs": 9,
+    "levels": {
+      "Entry": 7,
+      "Mid": 2
+    },
+    "scores": {
+      "avg": -69.3,
+      "max": 108,
+      "high": 8
+    },
+    "top_companies": [
+      "DataAnnotation",
+      "Goldman Sachs",
+      "EnergyHub",
+      "GitHub",
+      "Metas Solutions"
+    ],
+    "snapshot_file": "2026-04-05T18-09-20Z_standard.json"
   }
 ]
