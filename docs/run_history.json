@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T00:02:06Z",
-    "run_at": "2026-03-27T00:02:06.742255+00:00",
-    "pipeline": "standard",
-    "total_jobs": 16,
-    "levels": {
-      "Entry": 8,
-      "Mid": 8
-    },
-    "scores": {
-      "avg": 7.4,
-      "max": 17,
-      "high": 11
-    },
-    "top_companies": [
-      "Google",
-      "Instructure",
-      "Pariveda",
-      "USAA",
-      "San Diego Climate Week"
-    ],
-    "snapshot_file": "2026-03-27T00-02-06Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T00:04:41Z",
     "run_at": "2026-03-27T00:04:41.923092+00:00",
     "pipeline": "important",
@@ -15562,5 +15539,29 @@
       "Deepgram"
     ],
     "snapshot_file": "2026-04-05T15-10-23Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-05T15:21:13Z",
+    "run_at": "2026-04-05T15:21:13.160260+00:00",
+    "pipeline": "important",
+    "total_jobs": 8,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1,
+      "New Grad": 1
+    },
+    "scores": {
+      "avg": -342.2,
+      "max": 64,
+      "high": 5
+    },
+    "top_companies": [
+      "Stripe",
+      "Zoom",
+      "OpenAI",
+      "Google",
+      "Chime"
+    ],
+    "snapshot_file": "2026-04-05T15-21-13Z_important.json"
   }
 ]
