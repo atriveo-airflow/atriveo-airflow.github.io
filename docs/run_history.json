@@ -1,24 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T09:11:02Z",
-    "run_at": "2026-03-27T09:11:02.406155+00:00",
-    "pipeline": "keywords",
-    "total_jobs": 9,
-    "levels": {
-      "Entry": 7,
-      "Mid": 2
-    },
-    "scores": {},
-    "top_companies": [
-      "SPREEAI",
-      "TikTok",
-      "Chewy",
-      "Evolent",
-      "Oracle"
-    ],
-    "snapshot_file": "2026-03-27T09-11-02Z_keywords.json"
-  },
-  {
     "session_id": "2026-03-27T12:03:13Z",
     "run_at": "2026-03-27T12:03:13.089275+00:00",
     "pipeline": "standard",
@@ -15540,5 +15521,23 @@
       "Visa"
     ],
     "snapshot_file": "2026-04-06T00-18-38Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-06T00:25:05Z",
+    "run_at": "2026-04-06T00:25:05.208079+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 37.0,
+      "max": 37,
+      "high": 1
+    },
+    "top_companies": [
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-04-06T00-25-05Z_h1b2026.json"
   }
 ]
