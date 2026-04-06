@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T15:03:14Z",
-    "run_at": "2026-03-27T15:03:14.229056+00:00",
-    "pipeline": "standard",
-    "total_jobs": 40,
-    "levels": {
-      "Entry": 33,
-      "Mid": 5,
-      "New Grad": 2
-    },
-    "scores": {
-      "avg": -197.6,
-      "max": 53,
-      "high": 31
-    },
-    "top_companies": [
-      "Google",
-      "DataAnnotation",
-      "OpenAI",
-      "BeaconFire Inc.",
-      "hackajob"
-    ],
-    "snapshot_file": "2026-03-27T15-03-14Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T15:07:11Z",
     "run_at": "2026-03-27T15:07:11.617409+00:00",
     "pipeline": "important",
@@ -15489,5 +15465,24 @@
       "Jobs via Dice"
     ],
     "snapshot_file": "2026-04-06T05-05-15Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-06T05:27:43Z",
+    "run_at": "2026-04-06T05:27:43.179218+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 6,
+    "levels": {
+      "Entry": 4,
+      "Mid": 2
+    },
+    "scores": {},
+    "top_companies": [
+      "EasyPost",
+      "Canonical",
+      "Ensense AI",
+      "Piper Companies",
+      "Eliassen Group"
+    ],
+    "snapshot_file": "2026-04-06T05-27-43Z_keywords.json"
   }
 ]
