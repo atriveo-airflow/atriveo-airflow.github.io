@@ -1,16 +1,5 @@
 [
   {
-    "title": "Backend Developer",
-    "company": "AgileGrid Solutions",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397748056",
-    "date_posted": null,
-    "keyword_score": 75,
-    "site": "linkedin"
-  },
-  {
     "title": "Founding Software Engineer, Platform",
     "company": "GovWell",
     "location": "New York, NY",
@@ -22,25 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Full-Stack Software Engineer",
-    "company": "Quadric",
-    "location": "Burlingame, CA",
+    "title": "Software Engineer",
+    "company": "Visa",
+    "location": "Bellevue, WA",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397743290",
+    "job_url": "https://www.linkedin.com/jobs/view/4394443128",
     "date_posted": null,
-    "keyword_score": 44,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer II - Tester",
-    "company": "Leadership Triangle",
-    "location": "Raleigh, NC",
-    "level": "Mid",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394433111",
-    "date_posted": null,
-    "keyword_score": 36,
+    "keyword_score": 39,
     "site": "linkedin"
   },
   {
@@ -50,17 +28,6 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4394421870",
-    "date_posted": null,
-    "keyword_score": 31,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Hyra",
-    "location": "New York, United States",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397746134",
     "date_posted": null,
     "keyword_score": 31,
     "site": "linkedin"
@@ -129,6 +96,17 @@
     "job_url": "https://www.linkedin.com/jobs/view/4393036697",
     "date_posted": null,
     "keyword_score": 20,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Goliath Partners",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397740869",
+    "date_posted": null,
+    "keyword_score": 18,
     "site": "linkedin"
   }
 ]
