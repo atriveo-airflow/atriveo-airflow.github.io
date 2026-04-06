@@ -1,0 +1,79 @@
+[
+  {
+    "title": "Software Engineer III",
+    "company": "EasyPost",
+    "location": "",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394437396",
+    "date_posted": null,
+    "keyword_score": 42,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Visa",
+    "location": "Bellevue, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394443128",
+    "date_posted": null,
+    "keyword_score": 39,
+    "site": "linkedin"
+  },
+  {
+    "title": "Founding Software Engineer",
+    "company": "Ensense AI",
+    "location": "Los Angeles, CA",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394438392",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "CI/CD Software Engineer",
+    "company": "Piper Companies",
+    "location": "Morrisville, NC",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394449154",
+    "date_posted": null,
+    "keyword_score": 34,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Eliassen Group",
+    "location": "Prairie du Sac, WI",
+    "level": "Entry",
+    "min_exp": 4.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394445202",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer II - Front End",
+    "company": "Jobs via Dice",
+    "location": "Irving, TX",
+    "level": "Mid",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394447188",
+    "date_posted": null,
+    "keyword_score": 24,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Goliath Partners",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397740869",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  }
+]
