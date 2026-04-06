@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T12:07:23Z",
-    "run_at": "2026-03-27T12:07:23.360746+00:00",
-    "pipeline": "important",
-    "total_jobs": 14,
-    "levels": {
-      "Entry": 8,
-      "Mid": 5,
-      "New Grad": 1
-    },
-    "scores": {
-      "avg": -333.9,
-      "max": 58,
-      "high": 9
-    },
-    "top_companies": [
-      "Google",
-      "Netflix",
-      "Microsoft",
-      "Robinhood",
-      "Benchling"
-    ],
-    "snapshot_file": "2026-03-27T12-07-23Z_important.json"
-  },
-  {
     "session_id": "2026-03-27T12:11:08Z",
     "run_at": "2026-03-27T12:11:08.079301+00:00",
     "pipeline": "top500",
@@ -15534,5 +15510,26 @@
       "FetchJobs.co"
     ],
     "snapshot_file": "2026-04-06T00-32-04Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-06T01:05:57Z",
+    "run_at": "2026-04-06T01:05:57.297902+00:00",
+    "pipeline": "standard",
+    "total_jobs": 4,
+    "levels": {
+      "Entry": 4
+    },
+    "scores": {
+      "avg": -218.0,
+      "max": 55,
+      "high": 3
+    },
+    "top_companies": [
+      "Visa",
+      "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
+      "Goliath Partners",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-06T01-05-57Z_standard.json"
   }
 ]
