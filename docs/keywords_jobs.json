@@ -11,14 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer",
-    "company": "Visa",
-    "location": "Bellevue, WA",
+    "title": "Software Engineer - Cloud Images",
+    "company": "Canonical",
+    "location": "Baltimore, MD",
     "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394443128",
+    "job_url": "https://www.linkedin.com/jobs/view/4397774066",
     "date_posted": null,
-    "keyword_score": 39,
+    "keyword_score": 36,
     "site": "linkedin"
   },
   {
@@ -63,17 +63,6 @@
     "job_url": "https://www.linkedin.com/jobs/view/4394447188",
     "date_posted": null,
     "keyword_score": 24,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer",
-    "company": "Goliath Partners",
-    "location": "",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397740869",
-    "date_posted": null,
-    "keyword_score": 18,
     "site": "linkedin"
   }
 ]
