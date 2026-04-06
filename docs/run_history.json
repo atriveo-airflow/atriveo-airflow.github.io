@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T14:03:32Z",
-    "run_at": "2026-03-27T14:03:32.159449+00:00",
-    "pipeline": "standard",
-    "total_jobs": 45,
-    "levels": {
-      "Entry": 38,
-      "Mid": 5,
-      "New Grad": 2
-    },
-    "scores": {
-      "avg": -190.0,
-      "max": 79,
-      "high": 35
-    },
-    "top_companies": [
-      "Google",
-      "Crossing Hurdles",
-      "Microsoft",
-      "Counsel Health",
-      "HiringAgents.ai"
-    ],
-    "snapshot_file": "2026-03-27T14-03-32Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T14:07:51Z",
     "run_at": "2026-03-27T14:07:51.676930+00:00",
     "pipeline": "important",
@@ -15505,5 +15481,24 @@
       "Visa"
     ],
     "snapshot_file": "2026-04-06T03-16-05Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-06T03:27:12Z",
+    "run_at": "2026-04-06T03:27:12.723193+00:00",
+    "pipeline": "keywords",
+    "total_jobs": 7,
+    "levels": {
+      "Entry": 6,
+      "Mid": 1
+    },
+    "scores": {},
+    "top_companies": [
+      "EasyPost",
+      "Visa",
+      "Ensense AI",
+      "Brooksource",
+      "Eliassen Group"
+    ],
+    "snapshot_file": "2026-04-06T03-27-12Z_keywords.json"
   }
 ]
