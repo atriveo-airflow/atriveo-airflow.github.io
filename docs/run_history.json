@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T13:03:15Z",
-    "run_at": "2026-03-27T13:03:15.541471+00:00",
-    "pipeline": "standard",
-    "total_jobs": 37,
-    "levels": {
-      "Entry": 27,
-      "Mid": 8,
-      "New Grad": 2
-    },
-    "scores": {
-      "avg": -126.5,
-      "max": 82,
-      "high": 31
-    },
-    "top_companies": [
-      "Netflix",
-      "Google",
-      "Microsoft",
-      "Yahoo",
-      "Counsel Health"
-    ],
-    "snapshot_file": "2026-03-27T13-03-15Z_standard.json"
-  },
-  {
     "session_id": "2026-03-27T13:07:11Z",
     "run_at": "2026-03-27T13:07:11.789008+00:00",
     "pipeline": "important",
@@ -15526,5 +15502,23 @@
       "GenPark"
     ],
     "snapshot_file": "2026-04-06T02-05-19Z_standard.json"
+  },
+  {
+    "session_id": "2026-04-06T02:16:32Z",
+    "run_at": "2026-04-06T02:16:32.670848+00:00",
+    "pipeline": "top500",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 55.0,
+      "max": 55,
+      "high": 1
+    },
+    "top_companies": [
+      "Visa"
+    ],
+    "snapshot_file": "2026-04-06T02-16-32Z_top500.json"
   }
 ]
