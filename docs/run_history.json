@@ -1,29 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T13:07:11Z",
-    "run_at": "2026-03-27T13:07:11.789008+00:00",
-    "pipeline": "important",
-    "total_jobs": 17,
-    "levels": {
-      "Entry": 12,
-      "Mid": 4,
-      "New Grad": 1
-    },
-    "scores": {
-      "avg": -267.0,
-      "max": 58,
-      "high": 12
-    },
-    "top_companies": [
-      "Google",
-      "Netflix",
-      "Microsoft",
-      "Databricks",
-      "Meta"
-    ],
-    "snapshot_file": "2026-03-27T13-07-11Z_important.json"
-  },
-  {
     "session_id": "2026-03-27T13:11:01Z",
     "run_at": "2026-03-27T13:11:01.925370+00:00",
     "pipeline": "top500",
@@ -15520,5 +15496,23 @@
       "Visa"
     ],
     "snapshot_file": "2026-04-06T02-16-32Z_top500.json"
+  },
+  {
+    "session_id": "2026-04-06T02:22:16Z",
+    "run_at": "2026-04-06T02:22:16.752144+00:00",
+    "pipeline": "h1b2026",
+    "total_jobs": 1,
+    "levels": {
+      "Entry": 1
+    },
+    "scores": {
+      "avg": 37.0,
+      "max": 37,
+      "high": 1
+    },
+    "top_companies": [
+      "Insight Global"
+    ],
+    "snapshot_file": "2026-04-06T02-22-16Z_h1b2026.json"
   }
 ]
