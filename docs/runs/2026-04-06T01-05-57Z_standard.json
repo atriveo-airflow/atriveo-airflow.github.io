@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Software Engineer",
+    "company": "Visa",
+    "location": "Bellevue, WA",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394443128",
+    "date_posted": null,
+    "batch_time": "2026-04-06T01:05:56Z",
+    "score": 55,
+    "score_pct": 42,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "ENTRY LEVEL SOFTWARE DEVELOPER",
+    "company": "SHB (Soci\u00e9t\u00e9 des Huileries du B\u00e9nin)",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397743694",
+    "date_posted": null,
+    "batch_time": "2026-04-06T01:05:56Z",
+    "score": 38,
+    "score_pct": 29,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Goliath Partners",
+    "location": "",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4397740869",
+    "date_posted": null,
+    "batch_time": "2026-04-06T01:05:56Z",
+    "score": 34,
+    "score_pct": 26,
+    "competition_score": 0,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Jobs via Dice",
+    "location": "New York, NY",
+    "level": "Entry",
+    "min_exp": null,
+    "max_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4393037617",
+    "date_posted": null,
+    "batch_time": "2026-04-06T01:05:56Z",
+    "score": -999,
+    "score_pct": 0,
+    "competition_score": 0,
+    "site": "linkedin"
+  }
+]
