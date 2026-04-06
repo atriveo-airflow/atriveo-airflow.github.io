@@ -1,28 +1,5 @@
 [
   {
-    "session_id": "2026-03-27T13:15:01Z",
-    "run_at": "2026-03-27T13:15:01.324658+00:00",
-    "pipeline": "h1b2026",
-    "total_jobs": 14,
-    "levels": {
-      "Entry": 8,
-      "Mid": 6
-    },
-    "scores": {
-      "avg": -257.5,
-      "max": 82,
-      "high": 10
-    },
-    "top_companies": [
-      "Google",
-      "Yahoo",
-      "NetApp",
-      "Microsoft",
-      "Klaviyo"
-    ],
-    "snapshot_file": "2026-03-27T13-15-01Z_h1b2026.json"
-  },
-  {
     "session_id": "2026-03-27T13:18:51Z",
     "run_at": "2026-03-27T13:18:51.524895+00:00",
     "pipeline": "keywords",
@@ -15510,5 +15487,24 @@
       "RemoteHunter"
     ],
     "snapshot_file": "2026-04-06T02-28-20Z_keywords.json"
+  },
+  {
+    "session_id": "2026-04-06T03:05:11Z",
+    "run_at": "2026-04-06T03:05:11.140236+00:00",
+    "pipeline": "standard",
+    "total_jobs": 2,
+    "levels": {
+      "Mid": 2
+    },
+    "scores": {
+      "avg": 49.0,
+      "max": 58,
+      "high": 2
+    },
+    "top_companies": [
+      "EasyPost",
+      "Jobs via Dice"
+    ],
+    "snapshot_file": "2026-04-06T03-05-11Z_standard.json"
   }
 ]
