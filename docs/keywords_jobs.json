@@ -11,14 +11,14 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer II - Tester",
-    "company": "Leadership Triangle",
-    "location": "Raleigh, NC",
-    "level": "Mid",
+    "title": "CI/CD Software Engineer",
+    "company": "Piper Companies",
+    "location": "Morrisville, NC",
+    "level": "Entry",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394433111",
+    "job_url": "https://www.linkedin.com/jobs/view/4394449154",
     "date_posted": null,
-    "keyword_score": 36,
+    "keyword_score": 34,
     "site": "linkedin"
   },
   {
@@ -55,36 +55,25 @@
     "site": "linkedin"
   },
   {
-    "title": "Software Engineer (React.js, API)",
-    "company": "Sundayy",
-    "location": "",
+    "title": "Software Engineer",
+    "company": "Eliassen Group",
+    "location": "Prairie du Sac, WI",
     "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4397713666",
+    "min_exp": 4.0,
+    "job_url": "https://www.linkedin.com/jobs/view/4394445202",
     "date_posted": null,
-    "keyword_score": 26,
+    "keyword_score": 24,
     "site": "linkedin"
   },
   {
-    "title": "Embedded Software Engineer",
-    "company": "Insight Global",
-    "location": "Austin, Texas Metropolitan Area",
-    "level": "Entry",
-    "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4394424933",
-    "date_posted": null,
-    "keyword_score": 21,
-    "site": "linkedin"
-  },
-  {
-    "title": "Software Engineer - Remote",
+    "title": "Software Engineer II - Front End",
     "company": "Jobs via Dice",
-    "location": "",
-    "level": "Entry",
+    "location": "Irving, TX",
+    "level": "Mid",
     "min_exp": null,
-    "job_url": "https://www.linkedin.com/jobs/view/4393036697",
+    "job_url": "https://www.linkedin.com/jobs/view/4394447188",
     "date_posted": null,
-    "keyword_score": 20,
+    "keyword_score": 24,
     "site": "linkedin"
   },
   {
@@ -94,6 +83,17 @@
     "level": "Entry",
     "min_exp": null,
     "job_url": "https://www.linkedin.com/jobs/view/4397740869",
+    "date_posted": null,
+    "keyword_score": 18,
+    "site": "linkedin"
+  },
+  {
+    "title": "Software Engineer 1 (Data Integration & ETL/ELT Development)",
+    "company": "Jobs via Dice",
+    "location": "Hopkins, MN",
+    "level": "Entry",
+    "min_exp": null,
+    "job_url": "https://www.linkedin.com/jobs/view/4394435320",
     "date_posted": null,
     "keyword_score": 18,
     "site": "linkedin"
